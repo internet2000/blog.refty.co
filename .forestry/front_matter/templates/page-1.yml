@@ -1,18 +1,16 @@
 ---
-id: page-1
 label: Page 1
-fields:
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: page-1
-    config:
-      required: true
-name: page-1.yml
 hide_body: true
+fields:
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: page-1
+  config:
+    required: true
