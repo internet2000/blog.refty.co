@@ -1,18 +1,26 @@
 ---
+id: home
 label: Home
-hide_body: true
 fields:
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: home
-  config:
-    required: true
-pages:
-- pages/index.md
+  - type: textarea
+    name: title
+    label: Hero Title
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: home
+    config:
+      required: true
+name: home.yml
+hide_body: true
