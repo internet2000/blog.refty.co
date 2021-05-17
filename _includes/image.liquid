@@ -1,0 +1,19 @@
+{% comment %}
+
+Display an image
+
+TODO: make it a responsive image
+
+Input:
+- src, path of the image, relative to site root, e.g. `/assets/image1.png`
+- alt, alt text
+
+Usage:
+
+{% include image src: item.data.image %}
+
+{% endcomment %}
+<img
+  alt="{{ alt }}"
+  src="{{ src }}"
+  />
