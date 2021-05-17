@@ -2,14 +2,6 @@
 id: home
 label: Home
 fields:
-  - type: textarea
-    name: title
-    label: Hero Title
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
   - name: permalink
     type: text
     label: Permalink
