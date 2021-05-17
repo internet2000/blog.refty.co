@@ -1,6 +1,6 @@
 ---
 layout: article
 title: article
-permalink: /article/
+permalink: /article.html
 
 ---
