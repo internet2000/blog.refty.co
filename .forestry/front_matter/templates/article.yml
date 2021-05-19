@@ -1,6 +1,6 @@
 ---
-id: home
-label: Home
+id: article
+label: article
 fields:
   - name: permalink
     type: text
@@ -11,8 +11,8 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: article
     config:
       required: true
-name: home.yml
+name: article.yml
 hide_body: true
