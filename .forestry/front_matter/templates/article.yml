@@ -1,16 +1,26 @@
 ---
+id: article
 label: article
-hide_body: true
 fields:
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: article
-  config:
-    required: true
+  - type: textarea
+    name: content
+    label: Contenu
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: article
+    config:
+      required: true
+name: article.yml
+hide_body: true
