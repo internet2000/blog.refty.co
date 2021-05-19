@@ -20,6 +20,9 @@ module.exports = function(eleventyConfig) {
       hostname: site.url + site.baseurl,
     },
   })
+  const blogTools = require("eleventy-plugin-blog-tools")
+  eleventyConfig.addPlugin(blogTools)
+
   // copy folders
   eleventyConfig.addPassthroughCopy('assets')
   eleventyConfig.addPassthroughCopy('uploads')
