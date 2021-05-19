@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@quasibit/eleventy-plugin-sitemap": "^2.1.4",
-    "@splidejs/splide": "^2.4.10"
+    "@splidejs/splide": "^2.4.10",
+    "eleventy-plugin-blog-tools": "*"
   }
 }
