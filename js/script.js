@@ -2,10 +2,9 @@
 
     window.silex = window.silex || {}
     window.silex.data = {"site":{"width":1440},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-article","displayName":"article","link":{"linkType":"LinkTypePage","href":"#!page-article"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
-/* stop pour prez 1
 /*
  * animation widget from here: https://github.com/silexlabs/Silex/issues/443
- 
+ */
 $(function() {
     if(silex.scale === 1) {
 	var OFFSET = $('.hero-section, [data-prevent-scale-y]').height() * (1 - silex.scale) / 2 // this is because of the hero section which is not resizeable
@@ -87,4 +86,3 @@ $(function() {
 	})
     }
 })
-*/
