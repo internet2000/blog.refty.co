@@ -3,7 +3,7 @@ id: article
 label: article
 fields:
   - type: textarea
-    name: content
+    name: text
     label: Contenu
     default: ''
     config:
