@@ -14,6 +14,10 @@ fields:
     name: author
     label: Auteur
     default: ''
+  - type: text
+    name: time
+    label: Temps de lecture
+    default: ''
   - name: permalink
     type: text
     label: Permalink
