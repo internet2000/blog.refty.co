@@ -22,6 +22,10 @@ fields:
     name: time
     label: Temps de lecture
     default: ''
+  - type: text
+    name: title
+    label: Titre
+    default: ''
   - name: permalink
     type: text
     label: Permalink
