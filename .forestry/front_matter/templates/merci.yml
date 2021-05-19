@@ -1,5 +1,5 @@
 ---
-label: Home
+label: merci
 fields:
   - name: permalink
     type: text
@@ -10,7 +10,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: merci
     config:
       required: true
 hide_body: true
