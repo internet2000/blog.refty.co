@@ -1,4 +1,13 @@
 ---
 label: global settings
 hide_body: true
-fields: []
+fields:
+- name: a-propos
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: A Propos
