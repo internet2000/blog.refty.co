@@ -42,3 +42,5 @@ fields:
   default: article
   config:
     required: true
+pages:
+- content/posts/best-practices-scorecard-softskills.md
