@@ -4,12 +4,14 @@ permalink: "/post3/"
 author: Alex
 time: 3 min
 image: "/uploads/606de85793b85.jpg"
-title: Titre du post 3
+title: 'Webinar: "How to boost your employability thanks to soft-skills"'
 categories:
+- Tous
+- Bonnes Pratiques
 - article
 - test
 meta:
-  author: Alex
+  author: Barthelemy
   time: 20 min
   '': test excerpt
   excerpt: test excerpt
