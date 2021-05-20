@@ -1,43 +1,44 @@
 ---
 label: article
-hide_body: false
 fields:
-- type: list
-  name: categories
-  label: Tags
-  default: ''
-- type: field_group
-  name: meta
-  label: Meta données
-  fields:
-  - type: text
-    name: author
-    label: Auteur
+  - type: list
+    name: categories
+    label: Tags
+    default: ''
+  - type: field_group
+    name: meta
+    label: Meta données
+    fields:
+      - type: text
+        name: author
+        label: Auteur
+        default: ''
+      - type: text
+        name: time
+        label: Temps de lecture
+        default: ''
+      - type: text
+        name: ''
+        label: excerpt
+        default: Description (SEO + Cards)
+  - type: file
+    name: image
+    label: Image
     default: ''
   - type: text
-    name: time
-    label: Temps de lecture
+    name: title
+    label: Titre
     default: ''
-- type: file
-  name: image
-  label: Image
-  default: ''
-- type: text
-  name: title
-  label: Titre
-  default: ''
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: article
-  config:
-    required: true
-pages:
-- content/posts/2019-01-01-post2.md
-- content/posts/post3.md
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: article
+    config:
+      required: true
+hide_body: false
