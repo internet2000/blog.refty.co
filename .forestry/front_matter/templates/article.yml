@@ -25,17 +25,6 @@ fields:
     name: title
     label: Titre
     default: ''
-<<<<<<< HEAD
-=======
-  - type: textarea
-    name: text
-    label: Contenu
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
->>>>>>> 126d764819a60e7c7c5e743e93f48f88e2d2c246
   - name: permalink
     type: text
     label: Permalink
