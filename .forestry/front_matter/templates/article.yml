@@ -1,9 +1,29 @@
 ---
 label: article
 fields:
+  - type: list
+    name: categories
+    label: Tags
+    default: ''
+  - type: field_group
+    name: meta
+    label: Meta données
+    fields:
+      - type: text
+        name: author
+        label: Auteur
+        default: ''
+      - type: text
+        name: time
+        label: Temps de lecture
+        default: ''
   - type: file
     name: image
     label: Image
+    default: ''
+  - type: text
+    name: title
+    label: Titre
     default: ''
   - type: textarea
     name: text
@@ -13,18 +33,6 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: text
-    name: author
-    label: Auteur
-    default: ''
-  - type: text
-    name: time
-    label: Temps de lecture
-    default: ''
-  - type: text
-    name: title
-    label: Titre
-    default: ''
   - name: permalink
     type: text
     label: Permalink
