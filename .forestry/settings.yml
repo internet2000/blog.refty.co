@@ -21,6 +21,10 @@ sections:
   label: Products
   create: documents
   match: "**/*.md"
+- type: document
+  path: _data/global.yaml
+  label: Paramètres
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
