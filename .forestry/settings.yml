@@ -16,11 +16,6 @@ sections:
   match: "**/*.md"
   templates:
   - article
-- type: directory
-  path: content/products
-  label: Products
-  create: documents
-  match: "**/*.md"
 - type: document
   path: _data/global.json
   label: Paramètres
