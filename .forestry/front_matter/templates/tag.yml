@@ -1,18 +1,6 @@
 ---
 label: tag
 fields:
-  - type: field_group
-    name: meta
-    label: Meta données
-    fields:
-      - type: text
-        name: title
-        label: Title (SEO)
-        default: ''
-      - type: text
-        name: excerpt
-        label: Description (SEO)
-        default: ''
   - type: textarea
     name: hero-text
     label: Hero section
@@ -21,6 +9,14 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: text
+    name: title
+    label: Title (SEO)
+    default: ''
+  - type: text
+    name: excerpt
+    label: Description (SEO)
+    default: ''
   - name: permalink
     type: text
     label: Permalink
