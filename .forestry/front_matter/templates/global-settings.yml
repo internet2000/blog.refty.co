@@ -30,5 +30,19 @@ fields:
       required: false
     label: Call To action
   label: Découvrir
+- name: footer
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Text
+  label: Footer
 pages:
 - _data/global.json
