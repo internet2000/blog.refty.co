@@ -13,6 +13,7 @@ meta:
   author: Alex
   time: 20 min
   '': test excerpt
+  excerpt: test excerpt
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sollicitudin porta metus, in scelerisque neque euismod id. Mauris diam risus, molestie vel enim at, semper commodo velit. In maximus pulvinar justo eu volutpat. Praesent condimentum nibh elit. Sed lobortis felis vitae purus semper lobortis. Maecenas interdum ex vel pellentesque ullamcorper. Ut et purus sed velit molestie pretium. Mauris pharetra augue nec purus semper, sit amet sagittis velit consectetur. In efficitur ornare erat, vel porttitor risus vehicula vel.
