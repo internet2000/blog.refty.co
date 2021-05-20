@@ -1,16 +1,36 @@
 ---
 label: tag
-hide_body: true
 fields:
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: tag
-  config:
-    required: true
+  - type: field_group
+    name: meta
+    label: Meta données
+    fields:
+      - type: text
+        name: title
+        label: Title (SEO)
+        default: ''
+      - type: text
+        name: excerpt
+        label: Description (SEO)
+        default: ''
+  - type: textarea
+    name: hero-text
+    label: Hero section
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: tag
+    config:
+      required: true
+hide_body: true
