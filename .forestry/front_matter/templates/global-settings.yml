@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: A Propos
+pages:
+- _data/global.json
