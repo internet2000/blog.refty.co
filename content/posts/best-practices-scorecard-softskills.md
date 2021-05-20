@@ -3,7 +3,8 @@ layout: article
 meta:
   author: Barthélémy
   time: 5mn
-  excerpt: 'Best practices : ScoreCard Softskills'
+  excerpt: It seemed interesting to us to mix the two and to understand how recruiting
+    companies manage the Soft Skills Score Card.
 image: "/uploads/playa4.jpg"
 title: 'Best practices : ScoreCard Softskills'
 categories:
