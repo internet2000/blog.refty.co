@@ -30,3 +30,5 @@ fields:
   default: tag
   config:
     required: true
+pages:
+- content/pages/tags-list.md
