@@ -43,6 +43,15 @@ fields:
       schema:
         format: html-blocks
     label: Text
+  - name: address
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Adresse
   label: Footer
 pages:
 - _data/global.json
