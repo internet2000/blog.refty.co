@@ -1,5 +1,5 @@
 {
-  "layout": "post",
-  "permalink": "/posts/{{page.fileSlug}}/",
+  "layout": "article",
+  "permalink": "/{{page.fileSlug}}/",
   "tags": ["post"]
 }
