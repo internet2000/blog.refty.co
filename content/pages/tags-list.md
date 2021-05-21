@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: tag
 pagination:
   data: collections.categories
   size: 1
@@ -12,4 +12,3 @@ title: 'Le blog dédié aux RH. Tag: {{ pagination.items[0] }}'
 nbarticles: 999999
 
 ---
-tags-list.md
