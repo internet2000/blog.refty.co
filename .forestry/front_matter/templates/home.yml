@@ -17,6 +17,10 @@ fields:
     name: excerpt
     label: Description (SEO)
     default: ''
+  - type: number
+    name: nbarticles
+    label: Nombre d'articles max
+    default: ''
   - name: permalink
     type: text
     label: Permalink
