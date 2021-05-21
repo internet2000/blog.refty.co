@@ -6,9 +6,10 @@ time: 3 min
 image: "/uploads/606de85793b85.jpg"
 title: How to boost your employability thanks to soft-skills
 categories:
+- Tendances
+- Media
 - Tous
 - Bonnes Pratiques
-- article
 meta:
   author: Barthelemy
   time: 20 min
