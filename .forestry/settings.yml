@@ -9,6 +9,10 @@ sections:
   label: Pages
   create: documents
   match: "**/*.md"
+  templates:
+  - tag
+  - '404'
+  - home
 - type: directory
   path: content/posts
   label: Posts
