@@ -41,4 +41,5 @@ fields:
     default: article
     config:
       required: true
+display_field: permalink
 hide_body: false
