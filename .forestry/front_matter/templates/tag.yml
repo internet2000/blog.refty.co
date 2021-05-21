@@ -1,6 +1,7 @@
 ---
 label: tag
 hide_body: true
+display_field: permalink
 fields:
 - type: textarea
   name: hero-text
