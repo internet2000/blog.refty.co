@@ -3,7 +3,6 @@ const Image = require("@11ty/eleventy-img");
 
 // images
 async function imageShortcode(src, alt, ...widths) {
-  console.log('xxx', widths)
   let metadata = await Image(__dirname + src, {
     widths,
     //widths: [600, 1000],
