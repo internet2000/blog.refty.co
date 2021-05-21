@@ -1,7 +1,32 @@
 const site =  require('./_data/site.js')
+const Image = require("@11ty/eleventy-img");
+
+// images
+async function imageShortcode(src, alt, ...widths) {
+  let metadata = await Image(__dirname + src, {
+    widths,
+    //widths: [600, 1000],
+    formats: ["webp", "jpeg"],
+    urlPath: '/uploads/',
+    outputDir: __dirname + '/uploads/'
+  });
+
+  let imageAttributes = {
+    alt,
+    //sizes: `(min-width: ${widths[0]}px)`,
+    sizes: [],
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes);
+}
+// /images
 
 module.exports = function(eleventyConfig) {
-  // filters
+  // shortcodes
+  eleventyConfig.addLiquidShortcode("image", imageShortcode)
 
   // collections
   eleventyConfig.addCollection('categories', function(collectionApi) {
