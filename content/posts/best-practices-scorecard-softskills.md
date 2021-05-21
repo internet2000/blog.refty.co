@@ -9,7 +9,7 @@ image: "/uploads/playa4.jpg"
 title: 'Best practices : ScoreCard Softskills'
 categories:
 - Tous
-- Best Practices
+- Bonnes Pratiques
 permalink: "/score-cards-softskills/"
 
 ---
