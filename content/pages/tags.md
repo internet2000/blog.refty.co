@@ -1,7 +1,9 @@
 ---
 layout: home
 title: Tous les articles
-permalink: /tags/
+permalink: "/tags/"
+hero-text: ''
+excerpt: ''
+nbarticles: 
 
 ---
-

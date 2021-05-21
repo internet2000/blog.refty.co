@@ -37,3 +37,4 @@ fields:
 pages:
 - content/pages/index.md
 - content/pages/tags-list.md
+- content/pages/tags.md
