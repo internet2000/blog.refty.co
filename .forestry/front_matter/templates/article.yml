@@ -1,6 +1,7 @@
 ---
 label: article
 hide_body: false
+display_field: permalink
 fields:
 - type: field_group
   name: meta
