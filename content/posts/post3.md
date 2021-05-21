@@ -1,15 +1,15 @@
 ---
 layout: article
-permalink: "/how-to-boost/"
+permalink: "/post3/"
 author: Alex
 time: 3 min
 image: "/uploads/606de85793b85.jpg"
 title: How to boost your employability thanks to soft-skills
 categories:
-- Tendances
-- Media
 - Tous
 - Bonnes Pratiques
+- article
+- test
 meta:
   author: Barthelemy
   time: 20 min
