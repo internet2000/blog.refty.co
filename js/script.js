@@ -86,3 +86,14 @@ $(function() {
 	})
     }
 })
+
+
+
+/**
+ * mark links to current page as .active
+ */
+$(function() {
+   $('a').each(function() {
+     $(this).toggleClass('active', $(this).attr('href').endsWith(window.location.pathname))
+  });
+})
