@@ -44,3 +44,4 @@ fields:
     required: true
 pages:
 - content/posts/best-practices-scorecard-softskills.md
+- content/posts/why-refty.md
