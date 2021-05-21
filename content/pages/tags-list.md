@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 hero-text: "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
 excerpt: Le blog dédié aux RH. Blog des tendances RH et bonnes pratiques
 title: 'Le blog dédié aux RH. Tag: {{ pagination.items[0] }}'
-nbarticles: 
+nbarticles: 999999
 
 ---
 tags-list.md
