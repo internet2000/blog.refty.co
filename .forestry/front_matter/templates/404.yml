@@ -13,4 +13,5 @@ fields:
     default: '404'
     config:
       required: true
+display_field: permalink
 hide_body: true

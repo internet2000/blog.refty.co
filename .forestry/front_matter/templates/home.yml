@@ -33,4 +33,5 @@ fields:
     default: home
     config:
       required: true
+display_field: permalink
 hide_body: true

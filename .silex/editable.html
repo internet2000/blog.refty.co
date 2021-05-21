@@ -6,97 +6,107 @@
     <!-- leave this for stats and Silex version check -->
     <meta name="generator" content="Silex v2.2.12">
     <!-- End of generator meta tag -->
-    <script type="text/javascript" src="https://design.stastic.net/static/2.11/jquery.js" data-silex-static=""></script>
-    <script type="text/javascript" src="https://design.stastic.net/static/2.11/jquery-ui.js" data-silex-static="" data-silex-remove-publish=""></script>
-    <script type="text/javascript" src="https://design.stastic.net/static/2.11/pageable.js" data-silex-static="" data-silex-remove-publish=""></script>
-    <script type="text/javascript" src="https://design.stastic.net/static/2.11/front-end.js" data-silex-static=""></script>
-    <link rel="stylesheet" href="https://design.stastic.net/static/2.11/normalize.css" data-silex-static="">
-    <link rel="stylesheet" href="https://design.stastic.net/static/2.11/front-end.css" data-silex-static="">
+    <script type="text/javascript" src="http://localhost:6805/static/2.11/jquery.js" data-silex-static=""></script>
+    <script type="text/javascript" src="http://localhost:6805/static/2.11/jquery-ui.js" data-silex-static="" data-silex-remove-publish=""></script>
+    <script type="text/javascript" src="http://localhost:6805/static/2.11/pageable.js" data-silex-static="" data-silex-remove-publish=""></script>
+    <script type="text/javascript" src="http://localhost:6805/static/2.11/front-end.js" data-silex-static=""></script>
+    <link rel="stylesheet" href="http://localhost:6805/static/2.11/normalize.css" data-silex-static="">
+    <link rel="stylesheet" href="http://localhost:6805/static/2.11/front-end.css" data-silex-static="">
 
-    <style type="text/css" class="silex-style">body.body-initial {background-position: 0 150px;}html, body {scroll-behavior: smooth;}.style-cta-button p {border-radius: 10px;}.style-form p {border-radius: 10px;}.hover {opacity: .5;}.hover:hover {opacity: 1;}.hover-button p {background-color: #24584D;}.hover-button p :hover {background-color: #FFA077;}.hover-button1 p {background-color: #FFA077;}.hover-button1 p :hover {background-color: #24584D;}.cover img {object-fit: cover;}.min-height {min-height: 80vh !important;}input.hs-button.primary.large {font-family: ubuntu; color: #ffffff !important; font-weight: bolder; background-color: #24584D; border-radius: 10px; font-size: 14px; padding-left: 40px; padding-right: 40px; padding-top: 15px; padding-bottom: 15px; border: none; margin-left: 18px; margin-top: 20px;}label {color: #8D93A8; font-size: 14px; font-family: montserrat; line-height: 20px;}.hs_error_rollup {position: absolute; margin-top: 100px;}.hs-input {background-color: #ffffff; border-radius: 10px; padding-left: 30px; padding-right: 30px; padding-top: 15px; padding-bottom: 15px; border: 1px solid #E5E5E5; min-width: 460px;}form {display: flex;}hs-error-msg ul, li {list-style: none; padding: 0px;}.text-element.style-card {text-overflow: ellipsis; overflow: hidden; max-height: 62px;}a.active {opacity: 1;}@media only screen and (max-width: 480px) {.hs-input {min-width: 250px; margin-left: 20px;}form {flex-wrap: wrap;}label {margin-left: 20px;}ul.hs-error-msg {padding: 0;}label.hs-error-msg {margin: 0;}}</style>
+    <style type="text/css" class="silex-style">body.body-initial {background-position: 0 150px;}html, body {scroll-behavior: smooth;}.style-cta-button p {border-radius: 10px;}.style-form p {border-radius: 10px;}.hover {opacity: .5;}.hover:hover {opacity: 1;}.hover-button p {background-color: #24584D;}.hover-button p :hover {background-color: #FFA077;}.hover-button1 p {background-color: #FFA077;}.hover-button1 p :hover {background-color: #24584D;}.cover img {object-fit: cover;}.min-height {min-height: 80vh !important;}input.hs-button.primary.large {font-family: ubuntu; color: #ffffff !important; font-weight: bolder; background-color: #24584D; border-radius: 10px; font-size: 14px; padding-left: 40px; padding-right: 40px; padding-top: 15px; padding-bottom: 15px; border: none; margin-left: 18px; margin-top: 20px;}label {color: #8D93A8; font-size: 14px; font-family: montserrat; line-height: 20px;}.hs_error_rollup {position: absolute; margin-top: 100px;}.hs-input {background-color: #ffffff; border-radius: 10px; padding-left: 30px; padding-right: 30px; padding-top: 15px; padding-bottom: 15px; border: 1px solid #E5E5E5; min-width: 460px;}form {display: flex;}hs-error-msg ul, li {list-style: none; padding: 0px;}.text-element.style-card {text-overflow: ellipsis; overflow: hidden; max-height: 62px;}a.active {opacity: 1;}@media only screen and (max-width: 480px) {.hs-input {min-width: 250px; margin-left: 20px;}form {flex-wrap: wrap;}label {margin-left: 20px;}ul.hs-error-msg {padding: 0;}label.hs-error-msg {margin: 0;}}.image-element {overflow: hidden;}</style>
     <script type="text/javascript" class="silex-script">/*
  * animation widget from here: https://github.com/silexlabs/Silex/issues/443
  */
 $(function() {
     if(silex.scale === 1) {
-	var OFFSET = $('.hero-section, [data-prevent-scale-y]').height() * (1 - silex.scale) / 2 // this is because of the hero section which is not resizeable
-	var win = $(window)
-	var size = {
-		h: win.height()
-		// , w: win.width()
-	}
-	var initial = {
-		h: size.h / silex.scale
-		// , w: size.w / silex.scale
-	}
-	var offset = {
-		h: initial.h - size.h + OFFSET
-		// , w: initial.w - size.w
-	}
-	// this function is used to apply an offset to the detection of the active boundaries of the viewport
-	// this is required when the viewport width is smaller than the website (when Silex scales down the website)
-	function getOffset(el) {
-		var position = $(el).position()
-		var localOffset = {
-			h: offset.h + (position.top * (1-silex.scale))
-			// , w: offset.w + (position.left * (1-silex.scale))
-		}
-		return {
-			top: offset.h
-			, bottom: -offset.h
-			// , left: offset.w
-			// , right: -offset.w
-		}
-	}
-	function getDelay(el) {
-		var $el = $(el);
-		if($el.hasClass('delay100')) return 100;
-		if($el.hasClass('delay200')) return 200;
-		if($el.hasClass('delay300')) return 300;
-		if($el.hasClass('delay400')) return 400;
-		if($el.hasClass('delay500')) return 500;
-		if($el.hasClass('delay600')) return 600;
-		if($el.hasClass('delay700')) return 700;
-		if($el.hasClass('delay800')) return 800;
-		if($el.hasClass('delay900')) return 900;
-		if($el.hasClass('delay1000')) return 1000;
-		return 0;
-	}
-	function getDistance(el) {
-		var $el = $(el);
-		if($el.hasClass('distance0')) return '0px';
-		if($el.hasClass('distance100')) return '100px';
-		if($el.hasClass('distance200')) return '200px';
-		if($el.hasClass('distance500')) return '500px';
-		if($el.hasClass('distance1000')) return '1000px';
-		return '100px';
-	}
-	function getScale(el) {
-		var $el = $(el);
-		if($el.hasClass('scale3_4')) return 3/4;
-		if($el.hasClass('scale2_3')) return 2/3;
-		if($el.hasClass('scale1_2')) return 1/2;
-		if($el.hasClass('scale1_3')) return 1/3;
-		if($el.hasClass('scale1_4')) return 1/4;
-		return 1;
-	}
-	var sr = ScrollReveal({
-		distance: '100px'
-		, reset: false
-	});
-	$('.from-left').each(function() {
-		sr.reveal(this, { origin:  'left', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
-	})
-	$('.from-right').each(function() {
-		sr.reveal(this, { origin:  'right', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
-	})
-	$('.from-top').each(function() {
-		sr.reveal(this, { origin:  'top', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
-	})
-	$('.from-bottom').each(function() {
-		sr.reveal(this, { origin:  'bottom', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
-	})
+        var OFFSET = $('.hero-section, [data-prevent-scale-y]').height() * (1 - silex.scale) / 2 // this is because of the hero section which is not resizeable
+        var win = $(window)
+        var size = {
+            h: win.height()
+            // , w: win.width()
+        }
+        var initial = {
+            h: size.h / silex.scale
+            // , w: size.w / silex.scale
+        }
+        var offset = {
+            h: initial.h - size.h + OFFSET
+            // , w: initial.w - size.w
+        }
+        // this function is used to apply an offset to the detection of the active boundaries of the viewport
+        // this is required when the viewport width is smaller than the website (when Silex scales down the website)
+        function getOffset(el) {
+            var position = $(el).position()
+            var localOffset = {
+                h: offset.h + (position.top * (1-silex.scale))
+                // , w: offset.w + (position.left * (1-silex.scale))
+            }
+            return {
+                top: offset.h
+                , bottom: -offset.h
+                // , left: offset.w
+                // , right: -offset.w
+            }
+        }
+        function getDelay(el) {
+            var $el = $(el);
+            if($el.hasClass('delay100')) return 100;
+            if($el.hasClass('delay200')) return 200;
+            if($el.hasClass('delay300')) return 300;
+            if($el.hasClass('delay400')) return 400;
+            if($el.hasClass('delay500')) return 500;
+            if($el.hasClass('delay600')) return 600;
+            if($el.hasClass('delay700')) return 700;
+            if($el.hasClass('delay800')) return 800;
+            if($el.hasClass('delay900')) return 900;
+            if($el.hasClass('delay1000')) return 1000;
+            return 0;
+        }
+        function getDistance(el) {
+            var $el = $(el);
+            if($el.hasClass('distance0')) return '0px';
+            if($el.hasClass('distance100')) return '100px';
+            if($el.hasClass('distance200')) return '200px';
+            if($el.hasClass('distance500')) return '500px';
+            if($el.hasClass('distance1000')) return '1000px';
+            return '100px';
+        }
+        function getScale(el) {
+            var $el = $(el);
+            if($el.hasClass('scale3_4')) return 3/4;
+            if($el.hasClass('scale2_3')) return 2/3;
+            if($el.hasClass('scale1_2')) return 1/2;
+            if($el.hasClass('scale1_3')) return 1/3;
+            if($el.hasClass('scale1_4')) return 1/4;
+            return 1;
+        }
+        var sr = ScrollReveal({
+            distance: '100px'
+            , reset: false
+        });
+        $('.from-left').each(function() {
+            sr.reveal(this, { origin:  'left', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
+        })
+        $('.from-right').each(function() {
+            sr.reveal(this, { origin:  'right', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
+        })
+        $('.from-top').each(function() {
+            sr.reveal(this, { origin:  'top', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
+        })
+        $('.from-bottom').each(function() {
+            sr.reveal(this, { origin:  'bottom', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
+        })
+
     }
+    ////////////////////////////////////////
+    // FIX the height of the website as https://unpkg.com/scrollreveal is messing with it
+    function resize() {
+        console.log(window.innerHeight * silex.scale)
+        $('body').css('max-height', Math.round(window.innerHeight * silex.scale))
+    }
+    $(window).resize(resize)
+    resize()
+    ////////////////////////////////////////
 })
 
 
@@ -105,7 +115,7 @@ $(function() {
  * mark links to current page as .active
  */
 $(function() {
-   $('a').each(function() {
+   $('a[href]').each(function() {
      $(this).toggleClass('active', $(this).attr('href').endsWith(window.location.pathname))
   });
 })</script>
@@ -188,7 +198,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 L' expérience candidat est l'un des éléments les plus importants du hiring porcess. C'est pour cette raison que nous sommes allés à la rencontre de plus 15 RH dentreprises US et FR
 
-</p><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1620312715834-15 style-cta-lire_article" data-silex-id="silex-id-1620312715834-15" style=""><div class="silex-element-content normal"><p>Lire l'article</p><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621243017637-0 page-article paged-element" data-silex-id="silex-id-1621243017637-0"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621243017637-1 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621243017637-1" style=""><div data-silex-type="image-element" class="editable-style image-element silex-id-1621245243751-5 page-article paged-element cover" data-silex-id="silex-id-1621245243751-5" style=""><img src="../assets/image2.jpg"></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621243078832-2 page-article paged-element" data-silex-id="silex-id-1621243078832-2"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621243078834-3 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621243078834-3"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621255675709-3" data-silex-id="silex-id-1621255675709-3" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1621422962295-0 style-recevoir_newsletter-title" data-silex-id="silex-id-1621422962295-0" style=""><div class="silex-element-content normal"><p><a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  <a href="http://fake-link.com" linktype="LinkTypeExternal">&nbsp;Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  <a href="http://fake-link.com" linktype="LinkTypeExternal">&nbsp;Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a></p></div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1621428543239-1" data-silex-id="silex-id-1621428543239-1" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1621423231372-1 style-auteur" data-silex-id="silex-id-1621423231372-1" style=""><div class="silex-element-content normal"><p>Auteur : {{ meta.author }}</p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621428493211-0 style-auteur" data-silex-id="silex-id-1621428493211-0" style=""><div class="silex-element-content normal"><p><b>{{ meta.time }} de lecture</b></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621514757057-1" data-silex-id="silex-id-1621514757057-1" style=""><div class="silex-element-content normal">SEO description - will be removed<br></div></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621430020127-2 page-article paged-element style-article from-bottom delay300" data-silex-id="silex-id-1621430020127-2" style=""><div class="silex-element-content normal"><h1>Comment sélectionner un prestataire adapté à vos besoins ?</h1></div>﻿</div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621245642677-6 page-article paged-element style-article from-bottom delay300" data-silex-id="silex-id-1621245642677-6" style=""><div class="silex-element-content normal"><p>Najoua Chahboune has +8 years of experience in recruitment (Private Driver, Algolia...). She is currently a Senior Technical Recruiter at <a href="https://www.datadoghq.com/lpg/?utm_source=Advertisement&amp;utm_medium=GoogleAdsNon1stTier&amp;utm_campaign=GoogleAdsNon1stTier-BrandCV&amp;utm_content=Brand&amp;utm_keyword=%2Bdatadog&amp;utm_matchtype=b&amp;gclid=CjwKCAjwmv-DBhAMEiwA7xYrd751Uo6UFt7GzVCy0gyIrtzFpJwlHqyXFt_elLMiek0HxIrY9sn2shoCEwYQAvD_BwE">Datadog</a>, a SaaS monitoring and security platform.</p><ul><li><p>How important are soft skills in the recruitment of new employees?</p></li></ul><p>Datadog's goal is to offer complete monitoring by breaking down the silos between devs, ops, and security.</p><p>As our engineering team is distributed (Paris, NY, remote), soft skills play a key role because communication must be fluid and precise.</p><p>The importance is such that we have not always been able to make offers to highly technical profiles because of their soft skills. Bad recruitment can be harmful to one or more teams.</p><p>Of course, these people must be technically competent, since their day-to-day work will consist of doing technical work. However, at Datadog a Software Engineer's job does not stop at pure technique. I</p><p>ndeed, Software Engineers are expected to be able to share their knowledge and expertise with other members of their teams, explain their reasoning when technical choices have to be made but also be able to interact with non-technical people to explain their role and the products they work on.</p><ul><li><p><b>What are the 3 most important soft skills in your opinion?</b></p></li></ul><p>When we recruit new employees, the main soft skills we will be looking for are the following:</p><ul><li><p>Humility</p></li><li><p>Communication</p></li><li><p>Benevolence</p></li><li><p><b>How do you measure the adequacy between your company's culture and the soft skills of the candidates?</b></p></li></ul><p>Several elements allow us to measure the adequacy between our corporate culture and the soft skills of the candidates.</p><p>To begin with, we measure the expectations of the candidates concerning: the position they are looking for, the new team they will be joining, the working environment in which they wish to evolve. With these elements, we already have a first idea of the aspirations of the candidates and this allows us to know if, given our corporate culture, we can offer a work environment that corresponds to their expectations.</p><p>Then during the various interviews that the candidates go through as part of the recruitment process, in addition to testing technical skills, the interviewers are also in charge of evaluating several soft skills during the different stages. The four that represent us the most and that we will be looking for in our employees will be enthusiasm (for what we do at Datadog), humility (both towards our users and our competitors, but also our peers in the company), open-mindedness, and finally precision (in the answers given to the questions asked).</p><p>Finally, a one-hour interview with a Hiring Manager is dedicated to cultural and team fit.</p><ul><li><p><b>How do you evaluate the soft skills of candidates (interviews - role play - personality test)?</b></p></li></ul><p>We're not very adept at personality testing or role-playing at Datadog. Indeed, they are not necessarily representative of the way candidates collaborate daily in a company and it is quite easy to choose the answers to the questions asked according to what will be expected for the position in question.</p><p>We, therefore, evaluate soft skills in two ways: via questions asked during the interviews, but also during the technically oriented interviews, where we propose a live coding exercise and where soft skills such as communication are evaluated.</p><h2>→ <b>Do you take the reference to identify the soft skills of the candidates?</b></h2><p>Taking references is not something that is part of Datadog's recruitment policy. We may do it for particular positions (positions with high responsibilities for example) but it is not systematic.</p><p>The references can be valuable, but if the work context, the contours of the position, the culture of the companies we carry them out with are too different from our context, then they will not be representative.</p><p>For example, if we want to know more about a person's ability to share feedback (positive or negative) but we do this reference check with a company that does not allow for feedback, the feedback will not be relevant.</p><br></div></div></div><div data-silex-type="html-element" class="editable-style html-element silex-id-1621541186119-7" data-silex-id="silex-id-1621541186119-7" style=""><div class="silex-element-content"><a name="newsletter"></a></div></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621256719858-0 page-article paged-element" data-silex-id="silex-id-1621256719858-0"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621256719859-1 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621256719859-1"><div data-silex-type="text-element" class="editable-style text-element silex-id-1621249553091-19 page-article paged-element style-a_propos from-bottom delay300" data-silex-id="silex-id-1621249553091-19" style=""><div class="silex-element-content normal"><h2>À propos de Refty</h2><p>
+</p><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1620312715834-15 style-cta-lire_article" data-silex-id="silex-id-1620312715834-15" style=""><div class="silex-element-content normal"><p>Lire l'article</p><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621243017637-0 page-article paged-element" data-silex-id="silex-id-1621243017637-0" style=""><div data-silex-type="container-element" class="editable-style container-element silex-id-1621243017637-1 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621243017637-1" style=""><div data-silex-type="image-element" class="editable-style image-element silex-id-1621245243751-5 page-article paged-element cover" data-silex-id="silex-id-1621245243751-5" style=""><img src="../assets/image2.jpg"></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621243078832-2 page-article paged-element" data-silex-id="silex-id-1621243078832-2"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621243078834-3 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621243078834-3"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621255675709-3" data-silex-id="silex-id-1621255675709-3" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1621422962295-0 style-recevoir_newsletter-title" data-silex-id="silex-id-1621422962295-0" style=""><div class="silex-element-content normal"><p><a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  <a href="http://fake-link.com" linktype="LinkTypeExternal">&nbsp;Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a>  <a href="http://fake-link.com" linktype="LinkTypeExternal">&nbsp;Tag list</a>  &nbsp;<a href="http://fake-link.com" linktype="LinkTypeExternal">Tag list</a></p></div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1621428543239-1" data-silex-id="silex-id-1621428543239-1" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1621423231372-1 style-auteur" data-silex-id="silex-id-1621423231372-1" style=""><div class="silex-element-content normal"><p>Auteur : {{ meta.author }}</p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621428493211-0 style-auteur" data-silex-id="silex-id-1621428493211-0" style=""><div class="silex-element-content normal"><p><b>{{ meta.time }} de lecture</b></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621514757057-1" data-silex-id="silex-id-1621514757057-1" style=""><div class="silex-element-content normal">SEO description - will be removed<br></div></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621430020127-2 page-article paged-element style-article from-bottom delay300" data-silex-id="silex-id-1621430020127-2" style=""><div class="silex-element-content normal"><h1>Comment sélectionner un prestataire adapté à vos besoins ?</h1></div>﻿</div><div data-silex-type="text-element" class="editable-style text-element silex-id-1621245642677-6 page-article paged-element style-article from-bottom delay300" data-silex-id="silex-id-1621245642677-6" style=""><div class="silex-element-content normal"><p>Najoua Chahboune has +8 years of experience in recruitment (Private Driver, Algolia...). She is currently a Senior Technical Recruiter at <a href="https://www.datadoghq.com/lpg/?utm_source=Advertisement&amp;utm_medium=GoogleAdsNon1stTier&amp;utm_campaign=GoogleAdsNon1stTier-BrandCV&amp;utm_content=Brand&amp;utm_keyword=%2Bdatadog&amp;utm_matchtype=b&amp;gclid=CjwKCAjwmv-DBhAMEiwA7xYrd751Uo6UFt7GzVCy0gyIrtzFpJwlHqyXFt_elLMiek0HxIrY9sn2shoCEwYQAvD_BwE">Datadog</a>, a SaaS monitoring and security platform.</p><ul><li><p>How important are soft skills in the recruitment of new employees?</p></li></ul><p>Datadog's goal is to offer complete monitoring by breaking down the silos between devs, ops, and security.</p><p>As our engineering team is distributed (Paris, NY, remote), soft skills play a key role because communication must be fluid and precise.</p><p>The importance is such that we have not always been able to make offers to highly technical profiles because of their soft skills. Bad recruitment can be harmful to one or more teams.</p><p>Of course, these people must be technically competent, since their day-to-day work will consist of doing technical work. However, at Datadog a Software Engineer's job does not stop at pure technique. I</p><p>ndeed, Software Engineers are expected to be able to share their knowledge and expertise with other members of their teams, explain their reasoning when technical choices have to be made but also be able to interact with non-technical people to explain their role and the products they work on.</p><ul><li><p><b>What are the 3 most important soft skills in your opinion?</b></p></li></ul><p>When we recruit new employees, the main soft skills we will be looking for are the following:</p><ul><li><p>Humility</p></li><li><p>Communication</p></li><li><p>Benevolence</p></li><li><p><b>How do you measure the adequacy between your company's culture and the soft skills of the candidates?</b></p></li></ul><p>Several elements allow us to measure the adequacy between our corporate culture and the soft skills of the candidates.</p><p>To begin with, we measure the expectations of the candidates concerning: the position they are looking for, the new team they will be joining, the working environment in which they wish to evolve. With these elements, we already have a first idea of the aspirations of the candidates and this allows us to know if, given our corporate culture, we can offer a work environment that corresponds to their expectations.</p><p>Then during the various interviews that the candidates go through as part of the recruitment process, in addition to testing technical skills, the interviewers are also in charge of evaluating several soft skills during the different stages. The four that represent us the most and that we will be looking for in our employees will be enthusiasm (for what we do at Datadog), humility (both towards our users and our competitors, but also our peers in the company), open-mindedness, and finally precision (in the answers given to the questions asked).</p><p>Finally, a one-hour interview with a Hiring Manager is dedicated to cultural and team fit.</p><ul><li><p><b>How do you evaluate the soft skills of candidates (interviews - role play - personality test)?</b></p></li></ul><p>We're not very adept at personality testing or role-playing at Datadog. Indeed, they are not necessarily representative of the way candidates collaborate daily in a company and it is quite easy to choose the answers to the questions asked according to what will be expected for the position in question.</p><p>We, therefore, evaluate soft skills in two ways: via questions asked during the interviews, but also during the technically oriented interviews, where we propose a live coding exercise and where soft skills such as communication are evaluated.</p><h2>→ <b>Do you take the reference to identify the soft skills of the candidates?</b></h2><p>Taking references is not something that is part of Datadog's recruitment policy. We may do it for particular positions (positions with high responsibilities for example) but it is not systematic.</p><p>The references can be valuable, but if the work context, the contours of the position, the culture of the companies we carry them out with are too different from our context, then they will not be representative.</p><p>For example, if we want to know more about a person's ability to share feedback (positive or negative) but we do this reference check with a company that does not allow for feedback, the feedback will not be relevant.</p><br></div></div></div><div data-silex-type="html-element" class="editable-style html-element silex-id-1621541186119-7" data-silex-id="silex-id-1621541186119-7" style=""><div class="silex-element-content"><a name="newsletter"></a></div></div></div></div><div data-silex-type="container-element" class="editable-style section-element silex-id-1621256719858-0 page-article paged-element" data-silex-id="silex-id-1621256719858-0"><div data-silex-type="container-element" class="editable-style container-element silex-id-1621256719859-1 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1621256719859-1"><div data-silex-type="text-element" class="editable-style text-element silex-id-1621249553091-19 page-article paged-element style-a_propos from-bottom delay300" data-silex-id="silex-id-1621249553091-19" style=""><div class="silex-element-content normal"><h2>À propos de Refty</h2><p>
 
 Refty des juristes manquent de ressources. Leeway leur permet d'automatiser la gestion des contrats en donnant de l'autonomie aux équipes opérationnelles, pour les aider à mieux contrôler les risques juridiques et financiers.
 
