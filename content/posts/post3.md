@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: "/post3/"
+permalink: "/how-to-boost/"
 author: Alex
 time: 3 min
 image: "/uploads/606de85793b85.jpg"
@@ -9,7 +9,6 @@ categories:
 - Tous
 - Bonnes Pratiques
 - article
-- test
 meta:
   author: Barthelemy
   time: 20 min
