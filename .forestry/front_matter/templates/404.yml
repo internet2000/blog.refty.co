@@ -1,6 +1,10 @@
 ---
 label: '404'
 fields:
+  - type: text
+    name: error
+    label: text error 404
+    default: ''
   - name: permalink
     type: text
     label: Permalink
