@@ -104,6 +104,6 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-     $(this).toggleClass('active', $(this).attr('href').endsWith(window.location.pathname))
+        $(this).toggleClass('active', $(this).attr('href').replace(/ /g, '%20').endsWith(window.location.pathname))
   });
 })
