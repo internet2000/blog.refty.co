@@ -89,6 +89,7 @@ $(function() {
     ////////////////////////////////////////
     // FIX the height of the website as https://unpkg.com/scrollreveal is messing with it
     function resize() {
+        console.log(window.innerHeight * silex.scale)
         $('body').css('max-height', Math.round(window.innerHeight * silex.scale))
     }
     $(window).resize(resize)
@@ -103,6 +104,6 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-        $(this).toggleClass('active', $(this).attr('href').replace(/ /g, '%20').endsWith(window.location.pathname))
+     $(this).toggleClass('active', $(this).attr('href').endsWith(window.location.pathname))
   });
 })
