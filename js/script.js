@@ -84,12 +84,13 @@ $(function() {
         $('.from-bottom').each(function() {
             sr.reveal(this, { origin:  'bottom', scale: getScale(this), delay: getDelay(this), distance: getDistance(this), viewOffset: getOffset(this)});
         })
-
+        $('.from-bottom-children > div > *').each(function(idx) {
+            sr.reveal(this, { origin:  'bottom', scale: getScale(this), delay: Math.min(1000, (idx+2) * 100), distance: getDistance(this), viewOffset: getOffset(this)});
+        })
     }
     ////////////////////////////////////////
     // FIX the height of the website as https://unpkg.com/scrollreveal is messing with it
     function resize() {
-        console.log(window.innerHeight * silex.scale)
         $('body').css('max-height', Math.round(window.innerHeight * silex.scale))
     }
     $(window).resize(resize)
