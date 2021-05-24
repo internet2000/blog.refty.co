@@ -9,7 +9,6 @@ meta:
 image: "/uploads/test.jpg"
 title: Why Refty?
 categories:
-- Media
 - Ressources
 - Tendances
 - Bonnes Pratiques
