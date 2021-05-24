@@ -7,7 +7,7 @@ meta:
     the current period, companies will limit their recruitments. It will be essential
     to recruit only the most competent people for the positions sought.'
 image: "/uploads/test.jpg"
-title: Why Refty?
+title: Why Refty? Titre en deux ou trois lignes, c'est mieux
 categories:
 - Ressources
 - Tendances
