@@ -43,3 +43,5 @@ fields:
   default: article
   config:
     required: true
+pages:
+- content/posts/qu-est-ce-que-l-experience-candidat.md
