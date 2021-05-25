@@ -1,8 +1,8 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
+  author: Sanjay
+  time: "7"
   excerpt: ''
 image: "/uploads/untitled-design.png"
 title: Qu’est-ce que l'expérience candidat ?
