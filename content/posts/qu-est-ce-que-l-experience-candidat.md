@@ -14,7 +14,7 @@ permalink: "/Qu-est-ce-que-experience-candidat/"
 ---
 Avant que l’épidémie ne redéfinisse le mot "masque", nombreuses étaient les entreprises qui se concentraient exclusivement sur **l’expérience client**, que James H. Gilmore et Joseph B. Pine ont théorisé dans les colonnes de la [_Harvard Business Review_](https://hbr.org/1998/07/welcome-to-the-experience-economy) en 1998. Cette dernière, si elle est correctement élaborée et appliquée, confère à l’entreprise un avantage concurrentiel de premier ordre et un engagement sans faille.
 
-Au cours de l’année précédente, [**84%**](https://www.ifop.com/wp-content/uploads/2020/07/CP_YAGGO_EtudeIFOP_15072020.pdf) des candidats se sont dits victimes d’une mauvaise expérience de recrutement. Dorénavant, tous les efforts consentis par les entreprises pour satisfaire et devancer les besoins explicites ou implicites du client **doivent être transposés à la sphère RH notamment au recrutement** dont la pierre angulaire est le talent. 
+Au cours de l’année précédente, [**84%**](https://www.ifop.com/wp-content/uploads/2020/07/CP_YAGGO_EtudeIFOP_15072020.pdf) des candidats se sont dits victimes d’une mauvaise expérience de recrutement. Dorénavant, tous les efforts consentis par les entreprises pour satisfaire et devancer les besoins explicites ou implicites du client **doivent être transposés à la sphère RH notamment au recrutement** dont la pierre angulaire est le talent.
 
 La notion d’**expérience candidat**, n’a véritablement émergé que récemment et s’est accentuée ces derniers mois à la faveur de la crise sanitaire. Aussi, la somme de tous les évènements auxquels va participer le candidat avec son éventuel employeur, tout au long de la durée du recrutement, précède [**l'expérience collaborateur**](https://www.forbes.com/sites/jeannemeister/2020/06/08/employee-experience-is-more-important-than-ever-during-the-covid-19-pandemic/?sh=466ed01934bc)**.**
 
@@ -24,7 +24,7 @@ Le contexte actuel a une influence significative sur l’embauche qui s’appuie
 
 Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration**. L’ampleur du désengagement est croissante à mesure que la communication s'estompe. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
 
-Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. **Attirer, engager, recruter et retenir les top talents** est devenu plus ardu qu’auparavant.
+Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. **Attirer, engager et retenir les top talents** est devenu plus ardu qu’auparavant.
 
 ## Facteur incontournable de l'engagement et de la confiance
 
