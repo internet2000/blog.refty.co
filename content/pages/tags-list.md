@@ -10,5 +10,8 @@ hero-text: "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes 
 excerpt: Le blog dédié aux RH. Blog des tendances RH et bonnes pratiques
 title: 'Le blog dédié aux RH. Tag: {{ pagination.items[0] }}'
 nbarticles: 999999
+global:
+  footer:
+    text: "<p>Texte test</p>"
 
 ---
