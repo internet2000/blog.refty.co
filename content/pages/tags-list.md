@@ -12,7 +12,7 @@ title: 'Le blog dédié aux RH. Tag: {{ pagination.items[0] }}'
 nbarticles: 999999
 global:
   footer:
-    text: "<p>Texte test</p>"
-    address: <p>5 Parvis Alain Turing, 75013 Paris</p><p><a href="" title="">contact@refty.co</a></p>
+    text: "<p></p>"
+    address: "<p></p>"
 
 ---
