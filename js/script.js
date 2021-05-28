@@ -105,19 +105,13 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-        $(this).toggleClass('active', $(this).attr('href').replace(/ /g, '%20').endsWith(window.location.pathname))
-  });
-})
-
-/**
- * mark links to current page as .active
- */
-$(function() {
-   $('a[href]').each(function() {
        if(window.location.pathname === '/') {
             $(this).toggleClass('active', $(this).attr('href') === '/')
        } else {
-           $(this).toggleClass('active', encodeURI($(this).attr('href').replace(/ /g, '%20')).toLowerCase().endsWith(window.location.pathname.toLowerCase()))
+           var pathname = window.location.pathname.toLowerCase()
+           var link = encodeURI($(this).attr('href')).toLowerCase()
+           var active = link.endsWith(pathname)
+           $(this).toggleClass('active', active)
        }
   });
 })
