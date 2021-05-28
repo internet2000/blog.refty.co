@@ -2,15 +2,34 @@
 label: global settings
 hide_body: true
 fields:
+- name: hero
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Title
+  label: Hero section
 - name: a-propos
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: A Propos
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Text
+  label: A propos
 - name: decouvrir
   type: field_group
   config: {}
@@ -53,19 +72,5 @@ fields:
         format: html-blocks
     label: Adresse
   label: Footer
-- name: hero
-  type: field_group
-  config: {}
-  fields:
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Title
-  label: Hero section
 pages:
 - _data/params.json
