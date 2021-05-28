@@ -117,7 +117,7 @@ $(function() {
        if(window.location.pathname === '/') {
             $(this).toggleClass('active', $(this).attr('href') === '/')
        } else {
-           $(this).toggleClass('active', $(this).attr('href').replace(/ /g, '%20').toLowerCase().endsWith(window.location.pathname.toLowerCase()))
+           $(this).toggleClass('active', encodeURI($(this).attr('href').replace(/ /g, '%20')).toLowerCase().endsWith(window.location.pathname.toLowerCase()))
        }
   });
 })
