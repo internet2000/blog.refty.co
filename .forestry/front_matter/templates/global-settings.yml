@@ -53,3 +53,5 @@ fields:
         format: html-blocks
     label: Adresse
   label: Footer
+pages:
+- _data/params.json
