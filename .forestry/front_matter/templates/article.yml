@@ -1,6 +1,7 @@
 ---
 label: article
 fields:
+
   - type: field_group
     name: meta
     label: Meta données
@@ -20,6 +21,7 @@ fields:
   - type: file
     name: image
     label: Image
+
     default: ''
   - type: text
     name: title

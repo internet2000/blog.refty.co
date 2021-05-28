@@ -1,5 +1,6 @@
 ---
 label: tag
+
 fields:
   - type: text
     name: title
@@ -22,4 +23,5 @@ fields:
     config:
       required: true
 display_field: permalink
-hide_body: true
+
+
