@@ -2,14 +2,16 @@
 layout: article
 meta:
   author: Sanjay
-  time: "7"
-  excerpt: ''
+  time: ''
+  excerpt: A éditer
 image: "/uploads/untitled-design.png"
 title: Qu’est-ce que l'expérience candidat ?
 categories:
 - Bonnes pratiques
 - Tendances
 permalink: "/Qu-est-ce-que-experience-candidat/"
+global.footer.text: ''
+global.footer.address: ''
 
 ---
 Avant que l’épidémie ne redéfinisse le mot "masque", nombreuses étaient les entreprises qui se concentraient exclusivement sur **l’expérience client**, que James H. Gilmore et Joseph B. Pine ont théorisé dans les colonnes de la [_Harvard Business Review_](https://hbr.org/1998/07/welcome-to-the-experience-economy) en 1998. Cette dernière, si elle est correctement élaborée et appliquée, confère à l’entreprise un avantage concurrentiel de premier ordre et un engagement sans faille.
@@ -24,7 +26,7 @@ Le contexte actuel a une influence significative sur l’embauche qui s’appuie
 
 Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration**. L’ampleur du désengagement est croissante à mesure que la communication s'estompe. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
 
-Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. **Attirer, engager et retenir les top talents** est devenu plus ardu qu’auparavant.
+#### Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Attirer, engager et retenir les top talents est devenu plus ardu qu’auparavant.
 
 ## Facteur incontournable de l'engagement et de la confiance
 
