@@ -1,30 +1,6 @@
 ---
 label: tag
 fields:
-  - type: textarea
-    name: hero-text
-    label: Hero section
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: global.footer.text
-    label: Text footer left
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: global.footer.address
-    label: Text footer right
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
   - type: text
     name: title
     label: Title (SEO)

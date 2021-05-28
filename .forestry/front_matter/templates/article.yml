@@ -17,22 +17,6 @@ fields:
         name: excerpt
         label: Description (SEO + Cards)
         default: ''
-  - type: textarea
-    name: global.footer.text
-    label: Text footer left
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: global.footer.address
-    label: Text footer right
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
   - type: file
     name: image
     label: Image
