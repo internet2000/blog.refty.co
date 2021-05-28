@@ -1,6 +1,5 @@
 ---
 label: Home
-
 fields:
   - type: text
     name: title
@@ -27,55 +26,4 @@ fields:
     config:
       required: true
 display_field: permalink
-
 hide_body: true
-display_field: permalink
-fields:
-- type: textarea
-  name: hero-text
-  label: Hero section
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: global.footer.text
-  label: Text footer left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: global.footer.address
-  label: Text footer right
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: title
-  label: Title (SEO)
-  default: ''
-- type: text
-  name: excerpt
-  label: Description (SEO)
-  default: ''
-- type: number
-  name: nbarticles
-  label: Nombre d'articles max
-  default: ''
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: home
-  config:
-    required: true
