@@ -1,63 +1,47 @@
 ---
 label: article
-hide_body: false
-display_field: permalink
 fields:
-- type: field_group
-  name: meta
-  label: Meta données
-  fields:
-  - type: text
-    name: author
-    label: Auteur
+
+  - type: field_group
+    name: meta
+    label: Meta données
+    fields:
+      - type: text
+        name: author
+        label: Auteur
+        default: ''
+      - type: text
+        name: time
+        label: Temps de lecture
+        default: ''
+      - type: text
+        name: excerpt
+        label: Description (SEO + Cards)
+        default: ''
+  - type: file
+    name: image
+    label: Image
+
     default: ''
   - type: text
-    name: time
-    label: Temps de lecture
+    name: title
+    label: Titre
     default: ''
-  - type: text
-    name: excerpt
-    label: Description (SEO + Cards)
+  - type: list
+    name: categories
+    label: Tags
     default: ''
-- type: textarea
-  name: global.footer.text
-  label: Text footer left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: global.footer.address
-  label: Text footer right
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: file
-  name: image
-  label: Image
-  default: ''
-- type: text
-  name: title
-  label: Titre
-  default: ''
-- type: list
-  name: categories
-  label: Tags
-  default: ''
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: article
-  config:
-    required: true
-pages:
-- content/posts/qu-est-ce-que-l-experience-candidat.md
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: article
+    config:
+      required: true
+display_field: permalink
+hide_body: false
