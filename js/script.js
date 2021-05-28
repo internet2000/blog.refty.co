@@ -114,10 +114,14 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
+       console.log('1')
        if(window.location.pathname === '/') {
+       console.log('2')
             $(this).toggleClass('active', $(this).attr('href') === '/')
        } else {
+       console.log('3')
            $(this).toggleClass('active', $(this).attr('href').replace(/ /g, '%20').toLowerCase().endsWith(window.location.pathname.toLowerCase()))
        }
   });
+       console.log('4')
 })
