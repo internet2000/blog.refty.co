@@ -21,7 +21,7 @@ sections:
   templates:
   - article
 - type: document
-  path: _data/global.json
+  path: _data/params.json
   label: Paramètres
 upload_dir: uploads
 public_path: "/uploads"
