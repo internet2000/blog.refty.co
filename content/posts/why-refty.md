@@ -6,6 +6,7 @@ meta:
   excerpt: 'A recruitment error is expensive: it is estimated at 45k€ (source: HR-Voice)  In
     the current period, companies will limit their recruitments. It will be essential
     to recruit only the most competent people for the positions sought.'
+  date: test
 image: "/uploads/test.jpg"
 title: Why Refty? Titre en deux ou trois lignes, c'est mieux
 categories:
