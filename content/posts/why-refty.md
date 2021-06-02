@@ -3,9 +3,9 @@ layout: article
 meta:
   author: Barthélémy
   time: 5mn
-  excerpt: Recrutez mieux. Notre solution vous permet de définir le profil de votre
-    candidat idéal et de le croiser avec les retours d'expériences des personnes ayant
-    collaboré avec le.a candidat.e.
+  excerpt: 'Recrutez mieux. Comparez l''écart entre les retours d''expériences des
+    personnes ayant collaboré avec le candidat en situation professionnelle avec les
+    attentes de votre "hiring manager" '
   date: 23/01/2021
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
 title: Pourquoi nous avons créé Refty ?
