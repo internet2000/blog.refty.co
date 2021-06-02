@@ -1,165 +1,193 @@
 ---
 layout: article
-permalink: "/how-to-boost-your-employability/"
+permalink: "/Webinaire-employabilité-soft-skills/"
 author: Alex
 time: 3 min
-image: "/uploads/606de85793b85.jpg"
-title: How to boost your employability thanks to soft-skills
+image: "/uploads/screenshot-at-jun-02-14-32-44.png"
+title: 'Webinaire : "Booster son employabilité grâce aux soft skills"'
 categories:
 - Tendances
 - Média
 - Bonnes Pratiques
 meta:
-  author: Barthelemy
-  time: 20 min
+  author: Barthélémy
+  time: 20mn
   '': test excerpt
-  excerpt: test excerpt
+  excerpt: En quoi ces compétences de plus en plus prisées favorisent l'insertion
+    professionnelle ?
+  date: 19/02/21
 
 ---
-{Retranscription of the Webinar of February 9, 2021 - [Guillaume Piot](https://www.linkedin.com/in/guillaume-piot-75000/) pioneer on the subject of people analytics answered our questions}
+{Retranscription du Webinaire du 9 février 2021 - [Guillaume Piot](https://www.linkedin.com/in/guillaume-piot-75000/) pionnier sur le sujet des people analytics répondait à nos questions}
 
-**"Employability"** is the ability to be recruited.
+_"**L'employabilité**" est la capacité à se faire recruter._
 
-**"Soft-skills"** can be defined as anything that encompasses an individual and that is not seen on a CV, diploma, or Linkedin profile.
+_"**Soft skills**" peut se définir comme tout ce qui englobe un individu et qu'on ne voit pas dans un CV, sur le diplôme ou le profil LinkedIn._
 
-> The soft-skills determine our personality, our motivations, and our preferred behaviors in the professional environment.
+> _Les soft-skills déterminent notre personnalité, nos motivations, nos comportements privilégiés, dans le milieu professionnel._
 
-A person is recruited for what she knows, what she can do, but also and above all for who she is, how he behaves. There is a notion of projection in time to be taken into account, a kind of bet on the future.
+_Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire mais aussi et surtout pour qui elle est, comment elle se comporte. Il y a une notion de projection dans le temps à prendre en compte, une sorte de pari sur l’avenir._
 
-Taking soft skills into account will reduce uncertainty in this risk-taking.
+_La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**_
 
-## 🙋🏻‍♂️The use of soft-skills on the **candidate side**
+## 🙋🏻‍♂️_L'utilisation des soft-skills du **côté candidat**_
 
-* How to identify your soft-skills as an individual?
+* _Comment connaître ses soft-skills en tant qu’individu ?_
 
-In the professional context, it is about determining what each one can do and how he does it.
+_Dans le cadre professionnel, il s'agit de déterminer ce que chacun sait faire et comment il le fait._
 
-There are several ways to find out about your soft-skills:
+_Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :_
 
-* **Introspection: self-reflection**
+* **_Introspection : réflexion sur soi_**
 
 
-* Highlighting one's strengths and areas for improvement: retrospectively determining what was done, what was lacking in a given mission/job to enable me to outperform and, conversely, the conditions that enabled me to achieve the set objectives,
-* Deduce soft-skills by analyzing your behavior in "basic" situations: how to work in a team, how to communicate...etc,
-* Avoid devaluing yourself: stay as honest and objective as possible.
+* _Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,_
+* _Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc,_
+* _Eviter de se dévaloriser : rester le plus honnête et l’objectif possible._
 
-* **Via a Questionnaire:**
 
-These questionnaires work on personality traits or types. Measuring trends or levels, the results should always be analyzed.
+* **_Via un Questionnaire :_**
 
-Some examples of tests: PAPI, MBTI, SOSIE, Assessfirst, Talentoday, PerformanSe...
+_Ces questionnaires travaillent sur des traits ou des types de personnalité. Mesure des tendances ou des niveaux, les résultats devront toujours être analysés._
 
-The science regularly used in these tests is psychometry. A serious test must meet psychometric qualities: stability, reliability, fidelity, validity. Even be recognized by institutions: ITC...
+_Quelques exemples de test : PAPI, MBTI, SOSIE, Assessfirst, Talentoday, PerformanSe…_
 
-* **Via Coaching**
+_La science régulièrement utilisée dans ces tests est la psychométrie. Un test sérieux doit répondre à des qualités psychométriques : stabilité, fiabilité, fidélité, validité. Voire être reconnu par des institutions : ITC..._
 
-There is a cost to hiring a coach, and it is often complicated to use this service in companies. Nevertheless, coaches will often give pertinent analyses on the personality of each person.
+* **_Via du Coaching_**
 
-For students, there are often career counsellors who are increasingly trained in psychometrics. Do not hesitate to ask them for help!
+_S’offrir les services d’un coach comporte un coût, c’est souvent compliqué d'y avoir recours en entreprises. Néanmoins les coachs donneront souvent des analyses pertinentes sur la personnalité de chacun._
 
-* **By using references / feedback from people with whom you have collaborated**
+_Pour les étudiants il y a souvent des conseillers carrières coach qui sont de plus en plus formés à la psychométrie. Ne pas hésiter à les solliciter !_
 
-The art of 360° feedback is good for getting to know each other better!
+* **_En utilisant les feedbacks des personnes avec qui on a collaboré_**
 
-Asking former colleagues, teachers what they think about our behaviours, what we can improve, what they find interesting, what we need to work on.... all this can be interesting feedback. They can have an objective view of our behaviours.
+_L’art du feedback 360° a du bon pour mieux se connaître !_
 
-* How to promote your soft-skills according to a job offer?
+_Demander à ses anciens collègues, professeurs ce qu’ils pensent des nos comportements, de nos points d’améliorations, ce qui leur semble intéressant, ce qu’il faut travailler....tout cela peuvent être des retours intéressants. Ils peuvent avoir une vision objective de nos comportements._
 
-100% of jobs require soft-skills!
+* _Comment mettre en avant ses soft-skills en fonction d'un job proposé ?_
 
-It is important to keep in mind that recruiters who take soft skills into account in their recruitment process - interview or assessment - do so to get the best possible idea of the candidate's development in the position and that they will also analyze your personality, the personality of the team you will be joining as well as the company's culture.
+100% des jobs demandent des soft-skills !
 
-As a candidate, you will have to put forward the skills you are expected to have in full knowledge of the facts!
+_Il ne faut pas perdre de vue que les recruteurs qui prennent en compte les soft-skills dans leur processus de recrutement - entretien ou assessment - le font pour se faire la meilleure idée possible de épanouissement du candidat dans le poste et qu’ils analyseront également votre personnalité à celle de l’équipe dans laquelle vous travaillerez ainsi qu'à la culture de la société._
 
-To get an idea of the expected soft-skills: 
+_En tant que candidat il faudra mettre en avant les compétences en savoir être attendues en connaissance de cause !_
 
-* Read the job offer carefully, it is regularly full of interesting information: team, role...
-* To get in-depth information about the company and the proposed missions: company culture, employee profiles, etc.
-* Ask the recruiter questions about the company, its evolution - projection of the post.
+_Pour se faire une idée des soft-skills attendues :_
 
-The soft-skills are the result of experience and life experience. To highlight them, it is, therefore, necessary to recount work situations in which these soft skills have been a lever for success.
+* _Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle..._
+* _Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc._
+* _Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste._
 
-It is important to keep in mind the personality traits and motivations that will enable you to get the job you are looking for.
+_Les soft-skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft-skills ont été un levier de réussite._
 
-* How to work on your soft-skills?
+_Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché._
 
-Your personality comes from your education, your experience, your encounters.
+* _Comment travailler sur ses soft-skills ?_
 
-A part of your personality is therefore irremovable. But a part can develop and evolve according to external or internal factors.
+_Votre personnalité vient de votre éducation, votre expérience, votre vécu, vos rencontres._
 
-According to various studies, notable changes in personality traits are visible approximately every 4-6 months.
+_Une partie de la personnalité est donc inamovible. Mais une partie peut se développer et évoluer selon des facteurs externes ou internes._
 
-To work and develop your soft skills, you need to be open to yourself an others so that you always have a precise knowledge of yourself.
+_Selon différentes études, les évolutions notables des traits de personnalités sont visibles tous les 4-6 mois environ._
 
-* There is no exact science, no method, no calculation of the human relationship.
-* It is necessary to be interested in people, to be curious, empathetic...
-* Do not hesitate to take a personality questionnaire regularly or to repeat the introspection and feedback exercise, with the help of coaching.
-* Advice to a candidate who would like to integrate the soft-skills in the preparation of an interview or his CV:
+_Pour travailler et développer ses soft-skills, il faut s'ouvrir vers soi et vers les autres pour toujours avoir une connaissance précise de soi._
 
-Contextualize: if this work is not done, it will lack materiality and the allusion to soft-skills will remain declarative. On the other hand, if work situations are evoked that show and demonstrate these qualities, then it will make sense.
+* _Il n'y a pas de science exacte, de méthode, de calcul de la relation humaine._
+* _Il faut s’intéresser aux personnes, être curieux, empathique…_
+* _Ne pas hésiter à repasser un questionnaire de personnalité régulièrement ou à refaire l’exercice d’introspection, de feedback, avec recours à du coaching._
 
-The same applies to motivations. Professional motivations can be varied: remuneration, usefulness, the need to belong to society, etc.
 
-Without having to force yourself, it is necessary to prepare a speech and a story that allows you to identify these motivations!
+* _Conseil à un candidat qui souhaiterait intégrer les soft-skills dans la préparation d’un entretien ou dans son CV:_
 
-Don't hesitate to submit the results of personality tests to your recruiters, HR, or psychologists.
+_Contextualiser : se ce travail n'est pas fait, cela manquera de matérialité et l'allusion aux soft-skills restera sur du déclaratif. En revanche, si des situations de travail sont évoqués qui montrent et démontrent ces qualités, alors cela aura du sens._
 
-> Candidates must be seduced as much as they must seduce the recruiter. There is no subordination recruiter / recruited - it's a match!
+_Il en va de même pour les motivations. Les motivations professionnelles peuvent être variées : rémunération, utilité, besoin d’appartenance sociale etc._
+
+_Sans avoir à se forcer il faut préparer un discours et une histoire qui permet de déceler ces motivations !_
+
+_Ne pas hésiter à soumettre à son entourage de recruteurs, RH, ou psys les résultats des tests de personnalités._
+
+> _Les candidats doivent être séduits autant qu’ils doivent séduire le recruteur. Il n’y a pas de subordination recruteur / recruté - c’est une adéquation - un matching !_
 >
-> The soft-skills will allow them to identify the good and very good ones and allow them to recruit the top profiles.
+> _Les soft-skills vont permettre d’identifier les bons et très bons et leur permettre de recruter les tops profils._
 
-## 🧐 The use of soft-skills on the **recruiting side**
+## 🧐_L'utilisation des soft-skills du côté **recruteur**_
 
-* How to bring out the soft-skills and make the candidate reveal himself?
+* _Comment faire ressortir les soft-skills et faire se révéler le candidat ?_
 
-As a recruiter, soft-skills will help you make decisions, make good choices, and reduce areas of uncertainty and chance.
+_En tant que recruteur, les soft-skills vont aider à prendre des décisions, à faire de bon choix, et à réduire les zones d'incertitudes et de hasard._
 
-It is therefore important to succeed in capturing soft skills in candidates.
+_Il est donc important de réussir à capter les soft-skills chez les candidats. Il existe plusieurs manières pour cela :_
 
-There are several ways to do this:
+* **_Questionner / observer en entretien_**
 
-* **Questioning/observing in interviews**
+_- Questionner sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc..._
 
-\- Ask him about the reactions he has had to specific situations that await him in the company: management, organization... or ask him how he would react if different events occur: crisis, changes, integration of a new employee, etc...
+_- Poser des questions où le candidat devra faire des choix et se positionner. Il orientera son comportement et, de fait, se révélera diplomate, animateur, persévérant, démontrera de la confiance en soi, du respect de la hiérarchie._
 
-\- Ask questions where the candidate will have to make choices and position himself. He or she will guide his or her behavior and will prove to be a diplomat, an animator, a persevering person, showing self-confidence and respect for the hierarchy.
+_- Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra._
 
-\- Measures his stress, his risk aversion, his ability to make decisions, to communicate, and identify the way he will do it.
+* **_Tester_** _  
+  Intégrer un test de personnalité de bon niveau et avec une bonne expérience candidat . Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement._
+* **_Utiliser un système de références / recommandations_**
 
-* **Test**
+_Privilégier une approche innovante pour favoriser l'objectivité basée sur les soft-skills._
 
-Integrate a personality test of good level and with a good candidate experience. Or observe the way the candidate behaves in a group to capture his behaviors & positioning.
+_Ces exercices sont des révélateurs de personnalité qui aideront à mieux projeter le candidat dans l’environnement du poste, de l’équipe et de l’entreprise à court et moyen terme._
 
-* **Use a system of references/recommendations**
+_Cette notion de temporalité est importante car les soft-skills sont des compétences vivantes, évolutives, elles s’inscrivent dans un continuum et peuvent changer avec le temps._
 
-Favor an innovative approach to promote objectivity based on soft-skills.
+_Il faut adapter le processus de recrutement à ces nouveaux besoins de captation et d’exploitation des soft-skills._
 
-These exercises are personality revealing and will help to better project the candidate into the environment of the position, the team, and the company in the short and medium-term.
+> _Les softs-skills recherchées chez un candidat différent selon le poste, le secteur, le niveau, la séniorité… mais aussi en fonction de l’entreprise : culture, maturité, environnement._
 
-This notion of temporality is important because soft skills are living, evolving skills; they are part of a continuum and can change over time.
+* _Comment projeter un candidat auprès d'une équipe grâce aux soft-skills ?_
 
-The recruitment process must be adapted to these new needs for capturing and exploiting soft-skills.
+_Equipe performante = personnalités complémentaires et motivations communes. Il est important pour un recruteur d’établir une projection du degré d’adéquation d’un candidat par rapport à un manager ou à une équipe. Voire même plus globalement dans l’organisation._
 
-> The soft-skills sought in a different candidate according to the position, sector, level, seniority... but also according to the company: culture, maturity, environment.
+_Concrètement, il faudrait :_
 
-* How to project a candidate into a team thanks to soft-skills?
+* _Imaginer une d’immersion durant le processus de recrutement,_
+* _Mapper les compétences de la future équipe et les comparer les soft-skills du candidat,_
+* _Comparer les réalisations pour mesurer une adéquation._
 
-High-performing team = complementary personalities and common motivations. A recruiter needs to establish a projection of the degree of suitability of a candidate concerning a manager or a team. Or even more globally in the organization.
+_Il sera ainsi plus simple au recruteur de recommander des candidats à des managers._
 
-Concretely, it would be necessary to :
+* _Quelle exploitation des Soft-skills pour l’onboarding et le développement du candidat dans l’entreprise ?_
 
-* Imagine an immersion during the recruitment process,
-* Map the skills of the future team and compare them with the candidate's soft-skills,
-* Compare achievements to measure adequacy.
+_Il faut prendre en considération les soft-skills lors du recrutement et les cultiver tout au long d’une carrière. La différence avec les hard-skills se fait principelement à ce niveau._
 
-This will make it easier for the recruiter to recommend candidates to managers.
+_L’analyse des soft-skills fournit des informations uniques pour intégrer harmonieusement les nouveaux employés dans les équipes et faciliter les plans de développement des collaborateurs : parcours de carrière, mobilité interne, formations._
 
-* How can Soft-skills be used for onboarding and candidate development in the company?
+> _La prise en compte des soft-skills doit s’inscrire dans une démarche globale de compétences. Elle vient compléter l’analyse plus classique des savoir-faire._
 
-Soft-skills must be taken into consideration during the recruitment and cultivated throughout a career. The difference with hard-skills is mainly at this level.
+_L'analyse des soft-skills fait partie du nouveau paradigme, d’une culture RH innovante et évolutive._
 
-Soft-skills analysis provides unique information to harmoniously integrate new employees into teams and facilitate employee development plans: career path, internal mobility, training.
+_Mais attention, pour que cela soit vertueux, il convient de :_
 
-> Soft-skills must be taken into account as part of a global skills approach. It complements the more traditional analysis of know-how.
+* _Mesurer ces soft-skills régulièrement pour analyser l'évolution et ajuster le plan d’actions,_
+* _Intégrer l’ensemble des collaborateurs,_
+* _Avoir une finalité de développement sur l'humain / l'organisation._
 
-Soft-skills analysis is part of the new paradigm, of an innovative and evolving HR culture.
+> _Sans réinventer la gestion des ressources humaines, on la dynamise avec de nouvelles perspectives issues des soft-skills._
+
+* _Quels conseils donner à un recruteur qui souhaite intégrer les soft-skills dans son processus de recrutement ?_
+
+_Avec les soft-skills le recruteur a une matière incroyablement riche pour le recrutement !_
+
+_Concrètement, il peut ajouter à son processus de recrutement un volet soft-skills assez facilement : durant l’entretien, via une étape d’assessment, un système d’immersion pré embauche, ou la remontée de références._
+
+_L’idée est d’avoir une vraie finalité dans cette démarche, en impliquant toutes les parties prenantes du recrutement : RH, métier, Management, team. Ce cross checking permettra une concordance des avis. Mais il faudra être prudent à ne pas complexifier le processus et le faire durer. D’où l'idée d’avoir une organisation simple, et d'utiliser des outils pour faciliter le workflow._
+
+_Il ne faut pas oublier de faire une synthèse candidat avec les éléments clés de sa personnalité et ses motivations qui seront des atouts pour sa réussite dans le poste._
+
+## **🚀**_Conclusion, pour booster son employabilité grâce aux soft-skills_
+
+1. Il faut :
+
+   Savoir définir ses forces, ses motivations, ses comportements. Bien se connaître en ayant bien défini ses soft-skills ce qui augmentera la capacité à se faire recruter.
+
+Les bénéfices :   
+Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le recruteur le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut ! _🔥_
