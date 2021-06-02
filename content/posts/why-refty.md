@@ -7,7 +7,7 @@ meta:
     candidat idéal et de le croiser avec les retours d'expériences des personnes ayant
     collaboré avec le.a candidat.e.
   date: 23/01/2021
-image: "/uploads/screenshot-at-jun-02-11-39-07.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
 title: Pourquoi nous avons créé Refty ?
 categories:
 - Ressources
