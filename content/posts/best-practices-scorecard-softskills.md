@@ -3,13 +3,13 @@ layout: article
 meta:
   author: Barthélémy
   time: 5mn
-  excerpt: It seemed interesting to us to mix the two and to understand how recruiting
-    companies manage the Soft Skills Score Card.
-image: "/uploads/playa4.jpg"
+  excerpt: La prise en considération et l'onboarding de ces deux notions représentent
+    un avantage concurrentiel de premier ordre.
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-1.png"
 title: 'Bonnes pratiques : Scorecard & Soft skills'
 categories:
 - Bonnes Pratiques
-permalink: "/Bonnes-pratiques-Scorecard-&-Soft-skills/"
+permalink: "/Bonnes-pratiques-scorecard-&-soft-skills/"
 
 ---
 Les soft skills, tout le monde en parle, la Scorecard job, beaucoup de personnes en parlent.
