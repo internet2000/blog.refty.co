@@ -6,11 +6,11 @@ meta:
   date: 13/03/21
   excerpt: 'Cette scale-up française est présente dans 190 pays et a réalisé plus
     de 20 millions d''euros de chiffres d''affaires en 2018 '
-image: "/uploads/logo-prestashop-png-9.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-3.png"
 title: Comment PrestaShop a structuré son process de recrutement via Refty
 categories:
 - Bonnes pratiques
-permalink: "/Comment-PrestaShop-a-structre-son-processus-de-recrutement/"
+permalink: "/Comment-PrestaShop-a-structure-son-processus-de-recrutement/"
 
 ---
 ###### A propos de PrestaShop
