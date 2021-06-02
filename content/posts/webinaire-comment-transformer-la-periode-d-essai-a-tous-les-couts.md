@@ -40,7 +40,7 @@ Mais chez PrestaShop nous ne tenons pas pour acquis le processus dont je viens d
 
 #### **Sur les profils à tension (style développeur) y a t'il des dispositions particulières à prendre pour faciliter leur période d'essai ?**
 
-* Afin de se prémunir contre la fuite de talents, il est nécessaire selon moi de s’assurer qu'ils ne sont pas frustrés dès le départ. Une transparence en matière de salaires, possibilité de remote etc… est requise. **La transparence est la clé de voûte de l’onboarding**. Et elle se cultive tout au long de la carrière du collaborateur. Chez PrestaShop, nous nous efforçons de stimuler le collaborateur pour qu’il s’épanouisse et se développe. La mise en place de challenges, d’opportunités relatives à la mobilité, ou à la montée en compétences (prodiguées par des Chapter leads) peuvent être de bons moyens pour dépressuriser la pression dont vous parliez.
+Afin de se prémunir contre la fuite de talents, il est nécessaire selon moi de s’assurer qu'ils ne sont pas frustrés dès le départ. Une transparence en matière de salaires, possibilité de remote etc… est requise. **La transparence est la clé de voûte de l’onboarding**. Et elle se cultive tout au long de la carrière du collaborateur. Chez PrestaShop, nous nous efforçons de stimuler le collaborateur pour qu’il s’épanouisse et se développe. La mise en place de challenges, d’opportunités relatives à la mobilité, ou à la montée en compétences (prodiguées par des Chapter leads) peuvent être de bons moyens pour dépressuriser la pression dont vous parliez.
 
 #### **Des conseils - tips pour rendre le nouveau collaborateur promoteur de l'entreprise une fois sa période d'essai terminée ?**
 
