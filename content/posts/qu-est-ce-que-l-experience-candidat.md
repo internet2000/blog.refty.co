@@ -2,8 +2,10 @@
 layout: article
 meta:
   author: Sanjay
-  time: ''
-  excerpt: A éditer
+  time: 8min
+  excerpt: Face à la reprise d'activité qui se profile, cette notion est de plus en
+    plus en vogue.
+  date: 07/04/21
 image: "/uploads/untitled-design.png"
 title: Qu’est-ce que l'expérience candidat ?
 categories:
@@ -24,9 +26,9 @@ Le contexte actuel a une influence significative sur l’embauche qui s’appuie
 
 ## ATS & Job boards : une relation (souvent) déséquilibrée
 
-Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration**. L’ampleur du désengagement est croissante à mesure que la communication s'estompe. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
+Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration et d'incomplétude**. L’ampleur du désengagement est croissante à mesure que la communication s'estompe. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
 
-#### Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Attirer, engager et retenir les top talents est devenu plus ardu qu’auparavant.
+Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Attirer, engager et retenir les top talents est devenu plus ardu qu’auparavant.
 
 ## Facteur incontournable de l'engagement et de la confiance
 
@@ -49,23 +51,29 @@ Ajoutez à cette myriade de chiffres, les [46% de nouveaux employés qui sont pe
 
 Cette problématique est d’autant plus importante pour [certains Millennials](https://www.michaelpage.fr/advice/tendances-de-march%C3%A9/s%C3%A9duire-recruter-et-fid%C3%A9liser-les-millennials-un-enjeu-majeur-pour-les) dont les aspirations sont davantage tournées vers la vie de bohème que la vie de bureau, faute de trouver un environnement de travail épanouissant.
 
-## Réformer l’expérience du talent
+## Réformer l’expérience du candidat
 
-Il est nécessaire de refondre, le parcours du talent tout au long des étapes du processus d’embauche, afin de mieux sélectionner, évaluer et par extension recruter et engager le.a candidat.e tant convoité.e par les recruteurs. A cet enjeu, s'additionne la nécessité de **décharger les recruteurs des tâches rébarbatives** qui minent leur productivité afin qu’ils se consacrent totalement à la dimension humaine qui caractérise leur vocation. **Comment valoriser l'expérience candidat tout en recrutant le bon talent ?**
+Il est nécessaire de refondre, le parcours du talent tout au long des étapes du processus d’embauche, afin de mieux attirer et retenir (et par extension recruter et engager) le.a candidat.e tant convoité.e par les recruteurs. A cet enjeu, s'additionne la nécessité de **décharger les recruteurs des tâches rébarbatives** qui minent leur productivité afin qu’ils se consacrent totalement à la dimension humaine qui caractérise leur vocation. **Comment valoriser l'expérience candidat tout en recrutant le bon talent ?**
 
 Il existe différents leviers pour répondre à cette question. Pour alléger votre lecture, nous nous focaliserons sur quatre éléments fondamentaux.
 
-**L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent est un judicieux moyen de visualiser ses compétences techniques et comportementales. En vue de les comparer à votre vivier de talents et à votre culture d'entreprise.
+* **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils tels que Refty vous permettent : 
 
-**L'homogénéité du processus**. L'évaluation standardisée permet d'uniformiser et d'objectiver le processus. C'est un moyen de s'affranchir des biais cognitifs et de réduire les angles morts.
+> de **croiser ces données** avec **les attentes du Hiring Manager**,
+>
+> de **tenir informé en temps réel**, le candidat de l'avancée du processus.
+>
+> de **facilitez son onboarding** grâce à des données exploitables
 
-**Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de l'exploiter. L'exploitation de la donnée permet de mieux comprendre et qualifier le profil du candidat et d'affiner la prise de décision des recruteurs et Hiring Managers.
+* **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de réduire les angles morts.
+* **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et Hiring Managers.
 
-**La** **suppression des points de friction et d’affliction.** Une solution ergonomique et clé en main pour chacune des parties prenantes, colmate les brèches inhérentes au processus classique. Ainsi, l’entreprise se prémunit de tout malentendu ou désistement éventuel durant la période de latence entre la dernière étape du recrutement et la tant attendue décision finale. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
+
+* **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout malentendu ou désistement éventuel. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
 ## L'expérience candidat à portée de clic
 
-Refty résout les problématiques initialement traitées en intervenant sur ces quatre leviers. S’assurer que les candidats à haut potentiel aient le poste qui leur convient et s’assurer que l’entreprise distingue un top talent d’un candidat, ce sont là les missions que nous nous sommes fixées.
+Refty **résout les problématiques** initialement traitées en intervenant sur ces quatre leviers. S’assurer que les candidats à haut potentiel aient une **expérience positive** tout en ayant le poste qui leur convient et s’assurer que l’entreprise distingue un top talent d’un futur collaborateur, ce sont là les missions que nous nous sommes fixées.
 
 Le rapport synthétique - point d'orgue de notre solution - découle de la prise de références et dresse une roadmap du candidat. Cette nouvelle ressource pourra être actionnée par les responsables RH et les Hiring Managers lors de l’une des phases les plus importantes du processus : l’onboarding.
 
