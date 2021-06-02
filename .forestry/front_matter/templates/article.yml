@@ -48,6 +48,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/comment-prestashop-a-structure-son-process-de-recrutement-via-refty.md
 - content/posts/l-intuition-un-indicateur-fiable-en-entretien.md
 - content/posts/qu-est-ce-que-l-experience-candidat.md
 - content/posts/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-couts.md
