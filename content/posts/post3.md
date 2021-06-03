@@ -3,7 +3,7 @@ layout: article
 permalink: "/Webinaire-employabilité-soft-skills/"
 author: Alex
 time: 3 min
-image: "/uploads/screenshot-at-jun-02-14-32-44.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
 title: 'Webinaire : "Booster son employabilité grâce aux soft skills"'
 categories:
 - Tendances
@@ -30,7 +30,7 @@ Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire m
 
 La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
 
-## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
+# 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
 
 * Comment connaître ses soft-skills en tant qu’individu ?
 
@@ -65,7 +65,7 @@ L’art du feedback 360° a du bon pour mieux se connaître !
 
 Demander à ses anciens collègues, professeurs ce qu’ils pensent des nos comportements, de nos points d’améliorations, ce qui leur semble intéressant, ce qu’il faut travailler....tout cela peuvent être des retours intéressants. Ils peuvent avoir une vision objective de nos comportements.
 
-### Comment mettre en avant ses soft skills en fonction d'un job proposé ?
+## Comment mettre en avant ses soft skills en fonction d'un job proposé ?
 
 100% des jobs demandent des soft skills !
 
@@ -83,7 +83,7 @@ Les soft skills sont issus des expériences et du vécu. Pour les mettre en avan
 
 Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché.
 
-### Comment travailler sur ses soft skills ?
+## Comment travailler sur ses soft skills ?
 
 Votre personnalité vient de votre éducation, votre expérience, votre vécu, vos rencontres.
 
@@ -97,7 +97,7 @@ Pour travailler et développer ses soft skills, il faut s'ouvrir vers soi et ver
 * Il faut s’intéresser aux personnes, être curieux, empathique…
 * Ne pas hésiter à repasser un questionnaire de personnalité régulièrement ou à refaire l’exercice d’introspection, de feedback, avec recours à du coaching.
 
-### Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
+## Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
 
 Contextualiser : se ce travail n'est pas fait, cela manquera de matérialité et l'allusion aux soft skills restera sur du déclaratif. En revanche, si des situations de travail sont évoqués qui montrent et démontrent ces qualités, alors cela aura du sens.
 
@@ -111,7 +111,7 @@ Ne pas hésiter à soumettre à son entourage de recruteurs, RH, ou psys les ré
 >
 > Les soft skills vont permettre d’identifier les bons et très bons et leur permettre de recruter les tops profils.
 
-## 🧐 L'utilisation des soft skills du côté recruteur
+# 🧐 L'utilisation des soft skills du côté recruteur
 
 * Comment faire ressortir les soft skills et faire se révéler le candidat ?
 
