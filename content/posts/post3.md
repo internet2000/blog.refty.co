@@ -74,11 +74,13 @@ En tant que candidat il faudra mettre en avant les compétences en savoir être 
 
 Pour se faire une idée des soft skills attendues :
 
-1. Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle...
-2. Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
-3. Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
+Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle...
 
-Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
+• Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
+
+* Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
+
+**⁃** Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
 
 Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché.
 
@@ -126,7 +128,7 @@ Il est donc important de réussir à capter les soft skills chez les candidats. 
 
 \- Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
 
-### **Tester** 
+### **Tester**
 
 Intégrer un test de personnalité de bon niveau et avec une bonne expérience candidat . Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement.
 
