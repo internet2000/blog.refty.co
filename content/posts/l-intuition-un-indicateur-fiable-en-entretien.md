@@ -9,7 +9,6 @@ meta:
 image: "/uploads/magritte_la_trahison_des_images_1928-1-1.jpg"
 title: 'L’intuition : un indicateur fiable en entretien ?'
 categories:
-- Tendances
 - Bonnes pratiques
 permalink: "/l-intuition-un-indicateur-fiable-en-entretien/"
 
