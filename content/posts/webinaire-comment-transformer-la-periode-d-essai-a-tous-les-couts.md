@@ -8,7 +8,6 @@ meta:
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-5.png"
 title: " Webinaire : Comment transformer la période d’essai à tous les coûts ? "
 categories:
-- Média
 - Bonnes pratiques
 permalink: "/Webinaire-comment-transformer-la-période-d-essai-a-tous-les-couts/"
 
