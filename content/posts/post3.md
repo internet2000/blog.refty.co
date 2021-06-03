@@ -26,11 +26,11 @@ meta:
 
 Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire mais aussi et surtout pour qui elle est, comment elle se comporte. Il y a une notion de projection dans le temps à prendre en compte, une sorte de pari sur l’avenir.
 
-## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
-
 La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
 
-### **Comment connaître ses soft-skills en tant qu’individu ?**
+## 🙋🏻‍♂️ **L'utilisation des soft skills du côté candidat** 
+
+### Comment connaître ses soft skills en tant qu'individu ?
 
 Dans le cadre professionnel, il s'agit de déterminer ce que chacun sait faire et comment il le fait.
 
@@ -64,7 +64,7 @@ L’art du feedback 360° a du bon pour mieux se connaître !
 
 Demander à ses anciens collègues, professeurs ce qu’ils pensent des nos comportements, de nos points d’améliorations, ce qui leur semble intéressant, ce qu’il faut travailler....tout cela peuvent être des retours intéressants. Ils peuvent avoir une vision objective de nos comportements.
 
-## Comment mettre en avant ses soft skills en fonction d'un job proposé ?
+### Comment mettre en avant ses soft skills en fonction d'un job proposé ?
 
 100% des jobs demandent des soft skills !
 
@@ -84,7 +84,7 @@ Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intér
 
 Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché.
 
-## Comment travailler sur ses soft skills ?
+### Comment travailler sur ses soft skills ?
 
 Votre personnalité vient de votre éducation, votre expérience, votre vécu, vos rencontres.
 
@@ -116,7 +116,7 @@ Ne pas hésiter à soumettre à son entourage de recruteurs, RH, ou psys les ré
 
 ## 🧐 L'utilisation des soft skills du côté recruteur
 
-### **Comment faire ressortir les soft skills et faire se révéler le candidat ?**
+### Comment faire ressortir les soft skills et faire se révéler le candidat ?
 
 En tant que recruteur, les soft skills vont aider à prendre des décisions, à faire de bon choix, et à réduire les zones d'incertitudes et de hasard.
 
@@ -160,7 +160,7 @@ Concrètement, il faudrait :
 
 Il sera ainsi plus simple au recruteur de recommander des candidats à des managers.
 
-### Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
+## Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
 
 Il faut prendre en considération les soft skills lors du recrutement et les cultiver tout au long d’une carrière. La différence avec les hard-skills se fait principalement à ce niveau.
 
@@ -180,7 +180,7 @@ Mais attention, pour que cela soit vertueux, il convient de :
 
 > Sans réinventer la gestion des ressources humaines, on la dynamise avec de nouvelles perspectives issues des soft skills.
 
-### Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
+## Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
 
 Avec les soft skills le recruteur a une matière incroyablement riche pour le recrutement !
 
@@ -190,7 +190,7 @@ L’idée est d’avoir une vraie finalité dans cette démarche, en impliquant 
 
 Il ne faut pas oublier de faire une synthèse candidat avec les éléments clés de sa personnalité et ses motivations qui seront des atouts pour sa réussite dans le poste.
 
-## 🚀Conclusion, pour booster son employabilité grâce aux soft skills
+### 🚀Conclusion, pour booster son employabilité grâce aux soft skills
 
 Il faut :
 
