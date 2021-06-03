@@ -35,61 +35,61 @@ Pour que cette intuition soit bonne, il faudrait idéalement qu’elle soit **li
 
 Bien que nous aspirons tous à une acuité visuelle à 360°, celle-ci peut très vite être entachée par de nombreux biais, que nous vous invitons à contourner. Pour vous affranchir de toute heuristique intrusive et dégager une **vision claire, équilibrée et mesurée** du candidat, voici une liste (non exhaustive) des principaux biais psychologiques, affectant l’intuition :
 
-## **L’effet de Halo**
+### **L’effet de Halo**
 
 Aussi appelé effet de “Horn”, le Halo se matérialise par une **opinion initialement formulée** sur le **comportement, les aptitudes d’un individu**, qui **influencera** sur le plus long terme la **perception** objective qu’on pourrait se faire de lui. Par raccourci, on pourrait résumer cet effet au **conditionnement** du jugement dès la **première impression**.
 
 **Exemple :** _Si le candidat arrive en retard à son premier entretien par visioconférence, le recruteur sera influencé à envisager que ce retard se reproduira, lorsqu’il sera présent en entreprise._
 
-## **Le biais d’ancrage**
+### **Le biais d’ancrage**
 
 En général, ce biais s’appuie sur les **premiers éléments d’information** collectés à propos d’une personne, d’un objet, d’une situation. Ces informations **interféreront sur le jugement** de leur investigateur, qui établira des **réponses préétablies** par **automatisme cérébral**, en lien avec l’ancrage intériorisé sous la forme d’une idée, d’un chiffre, d’un nom, etc.
 
 **Exemple :** _Des prétentions salariales très en dessous des normes du marché retiendront l’attention du recruteur, qui intériorisera les premiers signaux d’un manque d’expérience ou d’insuffisances professionnelles, là où il n’y en a pas nécessairement._
 
-## **Le biais de croyance**
+### **Le biais de croyance**
 
 Très sentimentaliste, ce biais encourage des **erreurs de logique** pour alimenter des **conclusions en accord avec les croyances** de l’individu. Ce dernier sera influencé dans son processus de décision par des éléments ou **hypothèses qu’il se confortera d’envisager**, en dépit d’**évidences**, **d'indices rationnels** imposés par les faits.
 
 **Exemple** : _Le recruteur a établi des postulats sur l’excellent cursus suivi par le candidat et prend pour acquises des compétences professionnelles, qui ne se vérifieront pas forcément lors de son entretien._
 
-## **Le biais de confirmation**
+### **Le biais de confirmation**
 
 Ce premier dérivatif, particulièrement répandu, consiste à ne prendre en compte ou ne rechercher que des **éléments propres à confirmer sa perception/réflexion individuelle**, quitte à **ignorer** ou **discréditer** ceux qui viendraient les contredire.
 
 **Exemple** : _Un recruteur idéalise un candidat à un poste Sales et remarque principalement ses facultés d’interaction, techniques de négociation en occultant son potentiel manque de rigueur ou de compétences opérationnelles_.
 
-## **Le biais de cadrage**
+### **Le biais de cadrage**
 
 Cette dissonance varie selon la **manière dont les éléments seront présentés** à leur destinataire. En fonction de l’angle choisi par son interlocuteur pour présenter une information, ce dernier sera **conditionné** a posteriori **dans son raisonnement**, influencé par le cadrage (consciemment ou non) intériorisé.
 
 **Exemple :** _La décision de recruter ou non un candidat pourra être influencée par sa façon de reporter une expérience antérieure via son taux de succès, là où le taux d’échec aboutira à la même information, mais n’induira pas un cadrage favorable pour l’employeur._
 
-## **Le biais de représentativité**
+### **Le biais de représentativité**
 
 Souvent associé à un **souvenir** ou une **expérience personnelle**, le biais de représentativité est un **raccourci effectué par le cerveau** pour formuler un jugement en s’appuyant sur des **connaissances ou expériences partiales**, sans certitude ou représentativité absolue.
 
 **Exemple :** _Un candidat ayant fait les mêmes études qu’un proche du recruteur et qui sera réputé disposer d’une attitude ou de compétences approximativement similaires à ce dernier._
 
-## **L’erreur fondamentale d’attribution**
+### **L’erreur fondamentale d’attribution**
 
 Souvent liée à un phénomène de sur-interprétation, l’erreur fondamentale d’attribution aura pour effet d’**atténuer des preuves conjoncturelles**, par la **valorisation excessive d’éléments personnels** (_l’expérience, la personnalité_), pour expliquer une situation, un comportement individuel.
 
 **Exemple :** _Le candidat démontre un manque d’assurance évident en négociation commerciale lors de l’entretien, que l’employeur assimilera au stress causé par la difficulté de l’exercice (comme c’est souvent le cas) et qui se reconduira par la suite._
 
-## **Le biais de négativité**
+### **Le biais de négativité**
 
 Ce biais **n’altère pas directement la véracité des faits**, mais plutôt la **place** que ces derniers devraient occuper **dans un raisonnement**. La personne biaisée par la négation aura alors davantage tendance à **donner du crédit** et **mémoriser** des **expériences négatives**, plutôt que les éléments positifs.
 
 **Exemple** : _Le recruteur accordera plus d’importance à une courte période d’inactivité du candidat plutôt qu’aux changements / avantages significatifs acquis lors de cette période (reconversion, spécialisation, etc)._
 
-## **Le biais de faux consensus**
+### **Le biais de faux consensus**
 
 Ce biais aura tendance à prospérer au sein de relations hiérarchiques, groupes d’individus. Souvent rapproché du biais de confirmation, le faux consensus repose sur le fait de **considérer** comme **acquise à sa cause** une opinion, **plus qu’elle ne l’est réellement**.
 
 **Exemple :** _en entretien, le candidat laisse deviner qu’il est en parfait alignement avec les décisions stratégiques de l’employeur plus que de raison, car il ne souhaite pas installer le risque d’un climat conflictuel lors d’un processus de recrutement._
 
-## **L’effet de simple exposition**
+### **L’effet de simple exposition**
 
 Propice au développement d’un certain favoritisme inconscient, l’effet de simple exposition **augmente proportionnellement la pensée positive** d’une personne envers une autre, à mesure qu’elle **s'accommode de façon répétée à sa présence**.
 
@@ -111,24 +111,29 @@ Pour combler la fameuse "**boîte noire**” dans la **perception** de l’emplo
 
 Pour parer et contrecarrer l’ingérance des biais inconscients et de leurs effets secondaires, telle que la discrimination ou l’excès de confiance, la référence semble s’imposer comme un levier rapidement actionnable :
 
-## **Par la data, support d’une décision objective pour Refty**
+### **Par la data, support d’une décision objective pour Refty**
 
-Refty propose une prise de références basée sur un modèle de questions prédéfinies et standardisées, couplées à un système de notation qui l'est tout autant. La solution a été co-conçues avec des experts en Ressources Humaines et en psychométrie. Refty propose une solution qui collecte, agrège et croise les données issues :
+La solution, co-conçue avec des experts en Ressources Humaines et en psychométrie, vous propose de définir votre candidat idéal en vous basant sur des modèles de questions prédéfinies et personnalisables. Refty propose ainsi une solution qui collecte, agrège et croise les données issues :
 
-* des personnes ayant collaboré avec le/la candidat.e,
-* des attentes du futur manager,
-* de l’évaluation du candidat lui-même,
-* ainsi qu’une comparaison avec les tops profils recrutés.
+• des personnes ayant collaboré avec le/la candidat.e dans un environnement de travail,
 
-Cela permet d’aboutir à des enseignements exploitables à 360°, lesquels vont élargir, éclairer et aiguiller la prise de décision. Cela permet de mieux recruter et mieux onboarder.
+• des attentes du futur manager,
 
-## **Par l’humain, éclaireur et modérateur de jugement pour** [**Avizio**](https://www.avizio.fr/)
+• de l’évaluation du candidat lui-même,
 
-**Avizio** propose une solution de recrutement basée sur la [**recommandation d’un réseau de +400 top managers**,](https://www.avizio.fr/reseau-de-cooptation) qui permet d’effectuer un **premier filtrage de compétences**, de **motivation** et **d’alchimie** avec l’entreprise en se confrontant au réel. Afin que cette référence soit optimale, son objectivité sera appréciée au regard de trois éléments principaux :
+• ainsi qu’une comparaison avec les tops profils recrutés.
 
-* le **lien du référent** avec le **candidat**
-* la **récence** de leur **expérience commune**
-* la **similarité des compétences** appréciées au poste à pourvoir
+Cela permet d’aboutir à des enseignements exploitables à 360° ( dans le recrutement et l'onboarding), qui vont élargir, éclairer et aiguiller votre prise de décision.
+
+### **Par l’humain, éclaireur et modérateur de jugement pour Avizio**
+
+[**Avizio**](https://www.avizio.fr/) propose une solution de recrutement basée sur la [**recommandation d’un réseau de +400 top managers**,](https://www.avizio.fr/reseau-de-cooptation) qui permet d’effectuer un **premier filtrage de compétences**, de **motivation** et **d’alchimie** avec l’entreprise en se confrontant au réel. Afin que cette référence soit optimale, son objectivité sera appréciée au regard de trois éléments principaux :
+
+• le **lien du référent** avec le **candidat**
+
+• la **récence** de leur **expérience commune**
+
+• la **similarité des compétences** appréciées au poste à pourvoir
 
 La recommandation émanant de **managers hautement qualifiés** permettra au recruteur d’ajouter une **brique d’informations**, parfois cachées, et de **proposer une opportunité au moment idéal** pour le candidat. Elle sera également un moyen efficace de repositionner les **altérations inconscientes de son jugement**, par la **confrontation** de ses opinions à un **retour d’expérience concret**, apprécié par un **tiers de confiance**. Dans certains cas (exemple : _pour des profils plus techniques, A-players_), un [**assessment**](https://www.avizio.fr/evaluation-hard-skills) d’Expert pourra également s’avérer utile, afin de confirmer ou infirmer les différents avis formulés.
 
