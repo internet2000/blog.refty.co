@@ -28,7 +28,7 @@ Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire m
 
 La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
 
-# 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
+## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
 
 * Comment connaître ses soft-skills en tant qu’individu ?
 
@@ -109,7 +109,7 @@ Ne pas hésiter à soumettre à son entourage de recruteurs, RH, ou psys les ré
 >
 > Les soft skills vont permettre d’identifier les bons et très bons et leur permettre de recruter les tops profils.
 
-# 🧐 L'utilisation des soft skills du côté recruteur
+## 🧐 L'utilisation des soft skills du côté recruteur
 
 * Comment faire ressortir les soft skills et faire se révéler le candidat ?
 
