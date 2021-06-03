@@ -40,9 +40,9 @@ Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
 \-Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
 
-\-Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
+• Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
 
-\-Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
+• Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
 
 ### **Via un Questionnaire :**
 
@@ -78,7 +78,7 @@ Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intér
 
 • Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
 
-* Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
+• Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
 
 **⁃** Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
 
@@ -94,9 +94,11 @@ Selon différentes études, les évolutions notables des traits de personnalité
 
 Pour travailler et développer ses soft skills, il faut **s'ouvrir vers soi et vers les autres** pour toujours avoir une connaissance précise de soi.
 
-* Il n'y a pas de science exacte, de méthode, de calcul de la relation humaine.
-* Il faut s’intéresser aux personnes, être curieux, empathique…
-* Ne pas hésiter à repasser un questionnaire de personnalité régulièrement ou à refaire l’exercice d’introspection, de feedback, avec recours à du coaching.
+• Il n'y a pas de science exacte, de méthode, de calcul de la relation humaine.
+
+• Il faut s’intéresser aux personnes, être curieux, empathique…
+
+• Ne pas hésiter à repasser un questionnaire de personnalité régulièrement ou à refaire l’exercice d’introspection, de feedback, avec recours à du coaching.
 
 ## Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
 
@@ -122,11 +124,11 @@ Il est donc important de réussir à capter les soft skills chez les candidats. 
 
 ### **Questionner / observer en entretien**
 
-\- Questionner sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc...
+• Questionner sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc...
 
-\- Poser des questions où le candidat devra faire des choix et se positionner. Il orientera son comportement et, de fait, se révélera diplomate, animateur, persévérant, démontrera de la confiance en soi, du respect de la hiérarchie.
+• Poser des questions où le candidat devra faire des choix et se positionner. Il orientera son comportement et, de fait, se révélera diplomate, animateur, persévérant, démontrera de la confiance en soi, du respect de la hiérarchie.
 
-\- Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
+• Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
 
 ### **Tester**
 
@@ -150,13 +152,15 @@ Equipe performante = personnalités complémentaires et motivations communes. Il
 
 Concrètement, il faudrait :
 
-* Imaginer une d’immersion durant le processus de recrutement,
-* Mapper les compétences de la future équipe et les comparer les soft skills du candidat,
-* Comparer les réalisations pour mesurer une adéquation.
+• Imaginer une d’immersion durant le processus de recrutement,
+
+• Mapper les compétences de la future équipe et les comparer les soft skills du candidat,
+
+• Comparer les réalisations pour mesurer une adéquation.
 
 Il sera ainsi plus simple au recruteur de recommander des candidats à des managers.
 
-* Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
+Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
 
 Il faut prendre en considération les soft skills lors du recrutement et les cultiver tout au long d’une carrière. La différence avec les hard-skills se fait principalement à ce niveau.
 
@@ -174,7 +178,7 @@ Mais attention, pour que cela soit vertueux, il convient de :
 
 > Sans réinventer la gestion des ressources humaines, on la dynamise avec de nouvelles perspectives issues des soft skills.
 
-* Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
+#### Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
 
 Avec les soft skills le recruteur a une matière incroyablement riche pour le recrutement !
 
@@ -184,11 +188,11 @@ L’idée est d’avoir une vraie finalité dans cette démarche, en impliquant 
 
 Il ne faut pas oublier de faire une synthèse candidat avec les éléments clés de sa personnalité et ses motivations qui seront des atouts pour sa réussite dans le poste.
 
-## **🚀**Conclusion, pour booster son employabilité grâce aux soft skills
+## 🚀Conclusion, pour booster son employabilité grâce aux soft skills
 
-1. Il faut :
+Il faut :
 
-   Savoir définir ses forces, ses motivations, ses comportements. Bien se connaître en ayant bien défini ses soft skills ce qui augmentera la capacité à se faire recruter.
+• Savoir définir ses forces, ses motivations, ses comportements. Bien se connaître en ayant bien défini ses soft skills ce qui augmentera la capacité à se faire recruter.
 
 Les bénéfices :  
 Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le recruteur le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut ! 🔥
