@@ -10,9 +10,7 @@ meta:
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
 title: Pourquoi nous avons créé Refty ?
 categories:
-- Ressources
 - Tendances
-- Bonnes Pratiques
 permalink: "/Pourquoi-nous-avons-créé-Refty/"
 
 ---
