@@ -30,20 +30,21 @@ La prise en compte des soft-skills permettra de **baisser l’incertitude dans c
 
 ## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
 
-* Comment connaître ses soft-skills en tant qu’individu ?
+### Comment connaître ses soft-skills en tant qu’individu ?
 
 Dans le cadre professionnel, il s'agit de déterminer ce que chacun sait faire et comment il le fait.
 
 Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
-* **Introspection : réflexion sur soi**
+### **Introspection : réflexion sur soi**
 
-  Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
+* Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
 
-  Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc,
 
-  Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
-* **Via un Questionnaire :**
+* Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
+* Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
+
+### **Via un Questionnaire :**
 
 Ces questionnaires travaillent sur des traits ou des types de personnalité. Mesure des tendances ou des niveaux, les résultats devront toujours être analysés.
 
@@ -51,13 +52,13 @@ Quelques exemples de test : PAPI, MBTI, SOSIE, Assessfirst, Talentoday, Performa
 
 La science régulièrement utilisée dans ces tests est la psychométrie. Un test sérieux doit répondre à des qualités psychométriques : stabilité, fiabilité, fidélité, validité. Voire être reconnu par des institutions : ITC...
 
-* **Via du Coaching**
+### **Via du Coaching**
 
 S’offrir les services d’un coach comporte un coût, c’est souvent compliqué d'y avoir recours en entreprises. Néanmoins les coachs donneront souvent des analyses pertinentes sur la personnalité de chacun.
 
 Pour les étudiants il y a souvent des conseillers carrières coach qui sont de plus en plus formés à la psychométrie. Ne pas hésiter à les solliciter !
 
-* **En utilisant les feedbacks des personnes qui on a collaboré avec lui/elle**
+### **En utilisant les feedbacks des personnes qui on a collaboré avec lui/elle**
 
 L’art du feedback 360° a du bon pour mieux se connaître !
 
@@ -85,11 +86,11 @@ Il est important de bien avoir en tête les traits de personnalité et de motiva
 
 Votre personnalité vient de votre éducation, votre expérience, votre vécu, vos rencontres.
 
-Une partie de la personnalité est donc inamovible. Mais une partie peut se développer et évoluer selon des facteurs externes ou internes.
+Une partie de la personnalité est donc **inamovible**. Mais une partie peut **se** **développer** et évoluer selon des facteurs externes ou internes.
 
 Selon différentes études, les évolutions notables des traits de personnalités sont visibles tous les 4-6 mois environ.
 
-Pour travailler et développer ses soft skills, il faut s'ouvrir vers soi et vers les autres pour toujours avoir une connaissance précise de soi.
+Pour travailler et développer ses soft skills, il faut **s'ouvrir vers soi et vers les autres** pour toujours avoir une connaissance précise de soi.
 
 * Il n'y a pas de science exacte, de méthode, de calcul de la relation humaine.
 * Il faut s’intéresser aux personnes, être curieux, empathique…
@@ -97,9 +98,9 @@ Pour travailler et développer ses soft skills, il faut s'ouvrir vers soi et ver
 
 ## Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
 
-Contextualiser : se ce travail n'est pas fait, cela manquera de matérialité et l'allusion aux soft skills restera sur du déclaratif. En revanche, si des situations de travail sont évoqués qui montrent et démontrent ces qualités, alors cela aura du sens.
+**Contextualiser** : si ce travail n'est pas fait, cela manquera de matérialité et l'allusion aux soft skills restera sur du déclaratif. En revanche, si des situations de travail sont évoqués qui montrent et démontrent ces qualités, alors cela aura du sens.
 
-Il en va de même pour les motivations. Les motivations professionnelles peuvent être variées : rémunération, utilité, besoin d’appartenance sociale etc.
+Il en va de même pour les **motivations**. Les motivations professionnelles peuvent être variées : rémunération, utilité, besoin d’appartenance sociale etc.
 
 Sans avoir à se forcer il faut préparer un discours et une histoire qui permet de déceler ces motivations !
 
@@ -111,13 +112,13 @@ Ne pas hésiter à soumettre à son entourage de recruteurs, RH, ou psys les ré
 
 ## 🧐 L'utilisation des soft skills du côté recruteur
 
-* Comment faire ressortir les soft skills et faire se révéler le candidat ?
+### **Comment faire ressortir les soft skills et faire se révéler le candidat ?**
 
 En tant que recruteur, les soft skills vont aider à prendre des décisions, à faire de bon choix, et à réduire les zones d'incertitudes et de hasard.
 
 Il est donc important de réussir à capter les soft skills chez les candidats. Il existe plusieurs manières pour cela :
 
-* **Questionner / observer en entretien**
+### **Questionner / observer en entretien**
 
 \- Questionner sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc...
 
@@ -125,9 +126,11 @@ Il est donc important de réussir à capter les soft skills chez les candidats. 
 
 \- Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
 
-* **Tester** _  
-  Intégrer un test de personnalité de bon niveau et avec une bonne expérience candidat . Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement._
-* **Utiliser un système de références / recommandations**
+### **Tester** 
+
+Intégrer un test de personnalité de bon niveau et avec une bonne expérience candidat . Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement.
+
+### **Utiliser un système de références / recommandations**
 
 Privilégier une approche innovante pour favoriser l'objectivité basée sur les soft skills.
 
@@ -139,7 +142,7 @@ Il faut adapter le processus de recrutement à ces nouveaux besoins de captation
 
 > Les softs skills recherchées chez un candidat différent selon le poste, le secteur, le niveau, la séniorité… mais aussi en fonction de l’entreprise : culture, maturité, environnement.
 
-* Comment projeter un candidat auprès d'une équipe grâce aux soft skills ?
+### Comment projeter un candidat auprès d'une équipe grâce aux soft skills ?
 
 Equipe performante = personnalités complémentaires et motivations communes. Il est important pour un recruteur d’établir une projection du degré d’adéquation d’un candidat par rapport à un manager ou à une équipe. Voire même plus globalement dans l’organisation.
 
