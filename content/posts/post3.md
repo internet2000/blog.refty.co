@@ -6,8 +6,6 @@ time: 3 min
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
 title: 'Webinaire : "Booster son employabilité grâce aux soft skills"'
 categories:
-- Tendances
-- Média
 - Bonnes Pratiques
 meta:
   author: Barthélémy
