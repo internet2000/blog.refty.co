@@ -34,8 +34,9 @@ A priori on attendra des soft skills différentes d’un commercial que d’un d
 
 On prendra en compte également :
 
-* Les soft skills attendues qui correspondront le mieux au style de management en place.
-* Ainsi que le(s) type(s) de comportement qui se fondront facilement au sein des membres de l’équipe en place.
+• Les soft skills attendues qui correspondront le mieux au style de management en place.
+
+• Ainsi que le(s) type(s) de comportement qui se fondront facilement au sein des membres de l’équipe en place.
 
 ### **Etape 3 : Rédaction de la Scorecard**
 
@@ -43,9 +44,9 @@ Les soft skills définies sont rassemblées dans une scorecard (où les hard ski
 
 Deux colonnes sont laissées vides à côté de chaque soft skill recherchée :
 
-\- une colonne servira à noter sur 5 le résultat obtenu par le/la candidat.e
+•  une colonne servira à noter sur 5 le résultat obtenu par le/la candidat.e
 
-\- une colonne servira à y inscrire les commentaires éventuels
+• une colonne servira à y inscrire les commentaires éventuels
 
 L’outil [Notion ](https://www.notion.so)semble être parfaitement adapté (plébiscité par 65% des répondants)
 
