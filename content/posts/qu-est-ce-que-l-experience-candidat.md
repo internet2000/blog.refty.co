@@ -9,7 +9,6 @@ meta:
 image: "/uploads/untitled-design.png"
 title: Qu’est-ce que l'expérience candidat ?
 categories:
-- Bonnes pratiques
 - Tendances
 permalink: "/Qu-est-ce-que-experience-candidat/"
 global.footer.text: ''
@@ -42,10 +41,13 @@ Hors dans certains cas, les prévisions de chacune des parties tournent rapideme
 
 Les professionnels du recrutement estiment selon une récente [étude LinkedIn](https://news.linkedin.com/2019/January/linkedin-releases-2019-global-talent-trends-report) que :
 
-* **89%** des mauvaises embauches sont dues à un manque de soft skills.
-* **92%** affirment que les soft skills sont autant voire plus importantes que les hard skills.
-* 41% ont un processus formel pour les évaluer.
-* 57% peinent à évaluer ces soft skills dans le cadre du processus d’embauche.
+• **89%** des mauvaises embauches sont dues à un manque de soft skills.
+
+• **92%** affirment que les soft skills sont autant voire plus importantes que les hard skills.
+
+• 41% ont un processus formel pour les évaluer.
+
+• 57% peinent à évaluer ces soft skills dans le cadre du processus d’embauche.
 
 Ajoutez à cette myriade de chiffres, les [46% de nouveaux employés qui sont perçus comme des erreurs de recrutement 18 mois après leur embauche...](https://www.leadershipiq.com/blogs/leadershipiq/35354241-why-new-hires-fail-emotional-intelligence-vs-skills)Si les outils actuels de sourcing, sélection, recrutement de candidats etc...restent en l’état, cet écart tendra à se creuser indéniablement.
 
@@ -57,19 +59,19 @@ Il est nécessaire de refondre, le parcours du talent tout au long des étapes d
 
 Il existe différents leviers pour répondre à cette question. Pour alléger votre lecture, nous nous focaliserons sur quatre éléments fondamentaux.
 
-* **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils tels que Refty vous permettent : 
+• **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils tels que Refty vous permettent :
 
-> de **croiser ces données** avec **les attentes du Hiring Manager**,
+> • de **croiser ces données** avec **les attentes du Hiring Manager**,
 >
-> de **tenir informé en temps réel**, le candidat de l'avancée du processus.
+> • de **tenir informé en temps réel**, le candidat de l'avancée du processus.
 >
-> de **facilitez son onboarding** grâce à des données exploitables
+> • de **facilitez son onboarding** grâce à des données exploitables
 
-* **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de réduire les angles morts.
-* **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et Hiring Managers.
+• **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de réduire les angles morts.
 
+• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et Hiring Managers.
 
-* **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout malentendu ou désistement éventuel. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
+• **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout malentendu ou désistement éventuel. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
 ## L'expérience candidat à portée de clic
 
