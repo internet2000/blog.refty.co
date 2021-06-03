@@ -28,7 +28,7 @@ Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire m
 
 La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
 
-## 🙋🏻‍♂️ **L'utilisation des soft skills du côté candidat** 
+## 🙋🏻‍♂️ **L'utilisation des soft skills du côté candidat**
 
 ### Comment connaître ses soft skills en tant qu'individu ?
 
@@ -100,7 +100,7 @@ Pour travailler et développer ses soft skills, il faut **s'ouvrir vers soi et v
 
 • Ne pas hésiter à repasser un questionnaire de personnalité régulièrement ou à refaire l’exercice d’introspection, de feedback, avec recours à du coaching.
 
-## Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
+### Conseil à un candidat qui souhaiterait intégrer les soft skills dans la préparation d’un entretien ou dans son CV :
 
 **Contextualiser** : si ce travail n'est pas fait, cela manquera de matérialité et l'allusion aux soft skills restera sur du déclaratif. En revanche, si des situations de travail sont évoqués qui montrent et démontrent ces qualités, alors cela aura du sens.
 
