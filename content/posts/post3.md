@@ -38,7 +38,7 @@ Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
 ### **Introspection : réflexion sur soi**
 
-\-Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
+• Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
 
 • Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
 
