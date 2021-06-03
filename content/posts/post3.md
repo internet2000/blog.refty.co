@@ -26,11 +26,11 @@ meta:
 
 Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire mais aussi et surtout pour qui elle est, comment elle se comporte. Il y a une notion de projection dans le temps à prendre en compte, une sorte de pari sur l’avenir.
 
-La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
-
 ## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
 
-#### Comment connaître ses soft-skills en tant qu’individu ?
+La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
+
+### **Comment connaître ses soft-skills en tant qu’individu ?**
 
 Dans le cadre professionnel, il s'agit de déterminer ce que chacun sait faire et comment il le fait.
 
@@ -38,7 +38,7 @@ Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
 ### **Introspection : réflexion sur soi**
 
-• Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
+• Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés
 
 • Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
 
@@ -80,7 +80,7 @@ Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intér
 
 • Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
 
-**⁃** Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
+• Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
 
 Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché.
 
@@ -124,11 +124,11 @@ Il est donc important de réussir à capter les soft skills chez les candidats. 
 
 ### **Questionner / observer en entretien**
 
-• Questionner sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc...
+• Questionnez sur les réactions qu’il a eu lors de situations précises qui l'attendent en entreprise : management, organisation… ou lui demander comment il réagirait dans le cas ou différents évènements se produiraient : crise, changements, intégration d’un nouveau collaborateur etc...
 
-• Poser des questions où le candidat devra faire des choix et se positionner. Il orientera son comportement et, de fait, se révélera diplomate, animateur, persévérant, démontrera de la confiance en soi, du respect de la hiérarchie.
+• Posez des questions où le candidat devra faire des choix et se positionner. Il orientera son comportement et, de fait, se révélera diplomate, animateur, persévérant, démontrera de la confiance en soi, du respect de la hiérarchie.
 
-• Mesure son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
+• Mesurez son stress, son aversion au risque, sa capacité à prendre des décisions, à communiquer et identifier la manière dont il s'y prendra.
 
 ### **Tester**
 
@@ -152,15 +152,15 @@ Equipe performante = personnalités complémentaires et motivations communes. Il
 
 Concrètement, il faudrait :
 
-• Imaginer une d’immersion durant le processus de recrutement,
+• Imaginer une d’immersion durant le processus de recrutement
 
-• Mapper les compétences de la future équipe et les comparer les soft skills du candidat,
+• Mapper les compétences de la future équipe et les comparer les soft skills du candidat
 
 • Comparer les réalisations pour mesurer une adéquation.
 
 Il sera ainsi plus simple au recruteur de recommander des candidats à des managers.
 
-Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
+### Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
 
 Il faut prendre en considération les soft skills lors du recrutement et les cultiver tout au long d’une carrière. La différence avec les hard-skills se fait principalement à ce niveau.
 
@@ -172,13 +172,15 @@ L'analyse des soft skills fait partie du nouveau paradigme, d’une culture RH i
 
 Mais attention, pour que cela soit vertueux, il convient de :
 
-* Mesurer ces soft skills régulièrement pour analyser l'évolution et ajuster le plan d’actions,
-* Intégrer l’ensemble des collaborateurs,
-* Avoir une finalité de développement sur l'humain / l'organisation.
+• Mesurer ces soft skills régulièrement pour analyser l'évolution et ajuster le plan d’actions
+
+• Intégrer l’ensemble des collaborateurs
+
+• Avoir une finalité de développement sur l'humain / l'organisation.
 
 > Sans réinventer la gestion des ressources humaines, on la dynamise avec de nouvelles perspectives issues des soft skills.
 
-#### Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
+### Quels conseils donner à un recruteur qui souhaite intégrer les soft skills dans son processus de recrutement ?
 
 Avec les soft skills le recruteur a une matière incroyablement riche pour le recrutement !
 
@@ -194,5 +196,5 @@ Il faut :
 
 • Savoir définir ses forces, ses motivations, ses comportements. Bien se connaître en ayant bien défini ses soft skills ce qui augmentera la capacité à se faire recruter.
 
-Les bénéfices :  
+Les **bénéfices** :  
 Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le recruteur le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut ! 🔥
