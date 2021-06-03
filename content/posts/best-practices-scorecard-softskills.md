@@ -18,7 +18,7 @@ Il nous est apparu intéressant de mixer les deux et de comprendre comment les e
 
 Plus de 15 RH de sociétés tech /innovantes nous ont confié leur recette (Voodoo, Qonto...etc). Nous les avons synthétisées en 5 étapes rapidement actionnables.
 
-* **Etape 1 : Etablir les valeurs clés inhérentes à la culture de l'organisation**
+### **Etape 1 : Etablir les valeurs clés inhérentes à la culture de l'organisation**
 
 Avoir déterminé précisément quelle est la culture de l'entreprise → en faire ressortir de manière concrète des valeurs qui vont être communes à tous les membres qui rejoindront l’entreprise.
 
@@ -26,7 +26,7 @@ Idéalement, le nombre de ces valeurs ne doit pas dépasser **4**.
 
 > _“L'idée n'est pas d'avoir des clones mais des personnes qui reflètent notre culture d'entreprise” -_ L'un des représentants RH de Quonto
 
-* **Etape 2 : Réalisation du Persona 0**
+### **Etape 2 : Réalisation du Persona 0**
 
 En collaboration avec le manager de chaque équipe établir un mapping des soft skills attendues pour chaque poste.
 
@@ -37,7 +37,7 @@ On prendra en compte également :
 * Les soft skills attendues qui correspondront le mieux au style de management en place.
 * Ainsi que le(s) type(s) de comportement qui se fondront facilement au sein des membres de l’équipe en place.
 
-* **Etape 3 : Rédaction de la Scorecard**
+### **Etape 3 : Rédaction de la Scorecard**
 
 Les soft skills définies sont rassemblées dans une scorecard (où les hard skills recherchées pour le poste en question figurent aussi).
 
@@ -49,13 +49,13 @@ Deux colonnes sont laissées vides à côté de chaque soft skill recherchée :
 
 L’outil [Notion ](https://www.notion.so)semble être parfaitement adapté (plébiscité par 65% des répondants)
 
-* **Etape 4 : Les entretiens**
+### **Etape 4 : Les entretiens**
 
 Lors des entretiens, pour qu’une soft skill soit considérée comme validée / acquise par le candidat.e → il faut qu’elle soit suivie d’un **exemple** **concret.**
 
 > _“En clair, à chaque étape faire en sorte de faire remonter un feedback précis sur chacune des dimensions pour s'assurer que vous avez choisi LA bonne personne à la fin.” -_ L'un des représentants RH de Voodoo
 
-* **Etape 5 : Le reporting**
+### **Etape 5 : Le reporting**
 
 Côté reporting, la scorecard est un outil de standardisation qui fait l'unanimité en ceci qu'elle permet de croiser et comparer les réponses.
 
