@@ -30,7 +30,7 @@ La prise en compte des soft-skills permettra de **baisser l’incertitude dans c
 
 ## 🙋🏻‍♂️ L'utilisation des soft-skills du côté candidat
 
-### Comment connaître ses soft-skills en tant qu’individu ?
+#### Comment connaître ses soft-skills en tant qu’individu ?
 
 Dans le cadre professionnel, il s'agit de déterminer ce que chacun sait faire et comment il le fait.
 
@@ -38,11 +38,11 @@ Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
 ### **Introspection : réflexion sur soi**
 
-* Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
+\-Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés,
 
+\-Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
 
-* Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
-* Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
+\-Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
 
 ### **Via un Questionnaire :**
 
@@ -74,9 +74,9 @@ En tant que candidat il faudra mettre en avant les compétences en savoir être 
 
 Pour se faire une idée des soft skills attendues :
 
-* Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle...
-* Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
-* Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
+1. Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle...
+2. Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
+3. Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
 
 Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
 
