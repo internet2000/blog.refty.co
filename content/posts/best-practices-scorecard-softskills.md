@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: 'Bonnes pratiques : Scorecard & Soft skills'
 categories:
 - Bonnes Pratiques
-permalink: "/Bonnes-pratiques-scorecard-&-soft-skills/"
+permalink: "/bonnes-pratiques-scorecard-&-soft-skills/"
 
 ---
 Les soft skills, tout le monde en parle, la Scorecard job, beaucoup de personnes en parlent.
