@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Sanjay
-  time: 3mn
+  time: 4mn
   date: 04/06/21
   excerpt: Le retour au bureau soulève de nombreuses interrogations. Nous avons tenté
     d'y répondre
