@@ -1,14 +1,14 @@
 {
   "a-propos": {
-    "text": "<h2>À propos de Refty</h2><p>Refty des juristes manquent de ressources. Leeway leur permet d'automatiser la gestion des contrats en donnant de l'autonomie aux équipes opérationnelles, pour les aider à mieux contrôler les risques juridiques et financiers.</p>"
+    "text": "<h2>À propos de Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
   },
   "decouvrir": {
-    "text": "<h2>Découvrir Refty</h2><h3>La meilleure solution de recrutement d'analyse des candidats en 360 Review pour éviter les erreurs de recrutement et analyser la qualité de ses recrutements.<br></h3>",
+    "text": "<h2>Découvrir Refty</h2><h3>Recrutez mieux avec Refty</h3>",
     "cta": "Découvrir Refty"
   },
   "footer": {
     "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
-    "text": "<p>à éditer</p>"
+    "text": "<p><strong>Hiring better with Refty</strong></p>"
   },
   "hero": {
     "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"

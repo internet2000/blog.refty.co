@@ -2,63 +2,62 @@
 layout: article
 meta:
   author: Barthélémy
-  time: 5mn
-  excerpt: It seemed interesting to us to mix the two and to understand how recruiting
-    companies manage the Soft Skills Score Card.
-image: "/uploads/playa4.jpg"
-title: 'Best practices : ScoreCard Softskills'
+  time: 3mn
+  excerpt: La prise en considération et l'onboarding de ces deux notions représentent
+    un avantage concurrentiel de premier ordre.
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-7.png"
+title: 'Bonnes pratiques : Scorecard & Soft skills'
 categories:
-- Média
 - Bonnes Pratiques
-permalink: "/score-cards-softskills/"
+permalink: "/bonnes-pratiques-scorecard-&-soft-skills/"
 
 ---
-## Soft skills, everyone is talking about it, the Score Card job, a lot of people are talking about it.
+Les soft skills, tout le monde en parle, la Scorecard job, beaucoup de personnes en parlent.
 
-It seemed interesting to us to mix the two and to understand how recruiting companies manage the Soft Skills Score Card.  
-  
-More than 15 HR from tech/innovative companies told us their recipe (Voodoo, Qonto...etc). We have synthesized them into 5 steps that can be quickly implemented.
+Il nous est apparu intéressant de mixer les deux et de comprendre comment les entreprises qui recrutent géraient la **Scorecard de Soft skills**.
 
-* **Step 1: Establish the key values inherent in the company's culture**
+Plus de 15 RH de sociétés tech /innovantes nous ont confié leur recette (Voodoo, Qonto...etc). Nous les avons synthétisées en 5 étapes rapidement actionnables.
 
-To have determined precisely what is the culture of the company → to bring out concretely the values that will be common to all the members who will join the company.
+### **Etape 1 : Etablir les valeurs clés inhérentes à la culture de l'organisation**
 
-Ideally, the number of these values should not exceed 4.
+Avoir déterminé précisément quelle est la culture de l'entreprise → en faire ressortir de manière concrète des valeurs qui vont être communes à tous les membres qui rejoindront l’entreprise.
 
-_"The idea is not to have clones but people who reflect our corporate culture"._
+Idéalement, le nombre de ces valeurs ne doit pas dépasser **4**.
 
-* **Step 2: Making the Persona 0**
+> _“L'idée n'est pas d'avoir des clones mais des personnes qui reflètent notre culture d'entreprise” -_ L'un des représentants RH de Quonto
 
-In collaboration with the manager of each team establish a mapping of the expected soft skills for each position.
+### **Etape 2 : Réalisation du Persona 0**
 
-In a priori, we will expect different soft skills from a salesperson than from a developer.
+En collaboration avec le manager de chaque équipe établir un mapping des soft skills attendues pour chaque poste.
 
-We will also take into account:
+A priori on attendra des soft skills différentes d’un commercial que d’un développeur.
 
-The expected soft skills that will best match the management in place.
+On prendra en compte également :
 
-As well as the type(s) of behavior that will easily blend in with the existing team members.
+• Les soft skills attendues qui correspondront le mieux au style de management en place.
 
-* **Step 3 : Writing the Scorecard**
+• Ainsi que le(s) type(s) de comportement qui se fondront facilement au sein des membres de l’équipe en place.
 
-The defined soft skills are collected in a scorecard (where the hard skills sought for the position in question are also listed).
+### **Etape 3 : Rédaction de la Scorecard**
 
-Two columns are left empty next to each soft skill:
+Les soft skills définies sont rassemblées dans une scorecard (où les hard skills recherchées pour le poste en question figurent aussi).
 
-\- one column will be used to rate out of 5 the result obtained by the candidate.
+Deux colonnes sont laissées vides à côté de chaque soft skill recherchée :
 
-\- one column will be used to record any comments
+•  une colonne servira à noter sur 5 le résultat obtenu par le/la candidat.e
 
-The Notion tool seems to be perfectly adapted (65% of respondents)
+• une colonne servira à y inscrire les commentaires éventuels
 
-* **Step 4: Interviews**
+L’outil [Notion ](https://www.notion.so)semble être parfaitement adapté (plébiscité par 65% des répondants)
 
-During the interviews, for a soft skill to be considered as validated/acquired by the candidate, it must be followed by a concrete example.
+### **Etape 4 : Les entretiens**
 
-_"Clearly, at each step make sure you get precise feedback on each of the dimensions to make sure you have chosen THE right person at the end."_
+Lors des entretiens, pour qu’une soft skill soit considérée comme validée / acquise par le candidat.e → il faut qu’elle soit suivie d’un **exemple** **concret.**
 
-* **Step 5: Reporting**
+> _“En clair, à chaque étape faire en sorte de faire remonter un feedback précis sur chacune des dimensions pour s'assurer que vous avez choisi LA bonne personne à la fin.” -_ L'un des représentants RH de Voodoo
 
-In terms of reporting, a scorecard is a standardization tool that has been unanimously acclaimed in that it allows the responses to be cross-referenced and compared.
+### **Etape 5 : Le reporting**
 
-All of the stakeholders interviewed (HR, Managers, CEO, etc.) are in favor of this methodology because of the objectivity it implies in the recruitment process, particularly in terms of soft skills analysis.
+Côté reporting, la scorecard est un outil de standardisation qui fait l'unanimité en ceci qu'elle permet de croiser et comparer les réponses.
+
+L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébiscitent cette méthodologie pour l'effort d'objectivité que cela implique dans un processus de recrutement, notamment en matière d'analyse de soft skills.
