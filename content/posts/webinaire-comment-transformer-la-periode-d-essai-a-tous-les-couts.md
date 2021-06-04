@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: " Webinaire : Comment transformer la période d’essai à tous les coûts ? "
 categories:
 - Bonnes pratiques
-permalink: "/Webinaire-comment-transformer-la-période-d-essai-a-tous-les-couts/"
+permalink: "/webinaire-comment-transformer-la-période-d-essai-a-tous-les-couts/"
 
 ---
 Notre collaboration avec [Axel](https://www.heyaxel.com/) (de)matérialisée par notre webinaire a mis en lumière les talents d’oratrice de Manon Plommet-Le Bihan. Talent Acquisition Manager chez PrestaShop depuis plus de 2 ans, cette experte en onboarding nous a exposé les bonnes pratiques relatives à la période d’essai.
