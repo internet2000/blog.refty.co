@@ -48,6 +48,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau.md
 - content/posts/comment-prestashop-a-structure-son-process-de-recrutement-via-refty.md
 - content/posts/l-intuition-un-indicateur-fiable-en-entretien.md
 - content/posts/qu-est-ce-que-l-experience-candidat.md
