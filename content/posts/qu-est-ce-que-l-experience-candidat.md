@@ -10,7 +10,7 @@ image: "/uploads/untitled-design.png"
 title: Qu’est-ce que l'expérience candidat ?
 categories:
 - Tendances
-permalink: "/Qu-est-ce-que-experience-candidat/"
+permalink: "/qu-est-ce-que-experience-candidat/"
 global.footer.text: ''
 global.footer.address: ''
 
