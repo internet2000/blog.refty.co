@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: Comment se modernise la fonction RH ?
 categories:
 - Tendances
-permalink: "/comment-se-modernise-la-fonction-RH-?/"
+permalink: "/comment-se-modernise-la-fonction-RH/"
 
 ---
 
