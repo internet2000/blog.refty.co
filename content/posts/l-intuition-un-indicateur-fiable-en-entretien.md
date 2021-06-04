@@ -107,7 +107,7 @@ Les retombées sont alors aussi regrettables que dommageables : un licenciement 
 
 ![Source : Career Plug (2020)](/uploads/careerplug.png "Biais")
 
-Pour combler la fameuse "**boîte noire**” dans la **perception** de l’employeur (_et plus largement, toute forme de perception_), il convient d’**ajouter des briques à son analyse**, pour sortir du **socle de connaissances** et de **pensées préétablies**. Prenons la situation dans le sens inverse : l’étude de cas produite par un candidat sur ses seuls acquis sera forcément moins riche/pertinente, que l’étude ayant fait l’objet de recherches préalables, de confrontation au réel. 
+Pour combler la fameuse "**boîte noire**” dans la **perception** de l’employeur (_et plus largement, toute forme de perception_), il convient d’**ajouter des briques à son analyse**, pour sortir du **socle de connaissances** et de **pensées préétablies**. Prenons la situation dans le sens inverse : l’étude de cas produite par un candidat sur ses seuls acquis sera forcément moins riche/pertinente, que l’étude ayant fait l’objet de recherches préalables, de confrontation au réel.
 
 Aussi, cette “**zone de confort**” **oriente la perceptibilité et** la **priorisation d’informations** qui seront déjà intériorisées, en dépit de celles qui ne le seront pas (_exemple : employeur partenaire de l’ancienne entreprise du candidat, ce qui ajoute, même inconsciemment un signal de sécurité, de fiabilité_). Elle se doit donc d’être affranchie, en **parcourant d’autres types de perception**, afin de **limiter l’intrusion subjective**. C’est sur ce même principe que repose l’éclatement de la **“bulle-filtre”**, chez les plus connectés d’entre-nous.
 
