@@ -5,7 +5,7 @@ meta:
   time: 3mn
   date: 13/03/21
   excerpt: 'Cette scale-up française est présente dans 190 pays et a réalisé plus
-    de 20 millions d''euros de chiffres d''affaires en 2018 '
+    de 20 millions d''euros de chiffre d''affaires en 2018 '
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-3.png"
 title: Comment PrestaShop a structuré son process de recrutement via Refty
 categories:
