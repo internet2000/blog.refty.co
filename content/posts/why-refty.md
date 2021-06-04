@@ -34,12 +34,13 @@ Pourquoi un tel désaveu de cette pratique pourtant recommandée par les spécia
 
 On vous explique pourquoi.
 
-## **Un processus doublement biaisé**
+### **Un processus doublement biaisé**
 
-* D’abord du côté du candidat, puisque celui ci doit donner son accord sur les référents à contacter (c’est une obligation légale!). Il est fort probable que les personnes qu’il choisira — ses référents — laisseront un avis positif de la collaboration avec ce dernier.
-* Du côté de l’entreprise qui recrute : la prise de références est la plupart du temps demandée en fin de process. Les personnes impliquées dans le recrutement, auront tendance à vouloir confirmer l’idée (bonne ou mauvaise) qu’ils se sont faite du candidat tout au long du process. C’est un biais de confirmation.
+• D’abord du côté du candidat, puisque celui ci doit donner son accord sur les référents à contacter (c’est une obligation légale!). Il est fort probable que les personnes qu’il choisira — ses référents — laisseront un avis positif de la collaboration avec ce dernier.
 
-## **Une pertinence des informations collectées aléatoire**
+• Du côté de l’entreprise qui recrute : la prise de références est la plupart du temps demandée en fin de process. Les personnes impliquées dans le recrutement, auront tendance à vouloir confirmer l’idée (bonne ou mauvaise) qu’ils se sont faite du candidat tout au long du process. C’est un biais de confirmation.
+
+### **Une pertinence des informations collectées aléatoire**
 
 La prise de références effectuée au téléphone, dépendra principalement de l’expertise de la personne qui l’effectuera.
 
@@ -49,7 +50,7 @@ La qualité des réponses dépendra également de l’implication de l’interlo
 
 > L’incertitude sur la manière dont l’exercice sera mené conduit inévitablement à une collecte d’informations imparfaite dont la qualité peut-être très variable.
 
-## **Une valeur mal exploitée**
+### **Une valeur mal exploitée**
 
 1- Lors de la prise de référence, chaque évaluateur cherchera à récolter des informations qui paraîtront utiles à sa situation et ses besoins propres.
 
@@ -59,9 +60,9 @@ La qualité des réponses dépendra également de l’implication de l’interlo
 
 > Par ailleurs, l’ensemble des actions consacrées par l’évaluateur pour effectuer une prise de références n’a que peu de valeur ajoutée pour celui qui doit les effectuer : **i)** demander les référents au candidat, **ii)** contacter les référents, **iii)** les relancer, **iv)** convenir d’un créneau **v)** prendre les références au téléphone, **vi)** les noter dans son logiciel de recrutement, **vii)** les transférer aux décisionnaires / manager.
 
-## **Refty repense l’ensemble de la chaîne de valeur concernant la collecte d’informations extérieures sur un candidat**
+### **Refty repense l’ensemble de la chaîne de valeur concernant la collecte d’informations extérieures sur un candidat**
 
-* Une expérience repensée
+• Une expérience repensée
 
 Après avoir interrogé 3 psychologues en ressources humaines et plus de 60 acteurs du secteur nous avons pu établir un formulaire de collecte de données objectives centrées sur le **comportement du candidat** (les fameuses soft skills !)
 
@@ -71,7 +72,7 @@ Il peut ensuite suivre depuis un tableau de bord, l’avancée de l’ensemble d
 
 En 72 heures une synthèse des prises de références est accessible sur son espace.
 
-* Une utilisation qui permet une triple finalité :
+• Une utilisation qui permet une triple finalité :
 
 Identifier et recruter les A-players {[https://whothebook.com/](https://whothebook.com/ "https://whothebook.com/")} (et mécaniquement éviter les mauvais recrutements)
 
