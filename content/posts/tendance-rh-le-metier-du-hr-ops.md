@@ -13,7 +13,9 @@ categories:
 permalink: "/Tendance-rh-métier-hr-ops/"
 
 ---
-# L'expérience collaborateur, la priorité absolue
+# Tendance RH, le métier du HR Ops
+
+## L'expérience collaborateur, la priorité absolue
 
 Face à l’évolution de la fonction RH, nombre de métiers ont émergé ou se ont bu leurs rôles se renforcer, précipités par la conjoncture économique actuelle. Les besoins et les attentes des RH en matière d'acquisition, de rétention et d'expérience collaborateur.ice ont connu une **recrudescence**, [cette dernière étant désormais la priorité absolue des entreprises et principal levier de l'engagement.](https://www.gartner.com/en/newsroom/press-releases/2020-05-20-gartner-survey-finds-64--of-hr-leaders-are-making-emp) Parmi ces évolutions, la fonction HR Ops, qui a connu des balbutiements timides tend désormais à s’imposer et se diffuser de plus en plus dans les startups en forte croissance.
 
