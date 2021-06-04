@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Barthélémy
-  time: 2mn
+  time: 3mn
   excerpt: La prise en considération et l'onboarding de ces deux notions représentent
     un avantage concurrentiel de premier ordre.
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-7.png"
