@@ -11,7 +11,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: Pourquoi nous avons créé Refty ?
 categories:
 - Tendances
-permalink: "/Pourquoi-nous-avons-créé-Refty/"
+permalink: "/pourquoi-nous-avons-créé-Refty/"
 
 ---
 Une erreur de recrutement coûte cher : elle est estimée à environ 45k€ (source : [HR-Voice](https://www.hr-voice.com/recrutement/recrutement-rate-quel-est-le-cout-pour-lentreprise/2019/02/11/#:\~:text=Le%20co%C3%BBt%20d'un%20recrutement,la%20r%C3%A9mun%C3%A9ration%20de%20celui%2Dci.&text=Lorsque%20l'entreprise%20fait%20appel,annuel%20brut%20du%20candidat%20embauch%C3%A9.))
