@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Sanjay
-  time: 9min
+  time: 10min
   date: 21/04/21
   excerpt: Ils interfèrent dans le processus de recrutement. Comment s'en prémunir
     ?
