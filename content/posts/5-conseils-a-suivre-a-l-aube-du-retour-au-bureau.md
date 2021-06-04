@@ -63,8 +63,6 @@ La flexibilité s’impose également ici. Tel un processus itératif, réajuste
 
 L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de route est incompréhensible ? Clarifiez-la. Les retours d’expérience de vos collaborateurs sont en faveur du travail hybride ? Procédez à un arbitrage et mettez en place le processus qui concilie épanouissement de vos collaborateurs et maintien de la valeur sociale (en expliquant votre démarche)
 
-## 
-
-**Conclusion**
+## **Conclusion**
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière proportionnée et efficace.
