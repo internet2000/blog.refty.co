@@ -63,9 +63,9 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 
 > • de définir votre **candidat idéal**
 >
-> • de le **comparer** les feedback de ses références 
+> • de le **comparer** avec le feedback de ses références
 >
-> • de **mieux qualifier** le candidat 
+> • de **mieux qualifier** le candidat
 >
 > • de le **tenir informé en temps réel**, de l'avancée du processus.
 >
