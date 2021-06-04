@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: "/Webinaire-employabilité-soft-skills/"
+permalink: "/webinaire-employabilité-soft-skills/"
 author: Alex
 time: 3 min
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
@@ -16,7 +16,7 @@ meta:
   date: 19/02/21
 
 ---
-{Retranscription du Webinaire du 9 février 2021 - [Guillaume Piot](https://www.linkedin.com/in/guillaume-piot-75000/) pionnier sur le sujet des people analytics répondait à nos questions}
+Retranscription du Webinaire du 9 février 2021 - [Guillaume Piot](https://www.linkedin.com/in/guillaume-piot-75000/) pionnier sur le sujet des people analytics répondait à nos questions
 
 "**L'employabilité**" est la capacité à se faire recruter.
 
