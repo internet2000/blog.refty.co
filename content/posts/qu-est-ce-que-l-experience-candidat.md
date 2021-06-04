@@ -23,13 +23,13 @@ La notion d’**expérience candidat**, n’a véritablement émergé que récem
 
 Le contexte actuel a une influence significative sur l’embauche qui s’appuie sur davantage d’outils de recrutement : de la gestion à l'analyse, en passant par l’automatisation et la télécommunication. L'expérience candidat est synonyme de **levier de performance, d'engagement, de loyauté** et côté entreprise de **rayonnement de la marque employeur et de rétention.**
 
-### ATS & Job boards : une relation (souvent) déséquilibrée
+## ATS & Job boards : une relation (souvent) déséquilibrée
 
 Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration et d'incomplétude**. L’ampleur du désengagement est croissante à mesure que la communication s'estompe. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
 
 Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Attirer, engager et retenir les top talents est devenu plus ardu qu’auparavant.
 
-### Facteur incontournable de l'engagement et de la confiance
+## Facteur incontournable de l'engagement et de la confiance
 
 La valorisation de l’expérience candidat voit l’émergence et le développement de **l’**[**engagement et de la confiance**](https://www.researchgate.net/publication/233894851_The_Commitment-Trust_Theory_of_Relationship_Marketing)**.** Lorsque les interactions sont transparentes, plus approfondies et élargies sur l’ensemble des points de contacts, l'expérience du talent en ressort amplifiée.
 
@@ -37,7 +37,7 @@ Cet engagement n’atteindra son paroxysme que si le nouveau talent dispose d’
 
 Hors dans certains cas, les prévisions de chacune des parties tournent rapidement à la désillusion pour cause d’inadéquation liée au soft skills.
 
-### Quand l’onboarding rime avec offboarding
+## Quand l’onboarding rime avec offboarding
 
 Les professionnels du recrutement estiment selon une récente [étude LinkedIn](https://news.linkedin.com/2019/January/linkedin-releases-2019-global-talent-trends-report) que :
 
@@ -53,7 +53,7 @@ Ajoutez à cette myriade de chiffres, les [46% de nouveaux employés qui sont pe
 
 Cette problématique est d’autant plus importante pour [certains Millennials](https://www.michaelpage.fr/advice/tendances-de-march%C3%A9/s%C3%A9duire-recruter-et-fid%C3%A9liser-les-millennials-un-enjeu-majeur-pour-les) dont les aspirations sont davantage tournées vers la vie de bohème que la vie de bureau, faute de trouver un environnement de travail épanouissant.
 
-### Réformer l’expérience du candidat
+## Réformer l’expérience du candidat
 
 Il est nécessaire de refondre, le parcours du talent tout au long des étapes du processus d’embauche, afin de mieux attirer et retenir (et par extension recruter et engager) le.a candidat.e tant convoité.e par les recruteurs. A cet enjeu, s'additionne la nécessité de **décharger les recruteurs des tâches rébarbatives** qui minent leur productivité afin qu’ils se consacrent totalement à la dimension humaine qui caractérise leur vocation. **Comment valoriser l'expérience candidat tout en recrutant le bon talent ?**
 
@@ -77,7 +77,7 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 
 • **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout malentendu ou désistement éventuel. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
-### L'expérience candidat à portée de clic
+### L'expérience candidat à portée de clics
 
 Refty **résout les problématiques** initialement traitées en intervenant sur ces quatre leviers. S’assurer que les candidats à haut potentiel aient une **expérience positive** tout en ayant le poste qui leur convient et s’assurer que l’entreprise distingue un top talent d’un futur collaborateur, ce sont là les missions que nous nous sommes fixées.
 
