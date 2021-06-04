@@ -13,7 +13,7 @@ categories:
 permalink: "/Tendance-rh-métier-hr-ops/"
 
 ---
-## L'expérience collaborateur, la priorité absolue
+# L'expérience collaborateur, la priorité absolue
 
 Face à l’évolution de la fonction RH, nombre de métiers ont émergé ou se ont bu leurs rôles se renforcer, précipités par la conjoncture économique actuelle. Les besoins et les attentes des RH en matière d'acquisition, de rétention et d'expérience collaborateur.ice ont connu une **recrudescence**, [cette dernière étant désormais la priorité absolue des entreprises et principal levier de l'engagement.](https://www.gartner.com/en/newsroom/press-releases/2020-05-20-gartner-survey-finds-64--of-hr-leaders-are-making-emp) Parmi ces évolutions, la fonction HR Ops, qui a connu des balbutiements timides tend désormais à s’imposer et se diffuser de plus en plus dans les startups en forte croissance.
 
@@ -41,7 +41,6 @@ Le poste de HR Ops a été mis en place chez Virtuo suite à une vague massive d
 
 ### **Quelles sont les missions du HR Ops ?**
 
-  
 Son objectif est de **gérer les relations avec les employé.e.s** afin de leur permettre d'exécuter sereinement leurs tâches, tout en garantissant des conditions de travail optimales. De l**’onboarding** des nouvelles recrues à la **coordination des élections CSE**, en passant par l’**administration du personnel**, la **création et l’avenant au contrat et la gestion des tickets RH**, les missions HR Ops sont protéiformes. Mais l’une de ses missions prioritaires, dans ce contexte délétère qu’est la pandémie actuelle, est le déploiement de la [politique de télétravail.](https://www.andrh.fr/actualites/1295/covid-19-rh-conseils-et-bonnes-pratiques-en-teletravail-memo-andrh)
 
 En 2017, le télétravail n'était pratiqué que de manière marginale, [avec seulement 3% des actifs qui y avaient recours régulièrement](https://blog.hubspot.fr/marketing/chiffres-teletravail). Il a connu une telle ampleur [en 2020](https://newsroom.malakoffhumanis.com/actualites/malakoff-humanis-presente-les-resultats-de-son-etude-teletravail-2020-f40d-63a59.html), à la faveur de la crise sanitaire, qu’il a fallu mettre en place une politique structurelle pour y répondre, maintenir et développer le confort et la productivité des salarié.e.s. Aussi, la fonction HR Ops a vu son rôle s'accroître significativement. Elle a également dû répondre aux effets sous-jacents du télétravail comme la nécessité et l’envie des collaborateurs.ices de venir au bureau, la prise en considération de certains métiers qui peuvent y avoir recours quotidiennement et ceux qui n’en ont pas fondamentalement besoin.
@@ -52,7 +51,7 @@ La fonction HR Ops peut également avoir sous sa responsabilité la gestion de l
 
 Cette fonction étant nouvelle dans le secteur, Ninon n’a pas eu de **formation adéquate** pour y répondre correctement. Aussi, elle a eu recours à la formation auto-apprenante sur Internet pour mieux appréhender ce nouveau métier.
 
-Jeanne, quant à elle, lorsque Algolia a structuré ses équipes françaises, a dû s'attaquer à la gestion des happy hours et des vacances illimitées, pratiques courantes aux Etats-Unis mais difficilement applicables en France. Elle a par conséquent dû **réformer ces dispositifs**, au grand dam des collaborateurs.trices, du fait de la législation française qui n’est pas aussi flexible qu’Outre Atlantique. Les gros avantages du début ont ainsi disparu au profit des perks plus “classiques” ! S’ajoute à ce premier défi un second. En l’**absence d’une suite complète adaptée qui centralise l’information**, Jeanne était amenée à utiliser deux outils simultanément pour mener à bien l’administratif , payroll, people support et le ticket support**.**
+Jeanne, quant à elle, lorsque Algolia a structuré ses équipes françaises, a dû s'attaquer à la gestion des happy hours et des vacances illimitées, pratiques courantes aux Etats-Unis mais difficilement applicables en France. Elle a par conséquent dû **réformer ces dispositifs**, au grand dam des collaborateurs.trices, du fait de la législation française qui n’est pas aussi flexible qu’Outre Atlantique. Les gros avantages du début ont ainsi disparu au profit des perks plus “classiques” ! S’ajoute à ce premier défi un second. En l’**absence d’une suite complète adaptée qui centralise l’information__, Jeanne était amenée à utiliser deux outils simultanément pour mener à bien l’administratif , payroll, people support et le ticket support**.**
 
 ### **Un conseil à donner à une personne qui arrive en HR Ops ?**
 
