@@ -13,9 +13,7 @@ categories:
 permalink: "/tendance-rh-métier-hr-ops/"
 
 ---
-# Tendance RH, le métier du HR Ops
-
-## L'expérience collaborateur, la priorité absolue
+### L'expérience collaborateur, la priorité absolue
 
 Face à l’évolution de la fonction RH, nombre de métiers ont émergé ou se ont bu leurs rôles se renforcer, précipités par la conjoncture économique actuelle. Les besoins et les attentes des RH en matière d'acquisition, de rétention et d'expérience collaborateur.ice ont connu une **recrudescence**, [cette dernière étant désormais la priorité absolue des entreprises et principal levier de l'engagement.](https://www.gartner.com/en/newsroom/press-releases/2020-05-20-gartner-survey-finds-64--of-hr-leaders-are-making-emp) Parmi ces évolutions, la fonction HR Ops, qui a connu des balbutiements timides tend désormais à s’imposer et se diffuser de plus en plus dans les startups en forte croissance.
 
@@ -53,7 +51,7 @@ La fonction HR Ops peut également avoir sous sa responsabilité la gestion de l
 
 Cette fonction étant nouvelle dans le secteur, Ninon n’a pas eu de **formation adéquate** pour y répondre correctement. Aussi, elle a eu recours à la formation auto-apprenante sur Internet pour mieux appréhender ce nouveau métier.
 
-Jeanne, quant à elle, lorsque Algolia a structuré ses équipes françaises, a dû s'attaquer à la gestion des happy hours et des vacances illimitées, pratiques courantes aux Etats-Unis mais difficilement applicables en France. Elle a par conséquent dû **réformer ces dispositifs**, au grand dam des collaborateurs.trices, du fait de la législation française qui n’est pas aussi flexible qu’Outre Atlantique. Les gros avantages du début ont ainsi disparu au profit des perks plus “classiques” ! S’ajoute à ce premier défi un second. En l’**absence d’une suite complète adaptée qui centralise l’information__, Jeanne était amenée à utiliser deux outils simultanément pour mener à bien l’administratif , payroll, people support et le ticket support**.**
+Jeanne, quant à elle, lorsque Algolia a structuré ses équipes françaises, a dû s'attaquer à la gestion des happy hours et des vacances illimitées, pratiques courantes aux Etats-Unis mais difficilement applicables en France. Elle a par conséquent dû **réformer ces dispositifs**, au grand dam des collaborateurs.trices, du fait de la législation française qui n’est pas aussi flexible qu’Outre Atlantique. Les gros avantages du début ont ainsi disparu au profit des perks plus “classiques” ! S’ajoute à ce premier défi un second. En l’**absence d’une suite complète adaptée qui centralise l’information__, Jeanne était amenée à utiliser deux outils simultanément pour mener à bien l’administratif , payroll, people support et le ticket support__.**
 
 ### **Un conseil à donner à une personne qui arrive en HR Ops ?**
 
