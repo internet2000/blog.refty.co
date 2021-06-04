@@ -12,7 +12,7 @@ categories:
 permalink: "/webinaire-comment-transformer-la-période-d-essai-a-tous-les-couts/"
 
 ---
-Notre collaboration avec [Axel](https://www.heyaxel.com/) (de)matérialisée par notre webinaire a mis en lumière les talents d’oratrice de Manon Plommet-Le Bihan. Talent Acquisition Manager chez PrestaShop depuis plus de 2 ans, cette experte en onboarding nous a exposé les bonnes pratiques relatives à la période d’essai.
+Notre collaboration avec [Axel](https://www.heyaxel.com/) (de)matérialisée par notre webinaire a mis en lumière les talents d’oratrice de Manon Plommet-Le Bihan. Talent Acquisition Manager chez [PrestaShop](https://blog.refty.co/comment-prestashop-a-structure-son-processus-de-recrutement/) depuis plus de 2 ans, cette experte en onboarding nous a exposé les bonnes pratiques relatives à la période d’essai.
 
 Point de bascule des décideurs RH et nouveaux collaborateurs, la période d’essai est une étape charnière….que certains décideurs RH, et managers ne valident pas.
 
