@@ -23,8 +23,7 @@ Le bureau est mort. Vive la Workplace Experience. A la suite de notre interview 
 
 Le bureau ne doit plus simplement être un **“lieu de travail”** mais “un **“lieu d’épanouissement et de vie**”. Il doit être un **catalyseur d’échange, de cohésion, de bien-être.** L'aménagement des bureaux, les espaces de socialisation, les services extra-professionnel (sport, espace détente…) en sont les instruments. En substance, le bureau doit répondre à la **quête de sens et au besoin d’expérience**.Le retour au bureau implique mécaniquement la promotion d’une **valeur ajoutée qui diffère de celle qui existait auparavant**. Il se doit de valoriser une atmosphère distinctive et engageante qui n’existe nulle part ailleurs.
 
-###   
-**2. Communiquez sur le retour au bureau**
+### **2. Communiquez sur le retour au bureau**
 
 Certains de vos collaborateurs peuvent ressentir une certaine **réticence à l’idée de retourner au bureau**. Pour plusieurs raisons : peur de contaminer leurs collègues ou leurs proches une fois rentrés à la maison, pertes de repères suite aux deux confinements qui ont chamboulé leur habitudes, phobie sociale...
 
@@ -64,7 +63,8 @@ La flexibilité s’impose également ici. Tel un processus itératif, réajuste
 
 L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de route est incompréhensible ? Clarifiez-la. Les retours d’expérience de vos collaborateurs sont en faveur du travail hybride ? Procédez à un arbitrage et mettez en place le processus qui concilie épanouissement de vos collaborateurs et maintien de la valeur sociale (en expliquant votre démarche)
 
-##   
-**Conclusion** 
+## 
+
+**Conclusion**
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière proportionnée et efficace.
