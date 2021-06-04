@@ -59,7 +59,7 @@ Il est nécessaire de refondre, le parcours du talent tout au long des étapes d
 
 Il existe différents leviers pour répondre à cette question. Pour alléger votre lecture, nous nous focaliserons sur quatre éléments fondamentaux.
 
-• **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils tels que Refty vous permettent :
+• **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils comme Refty vous permettent :
 
 > • de définir votre **candidat idéal**
 >
@@ -69,11 +69,11 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 >
 > • de le **tenir informé en temps réel**, de l'avancée du processus.
 >
-> • de **facilitez son onboarding** grâce à des données exploitables
+> • de **faciliter son onboarding** grâce à des données exploitables
 
 • **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de réduire les angles morts.
 
-• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et Hiring Managers.
+• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et hiring managers.
 
 • **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout malentendu ou désistement éventuel. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
@@ -81,8 +81,8 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 
 Refty **résout les problématiques** initialement traitées en intervenant sur ces quatre leviers. S’assurer que les candidats à haut potentiel aient une **expérience positive** tout en ayant le poste qui leur convient et s’assurer que l’entreprise distingue un top talent d’un futur collaborateur, ce sont là les missions que nous nous sommes fixées.
 
-Le rapport synthétique - point d'orgue de notre solution - découle de la prise de références et dresse une roadmap du candidat. Cette nouvelle ressource pourra être actionnée par les responsables RH et les Hiring Managers lors de l’une des phases les plus importantes du processus : l’onboarding.
+**Le rapport synthétique** - point d'orgue de notre solution - découle de la prise de références et dresse une roadmap du candidat. Cette nouvelle ressource pourra être actionnée par les responsables RH et les hiring managers lors de l’une des phases les plus importantes du processus : l’onboarding.
 
-Le rapport généré par Refty assure une vue multidimensionnelle et plus concrète de l’éventuel collaborateur : ses comportements, les styles de management dans lesquels il se complairait, les projets dans lesquels il excellera ou encore les lacunes auxquelles les managers seront confrontés.
+Le rapport généré par Refty assure une **vue multidimensionnelle et plus concrète** de l’éventuel collaborateur : ses comportements, les styles de management dans lesquels il se complairait, les projets dans lesquels il excellera ou encore les lacunes auxquelles les managers seront confrontés.
 
 Parce qu'une expérience candidat mémorable rime souvent avec déplorable, Refty vous délivre des solutions actionnables et fiables.
