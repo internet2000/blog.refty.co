@@ -17,7 +17,7 @@ Le mois de juin sera décisif. Le retour à la vie normale se profile.(Enfin). S
 
 Voici nos **5 conseils** pour préparer au mieux le retour de votre capital humain sur site :
 
-## **1.Workplace Experience**
+## **1. Workplace Experience**
 
 **Le bureau est mort. Vive la Workplace Experience**. A la suite de notre interview avec Juliette Parichet, HR Business Partner chez Voodoo, nous avons décidé d’intégrer ce concept à notre liste. L’organisation du travail a profondément muté. **Les outils numériques** (Zoom, Slack, Microsoft Teams...) ont **accentué leur emprise** sur les organisations pour leur permettre de maintenir et développer leurs activités. La résultante c’est que la **position centrale** **qu’occupait auparavant** **le bureau** dans l’environnement de travail (au sens propre comme au figuré) s’est progressivement **estompée**. **Pourquoi retourner au bureau si l’on est autant voire plus productif à distance ?** Epineuse question me direz-vous. La Workplace Experience tente d’y répondre.
 
@@ -41,7 +41,7 @@ Différentes modalités se présentent à vous : Half-remote, travail hybride,, 
 
 Il n’empêche que les organisations sont à **un carrefour.** Elles ont la possibilité de poser les jalons du **“Future of Work”** dès à présent. Ou bien capitaliser sur ce qu’elles faisaient auparavant. La direction qu’elles prendront déterminera leur capacité à bâtir un environnement **propice à la productivité et à l’épanouissement** de chaque membre de leur communauté.
 
-## **4.Recréez du lien social**
+## **4. Recréez du lien social**
 
 **Il s’est étiolé mais n’a pas rompu**. Le lien social constitue l’un des enjeux les plus importants en cette reprise d'activité. Face à la **distanciation sociale et l’isolement domestique** imputables à la crise sanitaire, les collaborateurs ont tenté, tant bien que mal, de maintenir la cohésion qu’ils avaient façonnée en présentiel. Alors que les recrues arrivées en cours de route, elles, se sont principalement intégrées via des outils collaboratifs ( Slack, Trello…).
 
