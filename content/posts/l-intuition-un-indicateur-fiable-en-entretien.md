@@ -27,7 +27,7 @@ Au cours du processus de recrutement, la sélection du candidat idéal, qui renf
 
 Avizio et Refty vous apportent des éléments de réponse…en toute objectivité bien sûr ;)
 
-# **Le biais cognitif, facteur déterminant de l’intuition**
+## **Le biais cognitif, facteur déterminant de l’intuition**
 
 Nombreux sont les managers qui, pour **confirmer leur décision** d’embaucher un candidat, l’assortiront d’un “**gut feeling**”, souvent **déterminant** une fois les autres critères validés.
 
@@ -97,35 +97,32 @@ Propice au développement d’un certain favoritisme inconscient, l’effet de s
 
 Si les dissonances sont nombreuses et n’échappent à personne, il semble que l’entretien d’embauche soit un cadre particulièrement propice à leur développement. Voyons maintenant comment cela se matérialise… et pour quelles conséquences ?
 
-# **Les conséquences des biais cognitifs sur le recrutement**
+## **Les conséquences des biais cognitifs sur le recrutement**
 
 À ce stade, ne vous demandez pas si votre décision est biaisée, mais plutôt à quel degré elle l’est (car la réponse sera forcément oui !).
 
 Les retombées sont alors aussi regrettables que dommageables : un licenciement prématuré pour cause d’inadéquation à votre culture d’entreprise, une expérience collaborateur amorphe, un sentiment d’amertume accentué par l'investissement que vous avez mobilisé, qui ne sera jamais rentabilisé….En substance, un turnover éclair qui ébranle votre organisation… Tandis que le candidat que vous désiriez tant suscite désormais, une grande affliction : il se complaît chez l’entreprise d’en face.
 
-# **Quelles solutions pour s’en prémunir ?**
+## **Quelles solutions pour s’en prémunir ?**
 
-![Source : Career Plug (2020)](/uploads/careerplug.png "Biais")
+![Source : Career Plug (2020)](/uploads/hiringbias.png "Ways to avoid bias")
 
 Pour combler la fameuse "**boîte noire**” dans la **perception** de l’employeur (_et plus largement, toute forme de perception_), il convient d’**ajouter des briques à son analyse**, pour sortir du **socle de connaissances** et de **pensées préétablies**. Prenons la situation dans le sens inverse : l’étude de cas produite par un candidat sur ses seuls acquis sera forcément moins riche/pertinente, que l’étude ayant fait l’objet de recherches préalables, de confrontation au réel.
 
 Aussi, cette “**zone de confort**” **oriente la perceptibilité et** la **priorisation d’informations** qui seront déjà intériorisées, en dépit de celles qui ne le seront pas (_exemple : employeur partenaire de l’ancienne entreprise du candidat, ce qui ajoute, même inconsciemment un signal de sécurité, de fiabilité_). Elle se doit donc d’être affranchie, en **parcourant d’autres types de perception**, afin de **limiter l’intrusion subjective**. C’est sur ce même principe que repose l’éclatement de la **“bulle-filtre”**, chez les plus connectés d’entre-nous.
 
-Pour parer et contrecarrer l’ingérance des biais inconscients et de leurs effets secondaires, telle que la discrimination ou l’excès de confiance, la référence semble s’imposer comme un levier rapidement actionnable :
+**Pour parer et contrecarrer l’ingérence des biais inconscients** et de leurs effets secondaires, comme la discrimination ou l’excès de confiance, la référence semble s’imposer comme un levier rapidement actionnable :
 
 ### **Par la data, support d’une décision objective pour Refty**
 
-La solution, co-conçue avec des experts en Ressources Humaines et en psychométrie, vous propose de définir votre candidat idéal en vous basant sur des modèles de questions prédéfinies et personnalisables. Refty propose ainsi une solution qui collecte, agrège et croise les données issues :
+La solution, co-conçue avec des experts en Ressources Humaines et en psychométrie, vous permet de : 
 
-• des personnes ayant collaboré avec le/la candidat.e dans un environnement de travail,
+* **Définir votre candidat idéal** en vous basant sur des modèles de questions **prédéfinies et personnalisables**. 
+* **Collecter les feedbacks** des personnes ayant côtoyé le.a candidat.e dans un environnement de travail
+* **Comparer l'écart** entre les attentes de votre "hiring manager" et leurs retours d'expérience
+* **Analyser** **la performance** de vos recrutements et **leur niveau d'engagement**
 
-• des attentes du futur manager,
-
-• de l’évaluation du candidat lui-même,
-
-• ainsi qu’une comparaison avec les tops profils recrutés.
-
-Cela permet d’aboutir à des enseignements exploitables à 360° ( dans le recrutement et l'onboarding), qui vont élargir, éclairer et aiguiller votre prise de décision.
+Refty permet ainsi d’aboutir à des enseignements exploitables à 360° (**dans le recrutement et l'onboarding**), qui vont élargir, éclairer et aiguiller votre prise de décision.
 
 ### **Par l’humain, éclaireur et modérateur de jugement pour Avizio**
 
