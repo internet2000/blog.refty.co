@@ -68,16 +68,4 @@ L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de rout
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière **proportionnée et efficace.**
 
 
-Veuillez renseigner vos coordonnées :) 
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "ba02b4d5-b922-495a-9409-8440f7001311"
-});
-</script>
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-0b929285-97ae-429e-931b-947b912bae77"><span class="hs-cta-node hs-cta-0b929285-97ae-429e-931b-947b912bae77" id="hs-cta-0b929285-97ae-429e-931b-947b912bae77"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/9017898/0b929285-97ae-429e-931b-947b912bae77" ><img class="hs-cta-img" id="hs-cta-img-0b929285-97ae-429e-931b-947b912bae77" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/9017898/0b929285-97ae-429e-931b-947b912bae77.png"  alt="En savoir plus"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(9017898, '0b929285-97ae-429e-931b-947b912bae77', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code -->
