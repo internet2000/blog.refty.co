@@ -66,3 +66,15 @@ L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de rout
 ## **Conclusion**
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière **proportionnée et efficace.**
+
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "4cb920ec-4e59-4942-a988-f0f0c4daccc7"
+});
+</script>
