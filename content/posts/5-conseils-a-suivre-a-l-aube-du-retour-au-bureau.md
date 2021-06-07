@@ -69,14 +69,14 @@ En appliquant nos recommandations, vous aurez une vision plus large (on l’esp�
 
 **Vous souhaitez suivre les dernières actualités et bonnes pratiques RH ? Faites partie de la "Refty Community" en vous abonnant à notre newsletter !** 
 
-<!--\[if lte IE 8\]>
+<!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<!\[endif\]-->
+<![endif]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
-hbspt.forms.create({
-region: "na1",
-portalId: "9017898",
-formId: "4cb920ec-4e59-4942-a988-f0f0c4daccc7"
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "4cb920ec-4e59-4942-a988-f0f0c4daccc7"
 });
 </script>
