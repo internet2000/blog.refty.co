@@ -67,7 +67,7 @@ L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de rout
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière **proportionnée et efficace.**
 
-**Vous souhaitez suivre les dernières actualités et bonnes pratiques RH ? Faites partie de la "Refty Community" en vous abonnant à notre newsletter !** 
+**Vous avez un intérêt pour les actualités et bonnes pratiques RH ? Faites partie de la "Refty Community" en vous abonnant à notre newsletter !** 
 
 <!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
