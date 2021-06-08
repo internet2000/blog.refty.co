@@ -25,7 +25,7 @@ permalink: "/les-references-de-refty/"
 
   👉  [Les People Analytics, une révolution pour les RH](https://www.elevo.fr/post/les-people-analytics-une-revolution-pour-les-rh)   
 
-  ![](/uploads/5db7317068a1431ddc013c55_logo-dore-sans-point-site.png) 
+  ![](/uploads/5db7317068a1431ddc013c55_logo-dore-sans-point-site.png)
 * Avizio, réseau de recommandation constitué de plus de 500 top managers
 
   👉  [Refty automatise la prise de références candidat et simplifie son analyse](https://www.avizio.fr/blog/refty-automatise-la-prise-de-reference-candidat-et-simplifie-son-analyse)
