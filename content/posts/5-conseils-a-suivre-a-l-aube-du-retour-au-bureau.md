@@ -70,3 +70,15 @@ En appliquant nos recommandations, vous aurez une vision plus large (on l’esp�
  <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
 <!-- End of HubSpot Embed Code -->
+
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-51b2f752-db4d-426f-b1ff-ed930dd50c09"><span class="hs-cta-node hs-cta-51b2f752-db4d-426f-b1ff-ed930dd50c09" id="hs-cta-51b2f752-db4d-426f-b1ff-ed930dd50c09">
+<!--[if lte IE 8]>
+
+
+
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+
+
+<![endif]-->
+<a href="https://cta-redirect.hubspot.com/cta/redirect/9017898/51b2f752-db4d-426f-b1ff-ed930dd50c09" ><img class="hs-cta-img" id="hs-cta-img-51b2f752-db4d-426f-b1ff-ed930dd50c09" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/9017898/51b2f752-db4d-426f-b1ff-ed930dd50c09.png"  alt="Lire la suite"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(9017898, '51b2f752-db4d-426f-b1ff-ed930dd50c09', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code →
