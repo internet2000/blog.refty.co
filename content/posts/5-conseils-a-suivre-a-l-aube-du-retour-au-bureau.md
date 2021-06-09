@@ -25,7 +25,7 @@ Le bureau ne doit plus simplement être un **“lieu de travail”** mais “un 
 
 ## **2. Communiquez sur le retour au bureau**
 
-Certains de vos collaborateurs peuvent ressentir une certaine **réticence à l’idée de retourner au bureau**. Pour plusieurs raisons: peur de contaminer leurs collègues ou leurs proches, pertes de repères suite aux deux confinements qui ont chamboulé leur habitudes, phobie sociale...
+Certains de vos collaborateurs peuvent ressentir une certaine **réticence à l’idée de retourner au bureau**. Pour plusieurs raisons: peur de contaminer leurs collègues ou leurs proches, pertes de repères suite aux deux confinements qui ont chamboulé leurs habitudes, phobie sociale...
 
 La communication, **clé de voûte** des relations humaines, **apaise les tensions et les interrogations** induites par le retour au bureau. Vous peinez à élaborer une politique efficace ? **Inspirez-vous de l’onboarding**. Lorsque vous accueillez une recrue dans vos locaux vous lui envoyez (en théorie) une **feuille de route** qui détaille son programme d’intégration, les différents interlocuteurs avec lesquels elle échangera, son emploi du temps etc...Nous vous invitons à **transposer ce processus** à l’ensemble de vos collaborateurs en l’adaptant au retour au bureau. Passez en revue les gestes barrières, l’importance du port du masque, les règles de distanciation sociale dans l’espace restauration…. Surtout, **communiquez** en amont de la date fatidique sur **les points de contacts** que vous jugerez adéquats (mail, visio, téléphone, Slack…). Pour que votre message soit entendu et appliqué le Jour J. Prenez une longueur d’avance pour ne pas vous laisser dépasser par l’absence de préparation et ses répercussions. En clair, adoptez une **démarche proactive** pour **simplifier l’expérience** de vos collègues et favoriser la **transparence**. Le travail hybride est-il possible ? Sous quelles modalités ? Pendant combien de temps ?
 
@@ -66,7 +66,3 @@ L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de rout
 ## **Conclusion**
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière **proportionnée et efficace.**
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
