@@ -17,7 +17,7 @@ permalink: "/les-references-de-refty/"
 
 * Jobgether, plateforme de mise en relation de candidats et recruteurs
 
-  👉  [Comment être au top dans la collecte et l'exploitation du feedback des personnes ayant collaboré avec le.a candidat.e](v)
+  👉  [Comment être au top dans la collecte et l'exploitation du feedback des personnes ayant collaboré avec le.a candidate](https://jobgether.com/fr/comment-etre-au-top-dans-la-prise-de-references/)
 
 ![](/uploads/5edf81e44dfb0a4d0b8c071f_logo_indigo_400x160.png)
 
