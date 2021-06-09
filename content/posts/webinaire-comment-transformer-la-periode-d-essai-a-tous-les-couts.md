@@ -6,10 +6,10 @@ meta:
   date: 02/06/21
   excerpt: Voici nos conseils pour optimiser cette étape charnière du recrutement
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-5.png"
-title: " Webinaire : Comment transformer la période d’essai à tous les coûts ? "
+title: " Webinaire : Comment transformer la période d’essai à tous les coups ? "
 categories:
 - Bonnes Pratiques
-permalink: "/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-couts/"
+permalink: "/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-coups/"
 
 ---
 Notre collaboration avec [Axel](https://www.heyaxel.com/) (de)matérialisée par notre webinaire a mis en lumière les talents d’oratrice de Manon Plommet-Le Bihan. Talent Acquisition Manager chez [PrestaShop](https://blog.refty.co/comment-prestashop-a-structure-son-processus-de-recrutement/) depuis plus de 2 ans, cette experte en onboarding nous a exposé les bonnes pratiques relatives à la période d’essai.
@@ -64,7 +64,7 @@ Chez PrestaShop, une attention particulière est portée à cette dimension. Pou
 
 ## **En quoi le processus de recrutement aide-t-il à l'intégration du candidat lors de sa période d’essai ?**
 
-4 étapes jalonnent notre processus de recrutement. De prime abord, cela peut paraître long. Néanmoins cela permet au candidat de s’imprégner progressivement de notre culture d’entreprise. 
+4 étapes jalonnent notre processus de recrutement. De prime abord, cela peut paraître long. Néanmoins cela permet au candidat de s’imprégner progressivement de notre culture d’entreprise.
 
 Au cours de ce processus, il est invité à dialoguer avec au minimum 3 interlocuteurs. En dehors du télétravail, nous invitons les candidats à passer un entretien au sein de nos locaux, de croiser éventuellement les équipes pour sa projection. **Approfondir et élargir sa réflexion pour lui offrir une** [**expérience candidat totale**](https://blog.refty.co/qu-est-ce-que-experience-candidat/) **est indispensable.**  
 Comme précisé précédemment, nous essayons d’être le plus **transparent** possible lors des entretiens et de décrire les avantages, mais aussi (et parfois surtout) les challenges, l’état des lieux objectifs des choses. De manière générale, les recrues n’ont pas tellement de surprises en commençant leur nouveau job.
