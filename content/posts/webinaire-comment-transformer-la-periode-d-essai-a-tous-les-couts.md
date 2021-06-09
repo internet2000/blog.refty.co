@@ -9,8 +9,6 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: " Webinaire : Comment transformer la période d’essai à tous les coûts ? "
 categories:
 - Bonnes Pratiques
-- Bonnes Pratiques
-- Bonnes Pratiques
 permalink: "/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-couts/"
 
 ---
