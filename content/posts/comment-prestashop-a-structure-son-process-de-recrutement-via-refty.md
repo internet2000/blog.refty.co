@@ -9,7 +9,7 @@ meta:
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-3.png"
 title: Comment PrestaShop a structuré son process de recrutement via Refty
 categories:
-- Bonnes pratiques
+- Bonnes Pratiques
 permalink: "/comment-prestaphop-a-structure-son-processus-de-recrutement/"
 
 ---
