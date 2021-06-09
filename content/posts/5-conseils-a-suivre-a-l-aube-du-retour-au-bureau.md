@@ -35,7 +35,7 @@ L'année 2020 a remodelé le visage du travail. **L’essor du travail à distan
 
 Néanmoins, le télétravail ne se résume pas à une simple **polarisation**. Raison pour laquelle des propos mesurés s’imposent. **La valeur sociale** du travail s’est dégradée. Certains collaborateurs plus productifs à domicile qu’au bureau, n’ont pas nécessairement travaillé en équipe.
 
-Pour un retour au bureau efficace, consultez les salariés pour élaborer une politique de travail plus équilibrée et moins fracturée. En collectant et en exploitant **les** **retours d’expérience** **de chaque collaborateur** il est fort probable que vous compreniez mieux leur perception du travail et les mesures qui doivent être maintenues et délaissées. De cette manière les collaborateurs se sentiront considérés et intégrés au processus décisionnel ce qui renforcera leur **engagement**.
+Pour un retour au bureau efficace, consultez les salariés pour élaborer une politique de travail plus équilibrée et moins fracturée. En collectant et en exploitant **les** **retours d’expérience** **de chaque collaborateur** (qu'il travaille à distance ou en présentiel) il est fort probable que vous compreniez mieux leur perception du travail et les mesures qui doivent être maintenues et délaissées. De cette manière les collaborateurs se sentiront considérés et intégrés au processus décisionnel ce qui renforcera leur **engagement**.
 
 Différentes modalités se présentent à vous : Half-remote, travail hybride,, flex office….
 
