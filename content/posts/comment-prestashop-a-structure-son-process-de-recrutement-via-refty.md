@@ -10,7 +10,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: Comment PrestaShop a structuré son process de recrutement via Refty
 categories:
 - Bonnes pratiques
-permalink: "/comment-PrestaShop-a-structure-son-processus-de-recrutement/"
+permalink: "/comment-prestaphop-a-structure-son-processus-de-recrutement/"
 
 ---
 #### A propos de PrestaShop
