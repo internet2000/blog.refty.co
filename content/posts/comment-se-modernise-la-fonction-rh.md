@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: Comment se modernise la fonction RH ?
 categories:
 - Tendances
-permalink: "/comment-se-modernise-la-fonction-RH/"
+permalink: "/comment-se-modernise-la-fonction-rh/"
 
 ---
 Les Ressources Humaines ont été l’une des ressources managériales les plus **exploitées** en cette année de pandémie. A quels changements ont-t-elles été confrontées, quels seront les enjeux de demain [à l’aube du retour au bureau ?](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/) Juliette Parichet, en qualité de **HR Business Partner chez** [**Voodoo**](https://www.voodoo.io/) nous a exposé sa vision de la modernisation de la fonction RH.
