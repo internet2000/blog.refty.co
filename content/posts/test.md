@@ -5,7 +5,7 @@ meta:
   time: "1"
   date: 23/01/2021
   excerpt: Test
-image: ''
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-13.png"
 title: Test
 categories: []
 permalink: "/test/"
