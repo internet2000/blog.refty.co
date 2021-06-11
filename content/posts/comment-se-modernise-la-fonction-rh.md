@@ -40,7 +40,7 @@ Aucun changement à signaler ces derniers mois car mon poste était déjà **tr�
 
 Avec la digitalisation, tout le monde est traité de la même manière. Etant donné que la plupart de nos collaborateurs ne vont pas au bureau, l’onboarding en ligne via [360 learning](https://360learning.com/fr/) rend l'information accessible à tous en tout temps et en tout lieu (Paris, Tokyo…).
 
-Les prochains défis sont nombreux. Lorsque le [présentiel reprendra ses droits](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), il y aura nécessairement des personnes qui retourneront au bureau et d’autres qui resteront en remote.  Cette évolution implique que **ceux qui continuent à travailler à distance ne doivent pas être lésés.**
+Les prochains défis sont nombreux. Lorsque le présentiel reprendra ses droits, il y aura nécessairement des personnes qui retourneront au bureau et d’autres qui resteront en remote.  Cette évolution implique que **ceux qui continuent à travailler à distance ne doivent pas être lésés.**
 
 Concernant le télétravail chez Voodoo, les collaborateurs ont la possibilité de travailler à distance ou bien en présentiel. Tous ceux qui le souhaitent peuvent travailler 2 fois par semaine chez eux. A ceux qui passent en “full remote”, nous demandons de venir au moins 3 jours par trimestre afin de **maintenir le lien social entre les équipes.**
 
