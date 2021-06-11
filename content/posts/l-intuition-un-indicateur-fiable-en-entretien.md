@@ -4,8 +4,8 @@ meta:
   author: Sanjay
   time: 10min
   date: 21/04/21
-  excerpt: Ils interfèrent dans le processus de recrutement. Comment s'en prémunir
-    ?
+  excerpt: Si vous avez vu une pipe. Nous vous invitons à consulter notre article
+    :)
 image: "/uploads/magritte_la_trahison_des_images_1928-1-1.jpg"
 title: 'L’intuition : un indicateur fiable en entretien ?'
 categories:
