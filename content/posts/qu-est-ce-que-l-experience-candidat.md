@@ -61,14 +61,18 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 
 • **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils comme **Refty** vous permettent :
 
-> * de définir votre **candidat idéal** en se basant **sur un ensemble de compétences.**
+> * de définir votre **candidat idéal** en se basant **sur un ensemble de compétences (et non un clone).**
 > * de le **comparer** avec le feedback de ses références
-> * de le **tenir informé en temps réel**, de l'avancée du processus.
-> * **d'analyser la performance** de vos nouveaux recrutements et **leur niveau d'engagement**
+> * de **tenir informé le candidat en temps réel**, de l'avancée du processus.
+> * **d'analyser la performance** de vos nouveaux recrutements et **leur niveau d'engagement post-onboarding**
 
 • **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de **réduire les angles morts.**
 
-• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet de mieux **comprendre et qualifier le profil du candidat** et **d'affiner la prise de décision** des recruteurs et "hiring managers".
+• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet  : 
+
+\-de **mieux comprendre et qualifier** le candidat 
+
+**-d'affiner la prise de décision** des recruteurs et "hiring managers".
 
 • **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout **malentendu ou désistement éventuel**. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
