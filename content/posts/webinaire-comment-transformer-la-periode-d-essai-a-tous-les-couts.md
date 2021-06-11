@@ -6,7 +6,7 @@ meta:
   date: 02/06/21
   excerpt: Voici nos conseils pour optimiser cette étape charnière du recrutement
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-5.png"
-title: " Webinaire : Comment transformer la période d’essai à tous les coups ? "
+title: ' Webinaire : "Comment transformer la période d’essai à tous les coups ?" '
 categories:
 - Bonnes Pratiques
 permalink: "/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-coups/"
@@ -69,16 +69,16 @@ Chez PrestaShop, une attention particulière est portée à cette dimension. Pou
 Au cours de ce processus, il est invité à dialoguer avec au minimum 3 interlocuteurs. En dehors du télétravail, nous invitons les candidats à passer un entretien au sein de nos locaux, de croiser éventuellement les équipes pour sa projection. **Approfondir et élargir sa réflexion pour lui offrir une** [**expérience candidat totale**](https://blog.refty.co/qu-est-ce-que-experience-candidat/) **est indispensable.**  
 Comme précisé précédemment, nous essayons d’être le plus **transparent** possible lors des entretiens et de décrire les avantages, mais aussi (et parfois surtout) les challenges, l’état des lieux objectifs des choses. De manière générale, les recrues n’ont pas tellement de surprises en commençant leur nouveau job.
 
-• **Quelles sont les échéances clefs à ne pas manquer au cours d’une période d’essai ?
+• Quelles sont les échéances clefs à ne pas manquer au cours d’une période d’essai ?
 
-• **Le premier jour, bien évidemment. C’est l’une des étapes les plus importantes. Mais il ne faut pas négliger la phase qui précède la journée d’intégration afin de tisser un engagement émotionnel fort avec le nouvel employé.  
+• Le premier jour, bien évidemment. C’est l’une des étapes les plus importantes. Mais il ne faut pas négliger la phase qui précède la journée d’intégration afin de tisser un engagement émotionnel fort avec le nouvel employé.  
 Il y a également le rapport d’étonnement sur le premier mois et un point à la mi période d’essai avec le manager qui peuvent s'avérer pertinents.
 
 • Enfin la fin de la période d’essai, au cours de laquelle un renouvellement, une validation, ou rupture est proposée.
 
 ## **Quels sont les signaux repérables d’une période d’essai qui ne se passe pas bien ?**
 
-Il est relativement facile de **repérer les signaux faibles**. Aussi bien du côté collaborateur que de celui du manager :
+Il est relativement facile de **repérer les signaux faibles**. Aussi bien du côté collaborateur que de celui du manager:
 
 • Lorsque le collaborateur éprouve des difficultés à s’intégrer
 
