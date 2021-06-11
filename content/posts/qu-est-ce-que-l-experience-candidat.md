@@ -68,11 +68,10 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 
 • **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de **réduire les angles morts.**
 
-• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet  : 
+• **Recourir aux analytics**. La donnée ne vous confère un avantage concurrentiel que si vous avez la capacité et la volonté de **l'exploiter.** Son exploitation permet  :
 
-\-de **mieux comprendre et qualifier** le candidat 
-
-**-d'affiner la prise de décision** des recruteurs et "hiring managers".
+* de **mieux comprendre et qualifier** le candidat
+* **d'affiner la prise de décision** des recruteurs et "hiring managers".
 
 • **La** **suppression des points de friction et d’affliction.** Nombre de solutions de recrutement **refrènent le candidat** en raison de leur complexité technique ou de leur faible ergonomie. Appuyez-vous sur des **solutions intuitives et clé en main** adaptées pour chacune des parties prenantes ( candidat, recruteur, hiring manager....) . Ainsi, vous vous prémunirez de tout **malentendu ou désistement éventuel**. En parallèle, le candidat se sentira considéré et estimé - à sa juste valeur - et son engagement n’en sera que plus fort.
 
