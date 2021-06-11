@@ -17,23 +17,23 @@ global.footer.address: ''
 ---
 Avant que l’épidémie ne redéfinisse le mot "masque" dans l'inconscient collectif, nombreuses étaient les entreprises qui se concentraient exclusivement sur **l’expérience client**, que James H. Gilmore et Joseph B. Pine ont théorisé dans les colonnes de la [_Harvard Business Review_](https://hbr.org/1998/07/welcome-to-the-experience-economy) en 1998. Cette dernière, si elle est correctement élaborée et appliquée, confère à l’entreprise un avantage concurrentiel de premier ordre et un engagement sans faille.
 
-Au cours de l’année précédente, [**84%**](https://www.ifop.com/wp-content/uploads/2020/07/CP_YAGGO_EtudeIFOP_15072020.pdf) des candidats se sont dits victimes d’une mauvaise expérience de recrutement. Dorénavant, tous les efforts consentis par les entreprises pour satisfaire et devancer les besoins explicites ou implicites du client **doivent être transposés à la sphère RH notamment au recrutement** dont la pierre angulaire est le talent.
+Le contexte actuel a une influence significative sur l’embauche qui s’appuie sur davantage d’outils de recrutement : de la gestion à l'analyse, en passant par l’automatisation et la télécommunication. **L'expérience candidat** est synonyme de **levier de performance, d'engagement, de loyauté** et côté entreprise de **rayonnement de la marque employeur et de rétention.**
 
-La notion d’**expérience candidat**, n’a véritablement émergé que récemment et s’est accentuée ces derniers mois à la faveur de la crise sanitaire. Aussi, **la somme de tous les évènements auxquels va participer le candidat avec son éventuel employeur, tout au long de la durée du recrutement**, précède [**l'expérience collaborateur**](https://www.forbes.com/sites/jeannemeister/2020/06/08/employee-experience-is-more-important-than-ever-during-the-covid-19-pandemic/?sh=466ed01934bc)**.**
+La notion d’expérience candidat, n’a véritablement émergé que récemment et s’est accentuée ces derniers mois à la faveur de la **crise sanitaire**. Aussi, **la somme de tous les évènements auxquels va participer le candidat avec son éventuel employeur, tout au long de la durée du recrutement**, précède [**l'expérience collaborateur**](https://www.forbes.com/sites/jeannemeister/2020/06/08/employee-experience-is-more-important-than-ever-during-the-covid-19-pandemic/?sh=466ed01934bc)**.**
 
-Le contexte actuel a une influence significative sur l’embauche qui s’appuie sur davantage d’outils de recrutement : de la gestion à l'analyse, en passant par l’automatisation et la télécommunication. L'expérience candidat est synonyme de **levier de performance, d'engagement, de loyauté** et côté entreprise de **rayonnement de la marque employeur et de rétention.**
+Au cours de l’année précédente, [**84%**](https://www.ifop.com/wp-content/uploads/2020/07/CP_YAGGO_EtudeIFOP_15072020.pdf) des candidats se sont dits victimes d’une **mauvaise expérience de recrutement**. Dorénavant, tous les efforts consentis par les entreprises pour satisfaire et devancer les besoins explicites ou implicites du client **doivent être transposés à la sphère RH notamment au recrutement** dont la pierre angulaire est le talent.
 
 ## ATS & Job boards : une relation (souvent) déséquilibrée
 
-Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration et d'incomplétude**. L’ampleur du désengagement est croissante à mesure que **la communication s'estompe**. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un manque de considération et de respect.
+Impulsée depuis plusieurs années par les job boards et ATS (Applicant Tracking System) qui gèrent les flux de candidatures au cours d’un processus souvent **long et lourd** (qui décourage et désengage plus d’un demandeur d’emploi), cette expérience candidat suscite pour certain.e.s un **sentiment de frustration et d'incomplétude**. L’ampleur du désengagement est croissante à mesure que **la communication s'estompe**. Bien que l’ATS “track” le candidat, ce dernier n’a pas toujours la possibilité de **suivre en temps réel** l'évolution de sa candidature et perçoit l'information délivrée au compte-gouttes comme un **manque de considération et de respect.**
 
-Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Attirer, engager et retenir les top talents est devenu plus ardu qu’auparavant.
+Dans le sillage de cette expérience candidat de plus en plus considérée par les recruteurs, RPO ( Recruitment Process Outsourcing) et personnes en charge du recrutement, le travail connaît un bouleversement structurel sans précédent. Acquérir, engager et retenir les top talents est devenu plus ardu qu’auparavant.
 
 ## Facteur incontournable de l'engagement et de la confiance
 
 La valorisation de l’expérience candidat voit l’émergence et le développement de **l’**[**engagement et de la confiance**](https://www.researchgate.net/publication/233894851_The_Commitment-Trust_Theory_of_Relationship_Marketing)**.** Lorsque les interactions sont **transparentes, plus approfondies et élargies** sur l’ensemble des points de contacts, l'expérience du talent en ressort amplifiée.
 
-Cet engagement n’atteindra son paroxysme que si le nouveau talent dispose d’un environnement propice à son épanouissement et à l’expression de son potentiel d'où l'importance du recrutement, de l’onboarding et de la culture d’entreprise. [**La culture de l'entreprise **](https://www.hbrfrance.fr/chroniques-experts/2020/02/29310-teletravail-comment-creer-une-culture-dentreprise-a-distance/)- somme des valeurs, comportements et connaissances et à laquelle la majorité des collaborateurs adhère [joue un rôle crucial.](/fr-fr/limportance-des-soft-skills-dans-le-recrutement-et-la-culture-dentreprise) Ainsi, les [**compétences comportementales**](/fr-fr/limportance-des-soft-skills-dans-le-recrutement-et-la-culture-dentreprise) connaissent une appréciation grandissante.
+Cet engagement n’atteindra son paroxysme que si le nouveau talent dispose d’un environnement propice à son épanouissement et à l’expression de son potentiel d'où l'importance du recrutement, de l’onboarding et de la culture d’entreprise. [La culture d'entreprise](https://www.hbrfrance.fr/chroniques-experts/2020/02/29310-teletravail-comment-creer-une-culture-dentreprise-a-distance/) - somme des valeurs, comportements et connaissances et à laquelle la majorité des collaborateurs adhère [joue un rôle crucial.](/fr-fr/limportance-des-soft-skills-dans-le-recrutement-et-la-culture-dentreprise) Ainsi, les [**compétences comportementales**](/fr-fr/limportance-des-soft-skills-dans-le-recrutement-et-la-culture-dentreprise) connaissent une appréciation grandissante.
 
 Hors dans certains cas, les prévisions de chacune des parties tournent rapidement à la désillusion pour cause d’inadéquation liée au soft skills.
 
@@ -55,16 +55,16 @@ Cette problématique est d’autant plus importante pour [certains Millennials](
 
 ## Réformer l’expérience du candidat
 
-Il est nécessaire de refondre, le parcours du talent tout au long des étapes du processus d’embauche, afin de mieux attirer et retenir (et par extension recruter et engager) le.a candidat.e tant convoité.e par les recruteurs. A cet enjeu, s'additionne la nécessité de **décharger les recruteurs des tâches rébarbatives** qui minent leur productivité afin qu’ils se consacrent totalement à la dimension humaine qui caractérise leur vocation. **Comment valoriser l'expérience candidat tout en recrutant le bon talent ?**
+Il est nécessaire de refondre, le parcours du talent tout au long des étapes du processus d’embauche, afin de mieux attirer (et par extension recruter et engager) le.a candidat.e tant convoité.e par les recruteurs. A cet enjeu, s'additionne la nécessité de **décharger les recruteurs des tâches rébarbatives** qui minent leur productivité afin qu’ils se consacrent totalement à la dimension humaine qui caractérise leur vocation. **Comment valoriser l'expérience candidat tout en recrutant le bon talent ?**
 
 Il existe différents leviers pour répondre à cette question. Pour alléger votre lecture, nous nous focaliserons sur quatre éléments fondamentaux.
 
 • **L'automatisation de la prise de références.** Solliciter rapidement les parties prenantes qui ont collaboré avec le talent dans un environnement de travail est un judicieux moyen de visualiser ses compétences techniques et comportementales. Certains outils comme **Refty** vous permettent :
 
-> * de définir votre **candidat idéal**
+> * de définir votre **candidat idéal** en se basant **sur un ensemble de compétences.**
 > * de le **comparer** avec le feedback de ses références
 > * de le **tenir informé en temps réel**, de l'avancée du processus.
-> * **d'analyser la performance** de vos nouveaux recrutement et **leur niveau d'engagement**
+> * **d'analyser la performance** de vos nouveaux recrutements et **leur niveau d'engagement**
 
 • **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de **réduire les angles morts.**
 
