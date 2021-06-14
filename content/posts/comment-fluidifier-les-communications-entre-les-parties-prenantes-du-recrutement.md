@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Sanjay
-  time: 9mn
+  time: 7mn
   date: 14/06/21
   excerpt: Entretien avec Beatriz Sanchez, Head of People de Manty
 image: "/uploads/logo-manty.png"
