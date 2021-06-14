@@ -62,9 +62,7 @@ Important à prendre en compte : ce sont toujours les candidats qui **choisissen
 
 ## Comment se passe la formation / accompagnement des managers sur le processus de recrutement ?
 
-C’est une bonne question.
-
-C’est “impossible” pour moi d’envoyer un collaborateur à un entretien pour la première fois sans lui expliquer au moins notre processus et notre approche. Pour que l’entretien soit le plus **efficace possible**, la personne doit savoir quelles questions poser pour bien évaluer une compétence, tout comme les questions qu’elle ne doit pas poser c’est aussi important (parfois ce n’est pas évident, on ne sait jamais) , **quel est l’objectif à atteindre de cet entretien**, etc. Chaque entretien est très important et vis-à-vis du respect du candidat, nous ne pouvons pas nous permettre de ne pas être prêts et formés. Ainsi, en amont de chaque étape, tous les collaborateurs qui interviennent durant le processus ont une petite formation en recrutement que je dispense.
+C’est une bonne question. C’est “impossible” pour moi d’envoyer un collaborateur à un entretien pour la première fois sans lui expliquer au moins notre processus et notre approche. Pour que l’entretien soit le plus **efficace possible**, la personne doit savoir quelles questions poser pour bien évaluer une compétence, tout comme les questions qu’elle ne doit pas poser c’est aussi important (parfois ce n’est pas évident, on ne sait jamais) , **quel est l’objectif à atteindre de cet entretien**, etc. Chaque entretien est très important et vis-à-vis du respect du candidat, nous ne pouvons pas nous permettre de ne pas être prêts et formés. Ainsi, en amont de chaque étape, tous les collaborateurs qui interviennent durant le processus ont une petite formation en recrutement que je dispense.
 
 En plus, nous avons mis en place des fiches [Notion](https://www.notion.so) qui explicitent la méthodologie à respecter.
 
