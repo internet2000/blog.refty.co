@@ -5,7 +5,7 @@ meta:
   time: 7mn
   date: 14/06/21
   excerpt: Entretien avec Beatriz Sanchez, Head of People de Manty
-image: "/uploads/logo-manty.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-16.png"
 title: Comment fluidifier les communications entre les parties prenantes du recrutement
   ?
 categories:
