@@ -6,11 +6,10 @@ meta:
   date: 14/06/21
   excerpt: Entretien avec Beatriz Sanchez, Head of People de Manty
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-16.png"
-title: Comment fluidifier les communications entre les parties prenantes du recrutement
-  ?
+title: 'La nécessité de fluidifier la communication dans le recrutement '
 categories:
 - Bonnes Pratiques
-permalink: "/comment-fluidifier-les-communications-parties-prenantes-recrutement/"
+permalink: "/necessité-fluidifier-communication-recrutement/"
 
 ---
 _Pendant le processus de recrutement de nombreuses parties prenantes interviennent. Le candidat se retrouve donc à échanger avec plusieurs interlocuteurs ce qui peut parfois apporter de la **confusion** dans le processus._
