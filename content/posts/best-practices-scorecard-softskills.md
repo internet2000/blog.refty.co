@@ -69,4 +69,4 @@ L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébisc
 </style></head>
 
 rtgrgbvfgbfbfg
-<style> body { color: #FFA077; } </style ><head>
+<style> body { color: #FFA077; } </style ></head>
