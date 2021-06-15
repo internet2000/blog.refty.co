@@ -91,7 +91,7 @@ Oui, c’est tout ce qui a été dit précédemment. [**L'expérience candidat**
 
 Nous avons tous été candidats, au moins une fois dans la vie. Il ne faut pas oublier que ça reste un exercice parfois un peu stressant. Ma priorité est de trouver les bonnes personnes pour Manty en gardant u**n processus le plus bienveillant et agréable possible pour les candidats.**
 
-## Lorsque le candidat est "coopté" par un salarié comment gérerez vous les informations qui lui sont communiquées ? Par exemple, quelles informations sur l’évolution du processus sont communiquées au salarié qui coopte ?
+## Lorsque le candidat est "coopté" par un salarié comment gérez vous les informations qui lui sont communiquées ? Par exemple, quelles informations sur l’évolution du processus sont communiquées au salarié qui coopte ?
 
 Nous souhaitons nous rapprocher de [PeerLink ](https://www.peerlink.fr/)qui est une entreprise innovante dans le domaine des RH tout comme Refty.
 
