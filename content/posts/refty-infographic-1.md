@@ -4,12 +4,13 @@ meta:
   author: Barthélémy
   time: 7sec
   date: 23/01/2021
-  excerpt: ''
+  excerpt: Nous avons interrogé plus de 100 entreprises
 image: "/uploads/thumbnail.png"
-title: 'Refty : Infographic 1'
+title: 'Infographie : L''importance des soft skills dans le recrutement et la culture
+  d''entreprise'
 categories:
-- Tendances
-permalink: "/refty-infographic/"
+- Médias
+permalink: "/refty-infographie-soft-skills/"
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
@@ -22,4 +23,3 @@ src="https://www.canva.com/design/DAEbp_OJTv8/view?embed">
 <a href="https://www.canva.c_m/design/DAEbp_OJTv8/view?utm_content=DAEbp_OJTv8&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Refty - Infographics</a> by Sanjay Lalsingue
 
 
-https://www.canva.com/design/DAEbp_OJTv8/view
