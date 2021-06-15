@@ -29,3 +29,9 @@ permalink: "/les-references-de-refty/"
 * Avizio, réseau de recommandation constitué de plus de 500 top managers
 
   👉  [Refty automatise la prise de références candidat et simplifie son analyse](https://www.avizio.fr/blog/refty-automatise-la-prise-de-reference-candidat-et-simplifie-son-analyse)
+
+![](/uploads/download-1.png)
+
+* Axel, solution d'onboarding et e management à distance
+
+  👉 [Tout ce que vous devez savoir sur cette bonne vieille période d'essai](https://www.heyaxel.com/blog/tout-ce-que-vous-devez-savoir-sur-cette-bonne-vieille-periode-dessai)
