@@ -7,8 +7,9 @@ meta:
   excerpt: Nous repensons le recrutement...Mais aussi les HR
 image: "/uploads/thumbnail.png"
 title: Notre définition du terme "H.R"
-categories: []
-permalink: "/definition-h-r/"
+categories:
+- Média
+permalink: "/gif-definition-h-r/"
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
