@@ -64,3 +64,13 @@ L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébisc
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
 <!-- End of HubSpot Embed Code -->
+
+dsvsdvdsvdsvdsvds
+type: color
+name: background_color
+label: Background Color
+description: The background color of the element.
+config:
+  color_format: Hex
+default: "#9B9B9B"
+sdvsdvdsvdsvdsvds
