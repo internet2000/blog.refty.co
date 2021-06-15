@@ -32,6 +32,6 @@ permalink: "/les-references-de-refty/"
 
 ![](/uploads/download-1.png)
 
-* Axel, solution d'onboarding et e management à distance
+* Axel, solution d'onboarding et de management à distance
 
   👉 [Tout ce que vous devez savoir sur cette bonne vieille période d'essai](https://www.heyaxel.com/blog/tout-ce-que-vous-devez-savoir-sur-cette-bonne-vieille-periode-dessai)
