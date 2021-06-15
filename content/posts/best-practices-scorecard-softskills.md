@@ -5,6 +5,7 @@ meta:
   time: 3mn
   excerpt: '"L''onboarding" de ces deux notions représente un avantage concurrentiel
     de premier ordre.'
+  date: 03/03/21
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-7.png"
 title: 'Bonnes pratiques : Scorecard & Soft skills'
 categories:
@@ -61,6 +62,7 @@ Lors des entretiens, pour qu’une soft skill soit considérée comme validée /
 Côté reporting, la scorecard est un **outil de standardisation** qui fait l'unanimité en ceci qu'elle permet de croiser et comparer les réponses.
 
 L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébiscitent cette méthodologie pour **l'effort d'objectivité** que cela implique dans un processus de recrutement, notamment en matière d'analyse de soft skills.
+
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
 <!-- End of HubSpot Embed Code -->
