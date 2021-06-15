@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: 'La nécessité de fluidifier la communication dans le recrutement '
 categories:
 - Bonnes Pratiques
-permalink: "/necessité-fluidifier-communication-recrutement/"
+permalink: "/necessite-fluidifier-communication-recrutement/"
 
 ---
 _Pendant le processus de recrutement de nombreuses parties prenantes interviennent. Le candidat se retrouve donc à échanger avec plusieurs interlocuteurs ce qui peut parfois apporter de la **confusion** dans le processus._
