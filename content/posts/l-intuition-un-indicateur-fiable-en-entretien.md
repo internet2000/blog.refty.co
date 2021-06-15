@@ -10,7 +10,7 @@ image: "/uploads/magritte_la_trahison_des_images_1928-1-1.jpg"
 title: 'L’intuition : un indicateur fiable en entretien ?'
 categories:
 - Bonnes Pratiques
-permalink: "/l-intuition-un-indicateur-fiable-en-entretien/"
+permalink: "/intuition-un-indicateur-fiable-en-entretien/"
 
 ---
 **“_Si la passion vous anime, laissez la raison tenir les rênes_”.**
