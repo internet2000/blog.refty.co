@@ -66,5 +66,7 @@ L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébisc
 <!-- End of HubSpot Embed Code -->
 
 
-  
+  <Refty style="background-color: {{ #FFA077 }}">
+  <!--...--->
+  </Refty>
 
