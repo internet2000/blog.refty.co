@@ -9,7 +9,7 @@ image: "/uploads/thumbnail.png"
 title: 'Infographie : L''importance des soft skills dans le recrutement et la culture
   d''entreprise'
 categories:
-- Médias
+- Média
 permalink: "/refty-infographie-soft-skills/"
 
 ---
