@@ -66,8 +66,6 @@ L'ensemble des parties prenantes interrogées (RH, Managers, CEO, etc.) plébisc
 <!-- End of HubSpot Embed Code -->
 
 
-## **Etape 4 : Les entretiens**
-<h2><strong>## **Etape 4 : Les entretiens**</strong></h2>
+<head>## **Etape 4 : Les entretiens**
 <style> body { color: #FFA077; } </style></head>
 <h2><strong>## **Etape 4 : Les entretiens**</strong></h2>
-## **Etape 4 : Les entretiens**
