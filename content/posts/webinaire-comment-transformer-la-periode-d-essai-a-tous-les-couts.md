@@ -6,8 +6,7 @@ meta:
   date: 02/06/21
   excerpt: Voici nos conseils pour optimiser cette étape charnière du recrutement
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-5.png"
-title: ' Webinaire : "Comment transformer la période d’essai à tous les ~~coûts~~
-  ?" '
+title: ' Webinaire : "Comment transformer la période d’essai à tous les coups ?" '
 categories:
 - Bonnes Pratiques
 permalink: "/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-coups/"
