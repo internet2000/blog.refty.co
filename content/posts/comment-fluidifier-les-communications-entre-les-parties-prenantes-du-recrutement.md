@@ -4,7 +4,7 @@ meta:
   author: Sanjay
   time: 7mn
   date: 14/06/21
-  excerpt: Entretien avec Beatriz Sanchez, Head of People de Manty
+  excerpt: Entretien avec Beatriz Sanchez, Head of People chez Manty
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-16.png"
 title: 'La nécessité de fluidifier la communication dans le recrutement '
 categories:
