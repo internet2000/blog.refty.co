@@ -19,8 +19,6 @@ Voici nos **5 conseils** pour préparer au mieux le retour de votre capital huma
 
 ## **1. Workplace Experience**
 
-<style>body { opacity: 255; transition: 255s opacity ease; }</style></head>
-
 **Le bureau est mort. Vive la Workplace Experience**. A la suite de [notre interview](https://blog.refty.co/comment-se-modernise-la-fonction-rh/) avec Juliette Parichet, HR Business Partner chez Voodoo, nous avons décidé d’intégrer ce concept à notre liste. L’organisation du travail a profondément muté. **Les outils numériques** (Zoom, Slack, Microsoft Teams...) ont **accentué leur emprise** sur les organisations pour leur permettre de maintenir et développer leurs activités. La résultante c’est que la **position centrale** **qu’occupait auparavant** **le bureau** dans l’environnement de travail (au sens propre comme au figuré) s’est progressivement **estompée**. **Pourquoi retourner au bureau si l’on est autant voire plus productif à distance ?** Epineuse question me direz-vous. La Workplace Experience tente d’y répondre.
 
 Le bureau ne doit plus simplement être un **“lieu de travail”** mais “un **“lieu d’épanouissement et de vie**”. Il doit être un **catalyseur d’échange, de cohésion, de bien-être.** L'aménagement des bureaux, les espaces de socialisation, les services extra-professionnels (sport, espace détente…) en sont **les instruments**. En substance, le bureau doit répondre à la **quête de sens et au besoin d’expérience**.Le retour au bureau implique mécaniquement la promotion d’une **valeur ajoutée qui diffère de celle qui existait auparavant**. Il se doit de valoriser une atmosphère distinctive et engageante qui n’existe nulle part ailleurs.
@@ -68,7 +66,3 @@ L’aménagement des bureaux est inefficace, remodelez-le. Votre feuille de rout
 ## **Conclusion**
 
 En appliquant nos recommandations, vous aurez une vision plus large (on l’espère) des enjeux relatifs au retour au bureau. Et vous serez en mesure de répondre à votre capital humain de manière **proportionnée et efficace.**
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
