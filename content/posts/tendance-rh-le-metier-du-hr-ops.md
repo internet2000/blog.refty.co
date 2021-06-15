@@ -10,7 +10,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: 'Tendance RH, le métier du HR Ops '
 categories:
 - Tendances
-permalink: "/tendance-rh-métier-hr-ops/"
+permalink: "/tendance-rh-metier-hr-ops/"
 
 ---
 ## L'expérience collaborateur, la priorité absolue
