@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: "/webinaire-employabilité-soft-skills/"
+permalink: "/webinaire-employabilite-soft-skills/"
 author: Alex
 time: 3 min
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
