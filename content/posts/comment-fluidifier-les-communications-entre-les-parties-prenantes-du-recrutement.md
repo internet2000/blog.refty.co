@@ -14,7 +14,7 @@ permalink: "/necessite-fluidifier-communication-recrutement/"
 ---
 _Pendant le processus de recrutement de nombreuses parties prenantes interviennent. Le candidat se retrouve donc à échanger avec plusieurs interlocuteurs ce qui peut parfois apporter de la **confusion** dans le processus._
 
-A l'aube [des élections régionales](https://www.service-public.fr/particuliers/vosdroits/F1958) dont la première vague se tiendra ce week-end, une **Govtech** est de plus en plus plébiscitée par les collectivités territoriales. Forte d’une levée de fonds de [**2.4 millions d’euros**](https://www.manty.eu/post/manty-l%C3%A8ve-2-4-millions-d-euros-pour-am%C3%A9liorer-la-gestion-des-collectivit%C3%A9s), Manty, créée en janvier 2017, a pour ambition de repenser la manière dont les collectivités gèrent et exploitent leurs données, en vue d’améliorer le quotidien de leurs administrés et de prendre des décisions plus éclairées.
+A l'aube [des élections régionales](https://www.service-public.fr/particuliers/vosdroits/F1958) dont la première vague se tiendra ce week-end, une **Govtech** est de plus en plus plébiscitée par les collectivités territoriales. Forte d’une levée de fonds de [**2.4 millions d’euros**](https://www.manty.eu/post/manty-l%C3%A8ve-2-4-millions-d-euros-pour-am%C3%A9liorer-la-gestion-des-collectivit%C3%A9s), [Manty](https://www.manty.eu/), créée en janvier 2017, a pour ambition de repenser la manière dont les collectivités gèrent et exploitent leurs données, en vue d’améliorer le quotidien de leurs administrés et de prendre des décisions plus éclairées.
 
 **Beatriz Sanchez DRH chez Manty** a mis en place _from scratch_ tout le processus de recrutement et son évolution. Entretien.
 
