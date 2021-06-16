@@ -20,10 +20,10 @@ permalink: "/infographie-outils-recrutement-covid-19/"
 
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
 
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEcY1DOu14&#x2F;view?embed">
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEcY7QjlRw&#x2F;view?embed">
 
   </iframe>
 
 </div>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEcY1DOu14&#x2F;view?utm_content=DAEcY1DOu14&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Sanjay Lalsingue
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEcY7QjlRw&#x2F;view?utm_content=DAEcY7QjlRw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Sanjay Lalsingue
