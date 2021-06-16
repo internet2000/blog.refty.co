@@ -5,7 +5,7 @@ meta:
   time: 7sec
   date: 23/01/2021
   excerpt: Nous avons interrogé plus de 100 entreprises
-image: "/uploads/thumbnail.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-18.png"
 title: 'Infographie : L''importance des soft skills dans le recrutement et la culture
   d''entreprise'
 categories:
