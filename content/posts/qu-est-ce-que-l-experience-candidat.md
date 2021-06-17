@@ -64,7 +64,7 @@ Il existe différents leviers pour répondre à cette question. Pour alléger vo
 > * de définir votre **candidat idéal** en se basant **sur un ensemble de compétences (et non un clone).**
 > * de le **comparer** avec le feedback de ses références
 > * de **tenir informé le candidat en temps réel**, de l'avancée du processus.
-> * **d'analyser la performance** de vos nouveaux recrutements et **leur niveau d'engagement post-onboarding**
+> * **d'analyser la performance** de vos nouveaux recrutements et **leurs degrés d'engagement durant l'onboarding**
 
 • **L'homogénéité du processus**. L'évaluation standardisée permet d'aplanir et d'objectiver le processus. C'est un moyen de **s'affranchir des biais cognitifs** et de **réduire les angles morts.**
 
