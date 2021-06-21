@@ -27,7 +27,7 @@ Passons en revue 5 outils qui permettent de **mieux déceler le potentiel** de v
 4. La mise en situation
 5. La prise de référence
 
-## 1.L’entretien
+## 1. L’entretien
 
 Étape incontournable du recrutement, l’entretien offre la possibilité au recruteur et hiring manager, de dresser un aperçu du talent qu’ils ont contacté. **C’est l’outil de pré-sélection par excellence**. C’est durant cette étape que le candidat **attise votre curiosité et légitimise votre choix**. Le candidat présente brièvement son parcours et ses motivations et vous en tirerez un jugement incomplet mais déterminant pour l’étape suivante. Bien que faisant l’objet d'un relatif consensus, l’entretien possède certaines limites. Il peut laisser la porte ouverte aux [biais cognitifs](https://blog.refty.co/intuition-un-indicateur-fiable-en-entretien/). Ces derniers altèrent la perception des acteurs RH et peuvent affecter leur jugement. Autre travers de l’entretien : les informations délivrées sont parfois **enjolivées** car aucun mécanisme de vérification n’est utilisé. Enfin, les questions sont souvent **génériques et prévisibles** tandis que les réponses sont majoritairement **courtes et superficielles**. C’est un outil indispensable, néanmoins, il ne permet pas de distinguer un.e candidat.e d’un autre a fortiori quand ils/elles délivrent des réponses similaires ou quand les parcours sont différents. Il est nécessaire de recourir à d’autres outils pour contrecarrer ses limites.
 
