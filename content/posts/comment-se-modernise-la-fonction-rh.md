@@ -5,7 +5,7 @@ meta:
   time: 8mn
   date: 04/06/21
   excerpt: Éléments de réponse avec Juliette Parichet, HR Business Partner chez Voodoo
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-11.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-21.png"
 title: Comment se modernise la fonction RH ?
 categories:
 - Tendances
