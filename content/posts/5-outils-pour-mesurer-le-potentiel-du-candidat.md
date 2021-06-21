@@ -5,7 +5,7 @@ meta:
   time: 7mn
   date: 21/06/21
   excerpt: Comment révéler le potentiel du candidat ?
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-22.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-23.png"
 title: 5 outils pour mesurer le potentiel du candidat
 categories:
 - Bonnes Pratiques
