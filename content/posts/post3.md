@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: "/webinaire-employabilité-soft-skills/"
+permalink: "/webinaire-employabilite-soft-skills/"
 author: Alex
 time: 3 min
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
@@ -24,11 +24,11 @@ Retranscription du Webinaire du 9 février 2021 - [Guillaume Piot](https://www.l
 
 > Les soft-skills déterminent notre personnalité, nos motivations, nos comportements privilégiés, dans le milieu professionnel.
 
-Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire mais aussi et surtout pour qui elle est, comment elle se comporte. Il y a une notion de projection dans le temps à prendre en compte, une sorte de pari sur l’avenir.
+Une personne est recrutée pour ce qu’elle connaît, ce qu’elle sait faire mais aussi et surtout pour **qui elle est**, comment elle se comporte. Il y a une notion de projection dans le temps à prendre en compte, une sorte de pari sur l’avenir.
 
 La prise en compte des soft-skills permettra de **baisser l’incertitude dans cette prise de risque.**
 
-## 🙋🏻‍♂️ **L'utilisation des soft skills du côté candidat**
+## 🙋🏻‍♂️ L'utilisation des soft skills du côté candidat
 
 ### Comment connaître ses soft skills en tant qu'individu ?
 
@@ -38,11 +38,11 @@ Pour connaître ses soft-skills plusieurs méthodes peuvent être envisagées :
 
 ### **Introspection : réflexion sur soi**
 
-• Faire ressortir ses points forts et points à améliorer : déterminer rétrospectivement ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés
+• Faire ressortir ses points forts et points à améliorer: **déterminer rétrospectivement** ce qui a fait, défaut dans tel mission / job pour permettre de sur-performer et à l'inverse les conditions qui m'ont permis d'atteindre les objectifs fixés
 
-• Déduire des soft-skills en analysant son comportement dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
+• Déduire des soft-skills **en analysant son comportement** dans des situations "basiques" : manière de travailler en équipe, de communiquer...etc
 
-• Eviter de se dévaloriser : rester le plus honnête et l’objectif possible.
+• Eviter de se dévaloriser : rester le plus **honnête et l’objectif** possible.
 
 ### **Via un Questionnaire :**
 
@@ -72,15 +72,15 @@ Il ne faut pas perdre de vue que les recruteurs qui prennent en compte les soft 
 
 En tant que candidat il faudra mettre en avant les compétences en savoir être attendues en connaissance de cause !
 
-Pour se faire une idée des soft skills attendues :
+Pour se faire une idée des soft skills attendues:
 
 Bien lire l’offre d’emploi, elle est régulièrement pleine d’infos intéressantes : équipe, rôle...
 
-• Se renseigner en profondeur sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
+• **Se renseigner en profondeur** sur la société et les missions proposées : culture d’entreprise, profil des collaborateurs, etc.
 
 • Poser des questions au recruteur sur l’entreprise, son évolution - projection du poste.
 
-• Les soft skills sont issus des expériences et du vécu. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
+• Les soft skills sont issus des **expériences et du vécu**. Pour les mettre en avant, il faut donc raconter des situations de travail où ces soft skills ont été un levier de réussite.
 
 Il est important de bien avoir en tête les traits de personnalité et de motivations qui vont permettre de décrocher le job recherché.
 
@@ -132,17 +132,17 @@ Il est donc important de réussir à capter les soft skills chez les candidats. 
 
 ### **Tester**
 
-Intégrer un test de personnalité de bon niveau et avec une bonne expérience candidat . Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement.
+Intégrer un test de personnalité de bon niveau et avec une bonne [**expérience candidat** ](https://blog.refty.co/qu-est-ce-que-experience-candidat/). Ou observer la manière de se comporter du candidat en groupe pour capter ses comportements & son positionnement.
 
 ### **Utiliser un système de références / recommandations**
 
-Privilégier une approche innovante pour favoriser l'objectivité basée sur les soft skills.
+Privilégier une approche innovante pour **favoriser l'objectivité** basée sur les soft skills.
 
 Ces exercices sont des révélateurs de personnalité qui aideront à mieux projeter le candidat dans l’environnement du poste, de l’équipe et de l’entreprise à court et moyen terme.
 
-Cette notion de temporalité est importante car les soft skills sont des compétences vivantes, évolutives, elles s’inscrivent dans un continuum et peuvent changer avec le temps.
+Cette notion de temporalité est importante car les soft skills sont des **compétences vivantes, évolutives**, elles s’inscrivent dans un continuum et peuvent changer avec le temps.
 
-Il faut adapter le processus de recrutement à ces nouveaux besoins de captation et d’exploitation des soft skills.
+Il faut adapter le processus de recrutement à ces nouveaux besoins de **captation et d’exploitation** des soft skills.
 
 > Les softs skills recherchées chez un candidat différent selon le poste, le secteur, le niveau, la séniorité… mais aussi en fonction de l’entreprise : culture, maturité, environnement.
 
@@ -162,11 +162,11 @@ Il sera ainsi plus simple au recruteur de recommander des candidats à des manag
 
 ### Quelle exploitation des soft skills pour l’onboarding et le développement du candidat dans l’entreprise ?
 
-Il faut prendre en considération les soft skills lors du recrutement et les cultiver tout au long d’une carrière. La différence avec les hard-skills se fait principalement à ce niveau.
+Il faut prendre en considération les soft skills lors du recrutement et les **cultiver tout au long d’une carrière**. La différence avec les hard-skills se fait principalement à ce niveau.
 
-L’analyse des soft skills fournit des informations uniques pour intégrer harmonieusement les nouveaux employés dans les équipes et faciliter les plans de développement des collaborateurs : parcours de carrière, mobilité interne, formations.
+L’analyse des soft skills fournit des informations uniques pour **intégrer harmonieusement les nouveaux employés dans les équipes** et faciliter les plans de développement des collaborateurs : parcours de carrière, mobilité interne, formations.
 
-> La prise en compte des soft skills doit s’inscrire dans une démarche globale de compétences. Elle vient compléter l’analyse plus classique des savoir-faire.
+> La prise en compte des soft skills doit s’inscrire dans une démarche globale de compétences. Elle vient **compléter l’analyse plus classique des savoir-faire.**
 
 L'analyse des soft skills fait partie du nouveau paradigme, d’une culture RH innovante et évolutive.
 
@@ -186,7 +186,7 @@ Avec les soft skills le recruteur a une matière incroyablement riche pour le re
 
 Concrètement, il peut ajouter à son processus de recrutement un volet soft skills assez facilement : durant l’entretien, via une étape d’assessment, un système d’immersion pré embauche, ou la remontée de références.
 
-L’idée est d’avoir une vraie finalité dans cette démarche, en impliquant toutes les parties prenantes du recrutement : RH, métier, Management, team. Ce cross checking permettra une concordance des avis. Mais il faudra être prudent à ne pas complexifier le processus et le faire durer. D’où l'idée d’avoir une organisation simple, et d'utiliser des outils pour faciliter le workflow.
+L’idée est d’avoir une vraie finalité dans cette démarche, **en impliquant toutes les parties prenantes du recrutement** : RH, métier, Management, team. Ce cross checking permettra une concordance des avis. Mais il faudra être prudent à ne pas complexifier le processus et le faire durer. D’où l'idée d’avoir une organisation simple, et d'utiliser des outils pour faciliter le workflow.
 
 Il ne faut pas oublier de faire une synthèse candidat avec les éléments clés de sa personnalité et ses motivations qui seront des atouts pour sa réussite dans le poste.
 
