@@ -4,7 +4,7 @@ meta:
   author: Sanjay
   time: 6mn
   date: 22/06/21
-  excerpt: 'Cette une pratique que le règne animal exploite avec une certaine dextérité '
+  excerpt: 'C''est une pratique que le règne animal exploite avec une certaine dextérité '
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-25.png"
 title: Le feedback, cette ressource qui nourrit les leaders RH
 categories:
