@@ -36,7 +36,7 @@ Pour les RH, le feedback a une visée hautement stratégique :
 
 ## Le feedback 360° : pour une meilleure gestion de la performance et des talents
 
-### Qu’est-ce que le Feedback 360° ?
+### **Qu’est-ce que le Feedback 360° ?**
 
 Née dans les années 1970 et destinée aux dirigeants d'entreprise, la méthode du Feedback 360° est plus que jamais d'actualité tant les nouvelles générations sont en demande constante de feedback sur leur travail ! Dans le cadre d’un Feedback 360°, plusieurs collègues donnent du feedback sur le travail, les performances ou encore le comportement d’un collaborateur.
 
@@ -56,7 +56,7 @@ Sur un outil de gestion de la performance et des talents comme [Elevo](https://w
 * Citer une chose que (name) pourrait arrêter de faire
 * Citer une chose que (name) pourrait continuer à faire
 
-### Quels sont les bénéfices du Feedback 360° ?
+### **Quels sont les bénéfices du Feedback 360° ?**
 
 Grâce au Feedback 360°, les managers et RH ont une **vision beaucoup plus complète et fine du travail de leurs collaborateurs**. Les RH peuvent capitaliser sur les feedbacks récoltés pour mettre en place des actions concrètes et pertinentes comme des formations ou des plans de mobilité interne.
 
