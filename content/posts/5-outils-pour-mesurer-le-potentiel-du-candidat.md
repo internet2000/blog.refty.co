@@ -6,7 +6,7 @@ meta:
   date: 24/06/21
   excerpt: Il est parfois sous-évalué voire négligé, cependant certains outils mettent
     le potentiel du candidat sur le devant de la scène
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-22.png"
+image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-33.png"
 title: 5 outils pour mesurer le potentiel du candidat
 categories:
 - Bonnes pratiques
