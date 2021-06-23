@@ -42,7 +42,7 @@ Née dans les années 1970 et destinée aux dirigeants d'entreprise, la méthode
 
 Le Feedback 360° peut être utilisé dans deux buts très différents :
 
-**L'évaluation de la performance sur une période donnée**. Dans ce cas-là, le Feedback 360° peut être lancé en amont d’une campagne d’évaluation.
+**L'évaluation de la performance** sur une période donnée. Dans ce cas-là, le Feedback 360° peut être lancé en amont d’une campagne d’évaluation.
 
 **Le développement des collaborateurs**. Ici, le Feedback 360° est axé sur la progression professionnelle du collaborateur.
 
@@ -58,11 +58,11 @@ Sur un outil de gestion de la performance et des talents comme [Elevo](https://w
 
 ### **Quels sont les bénéfices du Feedback 360° ?**
 
-Grâce au Feedback 360°, les managers et RH ont une **vision beaucoup plus complète et fine du travail de leurs collaborateurs**. Les RH peuvent capitaliser sur les feedbacks récoltés pour mettre en place des actions concrètes et pertinentes comme des formations ou des plans de mobilité interne.
+Grâce au Feedback 360°, les managers et RH ont une vision beaucoup plus **complète et fine** du travail de leurs collaborateurs. Les RH peuvent capitaliser sur les feedbacks récoltés pour mettre en place des actions concrètes et pertinentes comme des formations ou des plans de mobilité interne.
 
-Cette collecte de feedback permet aussi de **réduire les écarts de perception**, par exemple entre la perception d’un collaborateur et celle de son N+2. Le feedback 360° **ramène de l’objectivité dans les processus d’évaluation et de développement des collaborateurs**.
+Cette collecte de feedback permet aussi de réduire **les écarts de perception**, par exemple entre la perception d’un collaborateur et celle de son N+2. Le feedback 360° ramène de l’objectivité dans **les** **processus** **d’évaluation** et de développement des collaborateurs.
 
-**Le Feedback 360° sert également les objectifs business** : un collaborateur suivi et régulièrement écouté atteindra plus facilement ses objectifs, se développera plus rapidement et contribuera, par voie de conséquence, à la bonne croissance de l’entreprise !
+Le Feedback 360° sert également les **objectifs business** : un collaborateur suivi et régulièrement écouté atteindra plus facilement ses objectifs, se développera plus rapidement et contribuera, par voie de conséquence, à la bonne croissance de l’entreprise !
 
 ## Le feedback des personnes ayant observé le talent dans un environnement de travail
 
@@ -102,4 +102,4 @@ Ainsi vous aurez la capacité de **mieux déterminer** comment il se comportera 
 
 ## Conclusion
 
-“Faites un pas en arrière pour mieux avancer”. Gardez à l’esprit que candidats et talents sont en première ligne pour **remodeler** le “Futur of Work” et **pérenniser** votre réussite future. En cette période de pandémie, le feedback s’est rarement exprimé avec autant de force (santé mentale, isolement, équilibre vie pro/perso, réduction du lien social..). En sollicitant les feedbacks de vos talents et candidats vous affinerez la prise de décision liées à la gestion des talents tout en conciliant **amélioration continue, engagement, et innovation** de votre capital humain.
+“Faites un pas en arrière pour mieux avancer”. Gardez à l’esprit que candidats et talents sont en première ligne pour **remodeler** le “Futur of Work” et **pérenniser** votre réussite future. En cette période de pandémie, le feedback s’est rarement exprimé avec autant de force (santé mentale, isolement, équilibre vie pro/perso, réduction du lien social..). En sollicitant les feedbacks de vos talents et candidats vous affinerez la prise de décision liées à la gestion des talents tout en conciliant **amélioration continue, engagement,** et **innovation** de votre capital humain.
