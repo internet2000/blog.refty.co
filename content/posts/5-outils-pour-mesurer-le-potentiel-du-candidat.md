@@ -9,7 +9,7 @@ meta:
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-33.png"
 title: 5 outils pour mesurer le potentiel du candidat
 categories:
-- Bonnes pratiques
+- Bonnes Pratiques
 permalink: "/5-outils-pour-mesurer-potentiel-candidat/"
 
 ---
