@@ -10,7 +10,7 @@ title: 'Infographie : L''importance des soft skills dans le recrutement et la cu
   d''entreprise'
 categories:
 - Média
-permalink: "/refty-infographie-soft-skills/"
+permalink: "/refty-infography-soft-skills-corporate-culture/"
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
