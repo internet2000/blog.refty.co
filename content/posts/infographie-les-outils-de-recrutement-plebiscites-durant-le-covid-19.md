@@ -9,7 +9,7 @@ image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-perio
 title: 'Infographie : Les outils de recrutement plébiscités durant le Covid-19'
 categories:
 - Média
-permalink: "/infographie-outils-recrutement-covid-19/"
+permalink: "/refty-infographic-recruitment-tools-covid-19/"
 
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
