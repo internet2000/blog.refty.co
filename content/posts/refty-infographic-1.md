@@ -13,4 +13,4 @@ categories:
 permalink: "/refty-infographic-soft-skills-corporate-culture/"
 
 ---
-                                    ![](/uploads/refty-infographics.png)
+![](/uploads/refty-infographics.png)
