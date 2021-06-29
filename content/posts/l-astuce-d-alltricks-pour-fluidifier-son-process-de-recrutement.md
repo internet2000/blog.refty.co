@@ -7,8 +7,8 @@ meta:
   excerpt: Le "leader français du matériel pour cyclistes vendu sur Internet" a été
     racheté par Decathlon
 image: "/uploads/orange-video-blobby-framed-kudos-static-linkedin-post-1.png"
-title: Comment Alltricks a conjugué gain d’efficacité et amélioration de l’expérience
-  candidat grâce à Refty
+title: Comment conjuguer gain d’efficacité et amélioration de l’expérience candidat
+  grâce à Refty
 categories:
 - Bonnes Pratiques
 permalink: "/temoignage-alltricks-refty/"
