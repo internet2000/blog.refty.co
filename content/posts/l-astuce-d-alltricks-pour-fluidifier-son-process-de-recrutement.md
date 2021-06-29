@@ -14,12 +14,11 @@ categories:
 permalink: "/temoignage-alltricks-refty/"
 
 ---
-
 Témoignage de Santosha Valaval - HR Leaders chez [Alltricks](https://www.alltricks.fr/)
 
-## A quelle problématique est-on venu répondre pour que tu en sois venu à utiliser Refty ? 
+## A quelle problématique est-on venu répondre pour que tu en sois venu à utiliser Refty ?
 
-La collecte du feedback des personnes ayant collaboré avec le talent n’était pas ancrée dans le process de recrutement d'Alltricks. Elle n’était pas systématique. Moi par exemple, j’effectuais en fonction des postes ouverts une à deux prises de références par téléphone. Bien que cette collecte de données soit pertinente, elle était **fastidieuse et chronophage.** 
+La collecte du feedback des personnes ayant collaboré avec le talent n’était pas ancrée dans le process de recrutement d'Alltricks. Elle n’était pas systématique. Moi par exemple, j’effectuais en fonction des postes ouverts une à deux prises de références par téléphone. Bien que cette collecte de données soit pertinente, elle était **fastidieuse et chronophage.**
 
 Refty - que j’ai découvert il y a bientôt un an - nous a  permis de prendre de **meilleures décisions** et nous  a apporté un **gain de temps** considérable !
 
@@ -29,15 +28,15 @@ La personnalité du candidat est un élément incontournable du process de recru
 
 ## Comment la mise en place en interne de Refty s'est-elle faite ?
 
-Cela s’est fait très rapidement. Refty était opérationnelle en quelques jours. Une fois que l’on m’a présenté la solution et ses nombreux **avantages**, je n’ai pas tardé à être convaincue et à vouloir l'utiliser. 
+Cela s’est fait très rapidement. Refty était opérationnelle en quelques jours. Une fois que l’on m’a présenté la solution et ses nombreux **avantages**, je n’ai pas tardé à être convaincue et à vouloir l'utiliser.
 
 Puis l'Account Manager était très disponible et réactif si jamais j’avais une question ou si je rencontrais un problème.
 
-## Pour que(s) type(s) de candidats utilisez-vous Refty ? 
+## Pour que(s) type(s) de candidats utilisez-vous Refty ?
 
 Est-ce que les postes sur lesquels vous l'utilisez sont amenés à évoluer ?
 
-Chez Alltricks, nous utilisons Refty pour plusieurs types d’acteurs.ices : 
+Chez Alltricks, nous utilisons Refty pour plusieurs types d’acteurs.ices :
 
 * ceux issus de l’E-commerce et du Retail
 * ceux issus de la Fonction Support ( (conseiller client, category manager, catalog leaders…).
@@ -51,8 +50,8 @@ Refty nous apporte un **gain d'efficacité.** La solution permet à Alltricks d'
 
 De plus, nous avons la possibilité de personnaliser les questionnaires afin de les **adapter à nos postes** et à **notre** [**culture d’entreprise**](https://blog.refty.co/refty-infographic-soft-skills-corporate-culture/). Aussi, les informations sont transmises rapidement aux managers grâce aux **rapports PDF** générés par l’outil.
 
-J’oubliais...Refty nous permet aussi de valoriser notre **marque employeur et notre expérience candidat.** En effet, cela nous permet d'avoir un impact positif auprès de nos candidat.e.s et de promouvoir Alltricks auprès de leurs références, en leur leur laissant la possibilité d’indiquer si elles sont intéressées par de potentielles opportunités au sein de notre société ;)
+J’oubliais...Refty nous permet aussi de valoriser notre **marque employeur et notre** [**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)**.** En effet, cela nous permet d'avoir un impact positif auprès de nos candidat.e.s et de promouvoir Alltricks auprès de leurs références, en leur leur laissant la possibilité d’indiquer si elles sont intéressées par de potentielles opportunités au sein de notre société ;)
 
-## Un dernier mot pour la suite de votre collaboration avec Refty 🙂 ? 
+## Un dernier mot pour la suite de votre collaboration avec Refty 🙂 ?
 
 Nous attendons avec impatience la personnalisation de nos questionnaires afin d’**augmenter la qualité des résultats** mais également les futures fonctionnalités (les fonctionnalités sont désormais [live](https://refty.co/) depuis :)) de Refty pour toujours plus d’efficacité :)
