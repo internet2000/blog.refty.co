@@ -6,10 +6,10 @@ meta:
   date: 29/06/21
   excerpt: Le "leader français du matériel pour cyclistes vendu sur Internet" a été
     racheté par Decathlon
-image: "/uploads/orange-video-blobby-framed-kudos-static-linkedin-post.png"
-title: L'astuce d'Alltricks pour fluidifier son process de recrutement
+image: "/uploads/orange-video-blobby-framed-kudos-static-linkedin-post-1.png"
+title: L'astuce d'Alltricks pour optimiser son process de recrutement
 categories:
-- Ressources
+- Bonnes Pratiques
 permalink: "/temoignage-alltricks-refty/"
 
 ---
