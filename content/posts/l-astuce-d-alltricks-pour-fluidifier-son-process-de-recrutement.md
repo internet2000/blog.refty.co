@@ -7,7 +7,8 @@ meta:
   excerpt: Le "leader français du matériel pour cyclistes vendu sur Internet" a été
     racheté par Decathlon
 image: "/uploads/orange-video-blobby-framed-kudos-static-linkedin-post-1.png"
-title: L'astuce d'Alltricks pour optimiser son process de recrutement
+title: 'Valorisation de la marque employeur et de l''experience candidat : la recette
+  d''Alltricks pour gagner en efficacité'
 categories:
 - Bonnes Pratiques
 permalink: "/temoignage-alltricks-refty/"
