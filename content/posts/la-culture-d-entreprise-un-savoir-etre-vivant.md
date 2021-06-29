@@ -6,7 +6,7 @@ meta:
   date: 29/06/21
   excerpt: 'Elle n''est pas figée mais mouvante comme l''argile '
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-35.png"
-title: 'La culture d’entreprise : un (savoir) être vivant'
+title: 'La culture d’entreprise : un savoir-être vivant'
 categories:
 - Tendances
 permalink: "/culture-entreprise-être-vivant/"
