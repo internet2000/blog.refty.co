@@ -4,7 +4,7 @@ meta:
   author: Sanjay
   time: 7mn
   date: 01/07/21
-  excerpt: A quoi ressemble la "journée type" d'un Head of Talent Acquisition ? Elément
+  excerpt: A quoi ressemble la "journée type" d'un Head of Talent Acquisition ? Eléments
     de réponse avec ICims, leader mondial des ATS
 image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-3.png"
 title: 'Recruteur, un poste de rêve ? '
