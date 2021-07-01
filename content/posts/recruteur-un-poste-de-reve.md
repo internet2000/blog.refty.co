@@ -61,4 +61,4 @@ En voilà une autre question postée sur la page Facebook de l’entreprise du r
 
 Ainsi s’achève la journée d’un recruteur : demain il faudra accueillir les nouveaux embauchés mais également rencontrer les managers qui souhaitent recruter de nouveaux talents. Un mélange de technologies digitales **au service de l'humain**, c'est peut-être ce qui définit le mieux cette communauté RH tournée vers le futur de l’entreprise dont elle promeut les postes et les candidat.e.s.
 
-Article co-rédigé avec Marc Rodgers - Account Executive iCIMS International
+Article co-rédigé avec Marc Rogers - Account Executive [iCIMS International](https://www.icims.com/fr/)
