@@ -24,7 +24,7 @@ Hello, je suis Beatriz, Head of People chez Manty depuis 1 an et demi déjà. To
 
 ## Quelle est la part qu’occupe le recrutement dans tes missions ?
 
-Le recrutement est crucial pour nous. Surtout en étant une jeune entreprise à taille humaine, **chaque personne a un impact très important dans notre quotidien.**
+Le recrutement est crucial pour nous. Surtout en étant une jeune entreprise à taille humaine, **chaque personne** a un impact très important dans notre quotidien.
 
 Nos collaborateurs sont le **pilier** le plus important chez Manty et nous avons la chance d’avoir une super équipe aujourd'hui que nous aimerions faire grandir sereinement avec les bonnes personnes.
 
@@ -38,26 +38,26 @@ Le processus de recrutement se doit d’être aussi **efficace qu’agréable** 
 
 Finalement, nous avons décidé de **structurer notre processus** de la façon suivante :
 
-* **1**.Le **screening RH** dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 min à 45 min pour s'entrouvrir, nous permet de comprendre les **forces et les motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du candidat** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
-* **2**.Lors du **deuxième entretien**, le **manager du poste** visé ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre le parcours et les différentes expériences** qui ont rythmé la vie professionnelle du candidat. Suite à ces réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une **startup à taille humaine**, nous recherchons des candidats avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
-* **3.Troisième entretien** : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un **test technique ou d’un business case**. Durant cette étape, un membre de l'équipe sera mobilisé.
+* 1.Le **screening RH** dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 min à 45 min pour s'entrouvrir, nous permet de comprendre les **forces et les motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du candidat** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
+* 2.Lors du deuxième entretien, le **manager du poste** à pourvoir ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
+* 3.Troisième entretien : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
 
   Cette entrevue se scinde en deux parties. D’une part l’**entretien formel** au cours duquel des questions classiques vont lui être posées. D'autre part, l’**évaluation technique**.
 
-  Nous nous efforçons d’**intégrer nos collaborateurs dans le processus afin d'accroître leur engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise et une marque employeur forte** auprès du candidat.
+  Nous nous efforçons d’**intégrer nos collaborateurs** dans le processus afin d'accroître leur **engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise et une marque employeur forte** auprès du candidat.
 
-  Si des doutes émergent, à l’issue de cette troisième étape, nous organisons un **dernier entretien**. Auquel cas, nous expliquons au candidat, avec **beaucoup de bienveillance**, les raisons pour lesquelles nous souhaitons organiser cet entretien supplémentaire.
+  Si des doutes émergent, à l’issue de cette troisième étape, nous organisons un **dernier entretien**. Auquel cas, nous expliquons au candidat, avec beaucoup de **bienveillance**, les raisons pour lesquelles nous souhaitons organiser cet entretien supplémentaire.
 
-  Parfois entre cet entretien et l’entretien fit ou parfois à la fin, nous prenons **des références** **pour mieux comprendre** **comment la personne interagissait avec ses équipes précédentes et sa façon de travailler.**
-* **4**.Dernier entretien : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors des références et nous confrontons les aspirations et les valeurs du candidat avec la mission et les valeurs de Manty.
+  Parfois entre cet entretien et l’entretien fit ou parfois à la fin, nous prenons **des références** pour mieux comprendre comment la personne interagissait avec ses équipes précédentes et sa façon de travailler.
+* 4.Dernier entretien : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors de la prise de références et nous **confrontons** les aspirations et les valeurs du candidat avec la mission et les valeurs de Manty.
 
-Le recrutement est un exercice de deux côtés, c’est aussi un processus pour que le candidat soit sûr d'intégrer une entreprise. Si besoin, on propose de rencontrer plus de personnes pour poser plus de questions et **mieux se projeter.**
+Le recrutement est un exercice de deux côtés, c’est aussi un processus pour que le.a candidat.e soit sûr.e d'intégrer une entreprise. Si besoin, on propose de rencontrer plus de personnes pour poser plus de questions et **mieux se projeter.**
 
-Important à prendre en compte : ce sont toujours les candidats qui **choisissent les créneaux des entretiens, ce sont eux qui fixent le rythme du processus.** J’envoie toujours un lien [calendly](https://calendly.com/), comme ça, on évite les aller-retours entre les managers et les candidats et tout reste plus **fluide**.
+Important à prendre en compte : ce sont **toujours les candidat.e.s** qui choisissent les créneaux des entretiens, ce sont eux qui fixent le rythme du processus. J’envoie toujours un lien [calendly](https://calendly.com/), comme ça, on évite les aller-retours entre les managers et les candidats et tout reste plus **fluide**.
 
 ## Combien de personnes sont impliquées en moyenne dans un processus ?
 
-5 à 6 personnes composent le processus de recrutement. Bien qu’étant une start up composée de 25 collaborateurs, nous sommes convaincus que **la mobilisation de plusieurs acteurs tout au long du processus est aussi bénéfique pour le candidat que pour nos salariés qui l’animent.** Et c’est toujours moi qui reste l’interlocuteur privilégié des candidats.
+5 à 6 personnes composent le processus de recrutement. Bien qu’étant une start up composée de 25 collaborateurs, nous sommes convaincus que la mobilisation de plusieurs acteurs tout au long du processus est aussi **bénéfique** pour le candidat que pour nos salariés qui l’animent. Et c’est toujours moi qui reste l’interlocuteur privilégié des candidats.
 
 ## Comment se passe la formation / accompagnement des managers sur le processus de recrutement ?
 
