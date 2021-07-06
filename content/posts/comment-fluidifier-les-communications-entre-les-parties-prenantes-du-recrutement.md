@@ -16,7 +16,7 @@ _Pendant le processus de recrutement de nombreuses parties prenantes intervienne
 
 A l'aube [des élections régionales](https://www.service-public.fr/particuliers/vosdroits/F1958) dont la première vague se tiendra ce week-end, une **Govtech** est de plus en plus plébiscitée par les collectivités territoriales. Forte d’une levée de fonds de [**2.4 millions d’euros**](https://www.manty.eu/post/manty-l%C3%A8ve-2-4-millions-d-euros-pour-am%C3%A9liorer-la-gestion-des-collectivit%C3%A9s), [Manty](https://www.manty.eu/), créée en janvier 2017, a pour ambition de repenser la manière dont les collectivités gèrent et exploitent leurs données, en vue d’améliorer le quotidien de leurs administrés et de prendre des décisions plus éclairées.
 
-**Beatriz Sanchez DRH chez Manty** a mis en place _from scratch_ tout le processus de recrutement et son évolution. Entretien.
+Beatriz Sanchez **DRH chez Manty** a mis en place _from scratch_ tout le processus de recrutement et son évolution. Entretien.
 
 ## Beatriz, pourrais tu te présenter rapidement et nous expliquer quelle est la fonction que tu occupes ?
 
@@ -28,7 +28,7 @@ Le recrutement est crucial pour nous. Surtout en étant une jeune entreprise à 
 
 Nos collaborateurs sont le **pilier** le plus important chez Manty et nous avons la chance d’avoir une super équipe aujourd'hui que nous aimerions faire grandir sereinement avec les bonnes personnes.
 
-La part consacrée au recrutement est en fonction de la période à laquelle on se réfère. En période pleine, le recrutement atteint 75 % voire 90 % de mon temps. Au cours de cette période, je peux réaliser jusqu’à **25 entretiens par semaine**. A l’inverse en période creuse, le recrutement mobilise au minimum 30% de mon temps car nous avons des **postes ouverts en permanence** ( avis aux intéressée.e.s ;))
+La part consacrée au recrutement est en fonction de la période à laquelle on se réfère. En période pleine, le recrutement atteint 75 % voire 90 % de mon temps. Au cours de cette période, je peux réaliser jusqu’à **25 entretiens par semaine**. A l’inverse en période creuse, le recrutement mobilise au minimum 30% de mon temps car nous avons des postes ouverts **en permanence** ( avis aux intéressée.e.s ;))
 
 _A l’image de l’allocation de son temps, la solution déployée par Manty, permet notamment aux collectivités de **déterminer et de mieux gérer** les heures pleines et les heures creuses d’un_ [_espace public_](https://www.manty.eu/post/collectivites-pourquoi-il-est-urgent-de-mettre-en-place-un-data-lake)_._
 
@@ -38,13 +38,13 @@ Le processus de recrutement se doit d’être aussi **efficace qu’agréable** 
 
 Finalement, nous avons décidé de **structurer notre processus** de la façon suivante :
 
-* 1.Le **screening RH** dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 min à 45 min pour s'entrouvrir, nous permet de comprendre les **forces et les motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du candidat** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
+* 1.Le screening RH dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 min à 45 min pour s'entrouvrir, nous permet de comprendre les **forces et les motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du candidat** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
 * 2.Lors du deuxième entretien, le **manager du poste** à pourvoir ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
 * 3.Troisième entretien : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
 
   Cette entrevue se scinde en deux parties. D’une part l’**entretien formel** au cours duquel des questions classiques vont lui être posées. D'autre part, l’**évaluation technique**.
 
-  Nous nous efforçons d’**intégrer nos collaborateurs** dans le processus afin d'accroître leur **engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise et une marque employeur forte** auprès du candidat.
+  Nous nous efforçons d’**intégrer nos collaborateurs** dans le processus afin d'accroître leur **engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise** et une **marque employeur forte** auprès du candidat.
 
   Si des doutes émergent, à l’issue de cette troisième étape, nous organisons un **dernier entretien**. Auquel cas, nous expliquons au candidat, avec beaucoup de **bienveillance**, les raisons pour lesquelles nous souhaitons organiser cet entretien supplémentaire.
 
