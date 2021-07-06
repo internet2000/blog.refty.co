@@ -60,3 +60,5 @@ Les rendez-vous s'enchaînent et l’après-midi est plus propice à produire du
 En voilà une autre question postée sur la page Facebook de l’entreprise du recruteur. Xavier a raison. La plupart des recruteurs ne donnent pas ou peu de feedbacks **détaillés**. Mais notre recruteur ne fait pas partie du "sourcing classique” de recruteurs. Il prend, quand l’occasion se présente,  son téléphone et appelle chaque candidat.e qui n’a pas été retenu.e malgré l’avancée de sa candidature. Il égrène par téléphone les différentes qualités et axes d’amélioration du talent, lui explique les raisons de cette décision, et lui prodigue différents **conseils** pour qu’il puisse s’améliorer pour son prochain entretien.
 
 Ainsi s’achève la journée d’un recruteur : demain il faudra accueillir les nouveaux embauchés mais également rencontrer les managers qui souhaitent recruter de nouveaux talents. Un mélange de technologies digitales **au service de l'humain**, c'est peut-être ce qui définit le mieux cette communauté RH tournée vers le futur de l’entreprise dont elle promeut les postes et les candidat.e.s.
+
+Article co-rédigé par Marc Rogers - Account Executive chez iCIMS International
