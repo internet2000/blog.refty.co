@@ -6,7 +6,7 @@ meta:
   date: 01/07/21
   excerpt: A quoi ressemble la "journée type" d'un.e Talent Acquisition ? Eléments
     de réponse avec iCIMS, leader mondial des ATS
-image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-3.png"
+image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-4.png"
 title: 'Recruteur, un poste de rêve ? '
 categories:
 - Ressources
