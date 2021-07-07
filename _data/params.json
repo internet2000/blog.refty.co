@@ -7,7 +7,7 @@
     "cta": "Découvrir Refty"
   },
   "footer": {
-    "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
+    "address": "<p>5 Parvis Alain Turing<a href=\"<!-- Start of HubSpot Embed Code --> <script type=&quot;text/javascript&quot; id=&quot;hs-script-loader&quot; async defer src=&quot;//js.hs-scripts.com/9017898.js&quot;></script> <!-- End of HubSpot Embed Code -->\" title=\"\">,</a> 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
     "text": "<p><strong>Hiring better with Refty</strong></p>"
   },
   "hero": {
