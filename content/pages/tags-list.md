@@ -14,11 +14,6 @@ global:
   footer:
     text: "<p></p>"
     address: "<p></p>"
-    
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
+   
 ---
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
+
