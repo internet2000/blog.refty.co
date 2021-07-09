@@ -58,15 +58,13 @@ Concernant à présent ma journée type. Alors pour commencer j'ai 27 minutes de
 
 • **9 : 20 - 9 : 30**. Quand j’arrive au bureau, je fais du café pour moi et mes collègues - c’est le premier filtrage de la journée (rires). **L’interaction avec mon équipe**, est une étape charnière qui va impulser la journée.
 
-Après le café, je participe aux réunions avec mon équipe ou avec les opérationnels : [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), Learning & Development etc…
-
 J’ai sous ma responsabilité 6 personnes. D’une part, 4 recruteurs.euses se chargent des profils tech et produit. D’autre part, 2 recruteurs sont sur la partie Sales/Marketing/Ops/Corporate.
 
-Au cours de la matinée, 2 types de meetings peuvent prendre forme :
+Après le café, je participe à des **meetings**. 2 types de meetings peuvent prendre forme :
 
-• **10 : 00**.  Les **meetings** dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe. Pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
+• **10 : 00**.  Les meetings dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
 
-• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou People Ops. Nous y abordons les tâches en cours, le suivi d.u pipeline de candidats, les projets en cours ou à élaborer. Typiquement, hier nous avons abordé la restructuration du process.
+• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), Learning & Development etc…. Nous y abordons les tâches en cours, le suivi d.u pipeline de candidats, les projets en cours ou à élaborer. Typiquement, hier nous avons abordé la restructuration du process.
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
