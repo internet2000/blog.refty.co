@@ -6,8 +6,9 @@ meta:
   date: '09/07/21'
   excerpt: Dans la guerre des talents, elle est en première ligne
 image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-5.png"
-title: ''
-categories: []
+title: Quelle est la "journée type"de la Head of Acquisition ?
+categories:
+- Ressources
 permalink: "/journée-type-head-of-talent-acquisition/"
 
 ---
