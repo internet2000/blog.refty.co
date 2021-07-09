@@ -88,7 +88,7 @@ En ce qui concerne la relation qu'entretiennent mes recruteurs.euses et les hiri
 
 Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une **boîte noire**, une procédure hyper codifiée figée et complexe où l’on perd la moitié des candidats durant le process. Nous nous devons d’expliquer aux managers -  avec bienveillance - quels sont les moyens concrets pour mettre en œuvre leurs objectifs respectifs. Pourquoi nous allons  utiliser tel levier de recrutement à tel moment, pourquoi nous faisons appel dans l'urgence à un.e RPO, ou à un.e chasseur.sseuse de tête etc…Il faut également challenger les managers sur les profils qu’ils.elles recherchent pour dénicher les meilleurs talents et être sur la même longueur d”onde.
 
-Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous nous appréciosn particulièrement l'**empowering**.
+Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous sensibilisons notre capital humain à l'**empowering**.
 
 S’agissant des **besoins de recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
 
@@ -97,6 +97,8 @@ Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, cel
 Et si un poste ad hoc émerge pour des raisons conjoncturelles alors qu’il ne figurait pas sur le plan - c’est au Comex de trancher. Le manager exprime alors sa requête par mail en me mettant en copie et le Comex lui répond assez rapidement. Les membres du Comex réfléchissent ensemble à la stratégie de l’entreprise, à la direction qu’elle souhaite prendre. Cela me permet de savoir ce qui se passe en temps réel, **au-delà** de la partie purement  RH. J’ai par exemple un droit de regard sur la partie produit et commerciale.
 
 Du côté de l'équipe Talent Acquisition, nous sommes mobilisés pour écrire la **scorecard**, vérifier que l’on ne cherche pas de [**moutons à 5 pattes**](https://blog.refty.co/recruteur-un-poste-de-reve/), que l’on respecte les contraintes financières et temporelles et que l’on va réussir à être attractif pour le type de profil préalablement défini.
+
+Typiquement, nous recherchons actuellement un juriste spécialiste en assurances, c’est assez difficile d'être attractif pour ce type de profils car il est bien installé dans les grandes entreprises . Il y a un **culture fit** qui n’est pas facile à déterminer. Mais c’est à nous de challenger la scorecard pour maximiser nos chances de trouver la bonne recrue.
 
 Maintenant que je vous ai fait part de l’élaboration des besoins de recrutement, permettez moi de vous relater la **roadmap recrutement**.
 
@@ -107,8 +109,6 @@ Cette dernière change régulièrement. Donc mon poste nécessite une certaine r
 → Coût vs budget
 
 En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle possible ?”
-
-Typiquement, nous recherchons actuellement un juriste spécialiste en assurances, c’est assez difficile d'être attractif pour ce type de profils car il est bien installé dans les entreprises d’envergure. Il y a un **culture fit** qui n’est pas facile à déterminer. Mais c’est à nous de challenger la scorecard pour **maximiser** nos chances de trouver la bonne recrue.
 
 • **13 : 07**. Nous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec  l’équipe People, équipe à laquelle la team T.A est rattachée. C’est l'occasion de recréer du lien et développer cette cohésion d’équipe qui caractérise Unicorn qu’on a eu plus de difficulté à reproduire pendant les confinements  et nous faisait tant défaut en télétravail.
 
