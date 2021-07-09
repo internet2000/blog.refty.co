@@ -64,13 +64,11 @@ Après le café, je participe à des **meetings**. 2 types de meetings peuvent p
 
 • **10 : 00**.  Les meetings dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
 
-• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), Learning & Development etc…. Nous y abordons les tâches en cours, le suivi d.u pipeline de candidats, les projets en cours ou à élaborer. Typiquement, hier nous avons abordé la restructuration du process.
+• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), Learning & Development etc…. Nous y abordons les tâches en cours, le suivi de la pipeline de candidat.e.s, les projets en cours ou à élaborer. On centralise l’intégralité de nos projets sur [Asana](https://asana.com/fr/guide/videos/project-management). J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...Typiquement, hier nous avons abordé la **restructuration du process**. 
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
-En outre, on utilise particulièrement [Asana](https://asana.com/fr/guide/videos/project-management). On centralise l’intégralité de nos projets  sur cet outil.  J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...
-
-En parallèle, pour fluidifier davantage le processus et la cohésion des membres, nous avons récemment mis en place des **hotlines**.
+En parallèle, pour fluidifier davantage le processus et la **cohésion** des parties prenantes, nous avons récemment mis en place des **hotlines**.
 
 • **12 : 00**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
 
@@ -82,11 +80,11 @@ En parallèle, pour fluidifier davantage le processus et la cohésion des membre
 * Comment je prends une décision quand la personne me demande plus que ce qu’on pourrait lui offrir ?
 * Comment je prends une décision sur le scope que va avoir cette personne ?
 
-Cela nous permet de répondre de manière simultanée à un sujet pertinent qui touche une **majorité de managers**, de former en continu les membres de mon équipe et les hiring managers tout en ayant une approche collaborative et **constructive**.
+Cela nous permet de répondre de manière simultanée à un sujet pertinent qui touche une **majorité de managers**, de former en continu les membres de mon équipe et les hiring managers tout en ayant une approche collaborative et constructive.
 
 Mais je garde toujours à l’esprit d’avoir une démarche de **facilitateur**, de diplomate pour ne surtout pas imposer les choses. Je veille au maintien et au développement de la **confiance** et de la **transparence** entres les membres de mon équipe. C’est indispensable pour le bon fonctionnement du process.
 
-Mes recruteurs.ses interagissent de manière quotidienne avec les managers. Ils font des points très réguliers, ils sont en contact permanent , notamment sur Slack, ils échangent tous les jours. Et de cette relation étroite, naît entre autres choses, la confiance : les managers nous font confiance sur les profils que nous recherchons, les moyens que l’on va mettre en œuvre pour les dénicher, la durée du timing etc…
+En ce qui concerne la relation qu'entretiennent mes recruteurs.euses et les hiring managers associées. Mes recruteurs.ses interagissent de manière quotidienne avec les managers. Ils font des points très réguliers, ils sont en contact permanent , notamment sur Slack, ils échangent tous les jours. Et de cette relation étroite, naît entre autres choses, la confiance : les managers nous font confiance sur les profils que nous recherchons, les moyens que l’on va mettre en œuvre pour les dénicher, la durée du timing etc…
 
 Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une boîte noire, une procédure hyper codifiée figée et complexe où l’on perd la moitié des candidats durant le process. Nous nous devons d’expliquer aux managers avec bienveillance quels sont les moyens concrets pour mettre en œuvre leurs objectifs respectifs.  Pourquoi nous allons  utiliser tel levier de recrutement à tel moment, pourquoi nous faisons appel dans l'urgence à un RPO, ou à un chasseur de tête etc…Il faut également challenger les managers sur les profils qu’ils.elles recherchent pour dénicher les meilleurs talents et être sur la même longueur d”onde.
 
