@@ -34,7 +34,7 @@ Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bie
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
-• Il.Elle a tout d’abord des responsabilités managériales et stratégiques en  identifiant et sélectionnant les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
+• Il.Elle a tout d’abord des responsabilités managériales et stratégiques. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
 
 → aux **besoins de recrutement**
 
