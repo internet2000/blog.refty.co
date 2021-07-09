@@ -84,11 +84,11 @@ Cela nous permet de répondre de manière simultanée à un sujet pertinent qui 
 
 Mais je garde toujours à l’esprit d’avoir une démarche de **facilitateur**, de diplomate pour ne surtout pas imposer les choses. Je veille au maintien et au développement de la **confiance** et de la **transparence** entres les membres de mon équipe. C’est indispensable pour le bon fonctionnement du process.
 
-En ce qui concerne la relation qu'entretiennent mes recruteurs.euses et les hiring managers. Mes recruteurs.ses interagissent de manière quotidienne avec eux/elles. Ces deux acteurs font des points très réguliers, ils échangent tous les jours notamment via Slack. Et de cette relation étroite, naît entre autres choses, la confiance. Les managers nous font confiance sur les profils que nous recherchons, les moyens que nous mettons en œuvre pour les dénicher, la durée du timing etc…
+Mes recruteurs.ses interagissent de manière quotidienne avec eux/elles. Ces deux acteurs font des points très réguliers, ils échangent tous les jours notamment via Slack. Et de cette relation étroite, naît entre autres choses, la confiance. Les managers nous font confiance sur les profils que nous recherchons, les moyens que nous mettons en œuvre pour les dénicher, la durée du timing etc…
 
 Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous sensibilisons notre capital humain à l'**empowering**. Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une **boîte noire**, une procédure hyper codifiée figée et complexe où l’on perd la moitié des candidats durant le process. Nous nous devons d’expliquer aux managers -  avec bienveillance - quels sont les moyens concrets pour mettre en œuvre leurs objectifs respectifs. Pourquoi nous allons  utiliser tel levier de recrutement à tel moment, pourquoi nous faisons appel dans l'urgence à un.e RPO, ou à un.e chasseur.sseuse de tête etc…Il faut également challenger les managers sur les profils qu’ils.elles recherchent pour dénicher les meilleurs talents et être sur la même longueur d”onde.
 
-Permettez-moi à présent de vous relater la **roadmap recrutement**.
+Permettez-moi à présent d'aborder la **roadmap recrutement**.
 
 Cette dernière change régulièrement. Donc mon poste nécessite une certaine réactivité pour gérer :
 
@@ -98,7 +98,7 @@ Cette dernière change régulièrement. Donc mon poste nécessite une certaine r
 
 En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle possible ?”
 
-> Focus sur **Headcount Planning** 
+> Focus sur le **Headcount Planning** 
 >
 > S’agissant des **besoins en recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins en recrutement.
 >
@@ -110,7 +110,7 @@ En fonction du contexte, je vais me poser des questions comme : “Une action �
 >
 > Typiquement, nous recherchons actuellement un juriste spécialiste en assurances, c’est assez difficile d'être attractif pour ce type de profils car il est bien installé dans les grandes entreprises . Il y a un **culture fit** qui n’est pas facile à déterminer. Mais c’est à nous de challenger la scorecard pour maximiser nos chances de trouver la bonne recrue.
 
-• **13 : 07**. Nous tous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec l’équipe People, équipe à laquelle la team Talent Acquisition est rattachée.C’est l'occasion de **recréer du lien**, de développer cette cohésion d’équipe qu'on a eu du mal à reproduire avec le confinement.
+• **13 : 00**. Nous tous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec l’équipe People, équipe à laquelle la team Talent Acquisition est rattachée.C’est l'occasion de **recréer du lien**, de développer cette cohésion d’équipe qu'on a eu du mal à reproduire avec le confinement.
 
 L’autre avantage c’est que la pause du midi est un moment **informel**. Lorsque nous déjeunons avec des collaborateurs externes au T.A tels que les Sales ou le Marketing, cela nous permet de réfléchir à d'éventuels **projets transversaux**. Les moments informels favorisent la diffusion et le partage de connaissances. Ils permettent de susciter des idées voire des innovations bénéfiques pour l'entreprise.
 
