@@ -116,7 +116,7 @@ L’autre avantage c’est que la pause du midi est un moment **informel**. Lors
 
 Comme nombre de mes confrères, je consacre mon après-midi à la partie opérationnelle : les entretiens des C-level, les projets en cours ou ceux à élaborer et au **reporting**.
 
-• **14 : 30**. Je suis parfois amenée à recruter des talents pour combler les besoins en recrutement du Comex ou des C-level. Je travaille étroitement avec certains d’entre eux pour tout ce qui est lié au descriptif du poste, la stratégie que l’on a mise en place, l’état d’avancement du recrutement ou de la chasse. Puis si un talent se distingue des autres j'organise un call avec un C-level ou les membres de mon équipe afin qu’il me fassent part de leurs [feedbacks](https://blog.refty.co/feedback-cette-ressource-qui-nourrit-les-leaders-rh/).
+• **14 : 30**. Je suis parfois amenée à recruter moi-même des talents pour combler les besoins en recrutement du Comex ou des C-level. Je travaille étroitement avec certains d’entre eux pour tout ce qui est lié au descriptif du poste, la stratégie que l’on a mise en place, l’état d’avancement du recrutement ou de la chasse. Puis si un talent se distingue des autres j'organise un call avec un C-level ou les membres de mon équipe afin qu’il me fassent part de leurs [feedbacks](https://blog.refty.co/feedback-cette-ressource-qui-nourrit-les-leaders-rh/).
 
 • **16 : 00**. Ensuite, je reporte à mon tour à mon DRH . Je m'appuie sur un certain nombre d'outils d'analyse comme l'**ATS** pour collecter des **données**. Le.a Head of Talent Acquisition est complètement [data driven](https://www.elevo.fr/post/les-people-analytics-une-revolution-pour-les-rh).
 
