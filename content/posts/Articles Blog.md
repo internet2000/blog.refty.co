@@ -88,7 +88,7 @@ En ce qui concerne la relation qu'entretiennent mes recruteurs.euses et les hiri
 
 Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une **boîte noire**, une procédure hyper codifiée figée et complexe où l’on perd la moitié des candidats durant le process. Nous nous devons d’expliquer aux managers -  avec bienveillance - quels sont les moyens concrets pour mettre en œuvre leurs objectifs respectifs. Pourquoi nous allons  utiliser tel levier de recrutement à tel moment, pourquoi nous faisons appel dans l'urgence à un.e RPO, ou à un.e chasseur.sseuse de tête etc…Il faut également challenger les managers sur les profils qu’ils.elles recherchent pour dénicher les meilleurs talents et être sur la même longueur d”onde.
 
-Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous nous appuyons sur l'**empowering**.
+Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous nous appréciosn particulièrement l'**empowering**.
 
 S’agissant des besoins de recrutement, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du Comex - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futurs candidats (rires) - tous les besoins de recrutement.
 
