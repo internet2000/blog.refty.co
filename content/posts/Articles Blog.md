@@ -34,9 +34,9 @@ Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bie
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
-• Il.Elle a tout d’abord des responsabilités managériales et stratégiques. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
+• Il.Elle a tout d’abord des responsabilités managériales et **stratégiques**. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
 
-→ aux **besoins de recrutement**
+→ aux besoins de recrutement définis durant **le headcount planning**
 
 → à la valorisation de la **marque employeur** & de **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)
 
@@ -44,13 +44,13 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 → à l’intégration de toutes les parties prenantes internes dans la **vision** portée par l’entreprise
 
-→ au reporting dont l’issue est la prise de décision relative à l’allocation des ressources ou à la gestion du budget
+→ au **reporting**, dans le cadre de la prise de décision relative à l’allocation des ressources ou à la gestion du budget
 
-• Et si la situation l’exige, il.elle peut intervenir sur la partie opérationnelle pour assurer : 
+•  Et si la situation l’exige, il.elle peut intervenir sur la partie **opérationnelle** pour assurer : 
 
 →  les besoins de recrutement de **profils seniors/C-level**
 
-→  la **gestion de projet**, dont la marque employeur est l’un des principaux sujets
+→  la **gestion de projet**, dont la marque employeur par exemple
 
 ## A quoi ressemble sa “journée type” ?
 
