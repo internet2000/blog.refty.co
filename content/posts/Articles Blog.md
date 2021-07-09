@@ -112,15 +112,13 @@ En fonction du contexte, je vais me poser des questions comme : “Une action �
 
 • **13 : 07**. Nous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec l’équipe People, équipe à laquelle la team Talent Acquisition est rattachée.C’est l'occasion de **recréer du lien**, de développer cette cohésion d’équipe qu'on a eu du mal à reproduire avec le confinement.
 
-L’autre avantage c’est que la pause du midi est un moment **informel**. Lorsque nous déjeunons avec des collaborateurs externes au T.A tels que les Sales ou le Marketing, cela nous permet de réfléchir sur des **projets transversaux**, Les moments informels favorisent la diffusion et le partage de connaissances. Ils permettent de susciter des idées voire des innovations au service de l'entreprise.
+L’autre avantage c’est que la pause du midi est un moment **informel**. Lorsque nous déjeunons avec des collaborateurs externes au T.A tels que les Sales ou le Marketing, cela nous permet de réfléchir à d'éventuels **projets transversaux**. Les moments informels favorisent la diffusion et le partage de connaissances. Ils permettent de susciter des idées voire des innovations bénéfiques pour l'entreprise.
 
-Lorsque nous déjeunons avec des RPO - en ce moment nous en avons 2 - Nous pouvons évoquer, en toute transparence et bienveillance, les points de frictions éventuels, cela nous permet d’être parfaitement alignés.
-
-Comme nombre de mes confères, je consacre mon après-midi à la partie opérationnelle : les entretiens des C-level, les projets en cours ou ceux à élaborer et au reporting.
+Comme nombre de mes confrères, je consacre mon après-midi à la partie opérationnelle : les entretiens des C-level, les projets en cours ou ceux à élaborer et au **reporting**.
 
 • **14 : 30**. Je suis en effet, parfois amenée à  recruter des talents pour combler les besoins en recrutement du Comex ou des C-level. Je travaille étroitement avec certains d’entre eux pour tout ce qui est lié au descriptif du poste, la stratégie que l’on a mise en place, l’état d’avancement du recrutement ou de la chasse. Puis si un talent se distingue des autres j'organise un call avec un C-level ou les membres de mon équipe afin qu’il me fassent part de leurs [feedbacks](https://blog.refty.co/feedback-cette-ressource-qui-nourrit-les-leaders-rh/).
 
-• **16 : 00**. Ensuite, je **reporte** à mon tour à mon DRH . Mon entreprise est complètement [data driven](https://www.elevo.fr/post/les-people-analytics-une-revolution-pour-les-rh).
+• **16 : 00**. Ensuite, je reporte à mon tour à mon DRH . Mon entreprise est complètement [data driven](https://www.elevo.fr/post/les-people-analytics-une-revolution-pour-les-rh).
 
 Les outils tels que les ATS distillent énormément de **données** dont des indicateurs clés de performance que nous avons préalablement définis,  tels que le “time to hire''. Et cela nous permet d’aiguiser notre prise de décision en matière de diffusion d'annonces notamment. Nous sommes par exemple chez [Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/wttj) et [JobTeaser](https://www.jobteaser.com/fr). Concernant les autres job boards on réalise des tests pour en évaluer l’impact avant de les adopter définitivement.
 
