@@ -110,7 +110,7 @@ Cette dernière change régulièrement. Donc mon poste nécessite une certaine r
 
 En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle possible ?”
 
-• **13 : 07**. Nous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec l’équipe People, équipe à laquelle la team Talent Acquisition est rattachée.C’est l'occasion de **recréer du lien**, de développer cette cohésion d’équipe qu'on a eu du mal à reproduire avec le confinement.
+• **13 : 07**. Nous tous allons déjeuner ensemble. Depuis que nous avons[ repris l’activité en présentiel](https://blog.refty.co/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau/), mon équipe et moi-même - l’équipe Talent Acquisition - déjeunons souvent avec l’équipe People, équipe à laquelle la team Talent Acquisition est rattachée.C’est l'occasion de **recréer du lien**, de développer cette cohésion d’équipe qu'on a eu du mal à reproduire avec le confinement.
 
 L’autre avantage c’est que la pause du midi est un moment **informel**. Lorsque nous déjeunons avec des collaborateurs externes au T.A tels que les Sales ou le Marketing, cela nous permet de réfléchir à d'éventuels **projets transversaux**. Les moments informels favorisent la diffusion et le partage de connaissances. Ils permettent de susciter des idées voire des innovations bénéfiques pour l'entreprise.
 
