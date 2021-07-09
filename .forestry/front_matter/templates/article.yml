@@ -1,49 +1,66 @@
 ---
 label: article
+hide_body: false
+display_field: permalink
 fields:
-  - type: field_group
-    name: meta
-    label: Meta données
-    fields:
-      - type: text
-        name: author
-        label: Auteur
-        default: ''
-      - type: text
-        name: time
-        label: Temps de lecture
-        default: ''
-      - type: text
-        name: date
-        label: Date de publication
-        default: ''
-      - type: text
-        name: excerpt
-        label: Description (SEO + Cards)
-        default: ''
-  - type: file
-    name: image
-    label: Image
+- type: field_group
+  name: meta
+  label: Meta données
+  fields:
+  - type: text
+    name: author
+    label: Auteur
     default: ''
   - type: text
-    name: title
-    label: Titre
+    name: time
+    label: Temps de lecture
     default: ''
-  - type: list
-    name: categories
-    label: Tags
+  - type: text
+    name: date
+    label: Date de publication
     default: ''
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: article
-    config:
-      required: true
-display_field: permalink
-hide_body: false
+  - type: text
+    name: excerpt
+    label: Description (SEO + Cards)
+    default: ''
+- type: file
+  name: image
+  label: Image
+  default: ''
+- type: text
+  name: title
+  label: Titre
+  default: ''
+- type: list
+  name: categories
+  label: Tags
+  default: ''
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: article
+  config:
+    required: true
+pages:
+- content/posts/5-conseils-a-suivre-a-l-aube-du-retour-au-bureau.md
+- content/posts/5-outils-pour-mesurer-le-potentiel-du-candidat.md
+- content/posts/comment-fluidifier-les-communications-entre-les-parties-prenantes-du-recrutement.md
+- content/posts/comment-prestashop-a-structure-son-process-de-recrutement-via-refty.md
+- content/posts/comment-se-modernise-la-fonction-rh.md
+- content/posts/infographie-les-outils-de-recrutement-plebiscites-durant-le-covid-19.md
+- content/posts/l-astuce-d-alltricks-pour-fluidifier-son-process-de-recrutement.md
+- content/posts/l-intuition-un-indicateur-fiable-en-entretien.md
+- content/posts/la-culture-d-entreprise-un-savoir-etre-vivant.md
+- content/posts/le-feedback-cette-ressource-qui-nourrit-les-leaders-rh.md
+- content/posts/les-references-de-refty.md
+- content/posts/qu-est-ce-que-l-experience-candidat.md
+- content/posts/recruteur-un-poste-de-reve.md
+- content/posts/refty-infographic-1.md
+- content/posts/tendance-rh-le-metier-du-hr-ops.md
+- content/posts/webinaire-comment-transformer-la-periode-d-essai-a-tous-les-couts.md
