@@ -40,17 +40,17 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 → à la valorisation de la **marque employeur** & de **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)
 
-→ à l'optimisation du management de l’équipe et par extension **l’expérience collaborateur** (formation continue...). C’est un.e prescripteur.ice de conseils,  d’aides à la résolution des problèmes susceptibles d’affecter les membres de son équipe ou les managers. Le.a Head of T.A accompagne l'ensemble des parties prenantes, favorise leurs interactions, insert des outils et pratiques d’aide à la décision ou d’automatisation des tâches. Il.Elle mène quotidiennement des tests, des itérations liées à d’optimisation du process afin de bâtir un environnement propice à la réussite des colaborateurs.ices.
+→ à l'optimisation du **management de l’équipe** et par extension **l’expérience collaborateur** (formation continue...). C’est un.e prescripteur.ice de conseils, d’aides à la résolution des problèmes susceptibles d’affecter les membres de son équipe ou les managers. Le.a Head of T.A accompagne l'ensemble des parties prenantes, facilite leurs interactions, insert des outils et pratiques d’aide à la décision ou d’automatisation des tâches. Il.Elle mène quotidiennement des tests, des itérations liées à d’optimisation du process afin de bâtir un environnement propice à la réussite des colaborateurs.ices.
 
-→ à l’intégration de toutes les parties prenantes internes dans la vision portée par l’entreprise.
+→ à l’intégration de toutes les parties prenantes internes dans la **vision** portée par l’entreprise
 
 → au reporting dont l’issue est la prise de décision relative à l’allocation des ressources ou à la gestion du budget
 
-• Et si la situation l’exige, il.elle peut intervenir sur la partie opérationnelle pour assurer :
+• Et si la situation l’exige, il.elle peut intervenir sur la partie opérationnelle pour assurer : 
 
 →  les besoins de recrutement de **profils seniors/C-level**
 
-→  la gestion de projet, dont la marque employeur est l’un des principaux sujets
+→  la **gestion de projet**, dont la marque employeur est l’un des principaux sujets
 
 ## A quoi ressemble sa “journée type” ?
 
