@@ -124,19 +124,9 @@ Les outils tels que les ATS distillent énormément de données dont des indicat
 
 Toute cette partie **KPI's** est encore un élément de **friction** d’ailleurs. Il est difficile d’aller chercher ces infos-là...  Nous aimerions bien voir toutes ces données-là réunies dans un seul outil parce qu’à l’heure actuelle c’est un peu pénible de recueillir toutes ses infos.
 
-• **17 : 00**. S’agissant de la **gestion de projet**, mon équipe et moi-même suivons actuellement une formation en Growth Marketing pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts en stage ou en alternance -  il faut éveiller le désir, l’envie.
+• **17 : 00**. S’agissant de la **gestion de projet**, mon équipe et moi-même suivons actuellement une **formation** en Growth Marketing pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts en stage ou en alternance -  il faut éveiller le désir, l’envie.
 
-Toujours sur le sujet de la formation, le mois dernier, dans l’optique de développer la relation que mon équipe a noué avec les managers, j’ai préparé une formation relative à notre ATS afin d’optimiser la collaboration et l'expérience candidat que nous délivrons. On forme énormément nos managers : à réaliser de bons entretiens, donner du feedback à la fin des entretiens on les forme  au maximum à éviter les biais cognitifs durant les entretiens.
-
-Sur le plan professionnel, je mesure l’influence que je vais exercer à l’égard de l’organisation de plusieurs manières.
-
-• Je prescris des conseils auprès des **membres dirigeants**, je leur indique comment s’y prendre pour assurer les besoins en recrutement et ces derniers me tiennent au courant de l’avancée de la stratégie. Leur stratégie va directement nous impacter. Comme vous le savez, le recrutement est en première ligne pour alimenter l’activité de l'entreprise. Nous devons par conséquent anticiper les recrutements à venir et travailler de concert avec les membres du Comex. C’est pourquoi nous avons différents points avec eux pour échanger, les aiguiller, apporter notre expertise et expériences.
-
-• Je prescris également des conseils auprès des **opérationnels**. Par exemple, quand mes recruteurs ou les managers viennent vers moi avec un besoin, je vais les aider, si nécessaire redéfinir le besoin, les orienter et les accompagner mais ce sont eux qui restent maître de la stratégie et de la décision finale.
-
-• Je contribue au **développement de l'entreprise**. Le recrutement en règle générale est tellement important et indispensable. Une bonne stratégie de recrutement et de bonnes pratiques de recrutement sont vraiment importantes et cela impacte directement la stratégie de l’entreprise que ce soit une start up, une scale-up ou une entreprise établie. Les personnes et leur travail façonnent et font l’organisation. D’autant plus lorsqu’on parle de scale-up - la valeur des talents à une importance clé sur le développement de l’entreprise.
-
-En clair, j’ai un r**ôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
+Toujours sur le sujet de la formation, le mois dernier, dans l’optique de développer la relation que mon équipe a noué avec les managers et d'optimiser l'expérience candidat, j’ai préparé une formation relative à notre ATS. On forme énormément nos managers pour réaliser de bons entretiens, éviter les [**biais cognitifs**](https://blog.refty.co/intuition-un-indicateur-fiable-en-entretien/), donner du feedback...
 
 • **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses.
 
@@ -147,3 +137,15 @@ Je fais ensuite des **propositions d’embauche** et c’est un moment hyper exc
 Enfin, j’effectue une **veille** des outils ou sujets susceptibles d’optimiser le processus de recrutement ou la marque employeur En ce moment, je teste des outils psychométriques et techniques par exemple.
 
 Ah oui dernière chose, incontournable surtout le vendredi, je vais prendre un verre (avec modération bien sûr) juste à côté du bureau avec mes collègues.
+
+## Quels sont ses apports ?
+
+Sur le plan professionnel, je mesure l’influence que je vais exercer à l’égard de l’organisation de plusieurs manières.
+
+• Je **prescris des conseils** auprès des **membres dirigeants**, je leur indique comment s’y prendre pour assurer les besoins en recrutement et ces derniers me tiennent au courant de l’avancée de la stratégie. Leur stratégie va directement nous impacter. Comme vous le savez, le recrutement est en première ligne pour alimenter l’activité de l'entreprise. Nous devons par conséquent anticiper les recrutements à venir et travailler de concert avec les membres du Comex. C’est pourquoi nous avons différents points avec eux pour échanger, les aiguiller, apporter notre expertise et expériences.
+
+• Je prescris également des conseils auprès des **opérationnels**. Par exemple, quand mes recruteurs ou les managers viennent vers moi avec un besoin, je vais les aider, si nécessaire redéfinir le besoin, les orienter et les accompagner mais ce sont eux qui restent maître de la stratégie et de la décision finale.
+
+• Je contribue au **développement de l'entreprise**. Le recrutement en règle générale est tellement important et indispensable. Une bonne stratégie de recrutement et de bonnes pratiques de recrutement sont vraiment importantes et cela impacte directement la stratégie de l’entreprise que ce soit une start up, une scale-up ou une entreprise établie. Les personnes et leur travail façonnent et font l’organisation. D’autant plus lorsqu’on parle de scale-up - la valeur des talents à une importance clé sur le développement de l’entreprise.
+
+En clair, j’ai un r**ôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
