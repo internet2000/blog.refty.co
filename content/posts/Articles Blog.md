@@ -14,11 +14,11 @@ permalink: "/journée-type-head-of-talent-acquisition/"
 ---
 Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of Talent Acquisition ? A quoi ressemble sa “journée type” ?  Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable en cette période ?
 
-Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)). Interview.
+Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)).
 
 _Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse  est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
 
-_Roxanne peux- tu te présenter et relater à nos lecteurs.ices ta journée type en qualité de Head of Talent Acquisition ?_
+_Roxanne peux-tu te présenter et relater à nos lecteurs.ices ta journée type en qualité de Head of Talent Acquisition ?_
 
 Ça ne va malheureusement pas être possible….Je n’ai pas de journée type (rires) !
 
@@ -30,7 +30,7 @@ Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! 
 
 Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions.
 
-Je mets en œuvre des stratégies pour **fluidifie**r et **optimiser** aussi bien le processus de recrutement que les **relations des intervenants** qui le composent :  mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
+Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bien le processus de recrutement que les **relations des intervenants** qui le composent :  mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
