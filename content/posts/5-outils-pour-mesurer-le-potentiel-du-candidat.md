@@ -40,3 +40,7 @@ Les tests de personnalité peuvent s’avérer pertinents sur des profils exécu
 Vous souhaitez découvrir les 3 derniers outils de notre liste ? Nous vous invitons à renseigner vos coordonnées :)
 
 <!--\[if lte IE 8\]> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script> <!\[endif\]--> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script> <script> hbspt.forms.create({ region: "na1", portalId: "9017898", formId: "c4a9c619-f897-45ed-9059-a94df6464638" }); </script>
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
