@@ -12,7 +12,7 @@ categories:
 permalink: "/journée-type-head-of-talent-acquisition/"
 
 ---
-Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of [Talent Acquisition](https://blog.refty.co/recruteur-un-poste-de-reve/) ? A quoi ressemble sa “journée type” ?  Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable en cette période ?
+Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of [Talent Acquisition](https://blog.refty.co/recruteur-un-poste-de-reve/) ? A quoi ressemble sa “journée type” ? Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable aujourd'hui ?
 
 Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)).
 
@@ -24,13 +24,13 @@ _Roxanne peux-tu te présenter et relater à nos lecteurs.ices ta journée type 
 
 Mon poste est en constante évolution - d’autant plus en ce moment - vous vous en doutez.
 
-Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! Je m’appelle Roxanne, et je suis Head of Talent Acquisition chez Unicorn (entreprise fictive) depuis  1 an et demi environ.
+Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! Je m’appelle Roxanne, et je suis Head of Talent Acquisition chez Unicorn (entreprise fictive) depuis 1 an et demi environ.
 
 ## Qui est la Head of T.A ?
 
 Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions.
 
-Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bien le processus de recrutement que les **relations des intervenants** qui le composent : mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
+Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bien **le processus de recrutemen**t que les **relations des intervenants** qui le composent : mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
@@ -46,7 +46,7 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 → au **reporting**, dans le cadre de la prise de décision relative à l’allocation des ressources ou à la gestion du budget
 
-•  Et si la situation l’exige, il.elle peut intervenir sur la partie **opérationnelle** pour assurer : 
+•  Et si la situation l’exige, il.elle peut intervenir sur la partie **opérationnelle** pour assurer :
 
 →  les besoins en recrutement de **profils seniors/C-level**
 
@@ -64,7 +64,7 @@ Après le café, je participe à des **meetings**. 2 types de meetings peuvent p
 
 • **10 : 00**.  Les meetings dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
 
-• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), People Partner, Learning & Development etc…. Nous y abordons les tâches en cours, le suivi de la pipeline de candidat.e.s, les projets en cours ou à élaborer. On centralise l’intégralité de nos projets sur [Asana](https://asana.com/fr/guide/videos/project-management). J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...Typiquement, hier nous avons abordé la **restructuration du process**. 
+• **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), People Partner, Learning & Development etc…. Nous y abordons les tâches en cours, le suivi de la pipeline de candidat.e.s, les projets en cours ou à élaborer. On centralise l’intégralité de nos projets sur [Asana](https://asana.com/fr/guide/videos/project-management). J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...Typiquement, hier nous avons abordé la **restructuration du process**.
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
@@ -96,7 +96,7 @@ Cette dernière change régulièrement. Donc mon poste nécessite une certaine r
 
 En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle possible ?”
 
-> Focus sur le **Headcount Planning** 
+> Focus sur le **Headcount Planning**
 >
 > S’agissant des **besoins en recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins en recrutement.
 >
@@ -122,7 +122,7 @@ Toute cette partie **KPI's** est encore un élément de **friction** d’ailleur
 
 • **17 : 00**. S’agissant de la **gestion de projet**, mon équipe et moi-même suivons actuellement une formation en **Growth Marketing** pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts en stage ou en alternance - il faut éveiller le désir, l’envie.
 
-• **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses : 
+• **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses :
 
 1. Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui étaient sur ma **to-do list** ont été validées. Si ce n'est pas le cas, je les transfère sur ma to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
 2. Je fais ensuite des **propositions d’embauche** et c’est un moment hyper excitant !...Des recrues vont venir chez nous.
