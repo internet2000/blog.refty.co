@@ -98,7 +98,7 @@ Et si un poste ad hoc émerge pour des raisons conjoncturelles alors qu’il ne 
 
 Du côté de l'équipe Talent Acquisition, nous sommes mobilisés pour écrire la **scorecard**, vérifier que l’on ne cherche pas de [**moutons à 5 pattes**](https://blog.refty.co/recruteur-un-poste-de-reve/), que l’on respecte les contraintes financières et temporelles et que l’on va réussir à être attractif pour le type de profil préalablement défini.
 
-Maintenant que je vous ai fait part de l’élaboration des besoins de recrutement. Permettez moi de vous relater la **roadmap recrutement**.
+Maintenant que je vous ai fait part de l’élaboration des besoins de recrutement, permettez moi de vous relater la **roadmap recrutement**.
 
 Cette dernière change régulièrement. Donc mon poste nécessite une certaine réactivité pour gérer :
 
