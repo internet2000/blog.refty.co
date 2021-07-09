@@ -48,7 +48,7 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 • Et si la situation l’exige, il.elle peut intervenir sur la partie opérationnelle pour assurer :
 
-→  les **besoins de recrutement** de profils seniors/C-level
+→  les besoins de recrutement de **profils seniors/C-level**
 
 →  la gestion de projet, dont la marque employeur est l’un des principaux sujets
 
