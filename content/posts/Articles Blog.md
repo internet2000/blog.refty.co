@@ -9,7 +9,7 @@ image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-7.png"
 title: Quelle est la "journée type"de la Head of Talent Acquisition ?
 categories:
 - Ressources
-permalink: "/journée-type-head-of-talent-acquisition/"
+permalink: "/journee-type-head-of-talent-acquisition/"
 
 ---
 Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of [Talent Acquisition](https://blog.refty.co/recruteur-un-poste-de-reve/) ? A quoi ressemble sa “journée type” ? Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable aujourd'hui ?
