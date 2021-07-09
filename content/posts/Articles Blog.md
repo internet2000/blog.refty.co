@@ -16,29 +16,29 @@ Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/br
 
 Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif sur leurs pratiques de recrutement. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)). Interview.
 
-_Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse  est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._ 
+_Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse  est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
 
-_Roxanne peux- tu te présenter et relater à nos lecteurs.ices ta journée type en qualité de Head of Talent Acquisition ?_ 
+_Roxanne peux- tu te présenter et relater à nos lecteurs.ices ta journée type en qualité de Head of Talent Acquisition ?_
 
-Ça ne va malheureusement pas être possible….Je n’ai pas de journée type (rires) !  
+Ça ne va malheureusement pas être possible….Je n’ai pas de journée type (rires) !
 
-Mon poste est en constante évolution - d’autant plus en ce moment - vous vous en doutez. 
+Mon poste est en constante évolution - d’autant plus en ce moment - vous vous en doutez.
 
 Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! Je m’appelle Roxanne, et je suis Head of Talent Acquisition chez Unicorn (entreprise fictive) depuis  1 an et demi environ.
 
 ## Qui est le Head of T.A ?
 
-Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions. 
+Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions.
 
 Je mets en œuvre des stratégies pour **fluidifie**r et **optimiser** aussi bien le processus de recrutement que les **relations des intervenants** qui le composent :  mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
-• Il.Elle a tout d’abord des responsabilités managériales et stratégiques en  identifiant et sélectionnant les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre : 
+• Il.Elle a tout d’abord des responsabilités managériales et stratégiques en  identifiant et sélectionnant les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
 
 → aux **besoins de recrutement**
 
-→ à la valorisation de la **marque employeu**r & de l’[expérience candidat](https://blog.refty.co/qu-est-ce-que-experience-candidat/) 
+→ à la valorisation de la **marque employeu**r & de l’[expérience candidat](https://blog.refty.co/qu-est-ce-que-experience-candidat/)
 
 → à l'optimisation du management de l’équipe et par extension **l’expérience collaborateur** (formation continue...). C’est un.e prescripteur.ice de conseils,  d’aides à la résolution des problèmes susceptibles d’affecter les membres de son équipe ou les managers. Le.a Head of T.A accompagne l'ensemble des parties prenantes, favorise leurs interactions, insert des outils et pratiques d’aide à la décision ou d’automatisation des tâches. Il.Elle mène quotidiennement des tests, des itérations liées à d’optimisation du process afin de bâtir un environnement propice à la réussite des colaborateurs.ices.
 
@@ -52,17 +52,17 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 →  la gestion de projet, dont la marque employeur est l’un des principaux sujets
 
-H2 : A quoi ressemble sa “journée type” ? 
+## A quoi ressemble sa “journée type” ?
 
-Concernant à présent ma journée type. Alors pour commencer j'ai 27 minutes de métro pour venir au bureau. 
+Concernant à présent ma journée type. Alors pour commencer j'ai 27 minutes de métro pour venir au bureau.
 
-• **9 : 20 - 9 : 30**. Quand j’arrive au bureau, je fais du café pour moi et mes collègues - c’est le premier filtrage de la journée (rires). **L’interaction avec mon équipe**, est une étape charnière qui va impulser la journée. 
+• **9 : 20 - 9 : 30**. Quand j’arrive au bureau, je fais du café pour moi et mes collègues - c’est le premier filtrage de la journée (rires). **L’interaction avec mon équipe**, est une étape charnière qui va impulser la journée.
 
 Après le café, je participe aux réunions avec mon équipe ou avec les opérationnels : [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), Learning & Development etc…
 
 J’ai sous ma responsabilité 6 personnes. D’une part, 4 recruteurs.euses se chargent des profils tech et produit. D’autre part, 2 recruteurs sont sur la partie Sales/Marketing/Ops/Corporate.
 
-Au cours de la matinée, 2 types de meetings peuvent prendre forme : 
+Au cours de la matinée, 2 types de meetings peuvent prendre forme :
 
 • **10 : 00**.  Les **meetings** dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe. Pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
 
@@ -70,11 +70,11 @@ Au cours de la matinée, 2 types de meetings peuvent prendre forme :
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
-En outre, on utilise particulièrement [Asana](https://asana.com/fr/guide/videos/project-management). On centralise l’intégralité de nos projets  sur cet outil.  J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer... 
+En outre, on utilise particulièrement [Asana](https://asana.com/fr/guide/videos/project-management). On centralise l’intégralité de nos projets  sur cet outil.  J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...
 
-En parallèle, pour fluidifier davantage le processus et la cohésion des membres, nous avons récemment mis en place des **hotlines**. 
+En parallèle, pour fluidifier davantage le processus et la cohésion des membres, nous avons récemment mis en place des **hotlines**.
 
-• **12 : 00**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple : 
+• **12 : 00**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
 
 Comment écrire une [**scorecard**](https://blog.refty.co/bonnes-pratiques-scorecard-&-soft-skills/) ?
 
@@ -98,7 +98,7 @@ Mes recruteurs.ses interagissent de manière quotidienne avec les managers. Ils 
 
 Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une boîte noire, une procédure hyper codifiée figée et complexe où l’on perd la moitié des candidats durant le process. Nous nous devons d’expliquer aux managers avec bienveillance quels sont les moyens concrets pour mettre en œuvre leurs objectifs respectifs.  Pourquoi nous allons  utiliser tel levier de recrutement à tel moment, pourquoi nous faisons appel dans l'urgence à un RPO, ou à un chasseur de tête etc…Il faut également challenger les managers sur les profils qu’ils.elles recherchent pour dénicher les meilleurs talents et être sur la même longueur d”onde.
 
-Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. C’est toute la partie liée à l’**empowering**. 
+Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. C’est toute la partie liée à l’**empowering**.
 
 S’agissant des besoins de recrutement, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du Comex - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futurs candidats (rires) - tous les besoins de recrutement.
 
@@ -110,13 +110,13 @@ De notre côté, la team Talent Acquisition, est mobilisée pour écrire la **sc
 
 Maintenant que je vous ai fait part de l’élaboration des besoins de recrutement. Permettez moi de vous relater la **roadmap recrutement**.
 
-Cette dernière change régulièrement. Donc mon poste nécessite une certaine réactivité pour gérer : 
+Cette dernière change régulièrement. Donc mon poste nécessite une certaine réactivité pour gérer :
 
 → L’allocation des ressources humaines : quel acteur est alloué à tel poste ? (recruteur.se, manager, cabinet de recrutement, RPO...)
 
 → Coût vs budget
 
-En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle nécessaire ?” 
+En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle nécessaire ?”
 
 Typiquement, nous recherchons actuellement un juriste spécialiste en assurances, c’est assez difficile d'être attractif pour ce type de profils car il est bien installé dans les entreprises d’envergure. Il y a un **culture fit** qui n’est pas facile à déterminer. Mais c’est à nous de challenger la scorecard pour **maximiser** nos chances de trouver la bonne recrue.
 
@@ -132,13 +132,13 @@ Comme nombre de mes confères, je consacre mon après-midi à la partie opérati
 
 • **16 : 00**. Ensuite, je **reporte** à mon tour à mon DRH . Mon entreprise est complètement [data driven](https://www.elevo.fr/post/les-people-analytics-une-revolution-pour-les-rh).
 
-Les outils tels que les ATS distillent énormément de **données** dont des indicateurs clés de performance que nous avons préalablement définis,  tels que le “time to hire''. Et cela nous permet d’aiguiser notre prise de décision en matière de diffusion d'annonces notamment. Nous sommes par exemple chez [Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/wttj) et [JobTeaser](https://www.jobteaser.com/fr). Concernant les autres job boards on réalise des tests pour en évaluer l’impact avant de les adopter définitivement. 
+Les outils tels que les ATS distillent énormément de **données** dont des indicateurs clés de performance que nous avons préalablement définis,  tels que le “time to hire''. Et cela nous permet d’aiguiser notre prise de décision en matière de diffusion d'annonces notamment. Nous sommes par exemple chez [Welcome to the Jungle](https://www.welcometothejungle.com/fr/companies/wttj) et [JobTeaser](https://www.jobteaser.com/fr). Concernant les autres job boards on réalise des tests pour en évaluer l’impact avant de les adopter définitivement.
 
 L’autre bénéfice de ces outils d’analyse, c’est qu’ils prodiguent des **conseils** à chaque membre de l'organisation. Avec l’appui de cette donnée, ma manager - la DRH de l’entreprise -  détermine quelles stratégies nécessitent un ajustement et quelles sont celles qui n’en ont pas besoin en s'appuyant sur le coût de la nouvelle recrue, aux paiements des cabinets, en passant par les factures administratives.
 
 Toute cette partie KPI's est encore un élément de **friction** d’ailleurs. Il est difficile d’aller chercher ces infos-là... On aimerait bien voir toutes ces données là réunies dans un seul outil parce qu’à l’heure actuelle c’est un peu pénible de recueillir toutes ses infos.
 
-• **17 : 00**. S’agissant de la gestion de projet, mon équipe et moi-même suivons actuellement une formation en Growth Marketing pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts aux stages et à l'alternance -  il faut éveiller le désir,  l’envie. 
+• **17 : 00**. S’agissant de la gestion de projet, mon équipe et moi-même suivons actuellement une formation en Growth Marketing pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts aux stages et à l'alternance -  il faut éveiller le désir,  l’envie.
 
 Toujours sur le sujet de la formation, le mois dernier, dans l’optique de développer la relation que mon équipe a noué avec les managers, j’ai préparé une formation relative à notre ATS afin d’optimiser la collaboration et l'expérience candidat que nous délivrons. On forme énormément nos managers : à réaliser de bons entretiens, donner du feedback à la fin des entretiens on les forme  au maximum à éviter les biais cognitifs durant les entretiens.
 
@@ -152,9 +152,9 @@ Sur le plan professionnel, je mesure l’influence que je vais exercer à l’é
 
 En clair, j’ai un r**ôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
 
-• **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses. 
+• **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses.
 
-Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été omises. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser. 
+Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été omises. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
 
 Je fais ensuite des **propositions d’embauche** et c’est un moment hyper excitant !...Des recrues vont venir chez nous. C’est le moment où je regarde mes mails pour être sûre que tout est bon.
 
