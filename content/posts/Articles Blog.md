@@ -68,9 +68,7 @@ Après le café, je participe à des **meetings**. 2 types de meetings peuvent p
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
-En parallèle, pour fluidifier davantage le processus et la **cohésion** des parties prenantes, nous avons récemment mis en place des **hotlines**.
-
-• **12 : 00**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
+• **12 : 00**. En parallèle, pour fluidifier davantage le processus et la **cohésion** des parties prenantes, nous avons récemment mis en place des **hotlines**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
 
 * Comment écrire une [**scorecard**](https://blog.refty.co/bonnes-pratiques-scorecard-&-soft-skills/) ?
 * Comment définir le bon process de recrutement ?
