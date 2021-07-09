@@ -84,3 +84,7 @@ Refty **résout les problématiques** initialement traitées en intervenant sur 
 Le rapport généré par Refty assure une **vue multidimensionnelle et plus concrète** de l’éventuel collaborateur : ses comportements, les styles de management dans lesquels il se complairait, les projets dans lesquels il excellera ou encore les lacunes auxquelles les managers seront confrontés.
 
 Parce qu'une expérience candidat mémorable rime souvent avec déplorable, Refty vous délivre des solutions **actionnables et fiables.**
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
