@@ -139,3 +139,7 @@ La recommandation émanant de **managers hautement qualifiés** permettra au rec
 **Alors, pas de panique, pour arriver à bout de tous ces biais, il existe de nombreuses solutions, à la fois techniques et humaines, pour remettre l’objectivité au cœur du recrutement ;)**
 
 **_Article co-écrit avec Avizio_**
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
