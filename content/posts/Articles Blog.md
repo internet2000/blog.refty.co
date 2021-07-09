@@ -90,7 +90,7 @@ Cela nécessite beaucoup de **communication**. Il ne faut pas que ce soit une **
 
 Il faut vraiment s’assurer que les managers sont embarqués dans cette **vision**. Chez Unicorn nous nous appréciosn particulièrement l'**empowering**.
 
-S’agissant des **besoins de recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du Comex - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
+S’agissant des **besoins de recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
 
 Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, celle que l’on doit absolument combler - mon équipe et moi-même travaillons pour y répondre rapidement. Et au milieu du quarter, nous refaisons un point sur les nouveaux postes auxquels nous sommes susceptibles de répondre etc…
 
