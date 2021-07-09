@@ -14,7 +14,7 @@ permalink: "/journée-type-head-of-talent-acquisition/"
 ---
 Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of Talent Acquisition ? A quoi ressemble sa “journée type” ?  Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable en cette période ?
 
-Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif sur leurs pratiques de recrutement. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)). Interview.
+Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)). Interview.
 
 _Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse  est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
 
@@ -26,7 +26,7 @@ Mon poste est en constante évolution - d’autant plus en ce moment - vous vous
 
 Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! Je m’appelle Roxanne, et je suis Head of Talent Acquisition chez Unicorn (entreprise fictive) depuis  1 an et demi environ.
 
-## Qui est le Head of T.A ?
+## Qui est la Head of T.A ?
 
 Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions.
 
