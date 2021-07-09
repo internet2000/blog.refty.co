@@ -130,11 +130,9 @@ Toujours sur le sujet de la formation, le mois dernier, dans l’optique de dév
 
 • **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses.
 
-Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été omises. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
-
-Je fais ensuite des **propositions d’embauche** et c’est un moment hyper excitant !...Des recrues vont venir chez nous. C’est le moment où je regarde mes mails pour être sûre que tout est bon.
-
-Enfin, j’effectue une **veille** des outils ou sujets susceptibles d’optimiser le processus de recrutement ou la marque employeur En ce moment, je teste des outils psychométriques et techniques par exemple.
+1. Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été omises. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
+2. Je fais ensuite des **propositions d’embauche** et c’est un moment hyper excitant !...Des recrues vont venir chez nous. C’est le moment où je regarde mes mails pour être sûre que tout est bon.
+3. Enfin, j’effectue une **veille** des outils ou sujets susceptibles d’optimiser le processus de recrutement ou la marque employeur. En ce moment, je teste des outils psychométriques et techniques par exemple.
 
 Ah oui dernière chose, incontournable surtout le vendredi, je vais prendre un verre (avec modération bien sûr) juste à côté du bureau avec mes collègues.
 
@@ -148,4 +146,4 @@ Sur le plan professionnel, je mesure l’influence que je vais exercer à l’é
 
 • Je contribue au **développement de l'entreprise**. Le recrutement en règle générale est tellement important et indispensable. Une bonne stratégie de recrutement et de bonnes pratiques de recrutement sont vraiment importantes et cela impacte directement la stratégie de l’entreprise que ce soit une start up, une scale-up ou une entreprise établie. Les personnes et leur travail façonnent et font l’organisation. D’autant plus lorsqu’on parle de scale-up - la valeur des talents à une importance clé sur le développement de l’entreprise.
 
-En clair, j’ai un r**ôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
+En clair, j’ai un **rôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
