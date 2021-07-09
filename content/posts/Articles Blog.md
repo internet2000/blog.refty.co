@@ -76,19 +76,13 @@ En parallèle, pour fluidifier davantage le processus et la cohésion des membre
 
 • **12 : 00**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
 
-Comment écrire une [**scorecard**](https://blog.refty.co/bonnes-pratiques-scorecard-&-soft-skills/) ?
-
-Comment définir le bon process de recrutement ?
-
-Comment [fluidifier](https://blog.refty.co/necessite-fluidifier-communication-recrutement/) mon process de recrutement ?
-
-Comment je peux évaluer telles skills dans les entretiens ?
-
-Est ce que je fais passer un test d’anglais ou plutôt un test d’orthographe ?
-
-Comment je prends une décision quand la personne me demande plus que ce qu’on pourrait lui offrir ?
-
-Comment je prends une décision sur le scope que va avoir cette personne ?
+* Comment écrire une [**scorecard**](https://blog.refty.co/bonnes-pratiques-scorecard-&-soft-skills/) ?
+* Comment définir le bon process de recrutement ?
+* Comment [fluidifier](https://blog.refty.co/necessite-fluidifier-communication-recrutement/) mon process de recrutement ?
+* Comment je peux évaluer telles skills dans les entretiens ?
+* Est ce que je fais passer un test d’anglais ou plutôt un test d’orthographe ?
+* Comment je prends une décision quand la personne me demande plus que ce qu’on pourrait lui offrir ?
+* Comment je prends une décision sur le scope que va avoir cette personne ?
 
 Cela nous permet de répondre de manière simultanée à un sujet pertinent qui touche une **majorité de managers**, de former en continu les membres de mon équipe et les hiring managers tout en ayant une approche collaborative et **constructive**.
 
