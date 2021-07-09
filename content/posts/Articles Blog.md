@@ -106,7 +106,7 @@ Cette dernière change régulièrement. Donc mon poste nécessite une certaine r
 
 → Coût vs budget
 
-En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle nécessaire ?”
+En fonction du contexte, je vais me poser des questions comme : “Une action “coup de poing” sous la forme d’un challenge cooptation est-elle possible ?”
 
 Typiquement, nous recherchons actuellement un juriste spécialiste en assurances, c’est assez difficile d'être attractif pour ce type de profils car il est bien installé dans les entreprises d’envergure. Il y a un **culture fit** qui n’est pas facile à déterminer. Mais c’est à nous de challenger la scorecard pour **maximiser** nos chances de trouver la bonne recrue.
 
