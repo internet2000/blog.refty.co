@@ -14,7 +14,7 @@ permalink: "/journee-type-head-of-talent-acquisition/"
 ---
 Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/bruno-lemaire-au-jdd-leconomie-francaise-repart-fort-4049981) - la vague de recrutement qu’elle occasionne -  et les [nouvelles pratiques de recrutement](https://www.hbrfrance.fr/magazine/2021/06/35650-repenser-le-processus-de-recrutement/) qui chamboulent le paysage RH, des questions ont germé dans notre esprit….Jusqu’à monopoliser notre attention et désormais la vôtre visiblement :  quel est le rôle du/de la Head of [Talent Acquisition](https://blog.refty.co/recruteur-un-poste-de-reve/) ? A quoi ressemble sa “journée type” ? Indicateur clé de la performance de l’entreprise, le.a Head of Talent Acquisition à un rôle aussi stratégique qu’opérationnel. Qu’est ce qui se cache derrière cet anglicisme, qui joue un rôle considérable aujourd'hui ?
 
-Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)).
+Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin **(**[**Shippeo**](https://www.shippeo.com/fr)**)**, Claire-Lise Colin **(**[**Ornikar**](https://www.ornikar.com/)**)** et Elisa Lorenter **(**[**Back Market**](https://www.backmarket.fr/)**).**
 
 _Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
 
@@ -141,3 +141,7 @@ Sur le plan professionnel, je mesure l’influence que je vais exercer à l’é
 • Je contribue au **développement de l'entreprise**. Le recrutement en règle générale est tellement important et indispensable. Une bonne stratégie de recrutement et de bonnes pratiques de recrutement sont vraiment importantes et cela impacte directement la stratégie de l’entreprise que ce soit une start up, une scale-up ou une entreprise établie. Les personnes et leur travail façonnent et font l’organisation. D’autant plus lorsqu’on parle de scale-up - la valeur des talents à une importance clé sur le développement de l’entreprise.
 
 En clair, j’ai un **rôle de facilitateur**. Mon rôle est vraiment de faciliter les missions des personnes avec lesquelles j'interagis au quotidien. J’essaye de donner le plus de clés de lecture aux membres de mon équipe, aux parties prenantes internes (les managers) et lorsque ces derniers ont besoin de recruter un candidat dans leur équipe, ils disposent d’outils, capitalisent sur les formations, pour mieux recruter et qualifier un talent. Au-delà de répondre à toutes les problématiques , c’est aussi porter la vision.
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
