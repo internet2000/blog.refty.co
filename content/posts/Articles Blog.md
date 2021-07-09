@@ -36,7 +36,7 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 • Il.Elle a tout d’abord des responsabilités managériales et **stratégiques**. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
 
-→ aux besoins de recrutement définis durant **le headcount planning**
+→ aux besoins en recrutement définis durant **le headcount planning**
 
 → à la valorisation de la **marque employeur** & de **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)
 
@@ -48,7 +48,7 @@ Le.a Head of Talent Acquisition à  une **double casquette**.
 
 •  Et si la situation l’exige, il.elle peut intervenir sur la partie **opérationnelle** pour assurer : 
 
-→  les besoins de recrutement de **profils seniors/C-level**
+→  les besoins en recrutement de **profils seniors/C-level**
 
 →  la **gestion de projet**, dont la marque employeur par exemple
 
@@ -100,9 +100,9 @@ En fonction du contexte, je vais me poser des questions comme : “Une action �
 
 > Focus sur **Headcount Planning** 
 >
->     S’agissant des besoins de recrutement, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un headcount planning qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du Comex - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
+> S’agissant des **besoins en recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins en recrutement.
 >
->     Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, celle que l’on doit absolument combler - mon équipe et moi-même travaillons pour y répondre rapidement. Et au milieu du quarter, nous refaisons un point sur les nouveaux postes auxquels nous sommes susceptibles de répondre etc…
+> Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, celle que l’on doit absolument combler - mon équipe et moi-même travaillons pour y répondre rapidement. Et au milieu du quarter, nous refaisons un point sur les nouveaux postes auxquels nous sommes susceptibles de répondre etc…
 >
 > Et si un poste ad hoc émerge pour des raisons conjoncturelles alors qu’il ne figurait pas sur le plan - c’est au Comex de trancher. Le manager exprime alors sa requête par mail en me mettant en copie et le Comex lui répond assez rapidement. Les membres du Comex réfléchissent ensemble à la stratégie de l’entreprise, à la direction qu’elle souhaite prendre. Cela me permet de savoir ce qui se passe en temps réel, **au-delà** de la partie purement  RH. J’ai par exemple un droit de regard sur la partie produit et commerciale.
 >
@@ -126,11 +126,11 @@ Toute cette partie **KPI's** est encore un élément de **friction** d’ailleur
 
 • **17 : 00**. S’agissant de la **gestion de projet**, mon équipe et moi-même suivons actuellement une **formation** en Growth Marketing pour valoriser notre marque employeur. C’est du pur **marketing expérientiel** et je trouve cela très intéressant. Au-delà d’aller simplement sourcer les talents - notamment pour des postes ouverts en stage ou en alternance -  il faut éveiller le désir, l’envie.
 
-Toujours sur le sujet de la formation, le mois dernier, dans l’optique de développer la relation que mon équipe a noué avec les managers et d'optimiser l'expérience candidat, j’ai préparé une formation relative à notre ATS. On forme énormément nos managers pour réaliser de bons entretiens, éviter les [**biais cognitifs**](https://blog.refty.co/intuition-un-indicateur-fiable-en-entretien/), donner du feedback...
+Toujours sur le sujet de la formation, le mois dernier, dans l’optique de développer la relation des parties prenantes et d'optimiser l'expérience candidat, j’ai préparé une formation  pour les managers relative à notre ATS. On forme énormément nos managers pour réaliser de bons entretiens, éviter les [**biais cognitifs**](https://blog.refty.co/intuition-un-indicateur-fiable-en-entretien/), donner du feedback...
 
 • **18 : 30 - 19 : 00**. Pour terminer, lorsque la fin de la journée se profile, je réalise trois choses.
 
-1. Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été omises. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
+1. Dans un premier temps, je vérifie mes mails, et je m’assure que toutes les tâches journalières qui figurent sur ma **to-do list** n’ont pas été oubliées. Le cas échéant je les reporte sur la to-do list du lendemain. C’est parfois des points à régulariser, des meetings à reporter ou à organiser etc...J’ajoute, je supprime, je coche et décoche les tâches que j’ai réalisées ou que je devrai réaliser.
 2. Je fais ensuite des **propositions d’embauche** et c’est un moment hyper excitant !...Des recrues vont venir chez nous. C’est le moment où je regarde mes mails pour être sûre que tout est bon.
 3. Enfin, j’effectue une **veille** des outils ou sujets susceptibles d’optimiser le processus de recrutement ou la marque employeur. En ce moment, je teste des outils psychométriques et techniques par exemple.
 
@@ -140,7 +140,7 @@ Ah oui dernière chose, incontournable surtout le vendredi, je vais prendre un v
 
 Sur le plan professionnel, je mesure l’influence que je vais exercer à l’égard de l’organisation de plusieurs manières.
 
-• Je **prescris des conseils** auprès des **membres dirigeants**, je leur indique comment s’y prendre pour assurer les besoins en recrutement et ces derniers me tiennent au courant de l’avancée de la stratégie. Leur stratégie va directement nous impacter. Comme vous le savez, le recrutement est en première ligne pour alimenter l’activité de l'entreprise. Nous devons par conséquent anticiper les recrutements à venir et travailler de concert avec les membres du Comex. C’est pourquoi nous avons différents points avec eux pour échanger, les aiguiller, apporter notre expertise et expériences.
+• Je prescris des conseils auprès des **membres dirigeants**, je leur indique comment s’y prendre pour assurer les besoins en recrutement et ces derniers me tiennent au courant de l’avancée de la stratégie. Leur stratégie va directement nous impacter. Comme vous le savez, le recrutement est en première ligne pour alimenter l’activité de l'entreprise. Nous devons par conséquent anticiper les recrutements à venir et travailler de concert avec les membres du Comex. C’est pourquoi nous avons différents points avec eux pour échanger, les aiguiller, apporter notre expertise et expériences.
 
 • Je prescris également des conseils auprès des **opérationnels**. Par exemple, quand mes recruteurs ou les managers viennent vers moi avec un besoin, je vais les aider, si nécessaire redéfinir le besoin, les orienter et les accompagner mais ce sont eux qui restent maître de la stratégie et de la décision finale.
 
