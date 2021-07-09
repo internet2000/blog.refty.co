@@ -96,7 +96,7 @@ Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, cel
 
 Et si un poste ad hoc émerge pour des raisons conjoncturelles alors qu’il ne figurait pas sur le plan - c’est au Comex de trancher. Le manager exprime alors sa requête par mail en me mettant en copie et le Comex lui répond assez rapidement. Les membres du Comex réfléchissent ensemble à la stratégie de l’entreprise, à la direction qu’elle souhaite prendre. Cela me permet de savoir ce qui se passe en temps réel, **au-delà** de la partie purement  RH. J’ai par exemple un droit de regard sur la partie produit et commerciale.
 
-Du côté de l'équipe Talent Acquisition, nous sommes mobilisés pour écrire la **scorecard**, vérifier que l’on ne cherche pas des [**moutons à 5 pattes**](https://blog.refty.co/recruteur-un-poste-de-reve/), que l’on respecte les contraintes financières et temporelles et que l’on va réussir à être attractif pour le type de profil préalablement défini.
+Du côté de l'équipe Talent Acquisition, nous sommes mobilisés pour écrire la **scorecard**, vérifier que l’on ne cherche pas de [**moutons à 5 pattes**](https://blog.refty.co/recruteur-un-poste-de-reve/), que l’on respecte les contraintes financières et temporelles et que l’on va réussir à être attractif pour le type de profil préalablement défini.
 
 Maintenant que je vous ai fait part de l’élaboration des besoins de recrutement. Permettez moi de vous relater la **roadmap recrutement**.
 
