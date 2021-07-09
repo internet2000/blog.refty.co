@@ -100,9 +100,9 @@ En fonction du contexte, je vais me poser des questions comme : “Une action �
 
 > Focus sur **Headcount Planning** 
 >
-> S’agissant des **besoins de recrutement**, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un **headcount planning** qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du **Comex** - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
+>     S’agissant des besoins de recrutement, Unicorn a un plan de recrutement qui est renouvelé tous les quarters. Nous avons mis en place un headcount planning qui a lieu à cette échéance. Pour mener à bien ce plan, chaque C-level ou membre du Comex - la Directrice Marketing, le Directeur Financier - remplit et priorise de 0 à 5 - oui eux aussi doivent évaluer les futur.e.s candidat.e.s (rires) - tous les besoins de recrutement.
 >
-> Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, celle que l’on doit absolument combler - mon équipe et moi-même travaillons pour y répondre rapidement. Et au milieu du quarter, nous refaisons un point sur les nouveaux postes auxquels nous sommes susceptibles de répondre etc…
+>     Par exemple, si un besoin est qualifié de priorité 0 - la plus importante, celle que l’on doit absolument combler - mon équipe et moi-même travaillons pour y répondre rapidement. Et au milieu du quarter, nous refaisons un point sur les nouveaux postes auxquels nous sommes susceptibles de répondre etc…
 >
 > Et si un poste ad hoc émerge pour des raisons conjoncturelles alors qu’il ne figurait pas sur le plan - c’est au Comex de trancher. Le manager exprime alors sa requête par mail en me mettant en copie et le Comex lui répond assez rapidement. Les membres du Comex réfléchissent ensemble à la stratégie de l’entreprise, à la direction qu’elle souhaite prendre. Cela me permet de savoir ce qui se passe en temps réel, **au-delà** de la partie purement  RH. J’ai par exemple un droit de regard sur la partie produit et commerciale.
 >
