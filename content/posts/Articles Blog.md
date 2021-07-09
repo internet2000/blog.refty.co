@@ -16,7 +16,7 @@ Face à la [reprise d’activité économique](https://www.lejdd.fr/Politique/br
 
 Pour lever le voile sur ces questions, nous avons interrogé 3 Head of Talent Acquisition afin d’avoir un point de vue objectif et large. Nous avons fait passer 3 entretiens de 30 minutes à Agnieszka Goulin ([Shippeo](https://www.shippeo.com/fr)), Claire-Lise Colin ([Ornikar](https://www.ornikar.com/)) et Elisa Lorenter ([Back Market](https://www.backmarket.fr/)).
 
-_Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse  est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
+_Dans un souci de lisibilité, nous avons synthétisé chacune de leur journée. Cette synthèse est personnifiée par notre personnage fictif que nous appellerons Roxanne (en hommage au prénom de la Directrice de Station F qui nous héberge - Roxanne Varza)._
 
 _Roxanne peux-tu te présenter et relater à nos lecteurs.ices ta journée type en qualité de Head of Talent Acquisition ?_
 
