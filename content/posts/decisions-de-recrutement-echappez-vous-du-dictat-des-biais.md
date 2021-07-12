@@ -6,7 +6,7 @@ meta:
   date: 07/07/21
   excerpt: Il est nécessaire de refondre les pratiques de recrutement traditionnelles.
     Découvrez notre tribune dans Parlons RH
-image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-8.png"
+image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-9.png"
 title: 'Décisions de recrutement : échappez-vous du dictat des biais'
 categories:
 - Média
