@@ -35,3 +35,9 @@ permalink: "/les-references-de-refty/"
 * Axel, solution d'onboarding et de management à distance
 
   👉 [Tout ce que vous devez savoir sur cette bonne vieille période d'essai](https://www.heyaxel.com/blog/tout-ce-que-vous-devez-savoir-sur-cette-bonne-vieille-periode-dessai)
+
+![](/uploads/download-4.png)
+
+* Parlons RH, l’agence conseil experte en marketing RH, éditorial et Social Media
+
+  👉 [Décisions de recrutement : échappez-vous du dictat des biais](https://www.parlonsrh.com/media/decisions-de-recrutement-echappez-vous-du-dictat-des-biais/)
