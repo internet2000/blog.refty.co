@@ -32,29 +32,27 @@ Je pense que le deuxième défi à relever a été la nouvelle forme que prenait
 
 Le troisième enjeu - au même titre qu’Uber et Airbnb - c’est la réticence voire l’aversion à vouloir changer d'organisation du travail, alors qu'elle apportait une stabilité à laquelle on s'était habitué.
 
-### **Celia Dorr - Chief People Officer chez Contentsquare** 
-
-What are the major HR challenges you face from Covid? / Quels sont les enjeux RH auxquels vous avez été confronté durant le Covid-19 ?
+### **Celia Dorr - Chief People Officer chez Contentsquare**
 
 Suite à un audit que nous avons mené sur la partie business, nous avons regardé les différentes options qui s’offraient à nous. Nous nous sommes demandés si le recours au chômage partiel était envisageable sur nos 8 sites répartis à travers le monde.Vous vous doutez bien que le cadre législatif varie d’un pays à un autre. Il a fallu par conséquent que nous nous assurions de la mise en place d’une telle mesure dans chacune de nos zones d’implantation.En parallèle nous avons recruté 200 personnes depuis le début du Covid-19.
 
 Nos prospects quant à eux ont été sévèrement impactés, à tel point qu’il ont mis on hold leurs besoins en cours et ont renégocié leurs contrats actuels avec Contentsquare.
 
-Bien que le Covid-19 ait affecté notre activité, nous étions convaincus, au plus fort de la crise, que nous allions nous en sortir sans impacter  la rémunération ou le contrat de travail. 
+Bien que le Covid -19 ait affecté notre activité, nous étions convaincus, au plus fort de la crise, que nous allions nous en sortir sans impacter  la rémunération ou le contrat de travail.
 
 Le montant de la baisse de salaire que nous avons dû effectuer, est à la hauteur du nombre de personnes en chômage partiel que nous avons accompagné couplé au nombre de licenciements que nous avons été contraints de faire... C’est-à-dire zéro ! Nous avons en revanche coupé durant quelques mois le salaire des exécutifs afin de protéger nos collaborateurs. En ayant vent de cette initiative corporate, les salariés se sont proactivement et généreusement proposés pour mettre en pause leur salaire de manière unilatérale.
 
-Le Covid-19 a affecté les relations humaines mais parfois il les a soudées davantage. Cet évènement nous a apporté davantage de cohésion, de communion, d’esprit d’équipe.
+Le Covid -19 a affecté les relations humaines mais parfois il les a soudées davantage. Cet évènement nous a apporté davantage de cohésion, de communion, d’esprit d’équipe.
 
 La numérisation de l’évènementiel à également été l'un de nos gros challenges.
 
-### **Jessica Djeziri - VP People chez Ornikar** 
+### **Jessica Djeziri - VP People chez Ornikar**
 
 Façonner une équipe avant notre levée de fonds et effectuer moi-même les onboarding.
 
-Nous avons la volonté d’investir dans le recrutement. Actuellement, notre stratégie repose sur 3 piliers : 
+Nous avons la volonté d’investir dans le recrutement. Actuellement, notre stratégie repose sur 3 piliers :
 
-* L’équipe Talent Acquisition chapeautée par Claire-Lise Colin, notre Head of Talent Acquisition -  que vous avez interviewé récemment - 
+* L’équipe Talent Acquisition chapeautée par Claire-Lise Colin, notre Head of Talent Acquisition -  que vous avez interviewé récemment -
 * L’équipe Business Partner, People Ops
 * L’équipe Learning & Development.
 
@@ -82,20 +80,20 @@ Le travail en remote a été une véritable aubaine pour Facebook. Notre canal d
 
 ### **Celia Dorr - Chief People Officer chez Contentsquare**
 
-Dans le but de gérer les équipes en remote, nous avons mis en place 2 tasks force : 
+Dans le but de gérer les équipes en remote, nous avons mis en place 2 tasks force :
 
 * La première est le “Covid-19 Task force”. Elle implique la fermeture des bureaux, la gestion des problématiques liées au Covid-19
-* La seconde task force est la numérisation de nos métiers. Des collaborateurs volontaires, se sont chargés-  dans chacun de nos bureaux -  de réfléchir ensemble aux métiers ou tâches qui devaient se transformer. Ainsi, nous avons créé un guide sous la forme de FAQ pour accompagner les salariés dans ce sens. 
+* La seconde task force est la numérisation de nos métiers. Des collaborateurs volontaires, se sont chargés-  dans chacun de nos bureaux -  de réfléchir ensemble aux métiers ou tâches qui devaient se transformer. Ainsi, nous avons créé un guide sous la forme de FAQ pour accompagner les salariés dans ce sens.
 
-Les interactions humaines étant fondamentales dans notre culture d’entreprise, nous souhaitons pérenniser et développer cet enjeu. C’est pourquoi notre politique d'implantation des locaux d’acquisition de locaux s’appuie en grande partie sur la capacité des lieux à fédérer et mobiliser nos collaborateurs au sein d’un même lieux. Il en va de même pour les entreprises que nous acquérons. 
+Les interactions humaines étant fondamentales dans notre culture d’entreprise, nous souhaitons pérenniser et développer cet enjeu. C’est pourquoi notre politique d'implantation des locaux d’acquisition de locaux s’appuie en grande partie sur la capacité des lieux à fédérer et mobiliser nos collaborateurs au sein d’un même lieux. Il en va de même pour les entreprises que nous acquérons.
 
 Pendant cette crise, Contentsquare a énormément évolué. Nous avons recruté près de 200 personnes et nous avons récemment levé 408 millions d’euros en Juin (record de la French Tech).
 
-### **Jessica Djeziri - VP People chez Ornikar** 
+### **Jessica Djeziri - VP People chez Ornikar**
 
 Le travail en remote représente un sujet aussi bien sur le fond que sur la forme.
 
-Nous travaillIions principalement par écrit de manière à ce que notre travail soit mémorisable et uniforme pour tous nos collaborateurs. Ce fut un travail d’une rare intensité. 
+Nous travaillIions principalement par écrit de manière à ce que notre travail soit mémorisable et uniforme pour tous nos collaborateurs. Ce fut un travail d’une rare intensité.
 
 Dans une démarche proactive, nous avons mis en place un protocole sanitaire strict pour accueillir les personnes qui souhaitaient retrouver leur espace de travail sur site. Même si nous ne pouvions accueillir  - limités par les restrictions sanitaires - que 25 personnes - cela représente 17% de notre capital humain - certains collaborateurs ont pu retrouver les sensations qu’ils avaient connues par le passé.
 
@@ -115,7 +113,7 @@ Nous avons mené une politique de recrutement offensive car les talents étaient
 
 L’un de nos principaux défis a été de faire transparaitre la culture de ContentSquare lors des entretiens en remote. Les onboardings ont été difficiles dans la mesure où tout était dématérialisé, créer  et maintenir du lien s’est avéré être un vrai défi.
 
-### **Jessica Djeziri - VP People chez Ornikar** 
+### **Jessica Djeziri - VP People chez Ornikar**
 
 Le Covid-19 a ébranlé  l’organisation classique du travail et a laissé place au travail en remote - et par extension à davantage de candidats potentiels. Le canal de sourcing nouvellement élargi, à vu naître davantage d’opportunités. Ornikar a  par conséquent recruté des personnes en remote notamment à Annecy, Valence et Lyon. Nous avons donc tiré profit de la situation pour développer notre activité.
 
@@ -139,7 +137,7 @@ Je vous invite à utiliser [Zoom](https://zoom.us/fr-fr/meetings.html), [Sildo ]
 
 On a d’ailleurs énormément investi sur le knowledge management sharing car on travaille de manière asynchrone.
 
-### **Jessica Djeziri - VP People chez Ornikar** 
+### **Jessica Djeziri - VP People chez Ornikar**
 
 Comme tout leader RH, je teste un certain nombre de choses de manière itérative.
 
