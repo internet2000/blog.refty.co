@@ -20,7 +20,7 @@ permalink: "/les-bonnes-pratiques-de-facebook-contentsquare-ornikar-virtuo-penda
 
 • 3.Dans cette situation de déséquilibre entre l'offre et la demande, que mettez-vous en place pour attirer / identifier / sélectionner les meilleurs talents ? (culture / salaire... ?)
 
-• 4.Quel outil utile que vous utilisez pourriez-vous recommander ?
+• 4.Quel outil que vous utilisez pourriez-vous recommander ?
 
 ## • 1.Quels sont les enjeux RH auxquels vous avez été confronté durant le Covid-19 ?
 
@@ -123,7 +123,7 @@ S’agissant de la baisse général des salaires, l'impact a été minime - de l
 
 La seule difficulté de recrutement a émergé il y a seulement deux mois. Personnellement je trouve qu'il y a moins de mobilité. Les salariés ont une aversion au risque à l’idée de quitter leur emploi actuel. Nous n'avons constaté aucun changement sur le plan salarial.
 
-## • 4.Quel outil utile que vous utilisez pourriez-vous recommander ?
+## • 4.Quel outil que vous utilisez pourriez-vous recommander ?
 
 ### **Charles Guillemet - Leadership Recruiting Manager chez Facebook**
 
