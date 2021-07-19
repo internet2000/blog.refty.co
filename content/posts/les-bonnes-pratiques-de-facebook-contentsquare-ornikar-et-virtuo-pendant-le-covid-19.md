@@ -4,7 +4,8 @@ meta:
   author: Barthélémy
   time: 7mn
   date: 19/07/21
-  excerpt: 'Vous souhaitez vous inspirer des bonnes pratiques des scale-up ? '
+  excerpt: Vous souhaitez vous inspirer des bonnes pratiques de Facebook ou de Contentsquare
+    ?
 image: "/uploads/head-of-t-a-2.png"
 title: Les bonnes pratiques de Facebook, Contentsquare, Ornikar et Virtuo pendant
   le Covid-19
