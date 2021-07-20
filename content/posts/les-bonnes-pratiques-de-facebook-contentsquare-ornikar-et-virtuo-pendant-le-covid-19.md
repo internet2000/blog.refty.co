@@ -62,6 +62,18 @@ Nous avons la volonté d’investir dans le recrutement à l'avenir. Actuellemen
 
 Je réfléchis actuellement à concevoir **une organisation en squad** de manière à sortir de la **hiérarchie traditionnelle**. Nous souhaitons avoir une approche plus **transversale et coordonnée**. Pour ce faire, je réfléchis à mobiliser plusieurs acteurs.ices dont les expertises combinées valorisent davantage **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/) **et collaborateurs**.
 
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "ab94b8b2-f480-4256-a428-4e24caab180c"
+});
+</script>
+
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
 <!-- End of HubSpot Embed Code -->
