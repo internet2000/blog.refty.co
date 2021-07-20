@@ -142,3 +142,7 @@ Dans l’équipe de 6 personnes que je dirige, nous faisions des points régulie
 ### **Marion Birolini - Head of Talent chez Virtuo**
 
 [Hopin](https://hopin.com/), vous vous en doutez (rires). Il permet de créer des scènes dont des workshops notamment. Je recommande également [Lever ](https://www.lever.co/)- puissant ATS.
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
