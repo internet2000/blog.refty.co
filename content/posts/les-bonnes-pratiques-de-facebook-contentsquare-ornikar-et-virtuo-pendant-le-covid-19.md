@@ -4,8 +4,8 @@ meta:
   author: Sanjay
   time: 5mn
   date: 20/07/21
-  excerpt: Vous souhaitez vous inspirer des bonnes pratiques de Facebook ou de Contentsquare
-    ?
+  excerpt: L'une de ces start ups a levée 500 millions de dollars ( et ce n'est pas
+    Facebook)
 image: "/uploads/head-of-t-a-2.png"
 title: 'Covid-19 : comment Facebook, Contentsquare, Ornikar et Virtuo l''ont traversé
   ?'
