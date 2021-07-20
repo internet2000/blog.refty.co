@@ -2,8 +2,8 @@
 layout: article
 meta:
   author: Sanjay
-  time: 7mn
-  date: 19/07/21
+  time: 5mn
+  date: 20/07/21
   excerpt: Vous souhaitez vous inspirer des bonnes pratiques de Facebook ou de Contentsquare
     ?
 image: "/uploads/head-of-t-a-2.png"
@@ -121,7 +121,7 @@ La seule difficulté de recrutement a émergé il y a seulement deux mois. Perso
 
 ### **Charles Guillemet - Leadership Recruiting Manager chez Facebook**
 
-**80%** des candidats ne viennent pas de San Francisco, cela a donc été l'opportunité de démocratiser la visioconférence dans notre process pour ne plus demander aux candidat.e.s de venir passer les entretiens sur place.
+**80%** des candidats ne viennent pas de San Francisco, cela a donc été l'opportunité de démocratiser la **visioconférence** dans notre process pour ne plus demander aux candidat.e.s de venir passer les entretiens sur place.
 
 ### **Celia Dorr  - Chief People Officer chez Contentsquare**
 
