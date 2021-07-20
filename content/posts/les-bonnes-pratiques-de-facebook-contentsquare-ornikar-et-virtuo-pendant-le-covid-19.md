@@ -30,15 +30,17 @@ Nous avons posé à chacun d'entre eux, 4 questions afin d'avoir un point de vue
 
 ### **Charles Guillemet - Leadership Recruiting Manager chez Facebook**
 
-* Le premier challenge c’est lorsque nous demandions à nos collaborateurs.ices  de **relocaliser leur travail**, de se déplacer pour aller au bureau sans qu'ils.elles aient davantage d'informations concernant la destination - sans visiter en amont les écoles et leurs futurs logements.
-* Je pense que le deuxième défi à relever a été **la nouvelle forme** que prenait ce **contact humain**. Bien que certain.e.s candidat.e.s soient meilleur.e.s en visioconférence qu’en présentiel, sur un plan purement RH, ce n’est pas la meilleure **expérience** car le contact humain - si fondamental dans notre profession - s'exprime avec **difficulté à distance**. Il est devenu difficile en visioconférence de déterminer clairement et précisément leurs **motivations**.
-* Le troisième enjeu - au même titre qu’Uber et Airbnb - c’est la **réticence** voire **l’aversion** à vouloir **changer d'organisation du travail**, alors qu'elle apportait une stabilité à laquelle nous nous étions habitués.
+**•** Le premier challenge c’est lorsque nous demandions à nos collaborateurs.ices  de **relocaliser leur travail**, de se déplacer pour aller au bureau sans qu'ils.elles aient davantage d'informations concernant la destination - sans visiter en amont les écoles et leurs futurs logements.
+
+**•** Je pense que le deuxième défi à relever a été **la nouvelle forme** que prenait ce **contact humain**. Bien que certain.e.s candidat.e.s soient meilleur.e.s en visioconférence qu’en présentiel, sur un plan purement RH, ce n’est pas la meilleure **expérience** car le contact humain - si fondamental dans notre profession - s'exprime avec **difficulté à distance**. Il est devenu difficile en visioconférence de déterminer clairement et précisément leurs **motivations**.
+
+**•** Le troisième enjeu - au même titre qu’Uber et Airbnb - c’est la **réticence** voire **l’aversion** à vouloir **changer d'organisation du travail**, alors qu'elle apportait une stabilité à laquelle nous nous étions habitués.
 
 ### **Celia Dorr - Chief People Officer chez Contentsquare**
 
 Suite à un **audit** que nous avons mené sur la partie business, nous avons regardé les différentes options qui s’offraient à nous. Nous nous sommes demandés si **le recours au chômage partiel** était envisageable sur nos 8 sites répartis à travers le monde. Vous vous doutez bien que le cadre législatif varie d’un pays à un autre. Il a fallu par conséquent que nous nous assurions de la mise en place d’une telle mesure dans chacune de nos zones d’implantation. En parallèle nous avons recruté **200 personnes** depuis le début du Covid -19.
 
-Nos prospects quant à eux ont été sévèrement impactés, à tel point qu’ils.elles ont mis **_on hold _**leurs besoins en cours et nos client.e.s ont **renégocié** leurs contrats avec Contentsquare.
+Nos prospects quant à eux ont été sévèrement impactés, à tel point qu’ils.elles ont mis **on hold** leurs besoins en cours et nos client.e.s ont **renégocié** leurs contrats avec Contentsquare.
 
 Bien que le Covid -19 ait affecté notre activité, nous étions convaincus, au plus fort de la crise, que nous allions nous en sortir sans rogner sur la rémunération ou le contrat de travail. Ainsi, le montant de la baisse de salaire que nous avons dû effectuer, est à la hauteur du nombre de personnes en chômage partiel couplé au nombre de licenciements que nous avons été contraints de faire... C’est-à-dire zéro ! Nous avons en revanche **diminué** durant quelques mois le salaire des exécutifs afin de protéger nos collaborateurs.ices. En ayant vent de cette **initiative corporate**, les salarié.e.s se sont proactivement et généreusement proposé.e.s pour mettre en pause leur propre salaire de manière unilatérale.
 
@@ -52,9 +54,11 @@ La **numérisation de l’évènementiel** à également été l'un de nos gros 
 
 Nous avons la volonté d’investir dans le recrutement à l'avenir. Actuellement, notre stratégie repose sur **3 piliers** :
 
-* L’équipe Talent Acquisition chapeautée par Claire-Lise Colin, notre Head of Talent Acquisition -  que vous avez[ interviewée](https://blog.refty.co/journee-type-head-of-talent-acquisition/) récemment -
-* L’équipe Business Partner, People Ops
-* L’équipe Learning & Development
+**•** L’équipe Talent Acquisition chapeautée par Claire-Lise Colin, notre Head of Talent Acquisition -  que vous avez[ interviewée](https://blog.refty.co/journee-type-head-of-talent-acquisition/) récemment -
+
+**•** L’équipe Business Partner, People Ops
+
+**•** L’équipe Learning & Development
 
 Je réfléchis actuellement à concevoir **une organisation en squad** de manière à sortir de la **hiérarchie traditionnelle**. Nous souhaitons avoir une approche plus **transversale et coordonnée**. Pour ce faire, je réfléchis à mobiliser plusieurs acteurs.ices dont les expertises combinées valorisent davantage **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/) **et collaborateurs**.
 
@@ -80,8 +84,9 @@ Le travail en remote a été une véritable **aubaine** pour Facebook. Notre can
 
 Pendant cette crise, Contentsquare a énormément évolué. Dans le but de gérer les équipes en remote, nous avons mis en place 2 tasks force :
 
-* La première est le “**Covid-19 Task force**”. Elle implique la fermeture des bureaux et la gestion des problématiques liées au Covid-19.
-* La seconde task force est la **numérisation de nos métiers**. Des collaborateurs.ices volontaires, se sont chargé.e.s - dans chacun de nos bureaux -  de réfléchir ensemble aux métiers ou tâches qui devaient se transformer. Ainsi, nous avons créé un guide sous la forme de **FAQ** pour accompagner les salarié.e.s dans ce sens.
+**•** La première est le “**Covid-19 Task force**”. Elle implique la fermeture des bureaux et la gestion des problématiques liées au Covid-19.
+
+**•** La seconde task force est la **numérisation de nos métiers**. Des collaborateurs.ices volontaires, se sont chargé.e.s - dans chacun de nos bureaux -  de réfléchir ensemble aux métiers ou tâches qui devaient se transformer. Ainsi, nous avons créé un guide sous la forme de **FAQ** pour accompagner les salarié.e.s dans ce sens.
 
 Les **interactions humaines** étant fondamentales dans notre culture d’entreprise, nous souhaitons **maintenir et développer** cet enjeu. C’est pourquoi notre politique d'implantation des locaux s’appuie en grande partie sur la capacité des lieux à **fédérer et mobiliser** nos collaborateurs.ices au sein d’un même lieu - et cette dimension est d'autant plus forte suite à notre levé de [408 millions](https://www.alliancy.fr/contensquare-boucle-500m-dollars-expansion) d’euros en juin (record de la French Tech). Il en va de même pour les entreprises que nous acquérons.
 
@@ -89,7 +94,7 @@ Les **interactions humaines** étant fondamentales dans notre culture d’entrep
 
 Le travail en remote représente un sujet aussi bien sur le fond que sur la forme. Nous travaillIions principalement **par écrit** de manière à ce que notre travail soit **mémorisable** et **uniforme** pour tous.tes nos collaborateurs.ices. Ce fut un travail d’une **rare intensité**.
 
-Dans une **démarche proactive**, nous avons mis en place un **protocole sanitaire strict** pour accueillir les personnes qui souhaitaient retrouver leurs espaces de travail sur site. Même si nous ne pouvions accueillir  - limités par les restrictions sanitaires - que 25 personnes - cela représente 17% de notre capital humain - certain.e.s collaborateurs.ices ont pu **retrouver les sensations** qu’ils avaient connus par le passé. 
+Dans une **démarche proactive**, nous avons mis en place un **protocole sanitaire strict** pour accueillir les personnes qui souhaitaient retrouver leurs espaces de travail sur site. Même si nous ne pouvions accueillir  - limités par les restrictions sanitaires - que 25 personnes - cela représente 17% de notre capital humain - certain.e.s collaborateurs.ices ont pu **retrouver les sensations** qu’ils avaient connus par le passé.
 
 Cette **expérience humaine** a été d’autant plus appréciable car elle a perduré au fur et à mesure des semaines - même avec les mesures sanitaires en constante évolution - Ornikar a subi un taux de contamination très faible.
 
