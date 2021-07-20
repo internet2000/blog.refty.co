@@ -46,7 +46,7 @@ Bien que le Covid -19 ait affecté notre activité, nous étions convaincus, au 
 
 Le Covid -19 a affecté **les relations humaines** mais parfois il les a **soudées davantage**. Cet évènement nous a apporté davantage de cohésion, de communion, d’esprit d’équipe.
 
-La **numérisation de l’évènementiel** à également été l'un de nos gros challenges.
+La **numérisation de l’évènementiel** a également été l'un de nos gros challenges.
 
 ### **Jessica Djeziri - VP People chez Ornikar**
 
@@ -64,14 +64,14 @@ Je réfléchis actuellement à concevoir **une organisation en squad** de maniè
 
 Pour découvrir la suite, nous vous invitons à renseigner vos coordonnées ;)
 
-<!--[if lte IE 8]>
+<!--\[if lte IE 8\]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
+<!\[endif\]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "ab94b8b2-f480-4256-a428-4e24caab180c"
+hbspt.forms.create({
+region: "na1",
+portalId: "9017898",
+formId: "ab94b8b2-f480-4256-a428-4e24caab180c"
 });
 </script>
