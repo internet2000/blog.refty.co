@@ -11,7 +11,7 @@ title: 'Covid-19 : comment Facebook, Contentsquare, Ornikar et Virtuo l''ont tra
   ?'
 categories:
 - Ressources
-permalink: "/covid-19-facebook-contentsquare-ornikar-virtuo-?/"
+permalink: "/covid-19-facebook-contentsquare-ornikar-virtuo/"
 
 ---
 Afin de vous permettre de vous inspirer des bonnes pratiques RH, Refty a interrogé les leaders RH de [Facebook](https://fr-fr.facebook.com/), [Contentsquare](https://contentsquare.com/fr-fr/?utm_term=contentsquare&utm_source=adwords&utm_medium=ppc&utm_campaign=*Brand&hsa_src=g&hsa_kw=contentsquare&hsa_mt=e&hsa_net=adwords&hsa_ver=3&hsa_ad=494277179493&hsa_tgt=kwd-101016939406&hsa_acc=8441707280&hsa_cam=769974894&hsa_grp=39193051183&gclid=Cj0KCQjwxdSHBhCdARIsAG6zhlXcua53bq2AXLnvX8cBufDzbuwZ5Hrc-0P5qsLO-OOy2inLtBsxCGwaAqEiEALw_wcB), [Ornikar](https://www.ornikar.com/?wiz_medium=sea&wiz_source=google&wiz_campaign=706095015&wiz_term=ornikar&gclid=Cj0KCQjwxdSHBhCdARIsAG6zhlX2aFE2-F3-LIjNhkbCsGY8uBPebguagg6qcdGy_HglMJL2ZZ1iQsQaAmuFEALw_wcB) et [Virtuo](https://www.govirtuo.com/fr).
