@@ -6,10 +6,10 @@ meta:
   date: 21/07/21
   excerpt: 'Elle a annoncé avoir levé 100 millions d''euros aujourd''hui '
 image: "/uploads/head-of-t-a-4.png"
-title: 'Covid-19 : Comment Ornikar l''a traversé ?'
+title: 'De l’entretien structuré au process structuré : Le cas Spendesk'
 categories:
-- Ressources
-permalink: "/covid-19-comment-ornikar-l-a-traversé-?/"
+- Bonnes Pratiques
+permalink: "/entretien-structure-process-structure-cas-Spendesk/"
 
 ---
 De l’entretien structuré au process structuré : Le cas Spendesk
