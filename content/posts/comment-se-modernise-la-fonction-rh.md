@@ -93,3 +93,7 @@ Selon moi, il y a une notion qui émerge : **la workplace experience** dans le s
 ## Un dernier mot pour les RH qui liront les articles ?
 
 Je reprendrai l’un des conseils que m’a donné l’un des cofondateurs de Voodoo : nous vivons actuellement une crise qui pèse sur tous les aspects de notre vie. La période que nous traversons n’est pas une période normale.  Dans les moments difficiles, il faut savoir garder ça en tête et savoir adapter ses exigences, tant envers soi-même qu’envers les autres.
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
