@@ -18,6 +18,9 @@ Celle qui a coutume de poser les questions a eu la gentillesse de répondre aux 
 
 ## Bonjour Juliette, pourriez-vous vous présenter ?
 
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-8046466d-d923-43c8-b46f-77440cc17cf0"><span class="hs-cta-node hs-cta-8046466d-d923-43c8-b46f-77440cc17cf0" id="hs-cta-8046466d-d923-43c8-b46f-77440cc17cf0"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/9017898/8046466d-d923-43c8-b46f-77440cc17cf0" ><img class="hs-cta-img" id="hs-cta-img-8046466d-d923-43c8-b46f-77440cc17cf0" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/9017898/8046466d-d923-43c8-b46f-77440cc17cf0.png"  alt="Lire la suite"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(9017898, '8046466d-d923-43c8-b46f-77440cc17cf0', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code -->
+
+
 Bonjour Barthélémy, oui bien sûr ! Je suis HR Business Partner chez Voodoo. J’ai un profil assez atypique...Je suis rentrée sur le marché du travail en tant que traductrice puis j’ai par la suite bifurqué vers les RH. Avant d’intégrer Voodoo, j’étais responsable RH chez Botify pendant quelques années.
 
 S’agissant de mon champ d’action géographique, dire que mon domaine d’action est large serait un euphémisme. J’interviens, en effet, dans un contexte international, de l'Asie au Canada en passant par l’Europe et la France bien évidemment (rires.)
