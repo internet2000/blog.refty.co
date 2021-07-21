@@ -12,8 +12,6 @@ categories:
 permalink: "/entretien-structure-process-structure-cas-Spendesk/"
 
 ---
-De l’entretien structuré au process structuré : Le cas Spendesk
-
 L’entretien d’embauche repose sur un paradoxe. Il faut prendre la décision **la plus avisée** en un temps **limité**. Cette course contre la montre, qui atteint les 30 à 60 minutes par candidat, doit à l'arrivée recueillir le maximum d'informations objectives pour atteindre sa raison d’être : sélectionner le talent qui renforcera le capital humain et la croissance de l’entreprise.
 
 **Comment concilier une perception complète du profil du candidat tout en respectant les contraintes temporelles induites par le recrutement ?**
