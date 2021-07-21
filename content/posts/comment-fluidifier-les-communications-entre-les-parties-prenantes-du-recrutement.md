@@ -38,22 +38,21 @@ Le processus de recrutement se doit d’être aussi **efficace qu’agréable** 
 
 Finalement, nous avons décidé de **structurer notre processus** de la façon suivante :
 
-* 
-  1. Le screening RH dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 à 45 min pour s'entrouvrir, nous permet de comprendre les **forces** et les **motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du/de la candidat.e** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
-* 
-  1. Lors du deuxième entretien, le **manager du poste** à pourvoir ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start-up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
-* 
-  1. Troisième entretien : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
+• Le screening RH dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 à 45 min pour s'entrouvrir, nous permet de comprendre les **forces** et les **motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du/de la candidat.e** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
 
-  Cette entrevue se scinde en deux parties. D’une part l’**entretien formel** au cours duquel des questions classiques vont lui être posées. D'autre part, l’**évaluation technique**.
+• Lors du deuxième entretien, le **manager du poste** à pourvoir ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start-up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
 
-  Nous nous efforçons d’**intégrer nos collaborateurs** dans le processus afin d'accroître leur **engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise** et une **marque employeur forte** auprès du/de la candidat.e.
+• Troisième entretien : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
 
-  Si des doutes émergent, à l’issue de cette troisième étape, nous pouvons  mettre en place un **dernier entretien**. Le cas échéant, nous expliquons au/à la candidat.e, avec beaucoup de **bienveillance**, les raisons pour lesquelles nous souhaitons organiser cet entretien supplémentaire.
+Cette entrevue se scinde en deux parties. D’une part l’**entretien formel** au cours duquel des questions classiques vont lui être posées. D'autre part, l’**évaluation technique**.
 
-  Parfois entre cet entretien et l'entretien fit ou parfois à la fin. Nous pouvons également prendre des références pour **mieux comprendre** comment la personne interagissait avec ses équipes précédentes et sa façon de travailler.
-* 
-  1. Dernier entretien : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors de la prise de références et nous **confrontons** les aspirations et les valeurs du candidat avec la mission et les valeurs de Manty.
+Nous nous efforçons d’**intégrer nos collaborateurs** dans le processus afin d'accroître leur **engagement.** Cette **responsabilisation** permet également de véhiculer une **culture d’entreprise** et une **marque employeur forte** auprès du/de la candidat.e.
+
+Si des doutes émergent, à l’issue de cette troisième étape, nous pouvons  mettre en place un **dernier entretien**. Le cas échéant, nous expliquons au/à la candidat.e, avec beaucoup de **bienveillance**, les raisons pour lesquelles nous souhaitons organiser cet entretien supplémentaire.
+
+Parfois entre cet entretien et l'entretien fit ou parfois à la fin. Nous pouvons également prendre des références pour **mieux comprendre** comment la personne interagissait avec ses équipes précédentes et sa façon de travailler.
+
+• Dernier entretien : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors de la prise de références et nous **confrontons** les aspirations et les valeurs du candidat avec la mission et les valeurs de Manty.
 
 Le recrutement est un exercice de deux côtés, c’est aussi un processus pour que le.a candidat.e soit sûr.e d'intégrer une entreprise. Si besoin, on propose de rencontrer plus de personnes pour poser plus de questions et **mieux se projeter.**
 
