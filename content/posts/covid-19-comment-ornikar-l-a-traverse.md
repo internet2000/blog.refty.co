@@ -44,37 +44,37 @@ Chacun de ses acteurs possèdent des compétences spécifiques et complémentair
 
 Adopter une approche de co-création vous permettra d’élaborer une **feuille de route** dénuée de toute **subjectivité**, de **biais** et de **discrimination**.
 
-Quelles sont les compétences indispensables dans notre secteur d’activité ?
+• Quelles sont les compétences indispensables dans notre secteur d’activité ?
 
-Quelles compétences pourraient révéler son potentiel ?
+• Quelles compétences pourraient révéler son potentiel ?
 
-Quelles compétences sont incontournables pour qu’il réponde aux missions/outils actuel.elle.s et futur.e.s qu’on lui assignera/qu’il utilisera ?
+• Quelles compétences sont incontournables pour qu’il réponde aux missions/outils actuel.elle.s et futur.e.s qu’on lui assignera/qu’il utilisera ?
 
-Quelles connaissances sont nécessaires pour qu’il se familiarise rapidement avec le secteur dans lequel nous évoluons ?
+• Quelles connaissances sont nécessaires pour qu’il se familiarise rapidement avec le secteur dans lequel nous évoluons ?
 
-Il peut s’agir de l’aisance à l’oral pour un poste de Sales, de l’exécution pour un Dev, du travail en équipe ou de la diplomatie pour un manager,ou encore de  la gestion du temps pour un poste ouvert au full remote etc…
+Il peut s’agir de l’**aisance à l’oral** pour un poste de Sales, de l’**exécution** pour un Dev, du **travail en équipe** ou de la diplomatie pour un manager,ou encore de  la gestion du temps pour un poste ouvert au full remote etc…
 
-Par exemple, notre critère C1 est : 
+Par exemple, notre critère C1 est :
 
-**Le travail d’équipe** 
+**Le travail d’équipe**
 
 ## 2 - Insérez un système de notation commun
 
 Afin que vos résultats soient intelligibles et exploitables par le.a recruteur.euse ou le manager, il est primordial d’apprécier la valeur du/de la candidat.e via un système de notation. Ce dernier vous permettra non seulement de **qualifier** le talent mais aussi de le comparer aux autres.
 
-Il existe plusieurs systèmes de notation possibles (en voici quelques exemples, la liste est non exhaustive) : 
+Il existe plusieurs systèmes de notation possibles (en voici quelques exemples, la liste est non exhaustive) :
 
-l’échelle dite “**uniforme**”ou échelle de Likert : de 0 (très insuffisant) à 5 (très  satisfaisant) 
+l’échelle dite “**uniforme**”ou échelle de Likert : de 0 (très insuffisant) à 5 (très  satisfaisant)
 
 **la barre ipsative** : qui permet de prendre position sur une compétence par rapport à une autre (qui peut aussi se pondérer sous forme de %) ;
 
-Par exemple : 
+Par exemple :
 
 ![](/uploads/barreipsativerefty.png)
 
-**l’échelle descriptive** : formulée sous la forme d’énoncés très précis. 
+**l’échelle descriptive** : formulée sous la forme d’énoncés très précis.
 
-Par exemple : 
+Par exemple :
 
 1\. A presque atteint toutes les exigences du poste
 
@@ -88,7 +88,7 @@ Nous vous invitons à ordonner hiérarchiquement les critères liés au poste - 
 
 ## 4 - Quand la personnalisation se mêle à la standardisation
 
-Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste. 
+Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste.
 
 Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs ne faisant pas partie de son cœur de métier ?
 
@@ -98,13 +98,11 @@ Néanmoins veillez bien à ce que la structure d'entretien soit la même pour ch
 
 Il existe nombre de pratiques d’évaluation qui vous permettent d’affiner la connaissance que vous avez sur le candidat : évaluation au feeling, prise de références, portfolio…
 
-Cependant, certaines pratiques tirent leur épingle du jeu : 
+Cependant, certaines pratiques tirent leur épingle du jeu :
 
 Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon l’[Ecole du recrutement](https://lecoledurecrutement.fr/comment-mettre-en-place-les-entretiens-structures/)
 
 La prise de références repensées. (Refty par exemple est le carrefour de la prise de références traditionnelle et de l’entretien structuré )
-
- 
 
 _Spendesk l’a bien compris ! La start up française spécialisée dans la gestion des dépenses opérationnelles, qui a annoncé aujourd’hui avoir levé_ [_100 millions d’euros_](https://www.lemonde.fr/economie/article/2021/07/21/la-start-up-francaise-spendesk-leve-100-millions-d-euros_6089006_3234.html)_, s’appuie sur l’entretien structuré pour évaluer ses candidat.e.s._
 
@@ -112,14 +110,14 @@ _Entretien avec Stéfany Ton That, Lead Talent Acquisition chez Spendesk._
 
 Nous vous invitions à renseigner vos coordonnées pour avoir accès à l'intégralité de l'article :)
 
-<!--[if lte IE 8]>
+<!--\[if lte IE 8\]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
+<!\[endif\]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "d5369557-47d8-4f65-af2e-08eeb8358cc5"
+hbspt.forms.create({
+region: "na1",
+portalId: "9017898",
+formId: "d5369557-47d8-4f65-af2e-08eeb8358cc5"
 });
 </script>
