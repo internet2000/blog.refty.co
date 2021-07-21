@@ -14,7 +14,7 @@ permalink: "/entretien-structure-process-structure-cas-Spendesk/"
 ---
 De l’entretien structuré au process structuré : Le cas Spendesk
 
-L’entretien d’embauche repose sur un paradoxe. Il faut prendre la décision **la plus avisée** en un temps limité. Cette course contre la montre, qui atteint les 30 à 60 minutes par candidat, doit à l'arrivée recueillir le maximum d'informations objectives pour atteindre sa raison d’être : sélectionner le talent qui renforcera le capital humain et la croissance de l’entreprise.
+L’entretien d’embauche repose sur un paradoxe. Il faut prendre la décision **la plus avisée** en un temps **limité**. Cette course contre la montre, qui atteint les 30 à 60 minutes par candidat, doit à l'arrivée recueillir le maximum d'informations objectives pour atteindre sa raison d’être : sélectionner le talent qui renforcera le capital humain et la croissance de l’entreprise.
 
 **Comment concilier une perception complète du profil du candidat tout en respectant les contraintes temporelles induites par le recrutement ?**
 
@@ -66,7 +66,7 @@ Il existe plusieurs systèmes de notation possibles (en voici quelques exemples,
 
 l’échelle dite “**uniforme**”ou échelle de Likert : de 0 (très insuffisant) à 5 (très  satisfaisant)
 
-**la barre ipsative** : qui permet de prendre position sur une compétence par rapport à une autre (qui peut aussi se pondérer sous forme de %) ;
+la **barre ipsative** : qui permet de prendre position sur une compétence par rapport à une autre (qui peut aussi se pondérer sous forme de %) ;
 
 Par exemple :
 
@@ -84,25 +84,25 @@ Par exemple :
 
 ## 3 - Hiérarchisez les critères de votre entretien
 
-Nous vous invitons à ordonner hiérarchiquement les critères liés au poste - du plus évident au moins évident -  dans le but de construire un fil conducteur tout au long de l'évaluation et de se focaliser en priorité sur un attribut.
+Nous vous invitons à ordonner hiérarchiquement les critères liés au poste - du plus évident au moins évident -  dans le but de construire un fil conducteur tout au long de l'évaluation et de se **focaliser** en priorité sur un attribut.
 
 ## 4 - Quand la personnalisation se mêle à la standardisation
 
 Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste.
 
-Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs ne faisant pas partie de son cœur de métier ?
+Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs.ices ne faisant pas partie de son cœur de métier ?
 
-Néanmoins veillez bien à ce que la structure d'entretien soit la même pour chaque poste recherché afin de rendre les comparaisons entre candidats possibles.
+Néanmoins veillez bien à ce que la structure d'entretien soit la même pour chaque poste recherché afin de rendre les comparaisons entre candidat.e.s possibles.
 
 ## 5 - Evaluez vos critères
 
-Il existe nombre de pratiques d’évaluation qui vous permettent d’affiner la connaissance que vous avez sur le candidat : évaluation au feeling, prise de références, portfolio…
+Il existe nombre de pratiques d’évaluation qui vous permettent d’affiner la connaissance que vous avez sur le.a candidat.e : évaluation au feeling, prise de références, portfolio…
 
 Cependant, certaines pratiques tirent leur épingle du jeu :
 
-Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon l’[Ecole du recrutement](https://lecoledurecrutement.fr/comment-mettre-en-place-les-entretiens-structures/)
+• Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon l’[Ecole du recrutement](https://lecoledurecrutement.fr/comment-mettre-en-place-les-entretiens-structures/)
 
-La prise de références repensées. (Refty par exemple est le carrefour de la prise de références traditionnelle et de l’entretien structuré )
+• La prise de références repensée. (Refty par exemple est le carrefour de la prise de références traditionnelle et de l’entretien structuré )
 
 _Spendesk l’a bien compris ! La start up française spécialisée dans la gestion des dépenses opérationnelles, qui a annoncé aujourd’hui avoir levé_ [_100 millions d’euros_](https://www.lemonde.fr/economie/article/2021/07/21/la-start-up-francaise-spendesk-leve-100-millions-d-euros_6089006_3234.html)_, s’appuie sur l’entretien structuré pour évaluer ses candidat.e.s._
 
