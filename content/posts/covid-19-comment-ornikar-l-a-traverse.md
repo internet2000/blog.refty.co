@@ -109,7 +109,7 @@ _Spendesk l’a bien compris ! La start up française spécialisée dans la gest
 
 _Entretien avec Stéfany Ton That, Lead Talent Acquisition chez Spendesk._
 
-Etant donné que les **Business Development Representative** (BDR) sont les postes les plus recrutés par Spendesk d’ici aux 12 à 18 prochains mois, je vais appliquer notre processus structuré à ce profil pour que vous puissiez visualiser toutes les étapes qui jalonnent notre process - dont l’entretien structuré évidemment - ainsi que les actions pour valoriser notre marque employeur et notre [expérience candidat](https://blog.refty.co/qu-est-ce-que-experience-candidat/) par la même occasion (rires).
+Etant donné que les **Business Development Representative** (BDR) sont les postes les plus recrutés par Spendesk d’ici aux 12 à 18 prochains mois, je vais appliquer notre **processus structuré** à ce profil pour que vous puissiez visualiser toutes les étapes qui jalonnent notre process - dont l’**entretien structuré** évidemment - ainsi que les actions pour valoriser notre **marque employeur** et notre [expérience candidat](https://blog.refty.co/qu-est-ce-que-experience-candidat/) par la même occasion (rires).
 
 Dans un premier temps, nous nous coordonnons. Notre process de recrutement est conçu par deux acteurs majeurs (et interlocuteurs de longue date) : les [T.A](https://blog.refty.co/recruteur-un-poste-de-reve/) et l’équipe Sales Leaders (les hiring managers). Suite à un benchmark et à leur **réflexion transversale** - un brainstorming -  ils s’entendent sur les **attributs** à privilégier et sur la méthodologie à appliquer pour parvenir à les faire ressortir de la façon la plus objective possible selon les standards de Spendesk.
 
