@@ -89,7 +89,7 @@ Nous vous invitons à ordonner hiérarchiquement les critères liés au poste - 
 
 Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste. 
 
-Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs ne faisant pas partie de son cœur de métier ?
+Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs.ices ne faisant pas partie de son cœur de métier ?
 
 Néanmoins veillez bien à ce que la structure d'entretien soit la même pour chaque poste recherché afin de rendre les comparaisons entre candidat.e.s possibles.
 
@@ -99,7 +99,7 @@ Il existe nombre de pratiques d’évaluation qui vous permettent d’affiner la
 
 Cependant, certaines pratiques tirent leur épingle du jeu : 
 
-Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon l’Ecole du recrutement
+Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon [l’Ecole du recrutement](https://lecoledurecrutement.fr/comment-mettre-en-place-les-entretiens-structures/)
 
 La prise de références repensée. (Refty par exemple est le carrefour de la prise de références traditionnelle et de l’entretien structuré )
 
