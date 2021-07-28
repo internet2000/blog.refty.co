@@ -10,7 +10,7 @@ image: "/uploads/head-of-t-a-17.png"
 title: '5 Tips pour harmoniser la relation entre responsables RH et Hiring managers '
 categories:
 - Bonnes Pratiques
-permalink: "/recrutement-5-tips-pour-harmoniser-la-relation-entre-responsables-rh-et-hiring-managers/"
+permalink: "/5-tips-pour-harmoniser-la-relation-entre-responsables-rh-et-hiring-managers/"
 
 ---
 Plusieurs responsables RH nous ont partagé une problématique à laquelle ils sont constamment confrontés : la rigidité de la communication entre les responsables RH et hiring managers (les managers d’équipe en charge du recrutement) dans le cadre du processus de recrutement. Il n’en fallait pas plus pour que nous prenions notre plume et réfléchissions à un article qui aborde cette problématique (et y réponde).
