@@ -24,9 +24,9 @@ Plusieurs responsables RH nous ont partagé une problématique à laquelle ils s
 
 Le recrutement mobilise plusieurs acteurs de votre organisation. Le recruteur qui va gérer le **flux de candidatures** et le hiring manager qui va s’assurer que le candidat correspond bien aux **attentes** du poste à pourvoir. Ces deux protagonistes collaborent depuis toujours. Mais ce partenariat peut parfois dysfonctionner. En effet, ces différents rouages fonctionnent grâce à deux huiles que vous connaissez bien : l’**information** et la **communication**. Cependant, lorsque cette information est détenue par un seul des ces deux acteurs ou peine à être délivrée du fait de l’opacité de la communication, que devient la machine qu’est le recrutement ? Elle s'enraye momentanément au détriment du talent. Ces couacs peuvent générer un sentiment de **confusion** et de **frustration**, qui dessert l'[expérience candidat](https://blog.refty.co/qu-est-ce-que-experience-candidat/).
 
-Le best-seller [_Who : The A Method for Hiring _](https://whothebook.com/)(oui encore lui) conforte cette perception. Selon lui, la principale **brèche** du recrutement est l'incapacité des parties prenantes à dresser une liste de compétences exhaustive et cohérente pour un poste donné. Preuve en est, selon LinkedIn, certain.e.s hiring managers estiment que le principal obstacle à la coopération transversale est le **manque d’alignement** entre leurs attentes et celles des RH. 
+Le best-seller [_Who : The A Method for Hiring _](https://whothebook.com/)(oui encore lui) conforte cette perception. Selon lui, la principale **brèche** du recrutement est l'incapacité des parties prenantes à dresser une liste de compétences exhaustive et cohérente pour un poste donné. Preuve en est, selon LinkedIn, certain.e.s hiring managers estiment que le principal obstacle à la coopération transversale est le **manque d’alignement** entre leurs attentes et celles des RH.
 
-Pour pallier ces entraves, différents **outils d'analyse** comme [Refty](https://refty.co/) :) vous permettent de favoriser la **coopération** entre le hiring manager et le recruteur tout en optimisant la **qualification** du/de la candidat.e.
+Pour pallier ces entraves, différents **outils d'analyse** vous permettent de favoriser la **coopération** entre le hiring manager et le recruteur tout en optimisant la **qualification** du/de la candidat.e.
 
 Pour colmater cette brèche, nous vous conseillons de mettre en place la méthode **P.I.S.F.D**. On vous explique en quoi ça consiste.
 
@@ -48,17 +48,17 @@ Pour **amplifier** la coordination entre vous et le hiring manager, nous vous co
 
 ## D - Distinguez les top talents des futurs collaborateurs.
 
-**Écrémez** davantage votre process. Des outils d’évaluation tels que Refty vous aident à mieux recruter. En **superposant** ses attentes aux **retours d’expérience** des personnes ayant collaboré avec le talent (collaborateurs, managers, N-1, N-0). Il est ainsi possible de :
+**Écrémez** davantage votre process. Des outils d’évaluation comme Refty vous aident à mieux recruter. En **superposant** ses attentes aux **retours d’expérience** des personnes ayant collaboré avec le talent (collaborateurs, managers, N-1, N-0). Il est ainsi possible de :
 
-Impliquer davantage le hiring manager
+• Impliquer davantage le hiring manager
 
-S’appuyer sur des données fiables et objectives
+• S’appuyer sur des données fiables et objectives
 
-Mieux qualifier les talents et ainsi réduire les erreurs de recrutement
+• Affiner la connaissance que vous avez du/de la candidat.e
 
-Facilitez l'onboarding et accroître l’opérationnalité du talent grâce à des données exploitables
+• Facilitez l'**onboarding** et accroître la **mise en puissance** (ramp-up) du talent grâce à des données exploitables.
 
-Se focaliser sur les compétences au lieu de privilégier le profil du candidat ( qualifications, expériences..)
+• Se focaliser sur les compétences au lieu de privilégier le profil du/de la candidat.e (qualifications, expériences..)
 
 ## Conclusion
 
