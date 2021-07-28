@@ -116,8 +116,7 @@ Les **5 critères** retenus sont ainsi hiérarchisés par ordre d’importance :
 * la cognitive ability ou la capacité à réfléchir sur une problématique donnée
 * le sens aigu des affaires (ou business acumen) fondé sur le savoir et le [potentiel ](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/)
 * le sales personnality : les valeurs, le comportement, l’état d’esprit
-
-  le culture fit : pilier indispensable de tous nos postes à pourvoir. C’est d’ailleurs l’une de nos règles fondamentales.
+* le culture fit : pilier indispensable de tous nos postes à pourvoir. C’est d’ailleurs l’une de nos règles fondamentales.
 
 Les règles dictent aux interviewers.euses, la structure à respecter, le comportement à adopter, les axes sur lesquels se concentrer afin d’avoir une perspective à 360° degrés en restant factuel.
 
