@@ -6,9 +6,8 @@ meta:
   date: 28/07/21
   excerpt: Ces deux protagonistes collaborent depuis toujours. Mais ce partenariat
     peut parfois dysfonctionner
-image: "/uploads/head-of-t-a-14.png"
-title: 'Recrutement : 5 Tips pour harmoniser la relation entre responsables RH et
-  Hiring managers '
+image: "/uploads/head-of-t-a-15.png"
+title: '5 Tips pour harmoniser la relation entre responsables RH et Hiring managers '
 categories:
 - Bonnes Pratiques
 permalink: "/recrutement-5-tips-pour-harmoniser-la-relation-entre-responsables-rh-et-hiring-managers/"
