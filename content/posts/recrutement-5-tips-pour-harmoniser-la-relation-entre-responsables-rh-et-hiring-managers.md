@@ -55,9 +55,9 @@ Pour **amplifier** la coordination entre vous et le hiring manager, nous vous co
 
 • Affiner la connaissance que vous avez du/de la candidat.e
 
-• Facilitez l'**onboarding** et accroître la **mise en puissance** (ramp-up) du talent grâce à des données exploitables.
+• Faciliter l'**onboarding** et accroître la **montée en puissance** (ramp-up) du talent grâce à des données exploitables.
 
-• Se focaliser sur les compétences au lieu de privilégier le profil du/de la candidat.e (qualifications, expériences..)
+• Se focaliser sur les **compétences** au lieu de privilégier le **profil** de son prédécesseur (diplôme, qualifications, expériences..)
 
 ## Conclusion
 
