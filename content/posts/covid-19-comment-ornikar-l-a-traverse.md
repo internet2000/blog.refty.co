@@ -60,20 +60,19 @@ Par exemple, notre critère C1 est :
 
 Afin que vos résultats soient **intelligibles** et **exploitables** par le.a recruteur.euse ou le manager, il est primordial d’apprécier la valeur du/de la candidat.e via un système de notation. Ce dernier vous permettra non seulement de **qualifier** le talent mais aussi de le **comparer** aux autres.
 
-Il existe plusieurs systèmes de notation possibles (en voici quelques exemples, la liste est non exhaustive) : 
+Il existe plusieurs systèmes de notation possibles (en voici quelques exemples, la liste est non exhaustive) :
 
-• **l’échelle dite “uniforme**”ou échelle de Likert : de 0 (très insuffisant) à 5 (très  satisfaisant) 
+• **l’échelle dite “uniforme**”ou échelle de Likert : de 0 (très insuffisant) à 5 (très  satisfaisant)
 
 • **la barre ipsative** : qui permet de prendre position sur une compétence par rapport à une autre (qui peut aussi se pondérer sous forme de %)
 
 Par exemple :
 
-  
 ![](/uploads/barreipsativerefty.png)
 
-• **l’échelle descriptive** : formulée sous la forme d’énoncés très précis. 
+• **l’échelle descriptive** : formulée sous la forme d’énoncés très précis.
 
-Par exemple : 
+Par exemple :
 
 1\. A presque atteint toutes les exigences du poste
 
@@ -87,7 +86,7 @@ Nous vous invitons à ordonner hiérarchiquement les critères liés au poste - 
 
 ## 4 - Quand la personnalisation se mêle à la standardisation
 
-Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste. 
+Il est inutile de vous préciser que chaque entretien doit être adapté aux spécificités du poste, de l’équipe, de votre culture d’entreprise et à l’évolution des compétences liées au poste.
 
 Par exemple un Sales devra-t-il échanger régulièrement dans le cadre de projets transversaux auprès de collaborateurs.ices ne faisant pas partie de son cœur de métier ?
 
@@ -97,13 +96,11 @@ Néanmoins veillez bien à ce que la structure d'entretien soit la même pour ch
 
 Il existe nombre de pratiques d’évaluation qui vous permettent d’affiner la connaissance que vous avez sur le.a candidat.e : évaluation au feeling, prise de références, portfolio…
 
-Cependant, certaines pratiques tirent leur épingle du jeu : 
+Cependant, certaines pratiques tirent leur épingle du jeu :
 
 Les entretiens structurés dont le taux de prédiction est de 60 à 70% selon [l’Ecole du recrutement](https://lecoledurecrutement.fr/comment-mettre-en-place-les-entretiens-structures/)
 
 La prise de références repensée. (Refty par exemple est le carrefour de la prise de références traditionnelle et de l’entretien structuré )
-
- 
 
 _Spendesk l’a bien compris ! La start up française spécialisée dans la gestion des dépenses opérationnelles, qui a annoncé aujourd’hui avoir levé_ [_100 millions d’euros_](https://www.lemonde.fr/economie/article/2021/07/21/la-start-up-francaise-spendesk-leve-100-millions-d-euros_6089006_3234.html)_, s’appuie sur l’entretien structuré pour évaluer ses candidat.e.s._
 
@@ -117,6 +114,15 @@ Les **5 critères** retenus sont ainsi hiérarchisés par ordre d’importance :
 
 * le degré de performance
 * la cognitive ability ou la capacité à réfléchir sur une problématique donnée
+* le sens aigu des affaires (ou business acumen) fondé sur le savoir et le [potentiel ](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/)
+* le sales personnality : les valeurs, le comportement, l’état d’esprit
+* le culture fit : pilier indispensable de tous nos postes à pourvoir. C’est d’ailleurs l’une de nos règles fondamentales.
+
+Les règles dictent aux interviewers.euses, la structure à respecter, le comportement à adopter, les axes sur lesquels se concentrer afin d’avoir une perspective à 360° degrés en restant factuel.
+
+Typiquement, si un doute émerge, il fera l’objet d’une recherche approfondie. Nous ne considérons pas que la formule “S’il y a un doute, c’est qu’il n’y a plus de doute” doit s’appliquer.
+
+Spendesk a également mis en place un “**Hiring Committee**” qui prend forme à l’issue du processus de recrutement afin de centraliser tous les avis, opinions, réticences des interviewers.euses avant de prendre la bonne décision finale en matière d’embauche. Les T.A, au cours de cette réunion, vont établir une moyenne en se basant sur les feedbacks form rempli par les différent.e.s interviewers.euses. Les T.A peuvent éventuellement ouvrir le débat auprès des différents interlocuteurs, challenger tel ou tel feedback si il/elle considère qu’un point n’est pas tout à fait objectif. Le but est de faire converger et d’affiner les feedbacks des interviewers.euses afin de prendre la bonne décision : recruter le bon talent.
 
 Nous vous invitions à renseigner vos coordonnées pour avoir accès à l'intégralité de l'article :)
 
