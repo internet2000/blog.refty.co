@@ -54,15 +54,3 @@ J’oubliais...Refty nous permet aussi de **valoriser** notre marque employeur e
 
 Nous attendons avec impatience la personnalisation de nos questionnaires afin d’augmenter **la qualité** des résultats mais également les futures fonctionnalités (les fonctionnalités sont désormais [live](https://refty.co/) depuis cet entretien) de Refty pour toujours plus d’efficacité :)
 
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "21c04996-3afa-463f-8cb1-2d8b10ae2f47"
-});
-</script>
