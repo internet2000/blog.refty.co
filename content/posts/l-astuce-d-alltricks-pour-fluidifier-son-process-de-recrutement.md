@@ -53,33 +53,3 @@ J’oubliais...Refty nous permet aussi de **valoriser** notre marque employeur e
 ## Un dernier mot pour la suite de votre collaboration avec Refty 🙂 ?
 
 Nous attendons avec impatience la personnalisation de nos questionnaires afin d’augmenter **la qualité** des résultats mais également les futures fonctionnalités (les fonctionnalités sont désormais [live](https://refty.co/) depuis cet entretien) de Refty pour toujours plus d’efficacité :)
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "21c04996-3afa-463f-8cb1-2d8b10ae2f47"
-});
-</script>
-
-<!-- Add the code below inside the <body> tags of your HTML page -->
-<script>
-window.VIDEOASK_EMBED_CONFIG = {
-  "kind": "widget",
-  "url": "https://www.videoask.com/fimv9yreu",
-  "options": {
-    "widgetType": "VideoThumbnailSmall",
-    "text": "Qui suis-je ?",
-    "backgroundColor": "#FFA077",
-    "position": "bottom-right",
-    "dismissable": false
-  }
-}
-</script>
-<script src="https://www.videoask.com/embed/embed.js"></script>
-<!-- Important!!! In order to allow your videoask to open up on the same page when interacting with the widget, your website must use the secure https:// protocol (i.e have an SSL certificate). Otherwise, when clicking the widget, a new tab will be automatically opened in the browser.
--->
