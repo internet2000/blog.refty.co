@@ -66,10 +66,20 @@ Nous attendons avec impatience la personnalisation de nos questionnaires afin dâ
 });
 </script>
 
-<iframe src="https://www.videoask.com/fimv9yreu"
-allow="camera *; microphone *; autoplay *; encrypted-media *; fullscreen *; display-capture *;"
-width="100%"
-height="600px"
-style="border: none; border-radius: 24px"
->
-</iframe>
+<!-- Add the code below inside the <body> tags of your HTML page -->
+<script>
+window.VIDEOASK_EMBED_CONFIG = {
+  "kind": "widget",
+  "url": "https://www.videoask.com/fimv9yreu",
+  "options": {
+    "widgetType": "VideoThumbnailSmall",
+    "text": "Qui suis-je ?",
+    "backgroundColor": "#FFA077",
+    "position": "bottom-right",
+    "dismissable": false
+  }
+}
+</script>
+<script src="https://www.videoask.com/embed/embed.js"></script>
+<!-- Important!!! In order to allow your videoask to open up on the same page when interacting with the widget, your website must use the secure https:// protocol (i.e have an SSL certificate). Otherwise, when clicking the widget, a new tab will be automatically opened in the browser.
+-->
