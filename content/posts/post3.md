@@ -191,10 +191,3 @@ Il faut :
 Les **bénéfices** :  
 Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le.a recruteur.euse le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut !🔥 
 
-<iframe src="https://www.videoask.com/fimv9yreu"
-allow="camera *; microphone *; autoplay *; encrypted-media *; fullscreen *; display-capture *;"
-width="100%"
-height="600px"
-style="border: none; border-radius: 24px"
->
-</iframe>
