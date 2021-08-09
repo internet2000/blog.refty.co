@@ -126,13 +126,11 @@ Il est donc important de réussir à capter les soft skills chez les candidat.e.
 
 ### **Tester**
 
-Intégrer un test de personnalité de bon niveau et avec une bonne [**expérience candidat** ](https://blog.refty.co/qu-est-ce-que-experience-candidat/). Ou observer la manière de se comporter du/de la candidat.e en groupe pour capter ses comportements & son positionnement.
+• Intégrer un test de personnalité de bon niveau et avec une bonne [**expérience candidat** ](https://blog.refty.co/qu-est-ce-que-experience-candidat/). Ou observer la manière de se comporter du/de la candidat.e en groupe pour capter ses comportements & son positionnement.
 
 ### **Utiliser un système de références / recommandations**
 
-Privilégier une approche innovante pour **favoriser l'objectivité** basée sur les soft skills.
-
-Ces exercices sont des révélateurs de personnalité qui aideront à mieux projeter le candidat dans l’environnement du poste, de l’équipe et de l’entreprise à court et moyen terme.
+• Privilégier une approche innovante pour **favoriser l'objectivité** basée sur les soft skills. Ces exercices sont des révélateurs de personnalité qui aideront à mieux projeter le.a candidat.e dans l’environnement du poste, de l’équipe et de l’entreprise à court et moyen terme.
 
 Cette notion de temporalité est importante car les soft skills sont des **compétences vivantes, évolutives**, elles s’inscrivent dans un continuum et peuvent changer avec le temps.
 
@@ -178,7 +176,7 @@ Mais attention, pour que cela soit vertueux, il convient de :
 
 Avec les soft skills le.a recruteur.euse a une matière incroyablement riche pour le recrutement !
 
-Concrètement, il peut ajouter à son processus de recrutement un volet soft skills assez facilement : durant l’entretien, via une étape d’assessment, un système d’immersion pré embauche, ou la remontée de références.
+Concrètement, il peut ajouter à son processus de recrutement un volet soft skills assez facilement : durant l’entretien, via une étape d’assessment, un système d’immersion pré-embauche, ou la remontée de références.
 
 L’idée est d’avoir une vraie finalité dans cette démarche, **en impliquant toutes les parties prenantes** du recrutement : RH, métier, Management, team. Ce cross checking permettra une concordance des avis. Mais il faudra être prudent à ne pas complexifier le processus et le faire durer. D’où l'idée d’avoir une organisation simple, et d'utiliser des outils pour faciliter le workflow.
 
