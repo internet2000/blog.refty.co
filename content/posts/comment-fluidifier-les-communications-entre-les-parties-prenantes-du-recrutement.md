@@ -74,7 +74,7 @@ A l’issue  du pipeline, une checklist permet de s’assurer que les infos les 
 
 ![](/uploads/screenshot-at-jun-14-11-03-14.png)
 
-C’est très important que les candidat.e.s aient **toute l’information** importante sur nous et sur le poste.
+C’est très important que les candidat.e.s aient **toute l’information** sur nous et sur le poste.
 
 En procédant ainsi, nous parvenons à :
 
