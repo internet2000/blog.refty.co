@@ -84,7 +84,7 @@ En procédant ainsi, nous parvenons à :
 
 ## Comment sont centralisées les informations ?
 
-Les informations sont centralisées sur **Notion** où nous avons créé notre propre "job board". En qualité de DRH, je m'attelle au bon déroulement du processus : les set up **interviews,** l’envoi du **test technique** ou du **business case**, la communication permanente avec le.a candidat.e, que sa candidature ait été acceptée ou non…En clair, je gère chaque maillon du processus telle une cheffe d’orchestre (rires).
+Les informations sont centralisées sur **Notion** où nous avons créé notre propre "job board". En qualité de DRH, je m'attelle au bon déroulement du processus : les set up **interviews,** l’envoi du [**test technique**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/) ou du **business case**, la communication permanente avec le.a candidat.e, que sa candidature ait été acceptée ou non…En clair, je gère chaque maillon du processus telle une cheffe d’orchestre (rires).
 
 ## On parle de plus en plus de valoriser “[**l'expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)”. As-tu mis en place un processus particulier pour fluidifier les communications entre les différentes parties prenantes ?
 
