@@ -12,7 +12,7 @@ categories:
 permalink: "/necessite-fluidifier-communication-recrutement/"
 
 ---
-_Pendant le processus de recrutement de nombreuses parties prenantes interviennent. Le candidat se retrouve donc à échanger avec plusieurs interlocuteurs ce qui peut parfois apporter de la **confusion** dans le processus._
+_Pendant le processus de recrutement de nombreuses parties prenantes interviennent. Le.a candidat.e se retrouve donc à échanger avec plusieurs interlocuteurs ce qui peut parfois apporter de la **confusion** dans le processus._
 
 A l'aube [des élections régionales](https://www.service-public.fr/particuliers/vosdroits/F1958) dont la première vague se tiendra ce week-end, une **Govtech** est de plus en plus plébiscitée par les collectivités territoriales. Forte d’une levée de fonds de [**2.4 millions d’euros**](https://www.manty.eu/post/manty-l%C3%A8ve-2-4-millions-d-euros-pour-am%C3%A9liorer-la-gestion-des-collectivit%C3%A9s), [Manty](https://www.manty.eu/), créée en janvier 2017, a pour ambition de repenser la manière dont les collectivités gèrent et exploitent leurs données, en vue d’améliorer le quotidien de leurs administrés et de prendre des décisions plus éclairées.
 
@@ -36,11 +36,11 @@ Le processus de recrutement se doit d’être aussi **efficace qu’agréable** 
 
 Finalement, nous avons décidé de **structurer notre processus** de la façon suivante :
 
-• Le screening RH dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 à 45 min pour s'entrouvrir, nous permet de comprendre les **forces** et les **motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du/de la candidat.e** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
+• **Le screening RH** (premier entretien) dont l’objectif est de faire connaissance avec le.a candidat.e. Cette porte d'entrée qui met entre 30 à 45 min pour s'entrouvrir, nous permet de comprendre les **forces** et les **motivations** de la personne. Si les **valeurs, les compétences essentielles** et le **comportement du/de la candidat.e** s’accordent avec le poste et notre culture d’entreprise, la porte s’ouvre vers la seconde étape du processus.
 
-• Lors du deuxième entretien, le **manager du poste** à pourvoir ou **notre CEO**, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start-up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
+• **Deuxième entretien** :  le manager du poste à pourvoir ou notre CEO, Mathieu Nohet, est à la manœuvre. Au cours de cette entrevue, nous souhaitons **comprendre** le parcours et les différentes expériences qui ont rythmé la vie professionnelle du/de la candidat.e. Suite à ses réponses, quels sont les traits de sa personnalité qui vont ressortir ?... En étant une start-up à **taille humaine**, nous recherchons des candidat.e.s avec un grand **sens de l’ownership**, qui prennent leurs **responsabilités très au sérieux** dans un **environnement qui avance vite**.
 
-• Troisième entretien : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
+• **Troisième entretien** : l’évaluation des compétences en détail dont le point d’orgue sera la réalisation d’un [**test technique ou d’un business case**](https://blog.refty.co/5-outils-pour-mesurer-potentiel-candidat/). Durant cette étape, un membre de l'équipe sera mobilisé.
 
 Cette entrevue se scinde en deux parties. D’une part l’**entretien formel** au cours duquel des questions classiques vont lui être posées. D'autre part, l’**évaluation technique**.
 
@@ -50,7 +50,7 @@ Si des doutes émergent, à l’issue de cette troisième étape, nous pouvons  
 
 Parfois entre cet entretien et l'entretien fit ou parfois à la fin. Nous pouvons également prendre des références pour **mieux comprendre** comment la personne interagissait avec ses équipes précédentes et sa façon de travailler.
 
-• Dernier entretien : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors de la prise de références et nous **confrontons** les aspirations et les valeurs du candidat avec la mission et les valeurs de Manty.
+• **Dernier entretien** : le “**Fit interview**", nous invitons un des cofondateurs et un membre de l’équipe en même temps. Cette ultime étape vise à s’assurer que la personne **s'épanouit dans notre environnement de travail**. Nous prenons tout en compte, tous les entretiens, les réponses recueillies lors de la prise de références et nous **confrontons** les aspirations et les valeurs du/de la candidat.e avec la mission et les valeurs de Manty.
 
 Le recrutement est un exercice de deux côtés, c’est aussi un processus pour que le.a candidat.e soit sûr.e d'intégrer une entreprise. Si besoin, on propose de rencontrer plus de personnes pour poser plus de questions et **mieux se projeter.**
 
@@ -66,25 +66,25 @@ C’est une bonne question. C’est “impossible” pour moi d’envoyer un.e c
 
 En plus, nous avons mis en place des fiches [Notion](https://www.notion.so) qui explicitent la méthodologie à respecter.
 
-Qu’il s’agisse d’un stage, ou d’un CDI pour un poste tech, il existe des templates prédéfinies qui **répertorient les objectifs à atteindre**. Chaque collaborateur.ice a également la possibilité d’ajouter un commentaire en marge de chaque objectif pour que son successeur puisse avoir une meilleure connaissance du candidat.
+Qu’il s’agisse d’un stage, ou d’un CDI pour un poste tech, il existe des templates prédéfinies qui **répertorient les objectifs à atteindre**. Chaque collaborateur.ice a également la possibilité d’ajouter un commentaire en marge de chaque objectif pour que son successeur puisse avoir une meilleure connaissance du/de la candidat.e.
 
-A l’issue  du pipeline, une checklist permet de s’assurer que les infos les plus importantes pour les candidats ont bien été évoquées : la mission, les valeurs, la culture de Manty,  les objectifs du poste, les points forts et les points faibles du candidat…Sinon, la prochaine personne à rencontrer le candidat le saura et pourra évoquer les points manquants.
+A l’issue  du pipeline, une checklist permet de s’assurer que les infos les plus importantes pour les candidat.e.s ont bien été évoquées : la mission, les valeurs, la culture de Manty,  les objectifs du poste, les points forts et les points faibles du/de la candidat.e…Sinon, la prochaine personne à rencontrer le.a candidat.e le saura et pourra évoquer les points manquants.
 
 **Exemple** :
 
 ![](/uploads/screenshot-at-jun-14-11-03-14.png)
 
-C’est très important que les candidats aient **toute l’information** importante sur nous et sur le poste.
+C’est très important que les candidat.e.s aient **toute l’information** importante sur nous et sur le poste.
 
 En procédant ainsi, nous parvenons à :
 
-* **éviter les doublons** qui peuvent alourdir le processus de recrutement et désengager le candidat qui sera dans l’obligation de répéter le même discours à plusieurs interlocuteurs.ices.
+* **éviter les doublons** qui peuvent alourdir le processus de recrutement et désengager le.a candidat.e qui sera dans l’obligation de répéter le même discours à plusieurs interlocuteurs.ices.
 * **distiller l’intégralité de l’information** que nous estimons nécessaire.
 * **valoriser nos collaborateurs.ices** dans la mesure où nous les responsabilisons et les intégrons dans le processus de recrutement.
 
 ## Comment sont centralisées les informations ?
 
-Les informations sont centralisées sur **Notion** où nous avons créé notre propre "job board". En qualité de DRH, je m'attelle au bon déroulement du processus : les set up **interviews,** l’envoi du **test technique** ou du **business case**, la communication permanente avec le candidat, que sa candidature ait été acceptée ou non…En clair, je gère chaque maillon du processus telle une cheffe d’orchestre (rires).
+Les informations sont centralisées sur **Notion** où nous avons créé notre propre "job board". En qualité de DRH, je m'attelle au bon déroulement du processus : les set up **interviews,** l’envoi du **test technique** ou du **business case**, la communication permanente avec le.a candidat.e, que sa candidature ait été acceptée ou non…En clair, je gère chaque maillon du processus telle une cheffe d’orchestre (rires).
 
 ## On parle de plus en plus de valoriser “[**l'expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)”. As-tu mis en place un processus particulier pour fluidifier les communications entre les différentes parties prenantes ?
 
@@ -96,7 +96,7 @@ Nous avons tous.tes été candidat.e.s, au moins une fois dans la vie. Il ne fau
 
 Nous souhaitons nous rapprocher de [PeerLink ](https://www.peerlink.fr/)qui est une entreprise innovante dans le domaine des RH tout comme Refty.
 
-En clair, il est très important que le processus soit **efficace et fluide**. Il ne faut surtout pas que ce soit **pénible pour les équipes et le.a candidat.e**. Notre processus permet ainsi d’**objectiver la candidature** par :
+En clair, il est très important que le processus soit **efficace** et **fluide**. Il ne faut surtout pas que ce soit **pénible** pour les équipes et le.a candidat.e. Notre processus permet ainsi d’**objectiver** la candidature par :
 
 * l’implication de plusieurs points de vue (en valeur et en volume)
-* des mesures structurées et standardisées pour avoir une **expérience candidat et collaborateur** la plus positive possible.
+* des mesures structurées et standardisées pour avoir une **expérience candidat** et **collaborateur** la plus positive possible.
