@@ -78,9 +78,9 @@ C’est très important que les candidat.e.s aient **toute l’information** imp
 
 En procédant ainsi, nous parvenons à :
 
-* **éviter les doublons** qui peuvent alourdir le processus de recrutement et désengager le.a candidat.e qui sera dans l’obligation de répéter le même discours à plusieurs interlocuteurs.ices.
-* **distiller l’intégralité de l’information** que nous estimons nécessaire.
-* **valoriser nos collaborateurs.ices** dans la mesure où nous les responsabilisons et les intégrons dans le processus de recrutement.
+* éviter les **doublons** qui peuvent alourdir le processus de recrutement et désengager le.a candidat.e qui sera dans l’obligation de répéter le même discours à plusieurs interlocuteurs.ices.
+* distiller **l’intégralité** de l’information que nous estimons nécessaire.
+* **valoriser** nos collaborateurs.ices dans la mesure où nous les responsabilisons et les intégrons dans le processus de recrutement.
 
 ## Comment sont centralisées les informations ?
 
