@@ -30,7 +30,7 @@ Nos collaborateurs sont le **pilier** le plus important chez Manty et nous avons
 
 La part consacrée au recrutement dépend de la période à laquelle on se réfère. En période pleine, le recrutement atteint 75 % voire 90 % de mon temps. Au cours de cette période, je peux réaliser jusqu’à **25 entretiens par semaine**. A l’inverse en période creuse, le recrutement mobilise au minimum 30% de mon temps car nous avons des postes ouverts **en permanence** ( avis aux intéressée.e.s ;))
 
-_A l’image de l’allocation de son temps, la solution déployée par Manty, permet notamment aux collectivités de **déterminer et de mieux gérer** les heures pleines et les heures creuses d’un_ [_espace public_](https://www.manty.eu/post/collectivites-pourquoi-il-est-urgent-de-mettre-en-place-un-data-lake)_._
+_A l’image de l’allocation de son temps, la solution déployée par Manty, permet notamment aux collectivités de **déterminer** les heures pleines et les heures creuses d’un_ [_espace public_](https://www.manty.eu/post/collectivites-pourquoi-il-est-urgent-de-mettre-en-place-un-data-lake) _et d'en **optimiser la gestion**._
 
 ## Pourrais-tu nous expliquer comment fonctionne le processus de recrutement chez Manty ?
 
