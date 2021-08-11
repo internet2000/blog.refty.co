@@ -3,9 +3,8 @@ layout: article
 meta:
   author: Barthélémy
   time: 5mn
-  excerpt: 'Recrutez mieux. Comparez l''écart entre les retours d''expériences des
-    personnes ayant collaboré avec le candidat en situation professionnelle avec les
-    attentes de votre "hiring manager" '
+  excerpt: Recrutez mieux. Analysez rapidement les retours d'expérience des personnes
+    ayant collaboré avec le candidat en situation professionnelle
   date: 23/01/2021
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
 title: Pourquoi nous avons créé Refty ?
