@@ -68,7 +68,7 @@ En plus, nous avons mis en place des fiches [Notion](https://www.notion.so) qui 
 
 Qu’il s’agisse d’un stage, ou d’un CDI pour un poste tech, il existe des templates prédéfinies qui **répertorient les objectifs à atteindre**. Chaque collaborateur.ice a également la possibilité d’ajouter un commentaire en marge de chaque objectif pour que son successeur puisse avoir une meilleure connaissance du/de la candidat.e.
 
-A l’issue  du pipeline, une checklist permet de s’assurer que les infos les plus importantes pour les candidat.e.s ont bien été évoquées : la mission, les valeurs, la culture de Manty,  les objectifs du poste, les points forts et les points faibles du/de la candidat.e…Sinon, la prochaine personne à rencontrer le.a candidat.e le saura et pourra évoquer les points manquants.
+A l’issue  du pipeline, une checklist permet de s’assurer que les infos les plus importantes pour les candidat.e.s ont bien été évoquées : la **mission**, les **valeurs**, la [**culture**](https://blog.refty.co/importance-des-soft-skills-culture-d-entreprise/) de Manty,  les objectifs du poste, les points forts et les points faibles du/de la candidat.e…Sinon, la prochaine personne à rencontrer le.a candidat.e le saura et pourra évoquer les points manquants.
 
 **Exemple** :
 
