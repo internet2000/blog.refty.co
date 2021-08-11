@@ -22,13 +22,13 @@ Bonjour Barthélémy, oui bien sûr ! Je suis HR Business Partner chez Voodoo. J
 
 S’agissant de mon champ d’action géographique, dire que mon domaine d’action est large serait un euphémisme. J’interviens, en effet, dans un contexte international, de l'Asie au Canada en passant par l’Europe et la France bien évidemment (rires.)
 
-Chez Voodoo, mes missions se subdivisent en deux blocs. La première partie de ma fonction recouvre la **culture de l’entreprise, l’engagement des salariés, l’accompagnement des managers ou encore l'optimisation du processus RH**. La seconde partie est d’**ordre administratif** : de la paie des salariés à la gestion de la mobilité internationale.
+Chez Voodoo, mes missions se subdivisent en deux blocs. La première partie de ma fonction recouvre la [culture de l’entreprise](https://blog.refty.co/culture-entreprise-%C3%AAtre-vivant/), l’**engagement** des salariés, l’accompagnement des managers ou encore l'optimisation du processus RH. La seconde partie est d’ordre **administratif** : de la paie des salariés à la gestion de la mobilité internationale.
 
-> “**La transformation RH**” désigne le processus pour passer d'une fonction Ressources Humaines "papier", dont l'ensemble des tâches prenait un temps considérable, à une fonction digitale, plus réactive, agile et productive.
+> _“**La transformation RH**” désigne le processus pour passer d'une fonction Ressources Humaines "papier", dont l'ensemble des tâches prenait un temps considérable, à une fonction digitale, plus réactive, agile et productive._
 
 ## Sur quels sujets remarquez-vous principalement des évolutions liées à la transformation RH et comment se traduisent -elles?
 
-Pour commencer, je dirais qu’elle se traduit par la **gestion des dossiers administratifs**. Notamment grâce à la signature électronique. Les **SIRH** ont été un véritable bouleversement dans notre profession. Ils recueillent énormément de données et la rendent accessible à toutes les parties impliquées. C’est un **gain de temps phénoménal**. Il est désormais possible de **gérer et partager** le bon contenu au bon moment à la bonne personne. Et ce n’est pas du marketing ! (rires.) Ces bénéfices apportent à chacun des managers davantage d’autonomie. En clair, la gestion des procédures est plus fluide, l’information est disponible en temps réel et elle s’affranchit des contraintes géographiques. La dématérialisation des processus facilite grandement l’**accès à l’information et l’exploitation des données**.
+Pour commencer, je dirais qu’elle se traduit par la **gestion des dossiers administratifs**. Notamment grâce à la signature électronique. Les **SIRH** ont été un véritable bouleversement dans notre profession. Ils recueillent énormément de données et la rendent **accessible** à toutes les parties impliquées. C’est un **gain de temps** phénoménal. Il est désormais possible de **gérer** et **partager** le bon contenu au bon moment à la bonne personne. Et ce n’est pas du marketing ! (rires.) Ces bénéfices apportent à chacun des managers davantage d’autonomie. En clair, la gestion des procédures est plus fluide, l’information est disponible **en** **temps réel** et elle s’affranchit des contraintes géographiques. La dématérialisation des processus facilite grandement l’accès à l’information et l’exploitation des données.
 
 Je remarque également que l’édition de rapports via la numérisation des données permet de mesurer aisément **la performance**, grâce à la **data visualisation**. Les résultats sont exportables et envoyés au manager leur permettant de prendre une décision plus avisée.
 
@@ -87,6 +87,6 @@ Cela met en évidence le fait que notre métier se doit d’être **plus tourné
 
 Selon moi, il y a une notion qui émerge : **la workplace experience** dans le sillage de l’expérience collaborateur. Elle désigne la nécessité de **créer une plus-value au bureau** si l’on souhaite encourager les collaborateurs à venir sur place. Le bureau n’est plus un simple endroit où l'on va pour travailler en équipe. C’est un espace qui doit apporter une réelle valeur ajoutée aux salariés. Une fois la crise passée, il sera nécessaire de justifier la nécessité de venir au bureau, de **donner envie aux salariés d’y retourner.**
 
-## Un dernier mot pour les RH qui liront les articles ?
+## Un dernier mot pour les RH qui liront l'article ?
 
 Je reprendrai l’un des conseils que m’a donné l’un des cofondateurs de Voodoo : nous vivons actuellement une crise qui pèse sur tous les aspects de notre vie. La période que nous traversons n’est pas une période normale.  Dans les moments difficiles, il faut savoir garder ça en tête et savoir adapter ses exigences, tant envers soi-même qu’envers les autres.
