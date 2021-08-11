@@ -24,9 +24,7 @@ Hello, je suis Beatriz, **Head of People** chez Manty depuis 1 an et demi déjà
 
 ## Quelle est la part qu’occupe le recrutement dans tes missions ?
 
-Le recrutement est crucial pour nous. Surtout en étant une jeune entreprise à taille humaine, **chaque personne** a un impact très important dans notre quotidien.
-
-Nos collaborateurs sont le **pilier** le plus important chez Manty et nous avons la chance d’avoir une super équipe aujourd'hui que nous aimerions faire grandir sereinement avec les bonnes personnes.
+Le recrutement est crucial pour nous. Surtout en étant une jeune entreprise à taille humaine, **chaque personne** a un impact très important dans notre quotidien. Nos collaborateurs sont le **pilier** le plus important chez Manty et nous avons la chance d’avoir une super équipe aujourd'hui que nous aimerions faire grandir sereinement avec les bonnes personnes.
 
 La part consacrée au recrutement dépend de la période à laquelle on se réfère. En période pleine, le recrutement atteint 75 % voire 90 % de mon temps. Au cours de cette période, je peux réaliser jusqu’à **25 entretiens par semaine**. A l’inverse en période creuse, le recrutement mobilise au minimum 30% de mon temps car nous avons des postes ouverts **en permanence** ( avis aux intéressée.e.s ;))
 
