@@ -15,7 +15,7 @@ permalink: "/comment-prestaphop-a-structure-son-processus-de-recrutement/"
 ---
 #### A propos de PrestaShop
 
-#### [PrestaShop ](https://www.prestashop.com/en)est l’une des plateformes de e-commerce les plus populaires au monde et de projet open source les plus réussis.
+#### [_PrestaShop_](https://www.prestashop.com/en) _est l’une des plateformes de e-commerce les plus populaires au monde et de projet open source les plus réussis._
 
 * 250 employés
 * Nombre de recrutements prévus en 2021 : 50-70
