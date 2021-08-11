@@ -17,7 +17,7 @@ Les soft skills, tout le monde en parle, la Scorecard job, beaucoup de personnes
 
 Il nous est apparu intéressant de mixer les deux et de comprendre comment les entreprises qui recrutent géraient la **Scorecard de Soft skills**.
 
-Plus de 15 RH de sociétés tech /innovantes nous ont confié leur recette (Voodoo, Qonto...etc). Nous les avons synthétisées en 5 étapes rapidement actionnables.
+Plus de 15 RH de sociétés tech /innovantes nous ont confié leur recette ([Voodoo](https://www.voodoo.io/), [Qonto](https://qonto.com/fr)...etc). Nous les avons synthétisées en 5 étapes rapidement actionnables.
 
 ## **Etape 1 : Etablir les valeurs clés inhérentes à la culture de l'organisation**
 
