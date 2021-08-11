@@ -28,23 +28,23 @@ Mais je vais tout de même essayer de vous brosser un portrait de mon métier ! 
 
 ## Qui est la Head of T.A ?
 
-Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma définition du rôle de Head of Talent Acquisition et exposer mes principales contributions.
+Avant de mettre les pieds dans le plat, permettez-moi d’exposer à vos lecteurs.ices ma **définition** du rôle de Head of Talent Acquisition et exposer mes principales contributions.
 
 Je mets en œuvre des stratégies pour **fluidifier** et **optimiser** aussi bien **le processus de recrutemen**t que les **relations des intervenants** qui le composent : mon équipe de 6 recruteurs.euses et les hiring managers. J’en analyse les résultats obtenus afin d’en **tirer des enseignements**, et prendre de meilleures décisions pour le futur de l’entreprise. Selon moi, le.a Head of Talent Acquisition doit être capable d’**exécuter** la stratégie de recrutement de l’organisation. Il.Elle doit - contraint.e par le cadre spatio-temporel (fuseaux horaires), les ressources humaines et budgétaires mobilisées, les outils utilisés, ou les formations dispensées - veiller à la bonne exécution de la **roadmap recrutement** et à la bonne distribution de l’**allocation des ressources**,  au bon moment,  pour parvenir à l’atteinte des objectifs de l’organisation.
 
 Le.a Head of Talent Acquisition à  une **double casquette**.
 
-• Il.Elle a tout d’abord des responsabilités managériales et **stratégiques**. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
+• Il.Elle a tout d’abord des responsabilités **managériales** et **stratégiques**. Le.a Head of Talent Acquisition identifie et sélectionne les leviers de recrutement à délaisser, à privilégier, à considérer pour répondre :
 
-→ aux besoins en recrutement définis durant **le headcount planning**
+→ aux besoins en recrutement définis durant **le headcount planning.**
 
-→ à la valorisation de la **marque employeur** & de **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)
+→ à la valorisation de la **marque employeur** & de **l’**[**expérience candidat**](https://blog.refty.co/qu-est-ce-que-experience-candidat/)**.**
 
 → à l'optimisation du **management de l’équipe** et par extension **l’expérience collaborateur** (formation continue...). C’est un.e prescripteur.ice de conseils, d’aides à la résolution des problèmes susceptibles d’affecter les membres de son équipe ou les managers. Le.a Head of T.A accompagne l'ensemble des parties prenantes, facilite leurs interactions, insert des outils et pratiques d’aide à la décision ou d’automatisation des tâches. Il.Elle mène quotidiennement des tests, des itérations liées à d’optimisation du process afin de bâtir un environnement propice à la réussite des collaborateurs.ices.
 
-→ à l’intégration de toutes les parties prenantes internes dans la **vision** portée par l’entreprise
+→ à l’intégration de toutes les parties prenantes internes dans la **vision** portée par l’entreprise.
 
-→ au **reporting**, dans le cadre de la prise de décision relative à l’allocation des ressources ou à la gestion du budget
+→ au **reporting**, dans le cadre de la prise de décision relative à l’allocation des ressources ou à la gestion du budget.
 
 •  Et si la situation l’exige, il.elle peut intervenir sur la partie **opérationnelle** pour assurer :
 
@@ -62,13 +62,13 @@ J’ai sous ma responsabilité 6 personnes. D’une part, 4 recruteurs.euses se 
 
 Après le café, je participe à des **meetings**. 2 types de meetings peuvent prendre forme :
 
-• **10 : 00**.  Les meetings dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidats qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
+• **10 : 00**.  Les meetings dits “individuels” au cours desquels je fais un point individuel avec chaque membre de mon équipe pour savoir quel est l’état actuel de leurs missions, leur relation avec le manager, répondre à leur éventuelles interrogations ou identifier d'éventuels points de vigilance. On va également passer en revue le nombre de candidat.e.s qui sont en process…S’il l’un d’entre eux est confronté à un problème,  je l’accompagnerai dans sa résolution.
 
 • **11 : 20**. Viennent ensuite les meetings collectifs qui ont lieu 1 fois par semaine avec l’équipe Talent Acquisition ou [People Ops](https://blog.refty.co/tendance-rh-metier-hr-ops/), People Partner, Learning & Development etc…. Nous y abordons les tâches en cours, le suivi de la pipeline de candidat.e.s, les projets en cours ou à élaborer. On centralise l’intégralité de nos projets sur [Asana](https://asana.com/fr/guide/videos/project-management). J’y fixe les objectifs et les deadlines, j’y attribue les tâches à effectuer...Typiquement, hier nous avons abordé la **restructuration du process**.
 
 Au cours de ces réunions un membre de mon équipe prend son courage à deux mains et nous présente une fois par mois un webinar auquel il a participé et les retours d’expérience qu’il a engrangés. La semaine dernière par exemple, Xavier, l’un des deux recruteurs Sales, a participé à un [webinar](https://www.gartner.com/en/human-resources/insights/redesign-your-recruiting-strategy) - sur les nouvelles pratiques de recrutement - organisé par Gartner que je conseille à vos lecteurs.ices.
 
-• **12 : 00**. En parallèle, pour fluidifier davantage le processus et la **cohésion** des parties prenantes, nous avons récemment mis en place des **hotlines**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressé sont par exemple :
+• **12 : 00**. En parallèle, pour fluidifier davantage le processus et la **cohésion** des parties prenantes, nous avons récemment mis en place des **hotlines**. Ces meetings hebdomadaires d’une heure regroupent hiring managers et membres de mon équipe et sont intégralement consacrés à un sujet donné et sélectionné par les hiring managers eux-mêmes. Typiquement les questions qui nous sont adressées sont par exemple :
 
 * Comment écrire une [**scorecard**](https://blog.refty.co/bonnes-pratiques-scorecard-&-soft-skills/) ?
 * Comment définir le bon process de recrutement ?
