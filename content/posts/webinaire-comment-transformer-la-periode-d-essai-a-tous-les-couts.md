@@ -98,3 +98,15 @@ Au cours de la période d’essai, le talent doit se sentir **intégré** mais a
 En réaction au travail en remote, PrestaShop a mis en place la **livraison du matériel à domicile** avec des fiches explicatives pour déverrouiller son ordinateur ou accéder à la boite mail....L’ordinateur est aussi pré-configuré Slack, Drive, NAS et VPN pour permettre à la nouvelle recrue de se de se familiariser rapidement avec les outils que l’ensemble de nos collaborateur.ice.s utilisent au quotidien.
 
 Mais cela ne suffit pas. **Un kit de bienvenue** ([Joyger](https://www.joyger.fr/)) est en cours de réalisation pour susciter un **sentiment d’appartenance** et de **fierté**. S’ajoute à cela, un point d’onboarding avec moi pour prendre la température et identifier de potentiels problèmes non détectés en télétravail.
+
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "41c4e99d-f45c-4272-a029-b8fb48bc67b4"
+});
+</script>
