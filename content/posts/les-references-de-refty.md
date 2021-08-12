@@ -5,7 +5,7 @@ meta:
   time: 3mn
   date: '08/06/21'
   excerpt: 'L''écosystème RH parle de nous ! Découvrez les articles de nos partenaires '
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-29.png"
+image: "/uploads/linkedin-10.png"
 title: Les articles partenaires de Refty
 categories:
 - Ressources
