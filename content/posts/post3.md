@@ -190,16 +190,3 @@ Il faut :
 
 Les **bénéfices** :  
 Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le.a recruteur.euse le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut !🔥
-
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "b5e01c45-b422-4796-8c64-2293eb88d9f0"
-});
-</script>
