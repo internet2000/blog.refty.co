@@ -39,7 +39,7 @@ Effectuez un **arbitrage commun** avec le.a hiring manager pour sélectionner le
 
 ## S - Sourcez les talents
 
-Procédez ensuite à un **sourcing** des talents internes et externes ( qui peut **au-delà** des viviers de talents que vous sollicitiez)  ou des données de marché qui s’alignent le plus avec les attentes que vous aviez initialement envisagées. Vous pouvez également capitaliser sur la **cooptation** (qui accroît l’[**engagement**](https://www.helloworkplace.fr/cooptation-recrutement/) du/de la collaborateur.ice qui en est à l'origine) en précisant bien à la personne en interne qui coopte, le type d’informations qu’elle peut **divulguer** au/à la coopté.e. (Les échanges informels qui rythment leur relation peuvent compromettre la bonne tenue du processus.)
+Procédez ensuite à un **sourcing** des talents internes et externes ( qui peut aller **au-delà** des viviers de talents que vous sollicitiez)  ou des données de marché qui s’alignent le plus avec les attentes que vous aviez initialement envisagées. Vous pouvez également capitaliser sur la **cooptation** (qui accroît l’[**engagement**](https://www.helloworkplace.fr/cooptation-recrutement/) du/de la collaborateur.ice qui en est à l'origine) en précisant bien à la personne en interne qui coopte, le type d’informations qu’elle peut **divulguer** au/à la coopté.e. (Les échanges informels qui rythment leur relation peuvent compromettre la bonne tenue du processus.)
 
 ## F - Formalisez vos KPI’s (qu’on appelle Candidate Performance Indicators chez Refty :)) sur un outil dédié
 
