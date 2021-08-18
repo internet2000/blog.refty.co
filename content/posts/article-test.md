@@ -5,7 +5,7 @@ meta:
   time: ''
   date: ''
   excerpt: ''
-image: ''
+image: "/uploads/playa4.jpg"
 title: Article Test
 categories: []
 permalink: "/Article-Test/"
