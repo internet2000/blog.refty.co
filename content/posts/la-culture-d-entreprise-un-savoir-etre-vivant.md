@@ -4,7 +4,7 @@ meta:
   author: Sanjay
   time: 4mn
   date: 29/06/21
-  excerpt: 'Elle n''est pas figée mais mouvante comme l''argile '
+  excerpt: C'est un processus en perpétuelle mutation
 image: "/uploads/linkedin-13.png"
 title: 'La culture d’entreprise : un savoir-être vivant'
 categories:
