@@ -80,5 +80,3 @@ Faire **gagner du temps** dans le process de recrutement et ne laisser passer qu
 **Faciliter l’intégration** du candidat grâce aux informations collectées.
 
 👉 [Si vous souhaitez en savoir plus et voir ce à quoi cela peut ressembler](https://refty.co/)
-
-<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-69209dd9-e235-4d7f-8a03-8463a8f07f94"><span class="hs-cta-node hs-cta-69209dd9-e235-4d7f-8a03-8463a8f07f94" id="hs-cta-69209dd9-e235-4d7f-8a03-8463a8f07f94"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/9017898/69209dd9-e235-4d7f-8a03-8463a8f07f94" ><img class="hs-cta-img" id="hs-cta-img-69209dd9-e235-4d7f-8a03-8463a8f07f94" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/9017898/69209dd9-e235-4d7f-8a03-8463a8f07f94.png"  alt="Nouveau call-to-action"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(9017898, '69209dd9-e235-4d7f-8a03-8463a8f07f94', {"region":"na1"}); </script></span><!-- end HubSpot Call-to-Action Code -->
