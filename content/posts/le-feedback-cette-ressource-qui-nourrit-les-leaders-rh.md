@@ -4,7 +4,7 @@ meta:
   author: Sanjay
   time: 6mn
   date: 22/06/21
-  excerpt: 'C''est une pratique que le règne animal exploite avec une certaine dextérité '
+  excerpt: Il foisonne dans le BtoC...
 image: "/uploads/linkedin-12.png"
 title: Le feedback, cette ressource qui nourrit les leaders RH
 categories:
