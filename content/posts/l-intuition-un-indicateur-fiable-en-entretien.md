@@ -1,7 +1,7 @@
 ---
 layout: article
 meta:
-  author: Sanjay
+  author: Sanjay @Refty et Pierre Leroy @Avizio
   time: 10min
   date: 21/04/21
   excerpt: Si vous avez vu une pipe. Nous vous invitons à consulter notre article
@@ -13,6 +13,8 @@ categories:
 permalink: "/intuition-un-indicateur-fiable-en-entretien/"
 
 ---
+Article co-écrit par Pierre Leroy - Social Media & Content Manager chez [Avizio](https://www.avizio.fr/)
+
 **“_Si la passion vous anime, laissez la raison tenir les rênes_”.**
 
 Ces sages paroles de Benjamin Franklin ne sont pas tombées dans l'oreille d’un sourd. Le lauréat du prix Nobel d'économie 2002, Daniel Kahneman récompensé pour ses travaux sur les “biais cognitifs” en sait quelque chose.
@@ -115,9 +117,9 @@ Aussi, cette “**zone de confort**” **oriente la perceptibilité et** la **pr
 
 ### **Par la data, support d’une décision objective pour Refty**
 
-La solution, co-conçue avec des experts en Ressources Humaines et en psychométrie, vous permet de : 
+La solution, co-conçue avec des experts en Ressources Humaines et en psychométrie, vous permet de :
 
-* **Définir votre candidat idéal** en vous basant sur des modèles de questions **prédéfinies et personnalisables**. 
+* **Définir votre candidat idéal** en vous basant sur des modèles de questions **prédéfinies et personnalisables**.
 * **Collecter les feedbacks** des personnes ayant côtoyé le.a candidat.e dans un environnement de travail
 * **Comparer l'écart** entre les attentes de votre "hiring manager" et leurs retours d'expérience
 * **Analyser** **la performance** de vos recrutements et **leur niveau d'engagement**
@@ -137,8 +139,6 @@ Refty permet ainsi d’aboutir à des enseignements exploitables à 360° (**dan
 La recommandation émanant de **managers hautement qualifiés** permettra au recruteur d’ajouter une **brique d’informations**, parfois cachées, et de **proposer une opportunité au moment idéal** pour le candidat. Elle sera également un moyen efficace de repositionner les **altérations inconscientes de son jugement**, par la **confrontation** de ses opinions à un **retour d’expérience concret**, apprécié par un **tiers de confiance**. Dans certains cas (exemple : _pour des profils plus techniques, A-players_), un [**assessment**](https://www.avizio.fr/evaluation-hard-skills) d’Expert pourra également s’avérer utile, afin de confirmer ou infirmer les différents avis formulés.
 
 **Alors, pas de panique, pour arriver à bout de tous ces biais, il existe de nombreuses solutions, à la fois techniques et humaines, pour remettre l’objectivité au cœur du recrutement ;)**
-
-**_Article co-écrit avec Avizio_**
 
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
