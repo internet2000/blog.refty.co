@@ -6,7 +6,7 @@ meta:
   date: 04/06/21
   excerpt: Éléments de réponse avec Juliette Parichet, HR Business Partner chez Voodoo
 image: "/uploads/linkedin-17.png"
-title: Comment se modernise la fonction RH selon Juliette RH chez Voodoo?
+title: Comment se modernise la fonction RH selon Juliette RH chez Voodoo ?
 categories:
 - Tendances
 permalink: "/comment-se-modernise-la-fonction-rh/"
