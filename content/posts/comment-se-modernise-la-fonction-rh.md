@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Sanjay
-  time: 8mn
+  time: 5mn
   date: 04/06/21
   excerpt: Éléments de réponse avec Juliette Parichet, HR Business Partner chez Voodoo
 image: "/uploads/linkedin-17.png"
