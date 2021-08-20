@@ -34,7 +34,7 @@ Je remarque également que l’édition de rapports via la numérisation des don
 
 ## Dans ce contexte, comment votre rôle et vos missions ont évolué ces derniers mois ?
 
-Vous souhaitez découvrir les 75% restants ? Nous vous invitons à renseigner vos coordonnées :)
+Vous avez lu 25% du contenu. Vous souhaitez découvrir les 75% restants ? Nous vous invitons à renseigner vos coordonnées :)
 
 <!--\[if lte IE 8\]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
