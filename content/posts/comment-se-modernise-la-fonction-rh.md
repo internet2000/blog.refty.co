@@ -53,3 +53,7 @@ Oui, effectivement. Chez Voodoo, nous nous appuyons sur plusieurs outils pour me
 * Nous capitalisons également sur[ Notion](https://www.notion.so) qui permet de **centraliser** et de de **clarifier** la documentation de Voodoo.
 * Nous utilisons également des **API** afin d’importer des données pour faciliter la gestion de la paie et s’assurer que l’information est valide (auparavant nous travaillions manuellement ce qui ne nous laissait pas à l’abri d’erreurs).
 * Dernier outil et pas des moindres, le **_Learning Management System_** : une petite révolution chez Voodoo. Il confère aux collaborateurs la possibilité de se former en continu sur les sujets qui leur font plaisir.
+
+## La donnée joue-t-elle un rôle de plus en plus important dans les RH ? Quels sont ses domaines d’application ?
+
+Il vous reste 
