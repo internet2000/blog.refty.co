@@ -10,7 +10,7 @@ image: "/uploads/format-blog-11.png"
 title: 'Quels sont les enjeux RH auxquels Facebook été confronté durant le Covid -19
   ? '
 categories: []
-permalink: "/quels-sont-les-enjeux-rh-auxquels-Facebook-a-ete-confronte-durant-le-covid-19/"
+permalink: "/quels-sont-les-enjeux-rh-auxquels-Facebook-a-ete-confronte-durant-le-covid-19-?/"
 
 ---
 ## • 1.Quels sont les enjeux RH auxquels vous avez été confronté durant le Covid -19 ? 
