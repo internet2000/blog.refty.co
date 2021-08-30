@@ -9,7 +9,7 @@ image: "/uploads/format-blog-4.png"
 title: 'La prise de référence est-elle pratiquée aujourd’hui ? A quoi sert elle ? '
 categories:
 - Bonnes Pratiques
-permalink: "/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-a-quoi-ça-sert/"
+permalink: "/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-?-a-quoi-ça-sert-?/"
 
 ---
 ## A quoi ça sert ?
