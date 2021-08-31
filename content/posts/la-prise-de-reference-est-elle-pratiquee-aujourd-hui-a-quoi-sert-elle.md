@@ -20,7 +20,7 @@ Tandis que le.a candidat.e joue un rôle pour correspondre au poste recherché, 
 
 La prise de référence à un double intérêt :
 
-•  Elle permet de récolter des informations auprès des personnes (managers / collaborateurs.ices) qui ont collaboré en situation de travail avec le talent et qui auront donc un avis sur sa manière de travailler. Il faut la considérer comme une **source supplémentaire** d’informations à exploiter pour prendre sa décision.
+•  Elle permet de récolter des informations auprès des personnes (managers /collaborateurs.ices) qui ont collaboré en situation de travail avec le talent et qui auront donc un avis sur sa manière de travailler. Il faut la considérer comme une **source supplémentaire** d’informations à exploiter pour prendre sa décision.
 
 •  Elle permet de **faciliter** l’intégration du/de la candidat.e en ayant des conseils actionnables de la part d’un.e de ses managers.
 
