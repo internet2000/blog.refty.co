@@ -32,4 +32,4 @@ Face à l’accroissement du nombre de candidat.e.s sur le marché du travail en
 
 ## • 4.Quel(s) outil(s) utile(s) recommanderiez-vous ?
 
-Nous nous sommes aperçus que **80%** de nos candidat.e.s ne venaient pas de San Francisco. Ainsi, les traditionnels entretiens sur place ont été supplantés par une démocratisation de la **visioconférence** dans notre process. 
+Nous nous sommes aperçus que **80%** de nos candidat.e.s ne venaient pas de San Francisco. Ainsi, la plupart des traditionnels entretiens sur place ont été supplantés par une démocratisation de la **visioconférence** dans notre process. 
