@@ -7,8 +7,8 @@ meta:
   excerpt: 'Entretien avec Charles Guillemet - Leadership Recruiting Manager chez
     Facebook '
 image: "/uploads/format-blog-11.png"
-title: 'Quels sont les enjeux RH auxquels Facebook été confronté durant le Covid -19
-  ? '
+title: 'Quels sont les enjeux RH auxquels Facebook a été confronté durant le Covid
+  -19 ? '
 categories:
 - Bonnes Pratiques
 permalink: "/quels-sont-les-enjeux-rh-auxquels-Facebook-a-ete-confronte-durant-le-covid-19/"
