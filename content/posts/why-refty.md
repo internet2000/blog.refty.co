@@ -6,7 +6,7 @@ meta:
   excerpt: Recrutez mieux. Analysez rapidement les retours d'expérience des personnes
     ayant collaboré avec le candidat en situation professionnelle
   date: 23/01/2021
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
+image: "/uploads/format-blog-19.png"
 title: Pourquoi nous avons créé Refty ?
 categories:
 - Tendances

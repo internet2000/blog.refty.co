@@ -5,7 +5,7 @@ meta:
   time: 3 min
   date: 27/08/21
   excerpt: Entretien avec Chris Debaty, Senior Talent Acquisition Manager chez Livestorm
-image: "/uploads/format-blog-3.png"
+image: "/uploads/format-blog-17.png"
 title: 'Quels sont les apports de Refty selon Livestorm ? '
 categories:
 - Bonnes Pratiques
