@@ -27,8 +27,8 @@ Le travail en remote a été une véritable **aubaine** pour l’industrie tech.
 
 ## • 3.Dans cette situation de déséquilibre entre l'offre et la demande, que mettez-vous en place pour attirer / identifier / sélectionner les meilleurs talents ? (culture / salaire... ?)
 
-Face à l’accroissement du nombre de candidat.e.s sur le marché du travail en début d’année 2020, nous n’avions pas les **budgets** nécessaires pour répondre convenablement à l’importance de cette offre. Nous menions une **approche directe** pour contacter les potentiels.elles candidat.e.s, ce qui nous a permis de mener à bien les recrutements. Néanmoins nous nous sommes aperçus que les candidat.e.s qui postulaient d’eux/elles-mêmes sont aussi qualifié.e.s que leurs homologues que nous contactions directement. Ce fut une excellente surprise. Le Covid -19 a mis en lumière la **dynamique grandissante** du marché de la tech. Malgré un bref coup d’arrêt, il est reparti rapidement.
+Face à l’accroissement du nombre de candidat.e.s sur le marché du travail en début d’année 2020, nous n’avions pas les **budgets** nécessaires pour répondre convenablement à l’importance de cette offre. Nous menions une **approche directe** pour contacter les potentiels.elles candidat.e.s, ce qui nous a permis de mener à bien les recrutements. Néanmoins nous nous sommes aperçus que les candidat.e.s qui postulaient d’eux/elles-mêmes étaient aussi qualifié.e.s que leurs homologues que nous contactions directement. Ce fut une excellente surprise. Le Covid-19 a mis en lumière la **dynamique grandissante** du marché de la tech. Malgré un bref coup d’arrêt, il est reparti rapidement.
 
 ## • 4.Quel(s) outil(s) utile(s) recommanderiez-vous ?
 
-**80%** des candidats ne viennent pas de San Francisco, cela a donc été l'opportunité de démocratiser la **visioconférence** dans notre process pour ne plus demander aux candidat.e.s de venir passer les entretiens sur place.
+Nous nous sommes aperçus que **80%** de nos candidat.e.s ne venaient pas de San Francisco. Ainsi, les traditionnels entretiens sur place ont été supplantés par une démocratisation de la **visioconférence** dans notre process. 
