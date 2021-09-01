@@ -13,7 +13,7 @@ categories: []
 permalink: "/quels-sont-les-enjeux-rh-auxquels-Facebook-a-ete-confronte-durant-le-covid-19-?/"
 
 ---
-## • 1.Quels sont les enjeux RH auxquels vous avez été confronté durant le Covid -19 ?
+## • 1.Quels sont les enjeux RH auxquels vous avez été confronté durant le Covid-19 ?
 
 • Le premier challenge c’est lorsque nous demandions à nos collaborateurs.ices de **relocaliser leur travail**, de se déplacer pour aller au bureau sans qu'ils.elles aient davantage d'informations concernant la destination - sans visiter en amont les écoles et leurs futurs logements.
 
