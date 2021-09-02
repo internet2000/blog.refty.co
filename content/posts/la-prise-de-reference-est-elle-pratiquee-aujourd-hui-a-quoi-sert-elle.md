@@ -146,4 +146,4 @@ Qu'est ce que cette personne va nous apporter ?
 
 **Shippeo**
 
-Points forts, axes d'amélioration, et conseils à son prochain manager ?
+Quels sont les points forts, axes d'amélioration, et conseils à donner à son prochain manager ?
