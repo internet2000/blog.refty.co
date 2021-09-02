@@ -65,13 +65,13 @@ La qualité des réponses dépendra également de l’**implication** de l’int
 
 **• Une expérience repensée**
 
-Après avoir interrogé 3 psychologues en ressources humaines et plus de 60 acteurs du secteur nous avons pu établir un formulaire de collecte de données objectives centrées sur le **comportement** du candidat (les fameuses soft skills !)
+Après avoir interrogé 3 psychologues en ressources humaines et plus de 60 acteurs du secteur nous avons pu établir un formulaire de collecte de données objectives centrées sur le **comportement** du candidat (les fameuses softskills !)
 
 L’outil Refty permet au manager de demander en quelques clics jusqu’à **6 références** par candidat.
 
 Il peut ensuite suivre depuis un **tableau de bord**, l’avancée de l’ensemble des prises de références récoltées.
 
-En **72 heures** une synthèse des prises de références est accessible sur son espace et dessine les tendances sur lesquels les référents s'accordent.
+En **48** - **72 heures** une synthèse des prises de références est accessible sur son espace et dessine les tendances d'aptitudes et de comportements sur lesquels les référents s'accordent.
 
 • Une utilisation qui permet une triple finalité :
 
