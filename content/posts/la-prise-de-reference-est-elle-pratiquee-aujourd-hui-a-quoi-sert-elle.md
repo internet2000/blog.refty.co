@@ -5,7 +5,7 @@ meta:
   time: 5mn
   date: 27/08/21
   excerpt: " Pourquoi vous devriez reconsidérer votre opinion sur la prise de référence"
-image: "/uploads/format-blog-10.png"
+image: "/uploads/format-blog-22.png"
 title: 'La prise de référence est-elle pratiquée aujourd’hui ? A quoi sert-elle ? '
 categories:
 - Bonnes Pratiques
@@ -121,3 +121,29 @@ Cette question relatives n’est pas discriminante. Elle donne - l'information �
 **Recruteriez-vous cette personne et pourquoi ?**
 
 Aborder les questions avec une mise en situation : pour se baser sur des éléments factuels ?
+
+* **Nous avons interrogé + de 60 acteurs pour qu’ils nous partagent les questions qu’ils posent lors de la prise de références, en voici quelques exemples :**
+
+**Head Acquisiton - Meero**
+
+Poser des questions aux référents en lien avec le culture fit de la société afin de vérifier si le candidat y répond.
+
+**HR MyBestpro**
+
+Axer la prise de référence sur les compétences : demander des réalisations/exemples concrets.
+
+**HR OpenClassroom**
+
+Est ce qu’il ressort dans les 10% de l’équipe ?
+
+**HR People Doc**
+
+Pourquoi a-t-il quitté l’entreprise ?
+
+**Talent Acquisition - Sendinblue**
+
+Qu'est ce que cette personne va nous apporter ?
+
+**Shippeo**
+
+Points forts, axes d'amélioration, et conseils à son prochain manager ?
