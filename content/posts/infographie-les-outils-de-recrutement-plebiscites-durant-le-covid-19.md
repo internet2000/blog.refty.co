@@ -12,7 +12,7 @@ categories:
 permalink: "/refty-infographic-recruitment-tools-covid-19/"
 
 ---
-![](/uploads/refty-infographic-recruitment-tools-covid-19.png)
+
 
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
