@@ -13,8 +13,4 @@ categories:
 permalink: "/refty-infographic-soft-skills-corporate-culture/"
 
 ---
-![](/uploads/refty-infographics.png)
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
+\-
