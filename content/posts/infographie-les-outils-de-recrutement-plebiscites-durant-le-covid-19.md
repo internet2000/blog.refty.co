@@ -12,7 +12,19 @@ categories:
 permalink: "/refty-infographic-recruitment-tools-covid-19/"
 
 ---
+Nous vous invitions à rensigner vos coordonnées pour accéder à notre seconde infographie :)
 
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "7fac2b97-a8a6-4904-b716-dedd541a9168"
+});
+</script>
 
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
