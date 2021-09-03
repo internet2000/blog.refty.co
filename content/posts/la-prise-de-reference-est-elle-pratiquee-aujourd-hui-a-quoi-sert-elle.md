@@ -62,88 +62,20 @@ Plus il y a d’avis, plus vous vous assurez de rejoindre les informations de ma
 
 ### 💌  Quel canal utiliser avec les référents ?(téléphone, email…)
 
-* **Téléphone**
+**Nouv vous invitions à renseigner vos coordonnées pour lire la fin de l'article :)**
 
-Avantage : permet d’appuyer sur tous points d’alertes relevés pendant les entretiens.
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9017898",
+	formId: "d6bdc8a3-b1d3-4be2-a081-188023b18e82"
+});
+</script>
 
-Inconvénient :
-
-•  accroît la **subjectivité** : prend du temps, dépend de la personne qui effectue la prise de ref, de la personne en face.
-
-Soit le référent est enclin pour y répondre car il percevra la prise de références comme une manière de partager son retour d'expérience, soit à l’inverse il percevra cela comme une contrainte et voudra en finir au plus vite.
-
-* **L’email**
-
-Avantage : rapide, synthèse simple à effectuer.
-
-Inconvénients :
-
-• si des questions ouvertes sont posées : la majorité d'entre elles ne seront pas complétés (syndrome de la feuille blanche), ou les informations seront très générales.
-
-• les réponses textuelles peuvent être interprétables de plusieurs manières différentes et la synthèse qui en découle peut ne pas refléter l’opinion du référent.
-
-* **Refty**
-
-De loin le moyen le plus efficace et pertinent qui permet de collecter en quelques clics les informations sur les référents du talent.  Un **rapport 360** sur la personnalité du/de la candidat.e est édité en **quelques heures**. 😎
-
-Les questions sont aussi standardisées que les réponses, ce qui permet :
-
-* d’avoir une structure de questions/réponses homogène
-* d’objectiver les informations collectées
-* d'atténuer toute déperdition ou omission de l’information (pertinence et personnalisation des questions)
-
-### Les règles à suivre
-
-• Prévenir en amont et avoir la confirmation écrite du/de la candidat.e.
-
-• Ne pas poser de questions discriminantes / personnelles, comme : des informations son l'état de santé, ses préférences sexuelles, son logement, la profession de son conjoint, ses goûts ou encore ses loisirs…
-
-### Comment se servir des résultats ? (process recrutement / onboarding)
-
-Ne pas attendre d’être sur le point d’envoyer l’offre pour faire la prise de références.
-
-En effet, plus celle-ci est effectuée en amont, plus les éléments recueillis vous serviront pour venir nourrir le processus de recrutement.
-
-Par ailleurs, ces infos seront très utiles pour son futur manager lors de l’onboarding du candidat afin de faciliter son **intégration**, son **engagement** et son **expérience collaborateur**.
-
-Ces éléments sont d’autant plus importants depuis que la majorité des process et de l'intégration des nouveaux.elles collaborateurs.cies se font à distance.
-
-### Les questions à poser
-
-* **Les classiques**
-
-**Dans quelles circonstances avez-vous collaboré ?** (demander des précisions sur le contexte de l’entreprise, de l’équipe, ainsi que des principales missions sur lesquelles le candidat a travaillé)
-
-**Quels sont selon vous ses axes d’améliorations ?**
-
-Cette question relatives n’est pas discriminante. Elle donne - l'information à son futur manager et font remonter des éléments pour faciliter l'intégration du collaborateur.
-
-**Recruteriez-vous cette personne et pourquoi ?**
-
-Aborder les questions avec une mise en situation : pour se baser sur des éléments factuels ?
-
-* **Nous avons interrogé + de 60 acteurs pour qu’ils nous partagent les questions qu’ils posent lors de la prise de références, en voici quelques exemples :**
-
-**Head Acquisiton - Meero**
-
-Poser des questions aux référents en lien avec le culture fit de la société afin de vérifier si le candidat y répond.
-
-**HR MyBestpro**
-
-Axer la prise de référence sur les compétences : demander des réalisations/exemples concrets.
-
-**HR OpenClassroom**
-
-Est ce qu’il ressort dans les 10% de l’équipe ?
-
-**HR People Doc**
-
-Pourquoi a-t-il quitté l’entreprise ?
-
-**Talent Acquisition - Sendinblue**
-
-Qu'est ce que cette personne va nous apporter ?
-
-**Shippeo**
-
-Quels sont les points forts, axes d'amélioration, et conseils à donner à son prochain manager ?
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
+<!-- End of HubSpot Embed Code -->
