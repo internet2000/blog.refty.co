@@ -5,11 +5,11 @@ meta:
   time: 5min
   date: 07/09/21
   excerpt: ''
-image: "/uploads/format-blog-26.png"
-title: 'Qu''est ce que la qualité of hire ? '
+image: "/uploads/format-blog-28.png"
+title: Qu’est-ce que la “quality of hire” ?
 categories:
 - Tendances
-permalink: "/qualite-of-hire/"
+permalink: "/qu-est-ce-que-la-quality-of-hire/"
 
 ---
 Nombre de départements RH ont connaissance de l’une des statistiques les moins flatteuses dans leur profession. Selon une étude de Leadership IQ réalisée en 2011, [ **46%**](https://www.leadershipiq.com/blogs/leadershipiq/35354241-why-new-hires-fail-emotional-intelligence-vs-skills) des embauches sont considérées comme des erreurs de recrutement - n’ayant pas le niveau de **performance** ou **l'attitude** qu’on leur prêtait - au cours des 18 premiers mois. Au-delà du coût financier évident que cela engendre, c'est le moral de toutes les parties prenantes qui en pâtit.  Ce qui peut conduire tout ou partie de vos meilleurs éléments  à partir vers des horizons plus radieux...La donne a-t-elle changé en 11 ans ?
