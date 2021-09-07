@@ -18,7 +18,7 @@ Le process de recrutement se base principalement sur l’entretien qui est une r
 
 Tandis que le.a candidat.e joue un rôle pour correspondre au poste recherché, le.a recruteur.euse se base sur son expérience et ses ressentis pour prendre une décision.
 
-La prise de référence à un double intérêt :
+La prise de référence à un double intérêt:
 
 •  Elle permet de récolter des informations auprès des personnes (managers /collaborateurs.ices) qui ont collaboré en situation de travail avec le talent et qui auront donc un avis sur sa manière de travailler. Il faut la considérer comme une **source supplémentaire** d’informations à exploiter pour prendre sa décision.
 
@@ -64,15 +64,15 @@ Plus il y a d’avis, plus vous vous assurez de rejoindre les informations de ma
 
 **Nouv vous invitions à renseigner vos coordonnées pour lire la fin de l'article :)**
 
-<!--[if lte IE 8]>
+<!--\[if lte IE 8\]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
+<!\[endif\]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "d6bdc8a3-b1d3-4be2-a081-188023b18e82"
+hbspt.forms.create({
+region: "na1",
+portalId: "9017898",
+formId: "d6bdc8a3-b1d3-4be2-a081-188023b18e82"
 });
 </script>
 
