@@ -37,7 +37,7 @@ sections:
   path: content/posts/en
   label: Posts
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - article
 - type: heading
