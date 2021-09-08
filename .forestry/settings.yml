@@ -22,9 +22,6 @@ sections:
   match: "**/*.md"
   templates:
   - article
-- type: document
-  path: _data/params.json
-  label: Paramètres
 - type: heading
   label: English
 - type: directory
@@ -43,6 +40,9 @@ sections:
   match: "**/*.md"
   templates:
   - article
+- type: document
+  path: _data/params.json
+  label: Paramètres
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
