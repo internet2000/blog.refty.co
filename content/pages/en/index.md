@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-en
 permalink: "/en/"
 title: The blog dedicated to hr
 excerpt: The blog dedicated to hr. hr trends and best practices blog

@@ -1,16 +1,34 @@
 {
-  "a-propos": {
-    "text": "<h2>À propos de Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
+  "en": {
+    "a-propos": {
+      "text": "<h2>À propos de Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
+    },
+    "decouvrir": {
+      "text": "<h2>Découvrir Refty</h2><h3>Recrutez mieux avec Refty</h3>",
+      "cta": "Découvrir Refty"
+    },
+    "footer": {
+      "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
+      "text": "<p><strong>Hiring better with Refty</strong></p>"
+    },
+    "hero": {
+      "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
+    }
   },
-  "decouvrir": {
-    "text": "<h2>Découvrir Refty</h2><h3>Recrutez mieux avec Refty</h3>",
-    "cta": "Découvrir Refty"
-  },
-  "footer": {
-    "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
-    "text": "<p><strong>Hiring better with Refty</strong></p>"
-  },
-  "hero": {
-    "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
+  "fr": {
+    "a-propos": {
+      "text": "<h2>À propos de Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
+    },
+    "decouvrir": {
+      "text": "<h2>Découvrir Refty</h2><h3>Recrutez mieux avec Refty</h3>",
+      "cta": "Découvrir Refty"
+    },
+    "footer": {
+      "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
+      "text": "<p><strong>Hiring better with Refty</strong></p>"
+    },
+    "hero": {
+      "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
+    }
   }
 }
