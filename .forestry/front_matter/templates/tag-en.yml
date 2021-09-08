@@ -1,25 +1,25 @@
 ---
 label: tag-en
-fields:
-  - type: text
-    name: title
-    label: Title (SEO)
-    default: ''
-  - type: text
-    name: excerpt
-    label: Description (SEO)
-    default: ''
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: tag-en
-    config:
-      required: true
-display_field: permalink
 hide_body: true
+display_field: permalink
+fields:
+- type: text
+  name: title
+  label: Title (SEO)
+  default: ''
+- type: text
+  name: excerpt
+  label: Description (SEO)
+  default: ''
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: tag-en
+  config:
+    required: true

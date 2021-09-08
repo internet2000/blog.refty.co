@@ -10,7 +10,7 @@ sections:
   path: content/pages
   label: Pages
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - tag
   - '404'
