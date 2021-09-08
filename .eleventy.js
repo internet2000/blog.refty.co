@@ -50,6 +50,11 @@ module.exports = function(eleventyConfig) {
   const blogTools = require("eleventy-plugin-blog-tools")
   eleventyConfig.addPlugin(blogTools)
 
+  // languages
+  eleventyConfig.addFilter('lang', (collection, lang) => {
+    return collection.filter(c => c.data.tags.includes(lang))
+  })
+
   // copy folders
   eleventyConfig.addPassthroughCopy('assets')
   eleventyConfig.addPassthroughCopy('uploads')
