@@ -19,7 +19,7 @@ sections:
   path: content/posts
   label: Posts
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - article
 - type: heading
@@ -28,7 +28,7 @@ sections:
   path: content/pages/en
   label: Pages
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - home
   - '404'
