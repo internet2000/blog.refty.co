@@ -6,7 +6,7 @@ meta:
   excerpt: Recrutez mieux. Analysez rapidement les retours d'expérience des personnes
     ayant collaboré avec le candidat en situation professionnelle
   date: 23/01/2021
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts.png"
+image: "/uploads/format-blog-19.png"
 title: Pourquoi nous avons créé Refty ?
 categories:
 - Tendances
@@ -15,25 +15,27 @@ permalink: "/pourquoi-nous-avons-cree-refty/"
 ---
 Une erreur de recrutement coûte cher : elle est estimée à environ **45k€** (source : [HR-Voice](https://www.hr-voice.com/recrutement/recrutement-rate-quel-est-le-cout-pour-lentreprise/2019/02/11/#:\~:text=Le%20co%C3%BBt%20d'un%20recrutement,la%20r%C3%A9mun%C3%A9ration%20de%20celui%2Dci.&text=Lorsque%20l'entreprise%20fait%20appel,annuel%20brut%20du%20candidat%20embauch%C3%A9.))
 
-Dans la période que nous traversons, les entreprises vont limiter leurs recrutements. Il sera primordial de ne recruter que les personnes les plus compétentes pour les postes recherchés.
+Dans la période actuel, les entreprises prêtent encore plus d'attention à la qualité de leurs recrutements. Plus que jamais, il leur est primordial de recruter les personnes les plus compétentes pour les postes recherchés correspondant aux valeurs et à la culture d'entreprise.
 
-La prise de références est une pratique qui a tendance à se généraliser pour sécuriser les recrutements.
+Avec des candidats et salariés en remote, le process de recrutement se déroule dorénavant principalement à distance.
 
-Dans la majorité des cas, cela se traduit comme l’ultime étape avant de valider une offre d’emploi, tel un filet de sécurité supplémentaire.
+La prise de références est donc une pratique qui a tendance à se généraliser pour sécuriser les recrutements et récolter des informations fiables sur un candidat.
 
-Chez Refty nous avons interrogé **+60** acteurs du milieu RH et du recrutement. La majorité des personnes interrogées reconnaissent que l’intérêt de cette pratique est limité.
+Dans la majorité des cas, cela se traduit comme l’ultime étape avant de valider une offre d’emploi, un filet de sécurité supplémentaire.
+
+Chez Refty nous avons interrogé **+60** acteurs du milieu RH et du recrutement. La majorité des personnes interrogées reconnaissent que l’intérêt de cette pratique comporte des limites.
 
 > Une phrase relevée auprès d’un responsable du recrutement d’une start-up qui effectue +100 recrutements / an, illustre bien le paradoxe entre le résultat attendu et la pratique :
 >
 > _“Honnêtement, dans 95% des cas, la prise de références ne sert qu’à valider une impression que nous nous sommes_ _faite_ _du candidat pendant le process de recrutement.”_
 
-Pourquoi un tel désaveu de cette pratique pourtant recommandée par les spécialistes du recrutement (cf : [Article Blog Marc Laurent](https://medium.com/@mrclrnt/part-6-taking-up-genuine-references-79b57dc4cf2e) 🤗)?
+Pourquoi un tel désaveu de cette pratique pourtant recommandée par les spécialistes du recrutement (cf : [Article Blog Marc Laurent](https://medium.com/@mrclrnt/part-6-taking-up-genuine-references-79b57dc4cf2e) 🤗)et systématique chez les entreprises tech les plus prestigieuses (Facebook, Google pour ne citer qu'eux).
 
 👉  car la prise de références telle qu’elle est pratiquée dans la plupart des cas, comporte son lot de **biais** et **d’imperfections.**
 
 On vous explique pourquoi.
 
-## **Un processus doublement biaisé**
+## **Un processus considéré comme doublement biaisé**
 
 • D’abord du côté du candidat, puisque celui ci doit donner son accord sur les référents à contacter (c’est une obligation légale!). Il est fort probable que les personnes qu’il choisira - ses référents -  laisseront un **avis positif** de la collaboration avec ce dernier.
 
@@ -63,20 +65,22 @@ La qualité des réponses dépendra également de l’**implication** de l’int
 
 **• Une expérience repensée**
 
-Après avoir interrogé 3 psychologues en ressources humaines et plus de 60 acteurs du secteur nous avons pu établir un formulaire de collecte de données objectives centrées sur le **comportement** du candidat (les fameuses soft skills !)
+Après avoir interrogé 3 psychologues en ressources humaines et plus de 60 acteurs du secteur nous avons pu établir un formulaire de collecte de données objectives centrées sur le **comportement** du candidat (les fameuses softskills !)
 
 L’outil Refty permet au manager de demander en quelques clics jusqu’à **6 références** par candidat.
 
 Il peut ensuite suivre depuis un **tableau de bord**, l’avancée de l’ensemble des prises de références récoltées.
 
-En **72 heures** une synthèse des prises de références est accessible sur son espace.
+En **48** - **72 heures** une synthèse des prises de références est accessible sur son espace et dessine les tendances d'aptitudes et de comportements sur lesquels les référents s'accordent.
 
 • Une utilisation qui permet une triple finalité :
 
 **Identifier** et **recruter** les [A-players](https://whothebook.com/)  (et mécaniquement éviter les mauvais recrutements)
 
-Faire **gagner du temps** dans le process de recrutement et ne laisser passer que les meilleur(e)s,
+Faire **gagner du temps** dans le process de recrutement (demander 2x plus de références en 2x moins de temps) et ne laisser passer que les meilleur(e)s,
 
 **Faciliter l’intégration** du candidat grâce aux informations collectées.
 
-👉 [Si vous souhaitez en savoir plus et voir ce à quoi cela peut ressembler](https://refty.co/)
+Mieux recruter ne devrait pas être une option 💪
+
+👉 [Si vous souhaitez en savoir plus et tester gratuitement l'outil](https://refty.co/)

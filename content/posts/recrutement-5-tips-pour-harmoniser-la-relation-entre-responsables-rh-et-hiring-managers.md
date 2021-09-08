@@ -7,7 +7,7 @@ meta:
   excerpt: Ces deux protagonistes collaborent depuis toujours. Mais ce partenariat
     peut parfois dysfonctionner
 image: "/uploads/linkedin-9.png"
-title: '5 Tips pour harmoniser la relation entre responsables RH et Hiring managers '
+title: 5 conseils pour harmoniser la relation entre RH et managers
 categories:
 - Bonnes Pratiques
 permalink: "/5-tips-pour-harmoniser-la-relation-entre-responsables-rh-et-hiring-managers/"
@@ -39,7 +39,7 @@ Effectuez un **arbitrage commun** avec le.a hiring manager pour sélectionner le
 
 ## S - Sourcez les talents
 
-Procédez ensuite à un **sourcing** des talents internes et externes ( qui peut **au-delà** des viviers de talents que vous sollicitiez)  ou des données de marché qui s’alignent le plus avec les attentes que vous aviez initialement envisagées. Vous pouvez également capitaliser sur la **cooptation** (qui accroît l’[**engagement**](https://www.helloworkplace.fr/cooptation-recrutement/) du/de la collaborateur.ice qui en est à l'origine) en précisant bien à la personne en interne qui coopte, le type d’informations qu’elle peut **divulguer** au/à la coopté.e. (Les échanges informels qui rythment leur relation peuvent compromettre la bonne tenue du processus.)
+Procédez ensuite à un **sourcing** des talents internes et externes ( qui peut aller **au-delà** des viviers de talents que vous sollicitiez)  ou des données de marché qui s’alignent le plus avec les attentes que vous aviez initialement envisagées. Vous pouvez également capitaliser sur la **cooptation** (qui accroît l’[**engagement**](https://www.helloworkplace.fr/cooptation-recrutement/) du/de la collaborateur.ice qui en est à l'origine) en précisant bien à la personne en interne qui coopte, le type d’informations qu’elle peut **divulguer** au/à la coopté.e. (Les échanges informels qui rythment leur relation peuvent compromettre la bonne tenue du processus.)
 
 ## F - Formalisez vos KPI’s (qu’on appelle Candidate Performance Indicators chez Refty :)) sur un outil dédié
 

@@ -5,7 +5,7 @@ meta:
   time: 7mn
   date: 02/06/21
   excerpt: Voici nos conseils pour optimiser cette étape charnière du recrutement
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-5.png"
+image: "/uploads/linkedin-23.png"
 title: ' Webinaire : "Comment transformer la période d’essai à tous les coups ?" '
 categories:
 - Bonnes Pratiques
@@ -18,9 +18,9 @@ Point de bascule des décideurs RH et nouvelles recrues, la période d’essai e
 
 Les statistiques de Manon Plommet-Le Bihan sont saisissantes. Au cours du premier mois d’intégration, plus d’un.e candidat.e sur deux (51,7%) se dit prêt.e à démissionner. Et ils.elles sont autant (53,8%) à démissionner s’ils.elles estiment que la mission ne correspond pas à leurs **attentes**. Quels sont les facteurs qui engendrent un tel abandon ?
 
-**•** Pour plus d’un.e candidat.e sur trois (36,8%) la principale cause résiderait dans l’inadéquation avec la **culture de l’entreprise**. Ainsi, le **positionnement promu** par l'entreprise (souvent négligé voire mensonger) doit être compatible avec les **aspirations** du/de la candidat.e. 
+**•** Pour plus d’un.e candidat.e sur trois (36,8%) la principale cause résiderait dans l’inadéquation avec la **culture de l’entreprise**. Ainsi, le **positionnement promu** par l'entreprise (souvent négligé voire mensonger) doit être compatible avec les **aspirations** du/de la candidat.e.
 
-**•** Le **mauvais management** serait la deuxième cause de défection (33,5%) devant le **mauvais accueil** réservé au talent (29,9% des suffrages). 
+**•** Le **mauvais management** serait la deuxième cause de défection (33,5%) devant le **mauvais accueil** réservé au talent (29,9% des suffrages).
 
 **•** Plus surprenant, 15,6% des candidat.e.s interrogé.e.s quittent leur emploi au cours du premier mois pour une autre offre d’emploi.
 
@@ -46,7 +46,7 @@ Chez PrestaShop, le parcours se déroule comme suit :
 
 • Un point d’onboarding au bout de 4-6 semaines est planifié
 
-Mais chez PrestaShop nous ne tenons pas pour acquis le processus dont je viens de vous énumérer les étapes. A l’heure actuelle, il existe un **décalage**, que nous souhaitons résorber, entre les différentes équipes. Nous allons prochainement regrouper davantage les entrées pour avoir un programme d’onboarding plus **unifié**. Une présentation des différents pôles (1h par pôle par exemple) pourrait être, par exemple, dispensée. 
+Mais chez PrestaShop nous ne tenons pas pour acquis le processus dont je viens de vous énumérer les étapes. A l’heure actuelle, il existe un **décalage**, que nous souhaitons résorber, entre les différentes équipes. Nous allons prochainement regrouper davantage les entrées pour avoir un programme d’onboarding plus **unifié**. Une présentation des différents pôles (1h par pôle par exemple) pourrait être, par exemple, dispensée.
 
 ## **Sur les profils à tension (style développeur) y a-t-il des dispositions particulières à prendre pour faciliter leur période d'essai ?**
 
@@ -87,7 +87,7 @@ Il est relativement facile de repérer les **signaux faibles**. Aussi bien du c�
 
 • Lorsqu’il y a une mauvaise voire une absence de relation entre les parties prenantes
 
-• Lorsqu’il existe des problèmes de communication (accentués par le télétravail) entre les deux protagonistes. 
+• Lorsqu’il existe des problèmes de communication (accentués par le télétravail) entre les deux protagonistes.
 
 Le Manager de son côté en parle généralement assez rapidement à son supérieur ou auprès de l’équipe RH. Il/elle est soit à la **recherche de conseils** afin de désamorcer la situation et faire en sorte que la situation s’améliore, soit car il.elle envisage le remplacement du/de la collaborateur.ice !
 

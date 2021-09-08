@@ -1,10 +1,10 @@
 ---
 layout: article
 meta:
-  author: Sanjay
+  author: Sanjay @Refty et Héléne Vally @Elevo
   time: 6mn
   date: 22/06/21
-  excerpt: 'C''est une pratique que le règne animal exploite avec une certaine dextérité '
+  excerpt: Il foisonne dans le BtoC...
 image: "/uploads/linkedin-12.png"
 title: Le feedback, cette ressource qui nourrit les leaders RH
 categories:
@@ -12,6 +12,8 @@ categories:
 permalink: "/feedback-cette-ressource-qui-nourrit-les-leaders-rh/"
 
 ---
+Article co-écrit par Hélène Vally - Content Strategist chez [Elevo](https://www.elevo.fr/)
+
 Depuis quelques années, le terme “feedback” est entré dans le langage courant des RH. Si l’on s’en tient à la définition générique, le feedback est un retour fait à l’écrit ou à l’oral sur une personne, un projet ou encore une action. Pour les RH, ces retours sont extrêmement précieux : les feedbacks peuvent améliorer leur process, pointer des problèmes en interne ou faire émerger des stratégies RH (recrutement, gestion des talents…). Autant dire que le feedback a une haute valeur ajoutée !
 
 Mais comment collecter du feedback ? Et, ensuite, comment capitaliser sur cette collecte de feedback ? Quelles actions mettre en place ?

@@ -189,5 +189,4 @@ Il faut :
 • Savoir définir ses forces, ses motivations, ses comportements. Bien se connaître en ayant bien défini ses soft skills ce qui augmentera la capacité à se faire recruter.
 
 Les **bénéfices** :  
-Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le.a recruteur.euse le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut !🔥 
-
+Faire de meilleur choix de poste, améliorer sa posture, son discours et sa vision. Le.a recruteur.euse le ressentira : tout ces élément permettront de gagner en confiance en soi et savoir précisément ce que l'on veut !🔥

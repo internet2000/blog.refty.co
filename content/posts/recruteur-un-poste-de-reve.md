@@ -1,7 +1,7 @@
 ---
 layout: article
 meta:
-  author: Sanjay
+  author: Sanjay @Refty et Marc Rogers @iCIMS
   time: 7mn
   date: 01/07/21
   excerpt: A quoi ressemble la "journée type" d'un.e Talent Acquisition ? Eléments
@@ -13,6 +13,8 @@ categories:
 permalink: "/recruteur-un-poste-de-reve/"
 
 ---
+Article co-écrit par Marc Rogers - Account Executive chez [iCIMS International](https://www.icims.com/fr/)
+
 Être à la recherche de la perle rare, constituer des équipes solides et durables, insuffler des énergies positives mais aussi vendre un poste, donner l’envie et finalement embaucher une personne et avoir l’impression de changer sa vie, de modifier une carrière linéaire voilà quelques-unes des **responsabilités** auxquelles peuvent prétendre les recruteurs.
 
 En définitive tous les grands patrons de Google, Amazon, Microsoft et bien d’autres vous le diront : les plus important pour une entreprise (après ses clients) c’est de **bien recruter**. Et cela est encore plus vrai pour les petites structures dont chaque ressource est précieuse.
@@ -60,8 +62,6 @@ Les rendez-vous s'enchaînent et l’après-midi est plus propice à produire du
 En voilà une autre question postée sur la page Facebook de l’entreprise du recruteur. Xavier a raison. La plupart des recruteurs ne donnent pas ou peu de feedbacks **détaillés**. Mais notre recruteur ne fait pas partie du "sourcing classique” de recruteurs. Il prend, quand l’occasion se présente,  son téléphone et appelle chaque candidat.e qui n’a pas été retenu.e malgré l’avancée de sa candidature. Il égrène par téléphone les différentes qualités et axes d’amélioration du talent, lui explique les raisons de cette décision, et lui prodigue différents **conseils** pour qu’il puisse s’améliorer pour son prochain entretien.
 
 Ainsi s’achève la journée d’un recruteur : demain il faudra accueillir les nouveaux embauchés mais également rencontrer les managers qui souhaitent recruter de nouveaux talents. Un mélange de technologies digitales **au service de l'humain**, c'est peut-être ce qui définit le mieux cette communauté RH tournée vers le futur de l’entreprise dont elle promeut les postes et les candidat.e.s.
-
-Article co-rédigé avec Marc Rogers - Account Executive chez iCIMS International
 
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>

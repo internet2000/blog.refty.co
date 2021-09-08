@@ -7,7 +7,8 @@ meta:
     plus en vogue.
   date: 07/04/21
 image: "/uploads/untitled-design.png"
-title: Qu’est-ce que l'expérience candidat ?
+title: Pourquoi mettre l'expérience candidat au cœur de ses process est incontournable
+  ?
 categories:
 - Tendances
 permalink: "/qu-est-ce-que-experience-candidat/"
