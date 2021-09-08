@@ -40,6 +40,8 @@ sections:
   match: "**/*.md"
   templates:
   - article
+- type: heading
+  label: Site
 - type: document
   path: _data/params.json
   label: Paramètres
