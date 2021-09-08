@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: heading
+  label: Français
 - type: directory
   path: content/pages
   label: Pages
