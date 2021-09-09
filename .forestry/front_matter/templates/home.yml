@@ -27,6 +27,3 @@ fields:
   default: home
   config:
     required: true
-pages:
-- content/pages/index.md
-- content/pages/tags-list.md
