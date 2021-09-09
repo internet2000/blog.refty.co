@@ -30,5 +30,19 @@
     "hero": {
       "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
     }
+  },
+  "hero": {
+    "text": "<p>Le Blog dédié aux RH</p>"
+  },
+  "a-propos": {
+    "text": ""
+  },
+  "decouvrir": {
+    "text": "",
+    "cta": ""
+  },
+  "footer": {
+    "text": "",
+    "address": ""
   }
 }
