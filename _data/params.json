@@ -32,7 +32,7 @@
     }
   },
   "hero": {
-    "text": "<p>Le Blog dédié aux RH</p>"
+    "text": "<h1>Le Blog dédié aux RH</h1>"
   },
   "a-propos": {
     "text": ""
