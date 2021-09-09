@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/posts/posts.json
   label: test3
-  match: "**/*"
 - type: heading
   label: Français
 - type: directory
