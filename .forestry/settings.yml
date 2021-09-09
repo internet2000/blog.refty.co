@@ -5,8 +5,9 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
-  path: _data/params.json
-  label: test
+  path: content/posts/posts.json
+  label: test3
+  match: "**/*"
 - type: heading
   label: Français
 - type: directory
