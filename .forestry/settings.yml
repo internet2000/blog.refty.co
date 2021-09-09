@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/params.json
   label: test
-  match: "**/*"
 - type: heading
   label: Français
 - type: directory
