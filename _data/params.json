@@ -42,7 +42,7 @@
     "cta": ""
   },
   "footer": {
-    "text": "",
-    "address": ""
+    "text": "<p><strong>Hiring better with Refty</strong></p>",
+    "address": "<p>5 Parvis Alain Turing, 75013 Paris</p>"
   }
 }
