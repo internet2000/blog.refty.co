@@ -1,9 +1,17 @@
 ---
-label: '404'
+label: home-en
 fields:
   - type: text
-    name: error
-    label: text error 404
+    name: excerpt
+    label: Description (SEO)
+    default: ''
+  - type: text
+    name: title
+    label: Title (SEO)
+    default: ''
+  - type: number
+    name: nbarticles
+    label: Nombre d'articles max
     default: ''
   - name: permalink
     type: text
@@ -14,7 +22,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: '404'
+    default: home-en
     config:
       required: true
 display_field: permalink

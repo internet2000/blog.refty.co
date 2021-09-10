@@ -1,9 +1,13 @@
 ---
-label: '404'
+label: tag-en
 fields:
   - type: text
-    name: error
-    label: text error 404
+    name: excerpt
+    label: Description (SEO)
+    default: ''
+  - type: text
+    name: title
+    label: Title (SEO)
     default: ''
   - name: permalink
     type: text
@@ -14,7 +18,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: '404'
+    default: tag-en
     config:
       required: true
 display_field: permalink

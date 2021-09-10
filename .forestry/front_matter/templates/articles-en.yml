@@ -1,5 +1,5 @@
 ---
-label: article
+label: articles-en
 fields:
   - type: field_group
     name: meta
@@ -21,14 +21,6 @@ fields:
         name: excerpt
         label: Description (SEO + Cards)
         default: ''
-  - type: file
-    name: image
-    label: Image
-    default: ''
-  - type: text
-    name: title
-    label: Titre
-    default: ''
   - type: list
     name: categories
     label: Tags
@@ -42,8 +34,8 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: article
+    default: articles-en
     config:
       required: true
 display_field: permalink
-hide_body: false
+hide_body: true
