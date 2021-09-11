@@ -53,7 +53,3 @@ J’oubliais...Refty nous permet aussi de valoriser notre [**expérience candida
 ## Un dernier mot pour la suite de votre collaboration avec Refty 🙂 ?
 
 Nous attendons avec impatience la personnalisation de nos questionnaires afin d’augmenter **la qualité** des résultats mais également les futures fonctionnalités de Refty pour toujours plus d’efficacité :)
-
-# J'apprends à coder <h1> tag
- 
-### Hello <h3> tag
