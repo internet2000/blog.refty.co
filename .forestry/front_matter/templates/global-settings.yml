@@ -2,75 +2,81 @@
 label: global settings
 hide_body: true
 fields:
-- name: hero
-  type: field_group
-  config: {}
+- type: field_group
+  name: en
+  label: en
   fields:
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Title
-  label: Hero section
-- name: a-propos
-  type: field_group
-  config: {}
+  - type: field_group
+    name: a-propos
+    label: a-propos
+    fields:
+    - type: textarea
+      name: text
+      label: text
+  - type: field_group
+    name: decouvrir
+    label: decouvrir
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: cta
+      label: cta
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: address
+      label: address
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: hero
+    label: hero
+    fields:
+    - type: text
+      name: text
+      label: text
+- type: field_group
+  name: fr
+  label: fr
   fields:
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Text
-  label: A propos
-- name: decouvrir
-  type: field_group
-  config: {}
-  fields:
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Text
-  - name: cta
-    type: text
-    config:
-      required: false
-    label: Call To action
-  label: Découvrir
-- name: footer
-  type: field_group
-  config: {}
-  fields:
-  - name: text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Text
-  - name: address
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: html-blocks
-    label: Adresse
-  label: Footer
+  - type: field_group
+    name: a-propos
+    label: a-propos
+    fields:
+    - type: textarea
+      name: text
+      label: text
+  - type: field_group
+    name: decouvrir
+    label: decouvrir
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: cta
+      label: cta
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: address
+      label: address
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: hero
+    label: hero
+    fields:
+    - type: text
+      name: text
+      label: text
 pages:
 - _data/params.json
