@@ -78,3 +78,5 @@ fields:
     - type: text
       name: text
       label: text
+pages:
+- _data/params.json
