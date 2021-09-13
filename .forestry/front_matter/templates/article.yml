@@ -33,7 +33,6 @@ fields:
     name: categories
     label: Tags
     default: ''
-
   - name: permalink
     type: text
     label: Permalink
