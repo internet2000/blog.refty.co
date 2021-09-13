@@ -1,0 +1,80 @@
+---
+label: global settings
+hide_body: true
+fields:
+- type: field_group
+  name: en
+  label: en
+  fields:
+  - type: field_group
+    name: a-propos
+    label: a-propos
+    fields:
+    - type: textarea
+      name: text
+      label: text
+  - type: field_group
+    name: decouvrir
+    label: decouvrir
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: cta
+      label: cta
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: address
+      label: address
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: hero
+    label: hero
+    fields:
+    - type: text
+      name: text
+      label: text
+- type: field_group
+  name: fr
+  label: fr
+  fields:
+  - type: field_group
+    name: a-propos
+    label: a-propos
+    fields:
+    - type: textarea
+      name: text
+      label: text
+  - type: field_group
+    name: decouvrir
+    label: decouvrir
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: cta
+      label: cta
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: text
+      name: address
+      label: address
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: hero
+    label: hero
+    fields:
+    - type: text
+      name: text
+      label: text
