@@ -1,12 +1,26 @@
 ---
 label: articles-en
-hide_body: true
-display_field: permalink
 fields:
-- type: field_group
-  name: meta
-  label: Meta données
-  fields:
+  - type: field_group
+    name: meta
+    label: Meta données
+    fields:
+      - type: text
+        name: author
+        label: Auteur
+        default: ''
+      - type: text
+        name: time
+        label: Temps de lecture
+        default: ''
+      - type: text
+        name: date
+        label: Date de publication
+        default: ''
+      - type: text
+        name: excerpt
+        label: Description (SEO + Cards)
+        default: ''
   - type: text
     name: author
     label: Auteur
@@ -15,27 +29,21 @@ fields:
     name: time
     label: Temps de lecture
     default: ''
-  - type: text
-    name: date
-    label: Date de publication
+  - type: list
+    name: categories
+    label: Tags
     default: ''
-  - type: text
-    name: excerpt
-    label: Description (SEO + Cards)
-    default: ''
-- type: list
-  name: categories
-  label: Tags
-  default: ''
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: articles-en
-  config:
-    required: true
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: articles-en
+    config:
+      required: true
+display_field: permalink
+hide_body: true
