@@ -5,7 +5,7 @@ Inputs:
 <p>
   {%- for tag in collections.categories %}
     {% if filter == undefined or filter contains tag %}
-      <a href="{{ site.url }}{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a>
+      <a href="{{ site.url }}{{ site.baseurl }}{% if lang != 'fr' %}/{{ lang }}{% endif %}/tags/{{ tag | downcase }}">{{ tag }}</a>
     {% endif %}
   {% endfor %}
 </p>
