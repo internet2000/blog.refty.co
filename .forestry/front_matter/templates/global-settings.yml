@@ -21,7 +21,7 @@ fields:
     name: decouvrir
     label: decouvrir
     fields:
-    - type: text
+    - type: textarea
       name: text
       label: text
     - type: text
@@ -63,7 +63,7 @@ fields:
     name: decouvrir
     label: decouvrir
     fields:
-    - type: text
+    - type: textarea
       name: text
       label: text
     - type: text
