@@ -2,12 +2,12 @@
 label: home-en
 fields:
   - type: text
-    name: excerpt
-    label: Description (SEO)
-    default: ''
-  - type: text
     name: title
     label: Title (SEO)
+    default: ''
+  - type: text
+    name: excerpt
+    label: Description (SEO)
     default: ''
   - type: number
     name: nbarticles

@@ -1,14 +1,6 @@
 ---
 label: tag-en
 fields:
-  - type: text
-    name: excerpt
-    label: Description (SEO)
-    default: ''
-  - type: text
-    name: title
-    label: Title (SEO)
-    default: ''
   - name: permalink
     type: text
     label: Permalink

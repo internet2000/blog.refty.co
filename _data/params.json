@@ -1,18 +1,18 @@
 {
   "en": {
     "a-propos": {
-      "text": "<h2>À propos de Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
+      "text": "<h2>About Refty</h2><p><strong>Recrutez mieux avec Refty. </strong>Définissez votre candidat idéal et comparez le avec le feedback des personnes qui ont collaboré avec vos candidat.e.s.</p>"
     },
     "decouvrir": {
-      "text": "<h2>Découvrir Refty</h2><h3>Recrutez mieux avec Refty</h3>",
-      "cta": "Découvrir Refty"
+      "text": "<h2>Discover Refty</h2><h3>Hiring better with Refty</h3>",
+      "cta": "Discover Refty"
     },
     "footer": {
       "address": "<p>5 Parvis Alain Turing, 75013 Paris</p><p><a href=\"\" title=\"\">contact@refty.co</a></p>",
       "text": "<p><strong>Hiring better with Refty</strong></p>"
     },
     "hero": {
-      "text": "<h1>Le blog dédié aux RH.</h1><h2>Blog des tendances RH et bonnes pratiques</h2>"
+      "text": "<h1> The blog dedicated to HR people.</h1><h2>HR trends and best practices blog</h2>"
     }
   },
   "fr": {

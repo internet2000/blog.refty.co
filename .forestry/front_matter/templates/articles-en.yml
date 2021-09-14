@@ -25,6 +25,10 @@ fields:
     name: author
     label: Auteur
     default: ''
+  - type: file
+    name: image
+    label: Image
+    default: ''
   - type: text
     name: time
     label: Temps de lecture

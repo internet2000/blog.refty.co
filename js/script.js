@@ -105,8 +105,8 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-       if(window.location.pathname === '/') {
-            $(this).toggleClass('active', $(this).attr('href') === '/')
+       if(window.location.pathname === '/' || window.location.pathname === '/en/') {
+            $(this).toggleClass('active', $(this).attr('href') === window.location.pathname)
        } else {
            var pathname = window.location.pathname.toLowerCase()
            var link = encodeURI($(this).attr('href')).toLowerCase()
