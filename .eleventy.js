@@ -44,7 +44,7 @@ module.exports = function(eleventyConfig) {
   const sitemap = require("@quasibit/eleventy-plugin-sitemap")
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: site.url + site.baseurl,
+      hostname: 'https://blog.refty.co',
     },
   })
   const blogTools = require("eleventy-plugin-blog-tools")
