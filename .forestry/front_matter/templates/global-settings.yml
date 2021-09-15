@@ -34,14 +34,14 @@ fields:
     - type: text
       name: address
       label: address
-    - type: text
+    - type: textarea
       name: text
       label: text
   - type: field_group
     name: hero
     label: hero
     fields:
-    - type: text
+    - type: textarea
       name: text
       label: text
 - type: field_group
@@ -76,14 +76,14 @@ fields:
     - type: text
       name: address
       label: address
-    - type: text
+    - type: textarea
       name: text
       label: text
   - type: field_group
     name: hero
     label: hero
     fields:
-    - type: text
+    - type: textarea
       name: text
       label: text
 pages:
