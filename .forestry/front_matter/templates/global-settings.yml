@@ -95,6 +95,10 @@ fields:
     - type: textarea
       name: text
       label: text
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
   - type: field_group
     name: hero
     label: hero
