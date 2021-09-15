@@ -14,13 +14,13 @@ categories:
 permalink: "/en/test"
 
 ---
-June will be decisive. the return to normal life is looming (finally). following government announcements, ** teleworking will become more flexible ** as of June 9. this change implies the ** return to the office of all or part of your employees **. also many questions arise such as the interest of returning to the office after the social bond has weakened.
+TEST e will be decisive. the return to normal life is looming (finally). following government announcements, ** teleworking will become more flexible ** as of June 9. this change implies the ** return to the office of all or part of your employees **. also many questions arise such as the interest of returning to the office after the social bond has weakened.
 
 here are our ** 5 tips ** to best prepare the return of your human capital on site:
 
 ## ** 1. workplace experience **
 
-** the office is dead. long live the workplace experience **. Following [our interview] (https://blog.refty.co/comment-se-modernise-la-fonction-rh/) with juliette parichet, hr business partner at voodoo, we decided to integrate this concept to our list. the organization of work has changed profoundly. ** digital tools ** (zoom, slack, microsoft teams, etc.) have ** increased their hold ** on organizations to enable them to maintain and develop their activities. The result is that the ** central position ** ** that the desk ** previously occupied ** ** in the work environment (both literally and figuratively) has gradually ** faded ** . ** why go back to the office if we are as much or more productive remotely? ** thorny question you will say. the workplace experience tries to answer it.
+\** the office is dead. long live the workplace experience **. Following \[our interview\] (https://blog.refty.co/comment-se-modernise-la-fonction-rh/) with juliette parichet, hr business partner at voodoo, we decided to integrate this concept to our list. the organization of work has changed profoundly. ** digital tools ** (zoom, slack, microsoft teams, etc.) have ** increased their hold ** on organizations to enable them to maintain and develop their activities. The result is that the ** central position ** ** that the desk ** previously occupied ** ** in the work environment (both literally and figuratively) has gradually ** faded ** . ** why go back to the office if we are as much or more productive remotely? ** thorny question you will say. the workplace experience tries to answer it.
 
 the office should no longer simply be a ** "place of work" ** but "a **" place of fulfillment and life ** ". it must be a ** catalyst for exchange, cohesion, well-being. ** the layout of offices, socialization spaces, extra-professional services (sport, relaxation area, etc.) are ** its instruments **. in essence, the office must respond to the ** quest for meaning and the need for experience **. returning to the office automatically involves promoting ** added value that differs from that which existed before **. it must enhance a distinctive and engaging atmosphere that does not exist anywhere else.
 
@@ -32,7 +32,7 @@ communication, ** keystone ** of human relations, ** soothes the tensions and qu
 
 ## ** 3. co-define the “future of work” **
 
-the year 2020 has reshaped the face of work. ** The rise of remote working ** has highlighted the need for the business to adapt quickly. ** the intensity ** and ** the duration ** of this practice produced several side effects. according to ilo the adverse effects are related to [** mental health and a feeling of isolation **] (https://www.ilo.org/global/about-the-ilo/newsroom/news/wcms_748737 /lang--fr/index.htm). while the beneficial effects are in particular the increase in [** productivity **] (https://www.lefigaro.fr/conjoncture/le-teletravail-a-fait-grimper-la-productivite-des-salaries- de-22-20210315) ** and autonomy. **
+the year 2020 has reshaped the face of work. ** The rise of remote working ** has highlighted the need for the business to adapt quickly. ** the intensity ** and ** the duration ** of this practice produced several side effects. according to ilo the adverse effects are related to \[** mental health and a feeling of isolation **\] (https://www.ilo.org/global/about-the-ilo/newsroom/news/wcms_748737 /lang--fr/index.htm). while the beneficial effects are in particular the increase in \[__ productivity **\] (https://www.lefigaro.fr/conjoncture/le-teletravail-a-fait-grimper-la-productivite-des-salaries- de-22-20210315) ** and autonomy. **
 
 however, teleworking is not just a simple ** polarization **. that's why measured words are called for. ** the social value ** of work has deteriorated. some people who are more productive at home than in the office, may not have worked as a team.
 
@@ -44,7 +44,7 @@ However, organizations are at ** a crossroads. ** They have the opportunity to l
 
 ## ** 4. recreate social links **
 
-** it withered but did not rupture **. social ties are one of the most important issues in this resumption of activity. Faced with ** social distancing and domestic isolation ** attributable to the health crisis, employees tried, as best they could, to maintain the cohesion they had forged in face-to-face. while the recruits who arrived along the way, they mainly integrated themselves via collaborative tools (slack, trello, etc.).
+\** it withered but did not rupture **. social ties are one of the most important issues in this resumption of activity. Faced with ** social distancing and domestic isolation ** attributable to the health crisis, employees tried, as best they could, to maintain the cohesion they had forged in face-to-face. while the recruits who arrived along the way, they mainly integrated themselves via collaborative tools (slack, trello, etc.).
 
 fragmented and diminished by a certain weariness, the community that was yours will have to:
 
