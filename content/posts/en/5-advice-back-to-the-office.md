@@ -5,6 +5,7 @@ meta:
   time: 4mn
   date: 04/06/21
   excerpt: the return to the office raises many questions. we tried to answer it
+  thumbnail: "/uploads/linkedin.jpg"
 image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-9.png"
 title: 5 tips to follow as you get back to work
 categories:
