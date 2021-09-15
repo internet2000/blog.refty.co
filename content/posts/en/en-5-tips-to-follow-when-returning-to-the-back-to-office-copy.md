@@ -6,11 +6,12 @@ meta:
   date: 04/06/21
   excerpt: the return to the office raises many questions. we tried to answer it
   thumbnail: "/uploads/linkedin.jpg"
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-9.png"
-title: "/en/5-tips-to-follow-when-returning-to-the-back-to-office/-(copy)"
+image: "/uploads/screenshot-at-sep-13-10-49-24.png"
+title: "/en/test"
 categories:
+- Best Practices
 - Trends
-permalink: "/en/5-tips-to-follow-when-returning-to-the-back-to-office/"
+permalink: "/en/test"
 
 ---
 June will be decisive. the return to normal life is looming (finally). following government announcements, ** teleworking will become more flexible ** as of June 9. this change implies the ** return to the office of all or part of your employees **. also many questions arise such as the interest of returning to the office after the social bond has weakened.
