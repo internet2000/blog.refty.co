@@ -1,5 +1,5 @@
 ---
-layout: article-en
+layout: article
 meta:
   author: Sanjay
   time: 4mn
