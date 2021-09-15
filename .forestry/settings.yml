@@ -4,16 +4,13 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: document
-  path: content/posts/posts.json
-  label: test3
 - type: heading
   label: Français
 - type: directory
   path: content/pages
   label: Pages
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - tag
   - '404'
@@ -22,7 +19,7 @@ sections:
   path: content/posts
   label: Posts
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - article
 - type: heading
