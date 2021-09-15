@@ -34,14 +34,14 @@ fields:
     - type: text
       name: address
       label: address
-    - type: textarea
+    - type: text
       name: text
       label: text
   - type: field_group
     name: hero
     label: hero
     fields:
-    - type: textarea
+    - type: text
       name: text
       label: text
 - type: field_group
@@ -66,6 +66,10 @@ fields:
     - type: textarea
       name: text
       label: text
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
     - type: text
       name: cta
       label: cta
@@ -76,14 +80,14 @@ fields:
     - type: text
       name: address
       label: address
-    - type: textarea
+    - type: text
       name: text
       label: text
   - type: field_group
     name: hero
     label: hero
     fields:
-    - type: textarea
+    - type: text
       name: text
       label: text
 pages:
