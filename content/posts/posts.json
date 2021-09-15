@@ -1,0 +1,6 @@
+{
+  "layout": "article",
+  "permalink": "/{{page.fileSlug}}/",
+  "tags": ["post", "fr"],
+  "lang": "fr"
+}

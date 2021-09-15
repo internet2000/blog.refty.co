@@ -105,7 +105,7 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-        var pathname = window.location.pathname.toLowerCase()
+        var pathname = window.location.href.toLowerCase()
         var link = encodeURI($(this).attr('href')).toLowerCase()
         var active = link === pathname
         $(this).toggleClass('active', active)
