@@ -11,7 +11,7 @@ title: test/
 categories:
 - Best Practices
 - Trends
-permalink: "/en/test"
+permalink: "/en/test/"
 
 ---
 TEST e will be decisive. the return to normal life is looming (finally). following government announcements, ** teleworking will become more flexible ** as of June 9. this change implies the ** return to the office of all or part of your employees **. also many questions arise such as the interest of returning to the office after the social bond has weakened.
