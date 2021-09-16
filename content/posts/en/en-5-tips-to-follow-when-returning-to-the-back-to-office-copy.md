@@ -7,7 +7,7 @@ meta:
   excerpt: the return to the office raises many questions. we tried to answer it
   thumbnail: "/uploads/linkedin.jpg"
 image: "/uploads/screenshot-at-sep-13-10-49-24.png"
-title: test/
+title: test
 categories:
 - Best Practices
 - Trends
