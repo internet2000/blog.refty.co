@@ -12,8 +12,6 @@ sections:
   create: documents
   match: "*.md"
   templates:
-  - tag
-  - '404'
   - home
 - type: directory
   path: content/posts
@@ -30,16 +28,14 @@ sections:
   create: documents
   match: "**/*.md"
   templates:
-  - home
-  - '404'
-  - tag
+  - home-en
 - type: directory
   path: content/posts/en
   label: Posts
   create: documents
   match: "*.md"
   templates:
-  - article
+  - articles-en
 - type: heading
   label: Site
 - type: document
