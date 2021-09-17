@@ -11,6 +11,8 @@ global:
     address: "<p></p>"
     text: "<p></p>"
 title: "/meeting/"
+excerpt: Prendre rendez-vous
+nbarticles: 1000
 
 ---
 There is nothing here
