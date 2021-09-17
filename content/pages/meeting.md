@@ -3,7 +3,8 @@ layout: "404"
 permalink: "/meeting.html"
 eleventyExcludeFromCollections: true
 hero-text: "<p>Cette page n'existe plus !</p>"
-error: Cette page n'existe pas !
+error: <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/moly-richez?embed=true"></div>
+<script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
 global.footer.text: ''
 global.footer.address: ''
 global:
