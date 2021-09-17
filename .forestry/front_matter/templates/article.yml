@@ -51,5 +51,3 @@ fields:
   default: article
   config:
     required: true
-pages:
-- content/posts/meetings-test.md
