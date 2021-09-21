@@ -10,6 +10,7 @@ image: "/uploads/screenshot-at-sep-13-10-49-24.png"
 title: 'Infographie : L''expérience candidat vue par les RH'
 categories:
 - Média
-permalink: "/infographie_refty_experience_candiat_rh/"
+permalink: "/infographie_refty_experience_candiat_rh/,"
 
 ---
+![](/uploads/infographie_3_refty_l-experience_candidat.png)
