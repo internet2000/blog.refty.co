@@ -1,7 +1,7 @@
 
 
     window.silex = window.silex || {}
-    window.silex.data = {"site":{"width":1440},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-tag","displayName":"tag","link":{"linkType":"LinkTypePage","href":"#!page-tag"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-article","displayName":"article","link":{"linkType":"LinkTypePage","href":"#!page-article"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-404","displayName":"404","link":{"linkType":"LinkTypePage","href":"#!page-404"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
+    window.silex.data = {"site":{"width":1440},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-home-en","displayName":"home-en","link":{"linkType":"LinkTypePage","href":"#!page-home-en"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-article","displayName":"article","link":{"linkType":"LinkTypePage","href":"#!page-article"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-articles-en","displayName":"articles-en","link":{"linkType":"LinkTypePage","href":"#!page-articles-en"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-tag","displayName":"tag","link":{"linkType":"LinkTypePage","href":"#!page-tag"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-tag-en","displayName":"tag-en","link":{"linkType":"LinkTypePage","href":"#!page-tag-en"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-404","displayName":"404","link":{"linkType":"LinkTypePage","href":"#!page-404"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
 /*
  * animation widget from here: https://github.com/silexlabs/Silex/issues/443
  */
@@ -105,13 +105,9 @@ $(function() {
  */
 $(function() {
    $('a[href]').each(function() {
-       if(window.location.pathname === '/') {
-            $(this).toggleClass('active', $(this).attr('href') === '/')
-       } else {
-           var pathname = window.location.pathname.toLowerCase()
-           var link = encodeURI($(this).attr('href')).toLowerCase()
-           var active = link.endsWith(pathname)
-           $(this).toggleClass('active', active)
-       }
+        var pathname = window.location.href.toLowerCase()
+        var link = encodeURI($(this).attr('href')).toLowerCase()
+        var active = link === pathname
+        $(this).toggleClass('active', active)
   });
 })

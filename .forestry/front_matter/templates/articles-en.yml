@@ -1,5 +1,5 @@
 ---
-label: article
+label: articles-en
 hide_body: false
 display_field: permalink
 fields:
@@ -27,9 +27,17 @@ fields:
     name: thumbnail
     label: image pour partage Réseaux Sociaux
     default: ''
+- type: text
+  name: author
+  label: Auteur
+  default: ''
 - type: file
   name: image
   label: Image
+  default: ''
+- type: text
+  name: time
+  label: Temps de lecture
   default: ''
 - type: text
   name: title
@@ -48,6 +56,6 @@ fields:
   type: text
   hidden: true
   label: layout
-  default: article
+  default: articles-en
   config:
     required: true

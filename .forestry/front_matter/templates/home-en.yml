@@ -1,5 +1,5 @@
 ---
-label: tag
+label: home-en
 hide_body: true
 display_field: permalink
 fields:
@@ -11,6 +11,10 @@ fields:
   name: title
   label: Title (SEO)
   default: ''
+- type: number
+  name: nbarticles
+  label: Nombre d'articles max
+  default: ''
 - name: permalink
   type: text
   label: Permalink
@@ -20,6 +24,6 @@ fields:
   type: text
   hidden: true
   label: layout
-  default: tag
+  default: home-en
   config:
     required: true

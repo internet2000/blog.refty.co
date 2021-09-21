@@ -1,5 +1,5 @@
 ---
-label: tag
+label: tag-en
 hide_body: true
 display_field: permalink
 fields:
@@ -20,6 +20,6 @@ fields:
   type: text
   hidden: true
   label: layout
-  default: tag
+  default: tag-en
   config:
     required: true

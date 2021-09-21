@@ -44,11 +44,16 @@ module.exports = function(eleventyConfig) {
   const sitemap = require("@quasibit/eleventy-plugin-sitemap")
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: site.url + site.baseurl,
+      hostname: 'https://blog.refty.co',
     },
   })
   const blogTools = require("eleventy-plugin-blog-tools")
   eleventyConfig.addPlugin(blogTools)
+
+  // languages
+  eleventyConfig.addFilter('lang', (collection, lang) => {
+    return collection.filter(c => c.data.tags.includes(lang))
+  })
 
   // copy folders
   eleventyConfig.addPassthroughCopy('assets')
