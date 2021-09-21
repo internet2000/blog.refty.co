@@ -4,9 +4,11 @@ meta:
   author: Sanjay
   time: 5mn
   date: 21/09/21
-  excerpt: ''
+  excerpt: Quellles sont les erreurs à éviter dans le cadre de la marque employeur
+    ? Elément de réponse avec Cécile Pichon intervenante experte au sein du lab RH
+    de Welcome to the Jungle
   thumbnail: ''
-image: ''
+image: "/uploads/fb-ad-78.png"
 title: 'La marque employeur : Etes-vous Banksy ou son faussaire ?'
 categories:
 - Bonnes Pratiques
@@ -15,7 +17,7 @@ permalink: "/marque-employeur-banksy-faussaire/"
 ---
 ## Derrière l’ère de l’hyperconnexion...
 
-Terme récemment utilisé par les responsables RH, le marketing et la communication interne de l’entreprise, la marque employeur s’est apposée dans tous les discours, sur tous les jobboards dans tous les ATS. Comment expliquer la percée de ce phénomène qui vise à acquérir et retenir les talents de l’entreprise ? Comment parvenir à bâtir une stratégie permettant de valoriser la marque employeur ? Éléments de réponse avec Cécile Pichon. Cette psychologue et coach du travail, ancienne Talent Manager de [Kpler ](https://www.kpler.com/)et intervenante experte au sein du Lab RH de [Welcome to the Jungle](https://www.welcometothejungle.com/fr) nous a partagé son retour d’expérience.
+Terme récemment utilisé par les responsables RH, le marketing et la communication interne de l’entreprise, la marque employeur s’est apposée dans tous les discours, sur tous les jobboards dans tous les ATS. Comment expliquer la percée de ce phénomène qui vise à acquérir et retenir les talents de l’entreprise ? Comment parvenir à bâtir une stratégie permettant de valoriser la marque employeur ? Éléments de réponse avec [Cécile Pichon](https://www.welcometothejungle.com/fr/authors/cecile-pichon). Cette psychologue et coach du travail, ancienne Talent Manager de [Kpler ](https://www.kpler.com/)et intervenante experte au sein du Lab RH de [Welcome to the Jungle](https://www.welcometothejungle.com/fr) nous a partagé son retour d’expérience.
 
 La **marque employeur** recouvre la rémunération, les avantages sociaux, la culture d’entreprise, l’esthétisme des bureaux , les types de management, l’ambiance de travail, l'engagement sociétal ou encore les évolutions de carrières. Bien qu’elle soit formellement définie par une stratégie menée par les professionnels RH, la Communication et le Marketing, la communication informelle - peut venir ternir ou vernir le tableau dépeint par l’entreprise.
 
@@ -63,14 +65,4 @@ Cécile Pichon vous conseille de mettre en place des actions proportionnelles  �
 
 • Quant aux grandes entreprises, je suggère de solliciter les cabinets extérieurs qui sont qualifiés pour répondre aux enjeux d’envergure.
 
-En l’absence d'authenticité votre entreprise peut être victime de son...excès de zèle.
-
-🌓  Voici un exemple que nous aimons bien diffuser chez Refty car il  illustre bien les dégâts que peut causer une marque employeur mal gérée.
-
-😈  Toute ressemblance avec des entreprises ou personnes ayant existé est purement fortuite.
-
-L’auditoire est bondé, impatient de découvrir la marque employeur de Sheetr, une foodtech en hypercroissance qui conçoit et livre des plats à emporter grâce à sa flotte de 3000 auto-entrepreneurs dans l’Hexagone. Monsieur Bird - le commissaire priseur qui va animer la séance, ajuste une dernière fois les manches de sa chemise blanche sur celles de son costume bleu cyan - avant de lever l’épais voile noir qui dissimule la toile de jute 100% recyclable de Sheetr  - **politique RSE** oblige - posée sur le chevalet et visible par tout l’auditoire via un écran géant. Le résultat est à la hauteur des espérances.
-
-Le brouhaha initial a laissé place à un silence assourdissant. L’auditoire est bouché-bée, conquis par la **diversité** des pigments bleu Klein et rouge rubis - dont se pare les bâtiments moderne et épuré de Sheetr à l'arrière-plan.  L**’inclusion** de plusieurs personnes - au premier-plan - de tout genre et de tout âge satisfait les plus réticents. Une multitude de corps de métiers est représentée dont les Sales et l’Account Manager fraîchement embauchés - tout droit sortis d’une pub Vademmecum - se partagent la tête d’affiche. La phrase d’accroche quant à elle désarçonne les plus sceptiques. Le traditionnel “MonEntreprise recrute X postes en Sales, Marketing et RH” s’efface au profit d’un plus impactant : “Mon entreprise vire sans ménagement l’intolérance, le capitalisme débrydé, la discrimination et le sexisme”. Le collectif d’artistes qui en est à l’origine - l’équipe Intern Com, Marketing et RH de Sheetr montent alors sur scène sous une standing ovation qui aurait ému aux larmes votre humoriste préféré(e). Sheetr n'a pas lésiné pour s’attirer les bonnes grâces des talents.
-
-C’était sans compter sur un tweet incendiaire de trois ex-employées qui vont conduire aux licenciements d’un des cadres dirigeants...
+En l’absence d'authenticité votre entreprise peut être victime de son...**excès de zèle.**
