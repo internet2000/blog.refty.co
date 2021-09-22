@@ -6,7 +6,7 @@ meta:
   date: 21/09/21
   excerpt: Découvrez notre 3ème infographie sur le regard des RH sur l'expérience
     candidat
-image: "/uploads/screenshot-at-sep-22-11-24-14.png"
+image: "/uploads/screenshot-at-sep-22-11-35-49.png"
 title: 'Infographie : L''expérience candidat vue par les RH'
 categories:
 - Média
