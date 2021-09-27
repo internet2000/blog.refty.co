@@ -63,18 +63,3 @@ En voilà une autre question postée sur la page Facebook de l’entreprise du r
 
 Ainsi s’achève la journée d’un recruteur : demain il faudra accueillir les nouveaux embauchés mais également rencontrer les managers qui souhaitent recruter de nouveaux talents. Un mélange de technologies digitales **au service de l'humain**, c'est peut-être ce qui définit le mieux cette communauté RH tournée vers le futur de l’entreprise dont elle promeut les postes et les candidat.e.s.
 
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9017898.js"></script>
-<!-- End of HubSpot Embed Code -->
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "18c42f96-e174-4f22-9a28-158ef381df58"
-});
-</script>
