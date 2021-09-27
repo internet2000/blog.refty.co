@@ -5,7 +5,7 @@ meta:
   time: 5min
   date: 07/09/21
   excerpt: ''
-image: "/uploads/format-blog-28.png"
+image: "/uploads/gif-1.png"
 title: Qu’est-ce que la “quality of hire” ?
 categories:
 - Tendances
