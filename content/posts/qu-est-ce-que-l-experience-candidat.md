@@ -6,7 +6,7 @@ meta:
   excerpt: Face à la reprise d'activité qui se profile, cette notion est de plus en
     plus en vogue.
   date: 07/04/21
-image: "/uploads/untitled-design.png"
+image: "/uploads/linkedin-30.png"
 title: Pourquoi mettre l'expérience candidat au cœur de ses process est incontournable
   ?
 categories:
