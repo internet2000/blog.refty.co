@@ -72,7 +72,7 @@ Distinguer un talent dont vous ne pourriez vous séparer d’une erreur préjudi
 
 La quality of hire se mesure en récoltant et croisant des informations auprès de différents parties prenantes, sur différents facteurs à intervalles réguliers pendant toute la période d’essai du nouveau collaborateur :
 
-• Au niveau du manager, la quality of hire peut recouvrir : 
+• Au niveau du manager, la quality of hire peut recouvrir :
 
 \- La mesure de la performance
 
@@ -84,10 +84,10 @@ Identifier 3 axes d’améliorations principaux du/de la candidat.e
 
 \- La mesure de l’engagement
 
-Comparer l’adéquation entre la personnalité du/de la nouveau/nouvelle candidat.e et le culture fit par exemple. 
+Comparer l’adéquation entre la personnalité du/de la nouveau/nouvelle candidat.e et le culture fit par exemple.
 
-• Au niveau de l’équipe : 
+• Au niveau de l’équipe :
 
-Identifier les top / bad performers par personne en charge du recrutement dans le but de les former et les impliquer sur la qualité des recrutements qu’ils sont amenés à réaliser.
+Identifier les top / bad performers par personne en charge du recrutement dans le but de les former et les impliquer sur la qualité des recrutements qu’elles sont amenées à réaliser.
 
 • L’avis du/de la nouveau/nouvelle collaborateur.ice est également important à recueillir pour s’assurer notamment de l’adéquation du poste et de l'environnement de travail avec les promesses faites pendant l’entretien.
