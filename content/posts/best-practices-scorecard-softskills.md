@@ -6,7 +6,7 @@ meta:
   excerpt: '"L''onboarding" de ces deux notions représente un avantage concurrentiel
     de premier ordre.'
   date: 03/03/21
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-7.png"
+image: "/uploads/linkedin-25.png"
 title: 'Bonnes pratiques : Scorecard & Soft skills'
 categories:
 - Bonnes Pratiques

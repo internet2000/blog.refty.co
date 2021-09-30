@@ -6,7 +6,7 @@ meta:
   date: 24/06/21
   excerpt: Il est parfois sous-évalué voire négligé, cependant certains outils mettent
     le potentiel du candidat sur le devant de la scène
-image: "/uploads/format-blog-21.png"
+image: "/uploads/linkedin-28.png"
 title: 5 outils pour mesurer le potentiel du candidat
 categories:
 - Bonnes Pratiques
