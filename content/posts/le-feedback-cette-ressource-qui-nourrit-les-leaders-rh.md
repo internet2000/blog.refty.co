@@ -5,7 +5,7 @@ meta:
   time: 6mn
   date: 22/06/21
   excerpt: Il foisonne dans le BtoC...
-image: "/uploads/linkedin-12.png"
+image: "/uploads/linkedin-35.png"
 title: Le feedback, cette ressource qui nourrit les leaders RH
 categories:
 - Bonnes Pratiques
