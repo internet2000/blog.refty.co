@@ -1,53 +1,56 @@
 ---
 label: article
+hide_body: false
+display_field: permalink
 fields:
-  - type: field_group
-    name: meta
-    label: Meta données
-    fields:
-      - type: text
-        name: author
-        label: Auteur
-        default: ''
-      - type: text
-        name: time
-        label: Temps de lecture
-        default: ''
-      - type: text
-        name: date
-        label: Date de publication
-        default: ''
-      - type: text
-        name: excerpt
-        label: Description (SEO + Cards)
-        default: ''
-      - type: file
-        name: thumbnail
-        label: image pour partage Réseaux Sociaux
-        default: ''
-  - type: file
-    name: image
-    label: Image
+- type: field_group
+  name: meta
+  label: Meta données
+  fields:
+  - type: text
+    name: author
+    label: Auteur
     default: ''
   - type: text
-    name: title
-    label: Titre
+    name: time
+    label: Temps de lecture
     default: ''
-  - type: list
-    name: categories
-    label: Tags
+  - type: text
+    name: date
+    label: Date de publication
     default: ''
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: article
-    config:
-      required: true
-display_field: permalink
-hide_body: false
+  - type: text
+    name: excerpt
+    label: Description (SEO + Cards)
+    default: ''
+  - type: file
+    name: thumbnail
+    label: image pour partage Réseaux Sociaux
+    default: ''
+- type: file
+  name: image
+  label: Image
+  default: ''
+- type: text
+  name: title
+  label: Titre
+  default: ''
+- type: list
+  name: categories
+  label: Tags
+  default: ''
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: article
+  config:
+    required: true
+pages:
+- content/posts/la-marque-employeur-etes-vous-banksy-ou-son-faussaire.md
+- content/posts/les-benefices-de-refty-selon-nos-clients.md

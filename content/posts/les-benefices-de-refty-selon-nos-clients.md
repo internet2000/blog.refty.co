@@ -1,16 +1,17 @@
 ---
-title: Les bénéfices de Refty selon nos clients
-categories:
-- Bonnes Pratiques
-image: "/uploads/untitled-design-8.png"
 layout: article
-permalink: "/benefices-refty-selon-nos-clients/"
 meta:
   author: Barthélémy
-  time: 4mn
-  excerpt: Face aux pain points inhérents au processus recrutement, quelles solutions
-    nous vous apportons ?
-  date: 07/04/21
+  time: 4 min
+  date: 27/09/21
+  excerpt: 'Face au pain point inhérents au processus de recrutement, quelles solutions
+    nous vous apportons ? '
+  thumbnail: ''
+image: "/uploads/untitled-design-8.png"
+title: 'Les bénéfices de Refty selon nos clients '
+categories:
+- Bonnes Pratiques
+permalink: "/benefices-refty-selon-nos-clients/"
 
 ---
 ## **Normaliser / structurer en simplifiant une étape du process de recrutement**
@@ -77,7 +78,7 @@ Ces rapports permettent d'identifier les comportements et les caractéristiques 
 
 • les styles de management dans lesquels ils s'épanouiront,
 
-• les type de projets dans lesquels ils surperformeront,
+• les type de projets dans lesquels ils surperformeront
 
 • les faiblesses avec lesquelles les futurs managers devront composer
 

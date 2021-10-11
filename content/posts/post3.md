@@ -3,7 +3,7 @@ layout: article
 permalink: "/webinaire-employabilite-soft-skills/"
 author: Alex
 time: 3 min
-image: "/uploads/webinar-retranscription-prestashop-comment-transformer-la-periode-d-essai-a-tous-les-couts-6.png"
+image: "/uploads/linkedin-27.png"
 title: 'Webinaire : "Booster son employabilité grâce aux soft skills"'
 categories:
 - Bonnes Pratiques
