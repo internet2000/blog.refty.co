@@ -6,7 +6,7 @@ meta:
   date: 27/08/21
   excerpt: " Pourquoi vous devriez reconsidérer votre opinion sur la prise de référence"
 image: "/uploads/format-blog-33.png"
-title: 'La prise de référence est-elle pratiquée aujourd’hui ? A quoi sert-elle ? '
+title: 'Les bonnes pratiques de la prise de références de +50 entreprises '
 categories:
 - Bonnes Pratiques
 permalink: "/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-a-quoi-ça-sert/"
