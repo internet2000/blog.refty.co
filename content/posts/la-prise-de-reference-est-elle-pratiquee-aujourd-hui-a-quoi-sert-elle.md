@@ -5,6 +5,7 @@ meta:
   time: 5mn
   date: 27/08/21
   excerpt: " Pourquoi vous devriez reconsidérer votre opinion sur la prise de référence"
+  thumbnail: "/uploads/screenshot-at-oct-13-15-51-14.png"
 image: "/uploads/format-blog-33.png"
 title: 'Les bonnes pratiques de la prise de références de +50 entreprises '
 categories:
