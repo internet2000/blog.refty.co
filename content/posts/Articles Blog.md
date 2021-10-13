@@ -5,6 +5,7 @@ meta:
   time: 9mn
   date: '09/07/21'
   excerpt: Dans la guerre des talents, elle est en première ligne
+  thumbnail: "/uploads/shippeo-backmarket.png"
 image: "/uploads/tribune-biais-cognitifs-refty-parlonsrh-7.png"
 title: Quelle est la "journée type" d'un.e Head of Talent Acquisition ?
 categories:
