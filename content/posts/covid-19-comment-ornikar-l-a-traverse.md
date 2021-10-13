@@ -5,6 +5,7 @@ meta:
   time: 5mn
   date: 21/07/21
   excerpt: Elle a collecté  près de 160 millions d'euros depuis sa création en 2016
+  thumbnail: "/uploads/screenshot-at-oct-13-15-54-26.png"
 image: "/uploads/format-blog-16.png"
 title: 'De l’entretien structuré au process structuré : Le cas Spendesk'
 categories:

@@ -6,7 +6,7 @@ meta:
   date: 27/09/21
   excerpt: 'Face au pain point inhérents au processus de recrutement, quelles solutions
     nous vous apportons ? '
-  thumbnail: ''
+  thumbnail: "/uploads/screenshot-at-oct-13-15-52-57.png"
 image: "/uploads/untitled-design-8.png"
 title: 'Les bénéfices de Refty selon nos clients '
 categories:

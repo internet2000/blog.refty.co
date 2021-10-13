@@ -6,6 +6,7 @@ meta:
   date: 29/06/21
   excerpt: Le "leader français du matériel pour cyclistes vendu sur Internet" a été
     racheté par Decathlon
+  thumbnail: "/uploads/screenshot-at-oct-13-15-55-12.png"
 image: "/uploads/format-blog-20.png"
 title: Comment conjuguer gain d’efficacité et amélioration de l’expérience candidat
   grâce à Refty

@@ -6,6 +6,7 @@ meta:
   date: 13/03/21
   excerpt: 'Cette scale-up française est présente dans 190 pays et a réalisé plus
     de 20 millions d''euros de chiffre d''affaires en 2018 '
+  thumbnail: "/uploads/screenshot-at-oct-13-15-52-07.png"
 image: "/uploads/format-blog-13.png"
 title: Comment PrestaShop a structuré son process de recrutement via Refty
 categories:
