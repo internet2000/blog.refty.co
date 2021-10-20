@@ -5,8 +5,7 @@ meta:
   time: 5mn
   date: 21/09/21
   excerpt: Quellles sont les erreurs à éviter dans le cadre de la marque employeur
-    ? Elément de réponse avec Cécile Pichon intervenante experte au sein du lab RH
-    de Welcome to the Jungle
+    ?
   thumbnail: ''
 image: "/uploads/fb-ad-78.png"
 title: 'La marque employeur : Etes-vous Banksy ou son faussaire ?'
