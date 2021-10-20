@@ -1,10 +1,10 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
-  excerpt: Ceci est un tes
+  author: Barth
+  time: '15min '
+  date: 23/10
+  excerpt: Ceci est un test
   thumbnail: ''
 image: ''
 title: Test
