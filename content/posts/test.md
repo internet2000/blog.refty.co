@@ -1,10 +1,10 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
-  excerpt: ''
+  author: Barth
+  time: '15min '
+  date: 23/10
+  excerpt: Ceci est un test
   thumbnail: ''
 image: ''
 title: Test
@@ -15,3 +15,7 @@ permalink: "/test/"
 Test
 
 J'aimerais connaitre comment fonctionne ces tests
+
+xioulio
+
+C'est toujours un plaisir d'en savoir plus sur ces sujets ! 
