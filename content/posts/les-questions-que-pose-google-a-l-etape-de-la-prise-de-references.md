@@ -1,10 +1,10 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
-  excerpt: ''
+  author: Barthelemy
+  time: 1 min
+  date: 20 octobre 2021
+  excerpt: 'Les 11 questions que posent Google lors de la prise de références '
   thumbnail: ''
 image: "/uploads/google.jpeg"
 title: Les 11 questions que pose Google à l'étape de la prise de références
