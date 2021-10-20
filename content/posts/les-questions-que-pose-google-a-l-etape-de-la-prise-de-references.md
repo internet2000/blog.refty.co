@@ -10,7 +10,7 @@ image: "/uploads/google.jpeg"
 title: Les 11 questions que pose Google à l'étape de la prise de références
 categories:
 - Bonnes pratiques
-permalink: questions_google_prisesderef
+permalink: "/questions_google_prisesderef/"
 
 ---
 Prise de références
