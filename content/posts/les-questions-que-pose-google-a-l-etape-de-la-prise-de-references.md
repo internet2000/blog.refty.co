@@ -17,9 +17,9 @@ Prise de références
 
 **11 questions que pose Google avant de recruter tous ses candidats.**
 
-Lors des dernières étapes du processus de recrutement, Google rend systématique pour tous les candidats, la prise de références. 
+Lors des dernières étapes du processus de recrutement, Google rend systématique pour tous les candidats : la prise de références. 
 
-Nous vous partageons ici les 11 questions posées aux anciens managers :
+Nous vous partageons ici les 11 questions posées aux anciens managers du candidat :
 
 <!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
