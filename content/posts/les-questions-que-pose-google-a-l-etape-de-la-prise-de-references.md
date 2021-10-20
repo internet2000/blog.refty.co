@@ -1,15 +1,15 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
-  excerpt: ''
+  author: Barthelemy
+  time: 1 min
+  date: 20 octobre 2021
+  excerpt: 'Les 11 questions que posent Google lors de la prise de références '
   thumbnail: ''
 image: "/uploads/google.jpeg"
 title: Les 11 questions que pose Google à l'étape de la prise de références
 categories:
-- ''
+- Bonnes pratiques
 permalink: questions_google_prisesderef
 
 ---
@@ -21,14 +21,14 @@ Lors des dernières étapes du processus de recrutement, Google rend systématiq
 
 Nous vous partageons ici les 11 questions posées aux anciens managers du candidat :
 
-<!--[if lte IE 8]>
+<!--\[if lte IE 8\]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
+<!\[endif\]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "9017898",
-	formId: "ebc65587-7023-4592-84b2-88178d6b6364"
+hbspt.forms.create({
+region: "na1",
+portalId: "9017898",
+formId: "ebc65587-7023-4592-84b2-88178d6b6364"
 });
 </script>
