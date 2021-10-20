@@ -4,7 +4,7 @@ meta:
   author: ''
   time: ''
   date: ''
-  excerpt: ''
+  excerpt: Ceci est un tes
   thumbnail: ''
 image: ''
 title: Test
