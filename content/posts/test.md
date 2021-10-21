@@ -6,7 +6,7 @@ meta:
   date: 23/10
   excerpt: Ceci est un test
   thumbnail: ''
-image: ''
+image: "/uploads/screenshot-at-oct-13-15-52-57.png"
 title: Test
 categories: []
 permalink: "/test/"
