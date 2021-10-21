@@ -8,7 +8,9 @@ meta:
   thumbnail: ''
 image: "/uploads/screenshot-at-oct-13-15-52-57.png"
 title: Test
-categories: []
+categories:
+- Ressources
+- Tendances
 permalink: "/test/"
 
 ---
