@@ -13,9 +13,8 @@ categories:
 permalink: "/questions-google-prisesderef/"
 
 ---
-# Prise de références
 
-## **11 questions que pose Google avant de recruter tous ses candidats.**
+## **11 questions que pose Google avant de recruter ses candidats.**
 
 Lors des dernières étapes du processus de recrutement, Google rend systématique pour tous les candidats : la prise de références.
 
