@@ -5,8 +5,8 @@ meta:
   time: 1 min
   date: 20/10/2021
   excerpt: 'Les 11 questions que posent Google lors de la prise de références '
-  thumbnail: "/uploads/screenshot-2021-10-20-at-16-51-56.png"
-image: "/uploads/google.jpeg"
+  thumbnail: "/uploads/google_logo_-2010-2013-svg.png"
+image: "/uploads/google_logo_-2010-2013-svg.png"
 title: Les 11 questions que pose Google à l'étape de la prise de références
 categories:
 - Bonnes Pratiques
