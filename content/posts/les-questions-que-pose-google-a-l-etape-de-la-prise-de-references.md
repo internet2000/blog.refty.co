@@ -2,8 +2,8 @@
 layout: article
 meta:
   author: Barthelemy
-  time: 1 min
-  date: 20/10/2021
+  time: 2 min
+  date: 26/10/2021
   excerpt: 'Les 11 questions que posent Google lors de la prise de références '
   thumbnail: "/uploads/google_logo_-2010-2013-svg.png"
 image: "/uploads/google_logo_-2010-2013-svg.png"
