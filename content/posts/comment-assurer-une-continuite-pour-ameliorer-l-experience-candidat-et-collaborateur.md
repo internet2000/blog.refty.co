@@ -8,8 +8,7 @@ meta:
     et recommandations actionnables
   thumbnail: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
 image: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
-title: Comment assurer une continuité pour améliorer l’expérience candidat et collaborateur
-  ?
+title: Comment améliorer l’expérience candidat et collaborateur ?
 categories:
 - Ressources
 permalink: "/amelioration-exp-candidat/"
