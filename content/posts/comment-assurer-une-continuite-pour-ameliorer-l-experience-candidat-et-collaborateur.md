@@ -5,7 +5,7 @@ meta:
   time: 2min
   date: 16/11/2021
   excerpt: Analyses, cas clients concrets et recommandations actionnables
-  thumbnail: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
+  thumbnail: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf-3.png"
 image: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf-2.png"
 title: Comment améliorer l’expérience candidat et collaborateur ?
 categories:
