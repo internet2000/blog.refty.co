@@ -4,8 +4,7 @@ meta:
   author: Barthelemy
   time: 2min
   date: 16/11/2021
-  excerpt: Comment améliorer l’expérience candidat - analyses, cas clients concrets
-    et recommandations actionnables
+  excerpt: Analyses, cas clients concrets et recommandations actionnables
   thumbnail: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
 image: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf-2.png"
 title: Comment améliorer l’expérience candidat et collaborateur ?
