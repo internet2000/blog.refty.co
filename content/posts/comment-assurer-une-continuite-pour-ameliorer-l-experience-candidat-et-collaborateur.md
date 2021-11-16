@@ -7,7 +7,7 @@ meta:
   excerpt: Comment améliorer l’expérience candidat - analyses, cas clients concrets
     et recommandations actionnables
   thumbnail: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
-image: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf.png"
+image: "/uploads/09112021_webinar-experience-candidat-et-collaborateur_refty-x-supermood-pdf-1.png"
 title: Comment améliorer l’expérience candidat et collaborateur ?
 categories:
 - Ressources
