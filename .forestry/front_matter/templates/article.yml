@@ -52,6 +52,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/comment-assurer-une-continuite-pour-ameliorer-l-experience-candidat-et-collaborateur.md
 - content/posts/la-marque-employeur-etes-vous-banksy-ou-son-faussaire.md
 - content/posts/les-benefices-de-refty-selon-nos-clients.md
 - content/posts/les-questions-que-pose-google-a-l-etape-de-la-prise-de-references.md
