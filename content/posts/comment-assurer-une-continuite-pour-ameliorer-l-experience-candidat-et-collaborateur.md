@@ -27,7 +27,7 @@ Comme l'explique précisément [culture RH](https://culture-rh.com/) :
 
 Cela revient à sa première interaction avec l’entreprise jusqu’à son recrutement, voire son intégration."
 
-## **Comment l'expérience candidat se matérialise concrètement ?**
+## **🐙  Comment l'expérience candidat se matérialise concrètement ?**
 
 * tenir un discours clair et transparent sur l’entreprise, ses valeurs, les missions du poste, afin que le candidat sache précisément se projeter dans sa future structure.
 * une fluidité dans les échanges entre les différents interlocuteurs : qu'il y ait une continuité dans le discours donné. Il n'y a rien de pire pour un candidat d'entendre à un entretien l'inverse de ce qui lui a été dit à l'entretien d'avant. 
@@ -37,7 +37,7 @@ Miser sur l'expérience candidat comme un levier peut donc être une stratégie 
 
 Pour cela encore il est nécessaire d'avoir correctement cerné les évolutions des attentes des candidats. Nous vous avons détaillé quelles étaient les attentes des candidats à a la date de parution de cet article.
 
-## **Nouvelles attentes des candidats sur leurs attentes pour être recruté**
+## **🎁  Nouvelles attentes des candidats sur leurs attentes pour être recruté**
 
 * Télétravail / Flexibilité de travailler de chez soi,
 * Adéquation entre les valeurs de l’entreprise et celles du candidat,
@@ -50,7 +50,7 @@ Identifier les éléments recherchés par le candidat et y répondre ne suffit p
 
 Il faut également se pencher sur les bonnes pratiques à appliquer pour que lors du process vous puissiez mettre toutes les chances de votre côté pour recruter le talent que vous rechercher.
 
-## **Quelle méthodologie adopter pour rendre une expérience candidat réussie ?**
+## **🔥  Quelle méthodologie adopter pour rendre une expérience candidat réussie ?**
 
 👻 Transparence radicale : Attentes sur le poste, missions, process
 
@@ -64,7 +64,7 @@ Pré-onboarding : période particulièrement difficile, de maintenir le lien ave
 
 🧬 Data-driven : Mesurer les indicateurs à chaque étape du process pour les améliorer
 
-## Replay du Webinar : Comment garantir une expérience candidat & collaborateur positive ?
+## 🎬  Replay du Webinar : Comment garantir une expérience candidat & collaborateur positive ?
 
 Dans un contexte où le rapport au travail et à la mobilité professionnelle (1 salarié sur 2 a intensifié ses recherches depuis la pandémie par envie d’un nouveau projet professionnel.) a été profondément bouleversé, les entreprises se doivent également de fidéliser grâce à une expérience collaborateur de qualité et sans cesse questionnée.
 
@@ -72,4 +72,4 @@ Découvrez comment améliorer votre expérience candidat au collaborateur dans n
 
 On vous y partage nos dernières analyses, des cas clients concrets et recommandations (checklist de l'écoute analytique, kit de sondages contextuels pour optimiser votre expérience collaborateur etc.) pour passer rapidement à l’action.
 
-[https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s](https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s "https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s")
+👉  [https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s](https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s "https://www.youtube.com/watch?v=Kbpao1yf_Xc&t=6s")
