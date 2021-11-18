@@ -52,15 +52,15 @@ Il faut également se pencher sur les bonnes pratiques à appliquer pour que lor
 
 ## **🔥  Quelle méthodologie adopter pour rendre une expérience candidat réussie ?**
 
-👻 Transparence radicale : Attentes sur le poste, missions, process
+👻  Transparence radicale : Attentes sur le poste, missions, process
 
-🐨 Considération …et approche personnalisée auprès du candidat, même en cas de refus.
+🐨  Considération …et approche personnalisée auprès du candidat, même en cas de refus.
 
-🏌🏽 Process court et rythmé : 5 étapes en 20 jours en moyenne.
+🏌🏽  Process court et rythmé : 5 étapes en 20 jours en moyenne.
 
-Pré-onboarding : période particulièrement difficile, de maintenir le lien avec le nouveau collaborateur et l’incorporant peu à peu sein de sa future équipe (envoi du matériel, de la documentation, de
+👣  Pré-onboarding : période particulièrement difficile, de maintenir le lien avec le nouveau collaborateur et l’incorporant peu à peu sein de sa future équipe (envoi du matériel, de la documentation, de
 
-⛳️ Intégration réussie : Visibilité et accompagnement par un membre de l’équipe
+⛳️  Intégration réussie : Visibilité et accompagnement par un membre de l’équipe
 
 🧬 Data-driven : Mesurer les indicateurs à chaque étape du process pour les améliorer
 
