@@ -13,8 +13,6 @@ categories:
 permalink: "/amelioration-exp-candidat/"
 
 ---
-# Comment améliorer l’expérience candidat & collaborateur ?
-
 84% des candidats déclarent avoir déjà vécu une mauvaise expérience lors d’un processus de recrutement, et 60% d’entre eux se disent alors prêts à boycotter l’entreprise en cas de mauvaise expérience lors de leur processus de recrutement.
 
 La guerre des talents est un enjeu majeur pour toutes les entreprises. Dans ce cadre l'expérience candidat est un levier sur lequel elles doivent capitaliser pour se rendre plus attractives notamment auprès des profils les plus recherchés.
@@ -46,9 +44,7 @@ Pour cela encore il est nécessaire d'avoir correctement cerné les évolutions 
 * Sens / Impact du poste sur la mission de l’entreprise,
 * Avantages en nature (tickets restaurant, cours de sport)
 
-Si vous souhaitez en savoir plus sur comment les RH perçoivent l'expérience candidat, vous pouvez jeter un oeil à notre infographie : 
-
-[https://blog.refty.co/infographie_refty_experience_candiat_rh/](https://blog.refty.co/infographie_refty_experience_candiat_rh/ "https://blog.refty.co/infographie_refty_experience_candiat_rh/")
+Si vous souhaitez en savoir plus sur comment les RH perçoivent l'expérience candidat, vous pouvez jeter un oeil à notre [infographie sur le sujet.](https://blog.refty.co/infographie_refty_experience_candiat_rh/)
 
 Identifier les éléments recherchés par le candidat et y répondre ne suffit pas. 
 
