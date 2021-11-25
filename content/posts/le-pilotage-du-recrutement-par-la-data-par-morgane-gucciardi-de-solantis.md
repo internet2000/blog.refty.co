@@ -14,6 +14,8 @@ categories:
 permalink: "/recrutement-data/"
 
 ---
+## Qui êtes-vous Morgane ?
+
 Je suis directrice de projet chez Solantis depuis 3 ans. J’interviens sur l’offre RPO (Recruitment Process Outsourcing) et j’accompagne mes clients et les recruteurs sur le bon déroulement des projets RPO.
 
 Je suis exclusivement sur la partie tech, c'est-à dire tout ce qui est lié aux startups, scale ups, à l’écosystème tech en général.
@@ -72,7 +74,8 @@ C’est une partie de ce qu’on appelle le **talent nurturing**. Il est utile d
 
 Cela implique d'identifier et de tracker les éléments clés de la personnalité du candidat pour les croiser avec avec les éléments de chaque culture d’entreprise afin de s’assurer de la bonne adéquation.
 
-**4) En quoi ces données vont être utiles pour piloter le recrutement ?**
+4. **En quoi ces données vont être utiles pour piloter le recrutement ?**
+
 
 1. Piloter la stratégie de sourcing
 
@@ -92,9 +95,7 @@ Une fois qu’on a **définit** ce dont on a besoin de tracker (ce qui va être 
 Quelques ratios que nous calculons chez Solantis :
 
 * Time to hire : délai moyen entre le candidat sourcé et l’acceptation de la proposition d’embauche. C’est un indicateur qui a un impact sur beaucoup de choses : la qualité du processus, l’expérience candidat aussi et le taux de closing.
-
 * Time to interview : délai entre le moment où le candidat est présenté et où il a un premier entretien physique.
-
 * Délais des postes ouverts : depuis combien de temps le poste est en cours.
 * Délai de proposition : délai entre le retour positif opérationnel et l’émission de la proposition au candidat.
 
@@ -122,7 +123,7 @@ Pour récolter ces informations, nous recommandons la réalisation d’enquêtes
 
 Nous mettons habituellement en place un questionnaire de satisfaction via Survey Monkey (logiciel de sondage en ligne) celui-ci peut ainsi être décliné à toutes les étapes du processus de recrutement.
 
-**5) Avez-vous des chiffres précis sur l’utilisation de la data dans le recrutement ?**
+5. **Avez-vous des chiffres précis sur l’utilisation de la data dans le recrutement ?**
 
 Recruit now :
 
@@ -139,7 +140,7 @@ Quelle utilisation de la data par les recruteurs:
 * 34% Pour orienter les opérationnels
 * 6% Pour orienter les candidats
 
-**6)** **Est ce que tu aurais un conseil à donner à un équipe de recrutement qui souhaitent inclure la data dans leur méthodologie, dans leur process ?**
+6. **Est ce que tu aurais un conseil à donner à un équipe de recrutement qui souhaitent inclure la data dans leur méthodologie, dans leur process ?**
 
 La question à se poser absolument c’est : “qu’est ce que j’ai envie de tracker et pourquoi je le track ?”.
 
