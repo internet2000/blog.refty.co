@@ -139,7 +139,7 @@ Quelle utilisation de la data par les recruteurs:
 * 34% Pour orienter les opérationnels
 * 6% Pour orienter les candidats
 
-6. **Est ce que tu aurais un conseil à donner à un équipe de recrutement qui souhaitent inclure la data dans leur méthodologie, dans leur process ?**
+6. **Est ce que tu aurais un conseil à donner à un équipe de recrutement qui souhaitent inclure la data dans leur dans leur process ?**
 
 La question à se poser absolument c’est : “qu’est ce que j’ai envie de tracker et pourquoi je le track ?”.
 
