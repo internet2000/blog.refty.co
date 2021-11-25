@@ -152,7 +152,7 @@ Si par exemple, on se rend compte que tel taux n'est pas forcément très bon, i
 
 En bref, être dans une démarche d’amélioration continue.
 
-Dans un premier temps commencez à partir des données ce que vous avez à disposition ou facilement récupérable. Vous ferez des intéreations au fur et à mesure avec les données en y ajoutant quelques kpi complémentaires.
+Dans un premier temps commencez à partir des données ce que vous avez à disposition ou facilement récupérable. Vous ferez des itérations au fur et à mesure avec les données en y ajoutant quelques kpi complémentaires.
 
 Ne vous fixez pas d’objectifs trop ambitieux au démarrage d’autant que cela prendra plusieurs semaines avant d’avoir des !
 
