@@ -4,10 +4,10 @@ meta:
   author: Barthélémy
   time: '6 min '
   date: 25/11/2021
-  excerpt: Les tips et process pour inclure la data dans ses recrutements.
+  excerpt: Les tips et process de Morgane Gucciardi, Project Director RPO chez Solantis
   thumbnail: "/uploads/matrix-reload-neo.jpeg"
 image: "/uploads/matrix-reload-neo-1.jpeg"
-title: Le pilotage du recrutement par la data  - par Morgane Gucciardi de Solantis
+title: 'Le pilotage du recrutement par la data '
 categories:
 - Tendances
 - ''
