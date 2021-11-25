@@ -14,7 +14,7 @@ categories:
 permalink: "/recrutement-data/"
 
 ---
-## Qui êtes-vous Morgane ?
+Qui êtes-vous Morgane ?
 
 Je suis directrice de projet chez Solantis depuis 3 ans. J’interviens sur l’offre RPO (Recruitment Process Outsourcing) et j’accompagne mes clients et les recruteurs sur le bon déroulement des projets RPO.
 
