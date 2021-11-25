@@ -32,9 +32,9 @@ Chez Solantis, nous sommes “data driven”, ce qui veut dire que nous traçons
 
 Ce pilotage par la donnée nous permet d'activer des **leviers de performance** et de prendre des décisions stratégiques ancrées dans le réel car étayées par des indicateurs clés de performance, qui sont par extension des éléments factuels.
 
-On constate que chez beaucoup de nos clients, startup comme scale up, cette culture du “data driven” n’est pas encore établie à chaque étape du recrutement. De plus, il est nécessaire d’avoir mis en place une organisation et d’être structuré avant de s’intéresser à la data.
-
-La data nous permet de nous inscrire dans une logique de performance et d’amélioration continue, ainsi que de tests & learn.
+> On constate que chez beaucoup de nos clients, startup comme scale up, cette culture du “data driven” n’est pas encore établie à chaque étape du recrutement. De plus, il est nécessaire d’avoir mis en place une organisation et d’être structuré avant de s’intéresser à la data.
+>
+> La data nous permet de nous inscrire dans une logique de performance et d’amélioration continue, ainsi que de tests & learn.
 
 2. **Comment la data permet-elle d’optimiser les recrutements ?**
 
@@ -46,7 +46,7 @@ Cela nous a permis d’identifier les points bloquants, en l’occurrence un tau
 
 Par conséquent, tout le travail de toutes les personnes (recruteur, les managers...) qui intervenaient sur la phase amont du process était faiblement récompensé car seulement 5% des candidats passaient l’étape du test technique.
 
-La data nous a permis de voir que le taux de transformation à cette étape-là n’était pas satisfaisant. En identifiant l’origine de ce **point de friction** nous avons pu intervenir plus tôt dans le processus et ainsi permis de faire gagner du temps à tout le monde que ce soit pour le recruteur, le manager ou le candidat…
+> La data nous a permis de voir que le taux de transformation à cette étape-là n’était pas satisfaisant. En identifiant l’origine de ce **point de friction** nous avons pu intervenir plus tôt dans le processus et ainsi permis de faire gagner du temps à tout le monde que ce soit pour le recruteur, le manager ou le candidat…
 
 3. **Quelles sont selon toi le top 3 des données relatives aux candidats qui vont être utiles pour un recruteur ?**
 
@@ -85,7 +85,7 @@ Nous passons en revue certains taux de transformation tout au long du processus 
 * Taux de proposition : Nombre de propositions / Cvs envoyés.
 * Taux d’attractivité : Nombre de recrutements / Nombre de propositions.
 
-Cette analyse des données recrutement est la seule permettant de piloter réellement les stratégies de sourcing et de les adapter si besoin. Ces KPI’s permettent de définir la productivité de l’équipe projet et l’avancement des missions sur chaque périmètre.
+> Cette analyse des données recrutement est la seule permettant de piloter réellement les stratégies de sourcing et de les adapter si besoin. Ces KPI’s permettent de définir la productivité de l’équipe projet et l’avancement des missions sur chaque périmètre.
 
 ### b) Analyser les délais du processus de recrutement.
 
@@ -98,13 +98,13 @@ Quelques ratios que nous calculons chez Solantis :
 * Délais des postes ouverts : depuis combien de temps le poste est en cours.
 * Délai de proposition : délai entre le retour positif opérationnel et l’émission de la proposition au candidat.
 
-L’analyse de ces indicateurs doit permettre de **comparer** les périodes entre elles mais aussi de pouvoir se comparer à un **écosystème.**
-
-Chez Solantis, on voit des contextes de clients très différents.
-
-Nous avons une idée assez claire de comment fonctionne le marché pour un client donné, comment va se situer son “time to hire” par rapport au reste de son marché.
-
-Si jamais nous identifions un time to hire trop long, nous mettons immédiatement en place des actions pour y remédier.
+> L’analyse de ces indicateurs doit permettre de **comparer** les périodes entre elles mais aussi de pouvoir se comparer à un **écosystème.**
+>
+> Chez Solantis, on voit des contextes de clients très différents.
+>
+> Nous avons une idée assez claire de comment fonctionne le marché pour un client donné, comment va se situer son “time to hire” par rapport au reste de son marché.
+>
+> Si jamais nous identifions un time to hire trop long, nous mettons immédiatement en place des actions pour y remédier.
 
 ### c ) Indice de satisfaction des nouveaux collaborateurs
 
@@ -118,17 +118,17 @@ Pour ce faire, nous basons nos actions sur la recherche d’une expérience cand
 * Une définition claire des étapes du processus
 * Demander du feedback en continu
 
-Pour récolter ces informations, nous recommandons la réalisation d’enquêtes de satisfaction pour tous les candidats ayant intégré un process chez nos clients.
-
-Nous mettons habituellement en place un questionnaire de satisfaction via Survey Monkey (logiciel de sondage en ligne) celui-ci peut ainsi être décliné à toutes les étapes du processus de recrutement.
+> Pour récolter ces informations, nous recommandons la réalisation d’enquêtes de satisfaction pour tous les candidats ayant intégré un process chez nos clients.
+>
+> Nous mettons habituellement en place un questionnaire de satisfaction via Survey Monkey (logiciel de sondage en ligne) celui-ci peut ainsi être décliné à toutes les étapes du processus de recrutement.
 
 5. **Avez-vous des chiffres précis sur l’utilisation de la data dans le recrutement ?**
 
-Recruit now :
-
-Nous avons mené une étude auprès de 644 personnes (recruteurs, managers opérationnels, candidats et RH) autour de 3 grands thèmes: l’humain avec l’importance de l’expérience candidat, la data et la technologie, la marque employeur.
-
-On y découvre que data est largement utilisée à 84% par les recruteurs dans le cadre de leur activité. Elle l'est principalement à 63%, pour le pilotage de leur activité et l'optimisation du processus. Cependant, elle est encore très peu utilisée à des fins d'aide à la prise de décision, tant pour les candidats que pour les managers. Cette voie d'usage de la donnée reste encore beaucoup à explorer pour en tirer tout le potentiel.
+> Recruit now :
+>
+> Nous avons mené une étude auprès de 644 personnes (recruteurs, managers opérationnels, candidats et RH) autour de 3 grands thèmes: l’humain avec l’importance de l’expérience candidat, la data et la technologie, la marque employeur.
+>
+> On y découvre que data est largement utilisée à 84% par les recruteurs dans le cadre de leur activité. Elle l'est principalement à 63%, pour le pilotage de leur activité et l'optimisation du processus. Cependant, elle est encore très peu utilisée à des fins d'aide à la prise de décision, tant pour les candidats que pour les managers. Cette voie d'usage de la donnée reste encore beaucoup à explorer pour en tirer tout le potentiel.
 
 Quelle utilisation de la data par les recruteurs:
 
@@ -141,13 +141,13 @@ Quelle utilisation de la data par les recruteurs:
 
 6. **Est ce que tu aurais un conseil à donner à un équipe de recrutement qui souhaitent inclure la data dans leur dans leur process ?**
 
-La question à se poser absolument c’est : “qu’est ce que j’ai envie de tracker et pourquoi je le track ?”.
-
-Le fait d’inclure la data dans son process est très important mais il faut bien identifier si cela va répondre à mon besoin, je suis dans le bon timing pour le faire.
-
-Parce qu’avoir de la data c’est bien mais avoir le temps, l’envie de l’analyser, de l’exploiter...c’est mieux :)
-
-Si par exemple, on se rend compte que tel taux n'est pas forcément très bon, il faut être en capacité de faire quelque chose pour l’améliorer.
+> La question à se poser absolument c’est : “qu’est ce que j’ai envie de tracker et pourquoi je le track ?”.
+>
+> Le fait d’inclure la data dans son process est très important mais il faut bien identifier si cela va répondre à mon besoin, je suis dans le bon timing pour le faire.
+>
+> Parce qu’avoir de la data c’est bien mais avoir le temps, l’envie de l’analyser, de l’exploiter...c’est mieux :)
+>
+> Si par exemple, on se rend compte que tel taux n'est pas forcément très bon, il faut être en capacité de faire quelque chose pour l’améliorer.
 
 En bref, être dans une démarche d’amélioration continue.
 
