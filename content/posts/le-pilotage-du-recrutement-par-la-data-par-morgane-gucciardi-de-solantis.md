@@ -76,7 +76,7 @@ Cela implique d'identifier et de tracker les éléments clés de la personnalit�
 
 4. **En quoi ces données vont être utiles pour piloter le recrutement ?**
 
-   ### _a) Piloter la stratégie de sourcing_
+### _a) Piloter la stratégie de sourcing_
 
 Nous passons en revue certains taux de transformation tout au long du processus de recrutement.
 
