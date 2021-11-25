@@ -76,7 +76,7 @@ Cela implique d'identifier et de tracker les éléments clés de la personnalit�
 
 4. **En quoi ces données vont être utiles pour piloter le recrutement ?**
 
-   ### a) Piloter la stratégie de sourcing
+   ### _a) Piloter la stratégie de sourcing_
 
 Nous passons en revue certains taux de transformation tout au long du processus de recrutement.
 
@@ -87,7 +87,7 @@ Nous passons en revue certains taux de transformation tout au long du processus 
 
 > Cette analyse des données recrutement est la seule permettant de piloter réellement les stratégies de sourcing et de les adapter si besoin. Ces KPI’s permettent de définir la productivité de l’équipe projet et l’avancement des missions sur chaque périmètre.
 
-### b) Analyser les délais du processus de recrutement.
+### _b) Analyser les délais du processus de recrutement._
 
 Une fois qu’on a **définit** ce dont on a besoin de tracker (ce qui va être pertinent en fonction du contexte) il faut définir le support (ATS ou excel) pour être en capacité d’**analyser la data** en calculant par exemple des taux et des ratios.
 
@@ -106,7 +106,7 @@ Quelques ratios que nous calculons chez Solantis :
 >
 > Si jamais nous identifions un time to hire trop long, nous mettons immédiatement en place des actions pour y remédier.
 
-### c ) Indice de satisfaction des nouveaux collaborateurs
+### _c ) Indice de satisfaction des nouveaux collaborateurs_
 
 Mesurer la satisfaction du candidat lorsqu’il est recruté est à la fois une démarche d’amélioration continue pour le recrutement et les interviewers, ainsi qu’une façon de se démarquer sur un marché de postes pénuriques.
 
