@@ -1,11 +1,11 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
-  excerpt: ''
-  thumbnail: ''
+  author: Barthelemy
+  time: 1min
+  date: 26/11/2021
+  excerpt: Le classement de Station F des startups les plus prometteuses
+  thumbnail: "/uploads/screenshot-2021-11-26-at-11-00-03.png"
 image: "/uploads/screenshot-2021-11-26-at-11-00-03.png"
 title: Refty sélectionné par STATION F dans le Future 40
 categories:
