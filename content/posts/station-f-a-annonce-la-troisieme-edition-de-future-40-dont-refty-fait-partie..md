@@ -31,14 +31,10 @@ Chez Refty nous avons nous même procédé à une sélection de médias qui ont 
 
 👉 [https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/](https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/ "https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/")
 
-![](/uploads/presse-citron_logo.png)
+![](/uploads/sans-titre.png)
 
 👉 [https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/](https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/ "https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/")
 
-![](/uploads/societe-com.jpeg)
-
-👉[https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html](https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html "https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html")
-
-![](/uploads/stationf.png)
+[https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html](https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html "https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html")
 
 👉 [https://stationf.co/news/station-f-unveils-future-40-2021](https://stationf.co/news/station-f-unveils-future-40-2021 "https://stationf.co/news/station-f-unveils-future-40-2021")
