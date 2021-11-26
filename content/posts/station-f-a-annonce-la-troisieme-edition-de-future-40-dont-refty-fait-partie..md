@@ -7,7 +7,7 @@ meta:
   excerpt: ''
   thumbnail: ''
 image: "/uploads/screenshot-2021-11-26-at-11-00-03.png"
-title: 'STATION F a annoncé la troisième édition de Future 40 dont Refty fait partie.! '
+title: Refty sélectionné par STATION F dans le Future 40
 categories:
 - Média
 permalink: "/Refty-dans-le-future40/"
@@ -21,10 +21,20 @@ Pour rejoindre ce groupe, les entreprises ont été sélectionnées par l'équip
 
 Les trois principaux critères retenus ont été :
 
-* la traction,
+* la traction
 * croissance
-* et l'équipe.
+* et l'équipe
 
 Chez Refty nous avons nous même procédé à une sélection de médias qui ont relayé la nouvelle :
 
-[?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f](https://snippyly.com/?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f "?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f")
+![](/uploads/maddyness.png)
+
+👉 [https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/](https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/ "https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/")
+
+![](/uploads/presse-citron_logo.png)
+
+👉 [https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/](https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/ "https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/")
+
+![](/uploads/societe-com.jpeg)
+
+👉[https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html](https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html "https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html")
