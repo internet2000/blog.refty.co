@@ -26,3 +26,5 @@ Les trois principaux critères retenus ont été :
 * et l'équipe.
 
 Chez Refty nous avons nous même procédé à une sélection de médias qui ont relayé la nouvelle :
+
+[?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f](https://snippyly.com/?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f "?q=AMj226i6wumVqrh1JfFL&EDIT=ClGZ1BwsnnQH1Jo8OG0f")
