@@ -27,14 +27,18 @@ Les trois principaux critères retenus ont été :
 
 Chez Refty nous avons nous même procédé à une sélection de médias qui ont relayé la nouvelle :
 
-![](/uploads/maddyness.png)
+![](/uploads/sans-titre-3.png)
 
 👉 [https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/](https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/ "https://www.maddyness.com/2021/11/18/station-f-startups-prometteuses-future-40/")
 
-![](/uploads/sans-titre.png)
+![](/uploads/sans-titre-4.png)
 
 👉 [https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/](https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/ "https://www.presse-citron.net/en-2022-ces-40-startups-seront-les-plus-prometteuses-selon-station-f/")
 
+![](/uploads/sans-titre-5.png)
+
 [https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html](https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html "https://www.societe.com/actualites/station_f_revele_les_laureats_de_la_troisieme_edition_du_future_40-58316.html")
+
+![](/uploads/sans-titre-2.png)
 
 👉 [https://stationf.co/news/station-f-unveils-future-40-2021](https://stationf.co/news/station-f-unveils-future-40-2021 "https://stationf.co/news/station-f-unveils-future-40-2021")
