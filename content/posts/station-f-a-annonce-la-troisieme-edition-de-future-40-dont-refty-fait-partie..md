@@ -15,7 +15,7 @@ permalink: "/Refty-dans-le-future40/"
 ---
 Le future 40 qu’est ce que c’est ?
 
-C'est un groupe de 40 startups les plus prometteuses sélectionnées parmi les 1.000 hébergées à STATION F.
+C'est le groupe des 40 startups les plus prometteuses sélectionnées parmi les 1.000 hébergées à STATION F.
 
 Pour rejoindre ce groupe, les entreprises ont été choisies par l'équipe de STATION F en coopération avec tous les autres programmes, pour s'assurer que ces 40 startups sont “les étoiles montantes, celles qui seront les meilleures startups de demain !”
 
