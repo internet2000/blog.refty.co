@@ -8,16 +8,16 @@ meta:
     ses secrets pour un process de recrutement millimétré
   thumbnail: "/uploads/mario-sonic-at-the-olympic-games0_.jpeg"
 image: "/uploads/mario-sonic-at-the-olympic-games0_.jpeg"
-title: Parcours candidat chez Prestashop, ou comment recrutent ils si efficacement
+title: Parcours candidat chez Prestashop, ou comment recrutent-ils si efficacement
   ?
 categories:
 - Ressources
 permalink: "/parcours-candidat-chezPrestashop/"
 
 ---
-#### La personne candidate et entre dans l’ATS
+#### Etape préliminaire : la personne candidate et arrive dans l’ATS
 
-Il n'y a pas de différence de traitement entre la cooptation,  ou la candidature naturelle. Ainsi que pour les profils issus de la chasse : tous ces profils sont intégrés à notre ATS afin de garder une trace de toutes les candidats potentiels que nous avons contactés.
+Il n'y a pas de différence de traitement entre la cooptation,  ou la candidature naturelle ou issu de l'approche directe : ils sont tous intégrés à notre ATS afin de garder une trace de toutes les candidats potentiels que nous avons contactés.
 
 Cela nous permet également de constituer un vivier de talents que nous pouvons actionner plus tard.
 
@@ -29,14 +29,12 @@ Ils peuvent également archiver eux-mêmes les profils qui ne sont pas pertinent
 
 Dans ce dernier cas de figure, je leur demande de nous laisser la main sur les actions parce qu'il est important que chaque personne qui postule ait un retour de notre part même si elle n’a pas atteint la pré-qualification.
 
-#### Refus de candidature
+Refus de candidature  
+Même si cela reste générique, nous envoyons toujours un e-mail pour signifier que leur candidature n’a pas été retenue. Nous ne laissons jamais un candidat  sans nouvelle.
 
-  
-Même si cela reste générique, nous envoyons toujours un e-mail pour leur signifier que leur candidature n’a pas été retenue. Nous ne laissons jamais sans nouvelle un candidat.
+Dans cet e-mail de refus nous ne donnons pas de raisons, mais nous laissons la possibilité de répondre s'ils souhaitent accéder à des informations supplémentaires.
 
-Dans cet e-mail, nous ne donnons pas de raisons, nous laissons la possibilité de répondre pour accéder à des informations supplémentaires sur son refus de candidature.
-
-Dans le cas où nous décidons d’avancer avec le candidat, nous nous mettons d’accord sur un créneau : avec notre ATS, Lever, nous avons la fonctionnalité  Easy Book link, qui permet de paramétrer nos calendriers et le candidat choisit le créneau qui lui convient (comme Calendly).
+Dans le cas où nous décidons de débuter le process avec le candidat, nous nous mettons d’accord sur un créneau : avec notre ATS, Lever, nous avons la fonctionnalité  Easy Book link, qui permet de paramétrer nos calendriers et le candidat choisit le créneau qui lui convient (comme Calendly).
 
 Cela évite les allers-retours chronophage pour se caler un moment pour échanger et donc améliore notre time-to hire.
 
