@@ -158,7 +158,7 @@ Cette initiative est hyper appréciée des candidats.
 
 Avec RecruitersClub par exemple, si un candidat trouve un poste, il a la possibilité de nous prévenir, ce qui nous permet de savoir ce qu’il devient par la suite. Si le candidat accepte de s’inscrire sur l’une des ces deux plateformes, ils vont noter leur expérience de recrutement chez nous et cela permet d’avoir du feedback. 
 
-### 4eme étape étape : l'entretien RH
+### 4ème étape : l'entretien RH
 
 C’est l'occasion d’avoir le retour des candidats sur tout le processus, les différents entretiens qu’ils ont passés, ce qu’ils en ont compris, éventuellement lever les doutes et répondre à des questions qu’ils n’ont pas pu poser.
 
@@ -173,7 +173,7 @@ Nous évoquons également à ce moment le sujet de la rémunération parce que c
   
 A l'issu de cet échange nous devons être capable d’avoir toutes les informations en main pour prendre la décision de faire une proposition ou pas.
 
-### 5eme étape : pour les rôles de management
+### 5ème étape : pour les rôles de management
 
   
 S'il s'agit d'un poste de contributeur individuel (hors manager) nous nous sommes fixés 4 entretiens que j’ai cité précédemment.
@@ -184,7 +184,7 @@ Lorsque la décision a été prise nous organisons un pot informel avec l’équ
 
 C’est plutôt une formalité, il n'y a pas d’évaluation mais cela permet au candidat de l'immerger dans l'esprit de Prestashop : visiter les locaux, l’ambiance, les équipes etc..
 
-### 6éme étape : La proposition d’embauche
+### 6ème étape : La proposition d’embauche
 
 Une fois que nous nous sommes mis d’accord avec le candidat, les offres sont validées par notre CEO et notre DAF (Directeur Administratif et Financier) pour qu’ils aient aussi une trace sur le budget, la date d’arrivée etc…
 
