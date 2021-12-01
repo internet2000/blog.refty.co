@@ -90,11 +90,11 @@ Cela permet aux développeurs de rencontrer leurs éventuels futurs collègues e
   
 Les tests sont alors découpés en 2 parties : 
 
-**un test d'algorithmique** d'une durée d'environ 1h.
+* **un test d'algorithmique** d'une durée d'environ 1h.
 
 Durant cette étape les candidats se retrouvent très souvent en difficulté mais ce qu’on évaluera principalement sera la capacité du candidat à poser des questions, et s' il a le réflexe de s’appuyer sur son collègue pour arriver au résultat final…
 
-**Le test sur le langage de programmation** (php., js. etc..).
+* **un test sur le langage de programmation** (php., js. etc..).
 
 Ici, la qualité du code produit sera plus importante que sur l'algorithmique.
 
