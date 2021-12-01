@@ -3,11 +3,12 @@ layout: article
 meta:
   author: ''
   time: ''
-  date: ''
-  excerpt: ''
-  thumbnail: ''
+  date: 01/12/20121
+  excerpt: Découvrez l'interview exclusive de leur talent acquisition qui livre tous
+    ses secrets
+  thumbnail: "/uploads/mario-sonic-at-the-olympic-games0_.jpeg"
 image: "/uploads/mario-sonic-at-the-olympic-games0_.jpeg"
-title: Parcours candidat chez Prestashop, où comment recrutent ils si efficacement
+title: Parcours candidat chez Prestashop, ou comment recrutent ils si efficacement
   ?
 categories:
 - Ressources
