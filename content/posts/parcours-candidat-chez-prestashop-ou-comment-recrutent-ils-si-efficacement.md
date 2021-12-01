@@ -1,8 +1,8 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
+  author: Barthelemy
+  time: 5 min
   date: 01/12/20121
   excerpt: Découvrez l'interview exclusive de leur talent acquisition qui livre tous
     ses secrets pour un process de recrutement millimétré
