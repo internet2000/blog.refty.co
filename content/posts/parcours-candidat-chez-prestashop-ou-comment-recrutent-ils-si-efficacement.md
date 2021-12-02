@@ -114,7 +114,7 @@ Mais ce que nous évaluons volontairement - l’exercice est beaucoup trop long 
 
 Pour les postes alternant il y a également des tests pratiques.
 
-Pour ce de mon équipe par exemple, ce sont des choses assez simples :
+Pour ceux de mon équipe par exemple, ce sont des choses assez simples :
 
 des CV à trier, des réponses à rédiger, et même une petite présentation orale à réaliser sur le thème de leur choix.
 
@@ -146,7 +146,7 @@ L’utilisation des scorecard est une mine d’or pour cela car nous avons des p
 
 Par écrit cela oblige à formuler les choses de manière à ce que soit assez diplomate et puis le candidat peut garder une trace écrite ce qui peut lui servir pour la suite.
 
-Et surtout en fonction des raisons du refus et du candidat, je vais lui proposer de le recommander soit sur [RecruitersClub ](https://recruitersclub.io/index.html)ou sur Kommunity.
+Et surtout en fonction des raisons du refus et du candidat, je vais lui proposer de le recommander soit sur [RecruitersClub ](https://recruitersclub.io/index.html)ou sur Komunity.
 
 Cette initiative est hyper appréciée des candidats.
 
