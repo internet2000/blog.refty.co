@@ -56,7 +56,6 @@ Nous donnons également des informations sur Prestashop de manière globale, l�
 
 Nous sommes très transparents sur les challenges du poste afin de tester la motivation du candidat.
 
-  
 Si je suis absolument convaincue de faire passer cette personne à l’étape d’après je positionne directement un entretien entre le manager et le candidat avant même la fin de l'échange .
 
 Ayant l’agenda du manager sous les yeux, le candidat peut me donner directement ses disponibilités. Cela évitera plusieurs allers-retour et nous fera gagner du temps.
@@ -65,7 +64,6 @@ Si j’ai quelques hésitations, je débrieferai avec le manager et prendrais le
 
 ### 2ème étape : l’entretien avec le hiring manager
 
-  
 L’échange avec le hiring manager dure environ 1h.
 
 Des score cards sont conçues pour chaque poste et vont être  utilisées par les managers lors de leurs entretiens.
@@ -76,10 +74,9 @@ Le hiring manager donnera davantage de détails opérationnels sur le job, ses a
 
 ### 3ème étape: l’étude de cas/ le test technique
 
-  
 Cette étape prend la forme d'un test technique pour les développeurs, ou une étude de cas pour tous les autres profils.
 
-L'étude de cas se fera soit en direct (ex : une mise en situation  pour les équipes commerciales) , 
+L'étude de cas se fera soit en direct (ex : une mise en situation  pour les équipes commerciales) ,
 
 soit c’est à faire chez soi mais avec une restitution.
 
@@ -87,8 +84,7 @@ Pour les tests techniques des développeurs il n'y a pas de tests à faire chez 
 
 Cela permet aux développeurs de rencontrer leurs éventuels futurs collègues et surtout au-delà de la qualité du test, cela permet de voir comment le candidate va réagir au test.
 
-  
-Les tests sont alors découpés en 2 parties : 
+Les tests sont alors découpés en 2 parties :
 
 * **un test d'algorithmique** d'une durée d'environ 1h.
 
@@ -107,8 +103,6 @@ Souvent les candidats apprécient ces tests parce que cela leur permet de rencon
 Comparativement, de nombreux candidats qui ont l’habitude de faire des tests types QCM, coding game, etc... m'indiquent qu’ils ne trouvent pas cela pertinent car ne reflètera pas leurs réels niveaux technique.
 
 Et pour les autres profils par exemple, que demandez-vous ?
-
-En ce moment par exemple, on recrute un ‘Head of Marketing Engagement” pour remplacer une personne en interne. Typiquement, nous allons demander au
 
 Cela va dépendre du poste / de la seniorité etc…
 
@@ -144,9 +138,9 @@ En substance en fonction des postes et niveaux de séniorité il existera diffé
 
 le format live, le format “devoir à faire chez soi classique” et le format “devoir à faire chez soi plus long", toujours avec la restitution.
 
-La candidature n’est pas retenue après le test technique/ l’étude de cas nous faisons un retour au candidat sous 48h. 
+La candidature n’est pas retenue après le test technique/ l’étude de cas nous faisons un retour au candidat sous 48h.
 
-Je suis plutôt partisane d’un retour par mail où je vais détailler de ce qui a bloqué. 
+Je suis plutôt partisane d’un retour par mail où je vais détailler de ce qui a bloqué.
 
 L’utilisation des scorecard est une mine d’or pour cela car nous avons des points très précis que nous pouvons mettre en avant . Je leur propose ensuite de les appeler s’ils souhaitent davantage de détails, en discuter etc…
 
@@ -154,9 +148,9 @@ Par écrit cela oblige à formuler les choses de manière à ce que soit assez d
 
 Et surtout en fonction des raisons du refus et du candidat, je vais lui proposer de le recommander soit sur [RecruitersClub ](https://recruitersclub.io/index.html)ou sur Kommunity.
 
-Cette initiative est hyper appréciée des candidats. 
+Cette initiative est hyper appréciée des candidats.
 
-Avec RecruitersClub par exemple, si un candidat trouve un poste, il a la possibilité de nous prévenir, ce qui nous permet de savoir ce qu’il devient par la suite. Si le candidat accepte de s’inscrire sur l’une des ces deux plateformes, ils vont noter leur expérience de recrutement chez nous et cela permet d’avoir du feedback. 
+Avec RecruitersClub par exemple, si un candidat trouve un poste, il a la possibilité de nous prévenir, ce qui nous permet de savoir ce qu’il devient par la suite. Si le candidat accepte de s’inscrire sur l’une des ces deux plateformes, ils vont noter leur expérience de recrutement chez nous et cela permet d’avoir du feedback.
 
 ### 4ème étape : l'entretien RH
 
@@ -170,17 +164,15 @@ On va donc pouvoir lever tous ces doutes grâce à Refty.
 
 Nous évoquons également à ce moment le sujet de la rémunération parce que cela peut évoluer entre le début et la fin du processus.
 
-  
 A l'issu de cet échange nous devons être capable d’avoir toutes les informations en main pour prendre la décision de faire une proposition ou pas.
 
 ### 5ème étape : pour les rôles de management
 
-  
 S'il s'agit d'un poste de contributeur individuel (hors manager) nous nous sommes fixés 4 entretiens que j’ai cité précédemment.
 
 Pour les rôles de management il y a souvent les N+2 qui s’intègrent en plus au processus. Ce dernier échange peut se faire à la suite de l’entretien RH.
 
-Lorsque la décision a été prise nous organisons un pot informel avec l’équipe pour que le candidat puisse rencontrer ses futurs collègues. 
+Lorsque la décision a été prise nous organisons un pot informel avec l’équipe pour que le candidat puisse rencontrer ses futurs collègues.
 
 C’est plutôt une formalité, il n'y a pas d’évaluation mais cela permet au candidat de l'immerger dans l'esprit de Prestashop : visiter les locaux, l’ambiance, les équipes etc..
 
