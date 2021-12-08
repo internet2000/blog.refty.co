@@ -5,8 +5,8 @@ meta:
   time: '1 mi '
   date: '08/12/2021'
   excerpt: ''
-  thumbnail: ''
-image: ''
+  thumbnail: "/uploads/justice-1.jpeg"
+image: "/uploads/justice.jpeg"
 title: Cadre légal de la prise de références
 categories:
 - Ressources
