@@ -5,8 +5,8 @@ meta:
   time: '1min '
   date: '08/12/2021'
   excerpt: Que peut on faire ou ne pas faire ? Quels sont les risques encourus ?
-  thumbnail: "/uploads/copie-de-logo-refty-1.png"
-image: "/uploads/download-3.jpeg"
+  thumbnail: "/uploads/copie-de-logo-refty-2.png"
+image: "/uploads/copie-de-logo-refty-2.png"
 title: Quel est le cadre légal de la prise de références ?
 categories:
 - Ressources
