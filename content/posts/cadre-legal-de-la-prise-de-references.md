@@ -37,7 +37,7 @@ L’article L1221-9 du Code du travail est également clair sur le sujet :
 
 “Aucune information concernant personnellement un candidat à un emploi ne peut être collectée par un dispositif qui n’a pas été porté préalablement à sa connaissance.”
 
-→ il vous faudra préciser le type de questions 
+→ il vous faudra préciser le type de questions
 
 #### Poser des questions aux référents (anciens managers et ex-collègues du candidat) portant sur la vie privée de ce dernier
 
