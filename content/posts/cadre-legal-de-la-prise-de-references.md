@@ -60,8 +60,8 @@ Dans le cas où vous commetrez une prise de références illicite, le candidat s
 
 ## **Les bonnes pratiques :**
 
-Retrouvez notre article qui s’inspire des meilleures pratiques sur le sujet :
+Retrouvez notre article qui s’inspire des meilleures pratiques sur le sujet 
 
-[https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd](https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd "https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd")['hui-a-quoi-%C3%A7a-sert/](https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-a-quoi-%C3%A7a-sert/)
+👉 Lire l'article [Les bonnes pratiques de la prise de références de + 50 entreprises](https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-a-quoi-%C3%A7a-sert/)
 
-Ou tout simplement : utiliser [Refty](http://refty.co) :)
+👉 Ou tout simplement : utiliser [Refty](http://refty.co) :)
