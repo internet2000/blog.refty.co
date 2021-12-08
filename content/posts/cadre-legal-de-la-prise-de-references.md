@@ -5,8 +5,8 @@ meta:
   time: '1min '
   date: '08/12/2021'
   excerpt: Que peut on faire ou ne pas faire ? Quels sont les risques encourus ?
-  thumbnail: "/uploads/images-2.jpeg"
-image: "/uploads/images-2.jpeg"
+  thumbnail: "/uploads/images-3.jpeg"
+image: "/uploads/images-3.jpeg"
 title: Quel est le cadre légal de la prise de références ?
 categories:
 - Ressources
