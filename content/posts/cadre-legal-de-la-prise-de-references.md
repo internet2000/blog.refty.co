@@ -37,9 +37,9 @@ L’article L1221-9 du Code du travail est également clair sur le sujet :
 
 “Aucune information concernant personnellement un candidat à un emploi ne peut être collectée par un dispositif qui n’a pas été porté préalablement à sa connaissance.”
 
-→ il vous faudra préciser le type de questions
+→ il vous faudra préciser au candidat comment se fera la prise de références auprès de ses anciens employeurs (email / téléphone / sms ou tout autre outil de collecte 😊) 
 
-#### Poser des questions aux référents (anciens managers et ex-collègues du candidat) portant sur la vie privée de ce dernier
+#### Poser des questions aux référents (anciens managers et ex-collègues du candidat) qui porteraient sur la vie privée de ce dernier
 
 Cela comprend :
 
@@ -48,13 +48,13 @@ Cela comprend :
 * La situation familiale,
 * La religion...
 
-La prise de références doit porter sur des paramètres uniquement factuels, à savoir :
+→ La prise de références doit porter sur des paramètres uniquement factuels, à savoir :
 
 intitulé du poste occupé, durée, dates, missions réalisées, résultats, raison de fin de contrat...
 
-Il est essentiel de ne poser que des questions en lien avec le travail du candidat. Comme stipulé par l’article L1221-6 du Code du travail, les questions doivent avoir un lien “direct et nécessaire” avec le poste à pourvoir.
+Vous pouvez également poser des questions au référent qui soient en lien avec le travail du candidat et le poste à pourvoir (précisé par l’article L1221-6 du Code du travail) 
 
-## **A quel risque est-on exposé ?**
+#### **A quel risque est-on exposé ?**
 
 Dans le cas où vous commetrez une prise de références illicite, le candidat se trouve en droit de vous dénoncer à la CNIL, ainsi que de vous poursuivre devant le conseil des prud’hommes.
 
