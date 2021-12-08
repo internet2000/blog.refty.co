@@ -17,27 +17,29 @@ permalink: "/cadre-legal-prisedereferences/"
 
 #### “Prise de références sauvage" ou en anglais “backchannel”
 
-Certains recruteurs ont tendance à l’oublier mais la prise de référence s'inscrit dans un cadre légal.
+Certains recruteurs ont tendance à l’oublier mais contrairement aux pays anglo-saxons, en France la prise de référence s'inscrit dans un cadre légal.
 
-Ce dernier est précisé à l'article L. 1221-8-et L. 1221-9 du Code du travail,
+Ce dernier est précisé à l'article L. 1221-8-et L. 1221-9 du Code du travail :
 
 « tout employeur souhaitant s'enquérir des références d'un candidat doit préalablement lui demander l'autorisation ».
 
-Contacter une personne par sms ou passer un coup de fil à une connaissance se trouvant dans l’entreprise du candidat pour recueillir son avis, en plus de nuire à l'expérience candidat est interdit par la loi.
+Contacter un manager par sms ou passer un coup de fil à une connaissance se trouvant dans l’entreprise du candidat pour recueillir son avis, en plus de nuire à l'expérience candidat est strictement interdit par la loi.
 
 Et ceci, même si le candidat les a mentionnées sur son CV.
 
-→ il faut nécessairement recueillir le consentement du candidat ainsi que les coordonnées des référents à contacter auprès de ce dernier.
+→ il vous faut nécessairement recueillir le consentement du candidat ainsi que les coordonnées des référents à contacter auprès de ce dernier.
 
 \---
 
 #### Ne pas être transparent avec le candidat sur le procédé qui sera utilisé pour la prise de référence
 
-L’article L1221-9 du Code du travail est clair sur le sujet :
+L’article L1221-9 du Code du travail est également clair sur le sujet :
 
 “Aucune information concernant personnellement un candidat à un emploi ne peut être collectée par un dispositif qui n’a pas été porté préalablement à sa connaissance.”
 
-* Poser des questions aux référents (anciens managers et ex-collègues du candidat) portant sur sa vie privée.
+→ il vous faudra préciser le type de questions 
+
+#### Poser des questions aux référents (anciens managers et ex-collègues du candidat) portant sur la vie privée de ce dernier
 
 Cela comprend :
 
