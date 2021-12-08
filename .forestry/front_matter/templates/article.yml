@@ -52,6 +52,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/cadre-legal-de-la-prise-de-references.md
 - content/posts/comment-assurer-une-continuite-pour-ameliorer-l-experience-candidat-et-collaborateur.md
 - content/posts/la-marque-employeur-etes-vous-banksy-ou-son-faussaire.md
 - content/posts/le-pilotage-du-recrutement-par-la-data-par-morgane-gucciardi-de-solantis.md
