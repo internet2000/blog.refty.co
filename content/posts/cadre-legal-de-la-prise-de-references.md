@@ -7,7 +7,7 @@ meta:
   excerpt: ''
   thumbnail: "/uploads/justice-1.jpeg"
 image: "/uploads/justice.jpeg"
-title: Cadre légal de la prise de références
+title: Quel est le cadre légal de la prise de références ?
 categories:
 - Ressources
 permalink: "/cadre-legal-prisedereferences/"
