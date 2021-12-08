@@ -15,7 +15,7 @@ permalink: "/cadre-legal-prisedereferences/"
 ---
 ## Qu’est t'il interdit de faire dans la pratique ?
 
-* “Prise de références sauvage" ou en anglais “backchannel”
+#### “Prise de références sauvage" ou en anglais “backchannel”
 
 Certains recruteurs ont tendance à l’oublier mais la prise de référence s'inscrit dans un cadre légal.
 
@@ -31,7 +31,7 @@ Et ceci, même si le candidat les a mentionnées sur son CV.
 
 \---
 
-* Ne pas être transparent avec le candidat sur le procédé qui sera utilisé pour la prise de référence
+#### Ne pas être transparent avec le candidat sur le procédé qui sera utilisé pour la prise de référence
 
 L’article L1221-9 du Code du travail est clair sur le sujet :
 
@@ -52,11 +52,11 @@ intitulé du poste occupé, durée, dates, missions réalisées, résultats, rai
 
 Il est essentiel de ne poser que des questions en lien avec le travail du candidat. Comme stipulé par l’article L1221-6 du Code du travail, les questions doivent avoir un lien “direct et nécessaire” avec le poste à pourvoir.
 
-**A quel risque est-on exposé ?**
+## **A quel risque est-on exposé ?**
 
 Dans le cas où vous commetrez une prise de références illicite, le candidat se trouve en droit de vous dénoncer à la CNIL, ainsi que de vous poursuivre devant le conseil des prud’hommes.
 
-**Les bonnes pratiques sur ce qu’il faut faire :**
+## **Les bonnes pratiques :**
 
 Retrouvez notre article qui s’inspire des meilleures pratiques sur le sujet :
 
