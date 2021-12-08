@@ -13,7 +13,7 @@ categories:
 permalink: "/cadre-legal-prisedereferences/"
 
 ---
-## Qu’est ce qui est interdit de faire dans la pratique ?
+## Qu’est t'il interdit de faire dans la pratique ?
 
 * “Prise de références sauvage" ou en anglais “backchannel”
 
@@ -42,14 +42,8 @@ L’article L1221-9 du Code du travail est clair sur le sujet :
 Cela comprend :
 
 * Les préférences sexuelles ou politiques,
-
-
 * L’état de santé,
-
-
 * La situation familiale,
-
-
 * La religion...
 
 La prise de références doit porter sur des paramètres uniquement factuels, à savoir :
