@@ -1,0 +1,71 @@
+---
+layout: article
+meta:
+  author: Barthelemy
+  time: '1 mi '
+  date: '08/12/2021'
+  excerpt: ''
+  thumbnail: ''
+image: ''
+title: Cadre légal de la prise de références
+categories:
+- Ressources
+permalink: "/cadre-legal-prisedereferences/"
+
+---
+## Qu’est ce qui est interdit de faire dans la pratique ?
+
+* “Prise de références sauvage" ou en anglais “backchannel”
+
+Certains recruteurs ont tendance à l’oublier mais la prise de référence s'inscrit dans un cadre légal.
+
+Ce dernier est précisé à l'article L. 1221-8-et L. 1221-9 du Code du travail,
+
+« tout employeur souhaitant s'enquérir des références d'un candidat doit préalablement lui demander l'autorisation ».
+
+Contacter une personne par sms ou passer un coup de fil à une connaissance se trouvant dans l’entreprise du candidat pour recueillir son avis, en plus de nuire à l'expérience candidat est interdit par la loi.
+
+Et ceci, même si le candidat les a mentionnées sur son CV.
+
+→ il faut nécessairement recueillir le consentement du candidat ainsi que les coordonnées des référents à contacter auprès de ce dernier.
+
+\---
+
+* Ne pas être transparent avec le candidat sur le procédé qui sera utilisé pour la prise de référence
+
+L’article L1221-9 du Code du travail est clair sur le sujet :
+
+“Aucune information concernant personnellement un candidat à un emploi ne peut être collectée par un dispositif qui n’a pas été porté préalablement à sa connaissance.”
+
+* Poser des questions aux référents (anciens managers et ex-collègues du candidat) portant sur sa vie privée.
+
+Cela comprend :
+
+* Les préférences sexuelles ou politiques,
+
+
+* L’état de santé,
+
+
+* La situation familiale,
+
+
+* La religion...
+
+La prise de références doit porter sur des paramètres uniquement factuels, à savoir :
+
+intitulé du poste occupé, durée, dates, missions réalisées, résultats, raison de fin de contrat...
+
+Il est essentiel de ne poser que des questions en lien avec le travail du candidat. Comme stipulé par l’article L1221-6 du Code du travail, les questions doivent avoir un lien “direct et nécessaire” avec le poste à pourvoir.
+
+**A quel risque est-on exposé ?**
+
+Dans le cas où vous commetrez une prise de références illicite, le candidat se trouve en droit de vous dénoncer à la CNIL, ainsi que de vous poursuivre devant le conseil des prud’hommes.
+
+**Les bonnes pratiques sur ce qu’il faut faire :**
+
+Retrouvez notre article qui s’inspire des meilleures pratiques sur le sujet :
+
+[https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd](https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd "https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd")['hui-a-quoi-%C3%A7a-sert/](https://blog.refty.co/la-prise-de-reference-est-elle-pratiquee-aujourd'hui-a-quoi-%C3%A7a-sert/)
+
+Ou tout simplement : utiliser [Refty](http://refty.co) :)
