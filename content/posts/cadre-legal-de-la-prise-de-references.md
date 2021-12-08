@@ -2,9 +2,9 @@
 layout: article
 meta:
   author: Barthelemy
-  time: '1 mi '
+  time: '1min '
   date: '08/12/2021'
-  excerpt: ''
+  excerpt: Que peut on faire ou ne pas faire ? Quels sont les risques encourus ?
   thumbnail: "/uploads/justice-1.jpeg"
 image: "/uploads/justice.jpeg"
 title: Quel est le cadre légal de la prise de références ?
