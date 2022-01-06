@@ -8,7 +8,7 @@ meta:
     ?
   thumbnail: ''
 image: "/uploads/fb-ad-78.png"
-title: 'La marque employeur : Etes-vous Banksy ou son faussaire ?'
+title: La marque employeur - pourquoi est ce si important ?
 categories:
 - Bonnes Pratiques
 permalink: "/marque-employeur-banksy-faussaire/"
