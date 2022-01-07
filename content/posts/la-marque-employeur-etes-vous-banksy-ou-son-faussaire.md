@@ -11,7 +11,7 @@ image: "/uploads/fb-ad-78.png"
 title: La marque employeur - pourquoi est ce si important ?
 categories:
 - Bonnes Pratiques
-permalink: "/marque-employeur-banksy-faussaire/"
+permalink: "/marque-employeur-pourquoi-est-ce-si-important/"
 
 ---
 ## Derrière l’ère de l’hyperconnexion...
