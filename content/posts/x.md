@@ -1,15 +1,16 @@
 ---
 layout: article
 meta:
-  author: xx
-  time: x
-  date: x
-  excerpt: x
-  thumbnail: ''
-image: ''
-title: x
+  author: Barthelemy
+  time: 1min
+  date: 06/01/2022
+  excerpt: Quel bénéfice à retirer une entreprise du retail dans l'utilisation de
+    Refty.
+  thumbnail: "/uploads/fb-ad-78.png"
+image: "/uploads/fb-ad-78.png"
+title: Quel bénéfice à retirer une entreprise du retail dans l'utilisation de Refty.
 categories: []
-permalink: "/xx/"
+permalink: "/quel-benefice-a-retirer-une-entreprise-du-retail-dans-lutilisation-de-refty/"
 
 ---
 ## Quelles problématiques avez-vous rencontré pour en venir à utiliser Refty ?
