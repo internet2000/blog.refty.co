@@ -10,7 +10,8 @@ meta:
 image: "/uploads/fb-ad-78.png"
 title: Comment une entreprise du retail a utilisé Refty pour évaluer ses candidats
   ?
-categories: []
+categories:
+- Bonnes Pratiques
 permalink: "/comment-une-entreprise-du-retail-a-utilise-refty-pour-evaluer-ses-candidats/"
 
 ---
