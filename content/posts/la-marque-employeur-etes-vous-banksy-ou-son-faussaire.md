@@ -4,9 +4,9 @@ meta:
   author: Sanjay
   time: 5mn
   date: 21/09/21
-  excerpt: Quellles sont les erreurs à éviter dans le cadre de la marque employeur
+  excerpt: Quelles sont les erreurs à éviter dans le cadre de la marque employeur
     ?
-  thumbnail: ''
+  thumbnail: "/uploads/fb-ad-78.png"
 image: "/uploads/fb-ad-78.png"
 title: La marque employeur - pourquoi est ce si important ?
 categories:
