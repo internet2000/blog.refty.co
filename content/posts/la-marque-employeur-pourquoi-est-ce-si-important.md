@@ -4,14 +4,14 @@ meta:
   author: Sanjay
   time: 5mn
   date: 21/09/21
-  excerpt: Quellles sont les erreurs à éviter dans le cadre de la marque employeur
+  excerpt: Quelles sont les erreurs à éviter dans le cadre de la marque employeur
     ?
-  thumbnail: ''
+  thumbnail: "/uploads/fb-ad-78.png"
 image: "/uploads/fb-ad-78.png"
-title: 'La marque employeur : Etes-vous Banksy ou son faussaire ?'
+title: La marque employeur - pourquoi est ce si important ?
 categories:
 - Bonnes Pratiques
-permalink: "/marque-employeur-banksy-faussaire/"
+permalink: "/marque-employeur-pourquoi-est-ce-si-important/"
 
 ---
 ## Derrière l’ère de l’hyperconnexion...
