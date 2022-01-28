@@ -14,18 +14,17 @@ categories:
 permalink: "/methodes-gafam-pour-recruter/"
 
 ---
-
 _Les GAFAM sont régulièrement précurseurs sur des sujets relatifs à l’organisation du travail / processs, futur of work..._
 
 _Nous avons interrogé A-C ancienne recruteuse chez l’une de ces sociétés tech pour comprendre comment et pourquoi le géant de la tech chez qui elle travaillait, avait recours à la prise de références._
 
-**Q1. Pour quels types de candidats faisiez-vous passer la prise de références ?**
+## **Q1. Pour quels types de candidats faisiez-vous passer la prise de références ?**
 
 Pour tout le monde ! C'est-à-dire pour tous les départements, à tous les postes et à tous les niveaux. Du junior post-études au General Manager Regional.
 
 C’était une étape obligatoire du processus de recrutement. Un élément incontournable du dossier de candidature.
 
-**Q2. Pourquoi était-ce considéré comme important ?**
+## **Q2. Pourquoi était-ce considéré comme important ?**
 
 Car cela nous permettait d’avoir une vision 360 de l’évaluation du candidat.
 
@@ -37,7 +36,7 @@ La prise de références était un processus que nous utilisions alors pour **d�
 
 Cette dernière nous permettait de **renforcer l’idée** que nous nous étions forgée pendant les entretiens et de nous **assurer** que nous avions tous analysé la même chose.
 
-**Q3. En pratique, comment la prise de références était-elle menée ?**
+## **Q3. En pratique, comment la prise de références était-elle menée ?**
 
 Nous demandions en moyenne aux candidats 2 à 4 référents.
 
@@ -61,7 +60,7 @@ On ne parle pas ici des acteurs indirects que sont les managers, mais bien des *
 
 Cela avait pour **objectif de ne pas biaiser** le processus de recrutement : éviter un désalignement entre un manager d'équipe qui aurait souhaité recruter un talent dans son équipe alors que la **personnalité du candidat ne collait pas à la culture de l’entreprise.**
 
-**Q4. Comment expliquez-vous que certaines entreprises ne mentionnent pas suffisamment l’influence des biais cognitifs sur les prises de décision ?**
+## **Q4. Comment expliquez-vous que certaines entreprises ne mentionnent pas suffisamment l’influence des biais cognitifs sur les prises de décision ?**
 
 Il y a de nombreux managers que cela arrange de recruter un candidat parce qu’il peut être “**plug & play**” -> c’est à dire rapidement opérationnel !
 
@@ -71,7 +70,7 @@ Bien sûr cela peut servir à court terme, mais 2-3 ans après, cela risque d’
 
 En tant que recruteur.euse nous devions donc être attentifs à ce que la personnalité des candidats soit bien en adéquation avec la culture / valeur de la société. Employer la prise de références dans cet objectif nous était très utile.
 
-**Q5. Qu’est-ce-que les questions contenues dans le Google Form évaluaient auprès des référents ?**
+## **Q5. Qu’est-ce-que les questions contenues dans le Google Form évaluaient auprès des référents ?**
 
 Cela nous donnait des indications sur la qualité du travail, la fiabilité, la satisfaction des clients internes ou externes, le souhait de re-recruter ou non le candidat dans l’équipe, etc.
 
@@ -83,7 +82,7 @@ En substance nous demandions aux référents :
 
 Les questionnaires étaient basés sur des questions fermées couplées à un certain niveau de notation pour éviter toute **subjectivité**.
 
-**Q.6 Comment interprétiez-vous les résultats ?**
+## **Q.6 Comment interprétiez-vous les résultats ?**
 
 Les candidats étaient tous évalués de la même manière et selon les mêmes critères. Cela donnait des résultats beaucoup plus justes et objectifs.
 
@@ -97,7 +96,7 @@ Il était également intéressant d' analyser **l’absence de réponses des ré
 
 Le fait qu’un référent ne veuille pas s’engager à noter un candidat était probablement dû au fait qu’il n’ait pas de choses très positives à dire. C’était un indicateur important à prendre en considération.
 
-**Q7. Basiez-vous vos décisions de recrutement sur ces retours ?**
+## **Q7. Basiez-vous vos décisions de recrutement sur ces retours ?**
 
 C’était un complément, un **outil d’aide à la décision** finale. Comme le sont les **entretiens** et comme peuvent l’être les business cases.
 
