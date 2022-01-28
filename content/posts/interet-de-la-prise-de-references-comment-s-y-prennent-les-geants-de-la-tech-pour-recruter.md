@@ -6,7 +6,7 @@ meta:
   date: 28/01/2022
   excerpt: Comment la prise de références est systématisée chez les GAFAM
   thumbnail: "/uploads/gafam.png"
-image: "/uploads/gafam.png"
+image: "/uploads/gafam-1.png"
 title: Intérêt de la prise de références -  bonnes pratiques des géants de la tech
   ?
 categories:
