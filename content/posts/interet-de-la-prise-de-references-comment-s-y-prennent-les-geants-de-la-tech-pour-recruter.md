@@ -14,13 +14,15 @@ categories:
 permalink: "/methodes-gafam-pour-recruter/"
 
 ---
-_Les GAFAM sont régulièrement précurseurs sur des sujets relatifs à l’organisation du travail / processs, futur of work..._
+_Les GAFAM sont régulièrement précurseurs sur des sujets relatifs à l’organisation du travail / processs de recrutement, futur of work..._
 
 _Nous avons interrogé A-C ancienne recruteuse chez l’une de ces sociétés tech pour comprendre comment et pourquoi le géant de la tech chez qui elle travaillait, avait recours à la prise de références._
 
 ## **Q1. Pour quels types de candidats faisiez-vous passer la prise de références ?**
 
-Pour tout le monde ! C'est-à-dire pour tous les départements, à tous les postes et à tous les niveaux. Du junior post-études au General Manager Regional.
+Pour tout le monde ! 
+
+C'est-à-dire pour tous les départements, à tous les postes et à tous les niveaux. Du junior post-études au General Manager Regional.
 
 C’était une étape obligatoire du processus de recrutement. Un élément incontournable du dossier de candidature.
 
@@ -28,7 +30,7 @@ C’était une étape obligatoire du processus de recrutement. Un élément inco
 
 Car cela nous permettait d’avoir une vision 360 de l’évaluation du candidat.
 
-Il y a évidemment le point de vue de l’entreprise (les différents interviewers qui interviennent) cependant on sait que les candidats peuvent se montrer sous leur meilleur jour au cours des entretiens.
+Il y a évidemment le point de vue de l’entreprise (les différents interviewers en interne qui interviennent) cependant on sait que les candidats peuvent se montrer sous leur meilleur jour au cours des entretiens.
 
 Même si nous étions au sein d’une grande entreprise tech dans laquelle il y a de supers interviewers **rodés à l’exercice et formés,** nous pouvions toujours nous faire berner...
 
