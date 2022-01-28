@@ -7,8 +7,7 @@ meta:
   excerpt: Comment la prise de références est systématisée chez les GAFAM
   thumbnail: "/uploads/gafam.png"
 image: "/uploads/sans-titre-7.png"
-title: Intérêt de la prise de références -  bonnes pratiques des géants de la tech
-  ?
+title: Intérêt prise de références -  bonnes pratiques des géants de la tech
 categories:
 - Bonnes Pratiques
 permalink: "/methodes-gafam-pour-recruter/"
