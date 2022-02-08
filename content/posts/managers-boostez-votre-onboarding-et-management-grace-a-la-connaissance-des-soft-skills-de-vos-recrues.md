@@ -7,8 +7,7 @@ meta:
   excerpt: ''
   thumbnail: "/uploads/sans-titre-8.png"
 image: "/uploads/sans-titre-8.png"
-title: 'Managers : boostez votre onboarding et management grâce à la connaissance
-  des soft skills de vos recrues'
+title: 'Managers : boostez votre onboarding grâce aux soft skills de vos recrues'
 categories:
 - Tendances
 permalink: "/softskills-onboarding-workelo/"
