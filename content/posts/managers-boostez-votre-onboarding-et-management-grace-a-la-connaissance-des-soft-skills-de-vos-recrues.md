@@ -1,11 +1,11 @@
 ---
 layout: article
 meta:
-  author: ''
-  time: ''
-  date: ''
+  author: Anne-Charlotte @Workelo
+  time: 3min
+  date: '08/02/2022'
   excerpt: ''
-  thumbnail: ''
+  thumbnail: "/uploads/sans-titre-8.png"
 image: "/uploads/sans-titre-8.png"
 title: 'Managers : boostez votre onboarding et management grâce à la connaissance
   des soft skills de vos recrues'
