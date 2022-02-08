@@ -48,7 +48,7 @@ L'onboarding est un moment charnière de cohésion entre vos employés et vos no
 
 La période d'intégration est l’occasion parfaite pour promouvoir clairement une culture d’entreprise qui, une fois assimilée, aura des répercussions positives sur l’ensemble de l’entreprise. Les valeurs de l’entreprise contribuent à donner du sens aux missions du collaborateur et ont donc un impact sur l’expérience collaborateur.
 
-Avec un [programme d'](https://360learning.com/fr/blog/modeles-onboarding-checklist/)onboarding comme celui de Workelo, les nouvelles recrues sont garanties d’avoir une expérience collaborateur mémorable et plus que satisfaisante. Avec des fonctionnalités comme :
+Avec un [programme](https://360learning.com/fr/blog/modeles-onboarding-checklist/) d'onboarding comme celui de Workelo, les nouvelles recrues sont garanties d’avoir une expérience collaborateur mémorable et plus que satisfaisante. Avec des fonctionnalités comme :
 
 * Une application digitale qui permet d’être onboardé n’importe quand et n’importe où,
 * Un système de parrainage,
