@@ -4,7 +4,8 @@ meta:
   author: Anne-Charlotte @Workelo
   time: 3min
   date: '08/02/2022'
-  excerpt: ''
+  excerpt: Workelo, spécialiste de l'onboarding candidat, explique pourquoi il faut
+    se focaliser sur les softskills à cette étape
   thumbnail: "/uploads/sans-titre-8.png"
 image: "/uploads/sans-titre-8.png"
 title: 'Managers : boostez votre onboarding grâce aux soft skills de vos recrues'
@@ -50,8 +51,6 @@ La période d'intégration est l’occasion parfaite pour promouvoir clairement 
 Avec un [programme d'](https://360learning.com/fr/blog/modeles-onboarding-checklist/)onboarding comme celui de Workelo, les nouvelles recrues sont garanties d’avoir une expérience collaborateur mémorable et plus que satisfaisante. Avec des fonctionnalités comme :
 
 * Une application digitale qui permet d’être onboardé n’importe quand et n’importe où,
-
-
 * Un système de parrainage,
 * Un parcours personnalisé,
 * Un accès aux informations sur les soft skills des recrues en amont de leur arrivée
