@@ -6,7 +6,7 @@ meta:
   date: ''
   excerpt: ''
   thumbnail: ''
-image: "/uploads/download-3.png"
+image: "/uploads/sans-titre-8.png"
 title: 'Managers : boostez votre onboarding et management grâce à la connaissance
   des soft skills de vos recrues'
 categories:
