@@ -4,7 +4,7 @@ meta:
   author: Anne-Charlotte @Workelo
   time: 3min
   date: '08/02/2022'
-  excerpt: Workelo, spécialiste de l'onboarding candidat, nous explique l'importance
+  excerpt: Workelo, spécialiste de l'onboarding candidat nous explique l'importance
     des softskills à cette étape
   thumbnail: "/uploads/sans-titre-8.png"
 image: "/uploads/sans-titre-8.png"
@@ -40,11 +40,11 @@ Avec un soutien adéquat (comme l'obtention progressive des soft skills) pendant
 
 L’obtention progressive des soft skills contribue à rendre la nouvelle recrue plus productive et investie dans ses tâches. Le fait de créer un cercle vertueux de progression et de prise d’initiative avec une relation de confiance à la clé est extrêmement positif vis-à-vis du collaborateur et du manager. Ce temps fort qu’est l’onboarding crée l’occasion d’offrir une quantité précieuse d’informations possibles sans pour autant imposer d’enjeux trop importants dans ce nouvel environnement de travail. Ainsi, les nouvelles recrues gagnent en compétences et se familiarisent avec leurs outils de travail, en douceur et en confiance.
 
-### **3. L'onboarding renforce la confiance et le sentiment de communauté.**
+### **3. L'onboarding renforce la confiance et le sentiment de communauté**
 
 L'onboarding est un moment charnière de cohésion entre vos employés et vos nouveaux talents. C’est aussi un moment déterminant où s'initient des relations professionnelles et personnelles permettant une collaboration épanouissante. Intégrer des moments de partage qui peuvent être proposés aux nouveaux collaborateurs est primordial. Mettre en place un système de parrainage, par exemple, est une bonne idée qu’il est conseillé d’appliquer pour veiller au bien-être et à l’épanouissement de chacun. En effet, l’onboarding est aussi un moment de socialisation informelle avec les collègues qui permet de mieux comprendre les soft skills valorisés dans l'entreprise et de renforcer la cohésion des équipes.
 
-### **4. L'onboarding renforce la culture d'entreprise.**
+### **4. L'onboarding renforce la culture d'entreprise**
 
 La période d'intégration est l’occasion parfaite pour promouvoir clairement une culture d’entreprise qui, une fois assimilée, aura des répercussions positives sur l’ensemble de l’entreprise. Les valeurs de l’entreprise contribuent à donner du sens aux missions du collaborateur et ont donc un impact sur l’expérience collaborateur.
 
