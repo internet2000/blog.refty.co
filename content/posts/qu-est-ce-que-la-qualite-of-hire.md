@@ -4,7 +4,8 @@ meta:
   author: Sanjay
   time: 5min
   date: 07/09/21
-  excerpt: ''
+  excerpt: 'De nombreuses terminologie et appréciation autour de cette notion : on
+    vous explique tout'
 image: "/uploads/linkedin-33.png"
 title: Qu’est-ce que la “quality of hire” ?
 categories:
