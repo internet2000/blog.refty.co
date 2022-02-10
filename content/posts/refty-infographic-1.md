@@ -5,8 +5,8 @@ meta:
   time: 7sec
   date: 23/01/2021
   excerpt: Pour notre première infographie, nous avons interrogé plus de 100 entreprises
-  thumbnail: "/uploads/sans-titre-16.png"
-image: "/uploads/sans-titre-16.png"
+  thumbnail: "/uploads/sans-titre-17.png"
+image: "/uploads/sans-titre-17.png"
 title: 'Infographie : L''importance des soft skills dans le recrutement et la culture
   d''entreprise'
 categories:
