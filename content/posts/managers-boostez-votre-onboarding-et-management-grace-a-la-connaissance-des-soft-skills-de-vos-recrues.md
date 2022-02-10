@@ -7,7 +7,7 @@ meta:
   excerpt: Workelo, spécialiste de l'onboarding candidat nous explique l'importance
     des softskills à cette étape.
   thumbnail: "/uploads/sans-titre-8.png"
-image: "/uploads/frame-2-2.svg"
+image: "/uploads/logo-workelo.svg"
 title: 'Managers : boostez votre onboarding grâce aux soft skills de vos recrues'
 categories:
 - Tendances
