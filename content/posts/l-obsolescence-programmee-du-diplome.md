@@ -6,8 +6,8 @@ meta:
   date: 15/02/22
   excerpt: Le diplôme a t'il encore un intérêt aujourd'hui, à l'heure où les compétences
     sont liées à la personnalité ?
-  thumbnail: ''
-image: ''
+  thumbnail: "/uploads/resumephot-1.jpeg"
+image: "/uploads/resumephot.jpeg"
 title: L'obsolescence programmée du diplôme
 categories:
 - Ressources
