@@ -46,7 +46,7 @@ Chez PrestaShop, le parcours se déroule comme suit :
 
 • Un point d’onboarding au bout de 4-6 semaines est planifié
 
-Mais chez [PrestaShop](https://www.google.com/) nous ne tenons pas pour acquis le processus dont je viens de vous énumérer les étapes. A l’heure actuelle, il existe un **décalage**, que nous souhaitons résorber, entre les différentes équipes. Nous allons prochainement regrouper davantage les entrées pour avoir un programme d’onboarding plus **unifié**. Une présentation des différents pôles (1h par pôle par exemple) pourrait être, par exemple, dispensée.
+Mais intéressant de noter que chez [PrestaShop](https://www.google.com/) nous ne tenons pas pour acquis le processus dont je viens de vous énumérer les étapes. A l’heure actuelle, il existe un **décalage**, que nous souhaitons résorber, entre les différentes équipes. Nous allons prochainement regrouper davantage les entrées pour avoir un programme d’onboarding plus **unifié**. Une présentation des différents pôles (1h par pôle par exemple) pourrait être, par exemple, dispensée.
 
 ## **Sur les profils à tension (style développeur) y a-t-il des dispositions particulières à prendre pour faciliter leur période d'essai ?**
 
