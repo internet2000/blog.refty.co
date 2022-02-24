@@ -21,7 +21,7 @@ Afin d'identifier les impacts de **la crise sanitaire** et **d’une levée de f
 
 Fondée en 2015, Virtuo est une plateforme française de location de véhicules BtoC et CtoC. Fort de son succès, Virtuo a bouclé, début 2019, une levée de fonds en série B de [20 millions d’euros](https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0600677184562-virtuo-fait-le-plein-pour-ouvrir-deux-nouveaux-pays-326985.php) menée par [Iris Capital.](https://www.iriscapital.com/en)
 
-Algolia, de son côté, est une [licorne](https://www.lesechos.fr/start-up/deals/algolia-nouvelle-licorne-tricolore-1335356) créée en 2012 et implantée à San Francisco. Le [“Google français des professionnels”](https://www.latribune.fr/technos-medias/innovation-et-start-up/pourquoi-la-france-a-rate-algolia-le-google-francais-des-professionnels-au-succes-fulgurant-830768.html), leader mondial du “search as a service”, est valorisée à 2,25 milliards de dollars.
+[Algolia,](https://www.algolia.com/) est de son côté, est une [licorne](https://www.lesechos.fr/start-up/deals/algolia-nouvelle-licorne-tricolore-1335356) créée en 2012 et implantée à San Francisco. Le [“Google français des professionnels”](https://www.latribune.fr/technos-medias/innovation-et-start-up/pourquoi-la-france-a-rate-algolia-le-google-francais-des-professionnels-au-succes-fulgurant-830768.html), leader mondial du “search as a service”, est valorisée à 2,25 milliards de dollars.
 
 ## **Qu’est ce que le poste de HR Ops ? En quoi se démarque-t-il d’un HR Classique ?**
 
