@@ -5,7 +5,7 @@ meta:
   time: 3mn
   date: 02/03/22
   excerpt: 'Définition et explication  de la prise de référence : son cadre légal
-    et les bonnes pratiques pour faire une prise de référence efficace'
+    et les bonnes pratiques pour faire une prise de référence efficace. '
   thumbnail: "/uploads/prise-de-reference-definition.jpg"
 image: "/uploads/prise-de-reference-definition.jpg"
 title: 'C''est quoi la prise de référence ? '
@@ -18,13 +18,8 @@ Nous connaissons tous cette joie d’avoir passé avec brio toutes les étapes d
 
 ## Prise de référence définition
 
-**La prise de référence,** est connue aussi sous le terme de **contrôle de référence.** Mais vous ne trouvez pas que “contrôle de référence” est un peu réducteur ?
+**La prise de référence** va permettre au recruteur de confirmer les expériences professionnelles d’un candidat en interrogeant ses anciens employeurs. Par exemple, si un candidat dit qu’il maîtrise l’outil Excel, il suffit de contacter son ancien employeur et de vérifier cette information.
 
-“Je vais te contrôler ! ” Wow quelle horreur..
-
-Cette **étape de recrutement** va permettre au recruteur de confirmer les expériences professionnelles d’un candidat en interrogeant ses anciens employeurs. Par exemple, si un candidat dit qu’il maîtrise l’outil Excel, il suffit de contacter son ancien employeur et de vérifier cette information.
-
-  
 **La prise de référence du candidat** est, surtout, essentielle pour l’**évaluation des soft skills**. Les soft skills sont devenus primordiales dans [le recrutement de nouveaux collaborateurs](https://blog.refty.co/importance-des-soft-skills-culture-d-entreprise/ "L'importance des soft skills dans la culture d'entreprise ") notamment pour apprendre à connaître le candidat et mesurer l’adéquation de son profil à la **culture d’entreprise.**
 
 ## Est-ce que c’est légal de faire une prise de référence ?
