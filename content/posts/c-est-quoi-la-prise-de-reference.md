@@ -2,7 +2,7 @@
 layout: article
 meta:
   author: Mouzdalifa
-  time: 3mn
+  time: 2mn
   date: 02/03/22
   excerpt: 'Définition et explication  de la prise de référence : son cadre légal
     et les bonnes pratiques pour faire une prise de référence efficace. '
