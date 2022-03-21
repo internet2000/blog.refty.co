@@ -83,6 +83,8 @@ Léo propose directement de lever à la hausse les salaires des recruteurs en in
 
 D’autres types de variables autres que monétaire peuvent être proposés tels que des actions BSPCE ou la proposition de formation afin d’améliorer les compétences du recruteur.
 
+## Pour conclure 
+
 Nous avons pu voir que la rémunération variable était très intéressante pour motiver les équipes de recrutement notamment pour l’atteinte des objectifs.
 
 **Alors qu’est-ce qu’une bonne rémunération variable ?**
