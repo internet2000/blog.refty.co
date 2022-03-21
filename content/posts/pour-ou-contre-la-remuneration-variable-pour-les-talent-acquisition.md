@@ -9,7 +9,7 @@ meta:
     l''entreprise ? '
   thumbnail: "/uploads/thought-catalog-xeo_7hswysa-unsplash.jpg"
 image: "/uploads/thought-catalog-xeo_7hswysa-unsplash.jpg"
-title: 'Live : Pour ou contre la remuneration variable pour les Talent Acquisition
+title: 'Live : Pour ou contre la rémunération variable pour les Talent Acquisition
   ? '
 categories:
 - Bonnes Pratiques
@@ -93,4 +93,4 @@ De plus, la rémunération variable n’est pas universel ! En effet, celle-ci d
 
 Ainsi, il est nécessaire qu’elle soit constamment remise en question dans un contexte où le monde du travail évolue sans cesse.
 
-Et vous ? Êtes vous pour ou la contre la rémunération variable pour les recruteurs ? Quelles méthodes proposez-vous pour améliorer la productivité d’une équipe de recrutement ?  
+Et vous ? Êtes vous pour ou la contre la rémunération variable pour les recruteurs ? Quelles méthodes proposez-vous pour améliorer la productivité d’une équipe de recrutement ?
