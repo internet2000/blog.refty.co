@@ -13,7 +13,7 @@ title: 'Live : Pour ou contre la remuneration variable pour les Talent Acquisiti
   ? '
 categories:
 - Bonnes Pratiques
-permalink: "/Live-pour-ou-contre-la-remuneration-variable-pour-les-talent-acquisition-?/"
+permalink: "/live-pour-ou-contre-la-remuneration-variable-pour-les-talent-acquisition/"
 
 ---
 Ah ! la question qui fait débat !
