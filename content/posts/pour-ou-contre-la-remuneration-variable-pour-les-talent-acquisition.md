@@ -9,7 +9,7 @@ meta:
     l''entreprise ? '
   thumbnail: "/uploads/thought-catalog-xeo_7hswysa-unsplash.jpg"
 image: "/uploads/thought-catalog-xeo_7hswysa-unsplash.jpg"
-title: 'Live : Pour ou contre la rémunération variable pour les Talent Acquisition
+title: 'Live : Pour ou contre la remuneration variable pour les Talent Acquisition
   ? '
 categories:
 - Bonnes Pratiques
