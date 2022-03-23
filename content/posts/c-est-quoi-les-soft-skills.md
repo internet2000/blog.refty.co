@@ -30,7 +30,7 @@ On vous explique : Les traits de personnalités ne sont pas forcément liés à 
 
 ### Mieux comprendre les softs skills
 
-S’il n’y a pas de définition universelle pour le terme soft skills, nous pouvons nous avancer à dire qu’elles sont **complémentaires aux compétences techniques** appelées **hard skills**. En effet, ce sont des compétences qui ne s’acquièrent pas seulement dans le milieu scolaire ou professionnel mais ce sont des compétences développées lors d’activités non professionnelles telles que les activités de loisirs ou associatives.
+S’il n’y a pas de définition universelle pour le terme soft skills, nous pouvons nous avancer à dire qu’elles sont **complémentaires aux compétences techniques** appelées **hard skills**. En effet, ce sont des compétences qui ne s’acquièrent pas seulement dans le milieu scolaire ou professionnel mais ce sont des compétences développées lors d’activités de loisirs ou associatives.
 
 Ainsi, les soft skills sont des **capacités personnelles** (complémentaires aux compétences techniques) qui permettent d’être plus performant au travail.
 
@@ -49,7 +49,7 @@ Parce que le monde du travail évolue de plus en plus vite et les compétences m
 
 L’évaluation des soft skills peut être perçue comme subjective. Toutefois, **l’évaluation des soft skills peut s’évaluer de la manière la plus objective possible**. Pour cela il est primordial de déterminer quels soft skills sont pertinents de sélectionner en fonction des missions du poste et des activités de l’entreprise.
 
-Voici quelques exemples d’évaluation de soft skills que vous pouvez réaliser lors d’entretiens d’embauche de nouveaux collaborateurs : 
+Voici quelques exemples d’évaluation de soft skills que vous pouvez réaliser lors d’entretiens d’embauche de nouveaux collaborateurs :
 
 * **Les questions comportementales** :
 
@@ -75,4 +75,4 @@ Voici la liste de 5 soft skills qui feront la différence !
 
 En tant que recruteur, recruter les meilleurs candidats est primordial. Nous avons vu que l’évaluation des soft skills est essentielle pour recruter des profils complets dans son entreprise. Chez Refty, nous proposons une solution simple et rapide (tout ce qu’on aime) pour vous aider à évaluer les compétences de vos futurs collaborateurs.
 
-Vous souhaitez avoir plus d’informations; c’est juste [ici](https://refty.co/ "Site refty ") 🙂
+Vous souhaitez avoir plus d’informations ? C’est juste [ici](https://refty.co/ "Site refty ") 🙂
