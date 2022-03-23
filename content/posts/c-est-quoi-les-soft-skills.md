@@ -8,7 +8,7 @@ meta:
     skills. '
   thumbnail: "/uploads/adobestock_481906216.jpeg"
 image: "/uploads/adobestock_481906216.jpeg"
-title: 'c''est quoi les soft skills ? '
+title: 'C''est quoi les soft skills ? '
 categories:
 - Bonnes Pratiques
 permalink: "/c-est-quoi-les-soft-skills/"
