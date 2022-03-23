@@ -53,6 +53,7 @@ fields:
     required: true
 pages:
 - content/posts/c-est-quoi-la-prise-de-reference.md
+- content/posts/c-est-quoi-les-soft-skills.md
 - content/posts/cadre-legal-de-la-prise-de-references.md
 - content/posts/comment-assurer-une-continuite-pour-ameliorer-l-experience-candidat-et-collaborateur.md
 - content/posts/interet-de-la-prise-de-references-comment-s-y-prennent-les-geants-de-la-tech-pour-recruter.md
