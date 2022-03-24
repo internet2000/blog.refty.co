@@ -18,7 +18,7 @@ Aujourd’hui davantage d’entreprises misent sur les soft skills de leur candi
 
 ## La difficulté d’évaluer les soft skills
 
-**L’évaluation des soft skills n’est pas aussi simple que celle des compétences techniques**. Pour les compétences techniques, un test de connaissance peut généralement suffire pour obtenir un résultat satisfaisant. Un recruteur sera en mesure de définir plus précisément le niveau d’expertise d’un candidat sur tel ou tel sujet. Ce qui est infiniment plus complexe pour l’évaluation des soft skills.
+**L’évaluation des soft skills n’est pas aussi simple que celle des compétences techniques**. Pour les compétences techniques, un test de connaissance peut généralement suffire pour obtenir un résultat satisfaisant. Un recruteur sera en mesure de définir plus précisément le niveau d’expertise d’un candidat sur tel ou tel sujet. Ce qui est infiniment plus complexe pour l’évaluation des soft skills. 
 
 **Les soft skills sont difficilement quantifiables** car elles sont liées à une situation. Par exemple, prenons la confiance en soi. Celle-ci peut varier d’une situation à une autre. On peut être à l’aise dans son équipe mais on peut perdre ses moyens face à un client. De même pour la créativité, on peut être créatif dans la résolution de problèmes complexes mais pas dans le domaine artistique. Vous me suivez ? 😌
 
