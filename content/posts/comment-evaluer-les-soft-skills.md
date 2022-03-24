@@ -10,7 +10,7 @@ meta:
 image: "/uploads/magnet-me-315vpgsafuk-unsplash.jpg"
 title: 'Comment évaluer les soft skills ? '
 categories:
-- ''
+- Bonnes Pratiques
 permalink: "/comment-evaluer-les-soft-skills/"
 
 ---
