@@ -46,7 +46,7 @@ Gallup indique également qu’**il existe une forte corrélation entre niveau d
 
 ![](/uploads/mari-anniversaire-message-idees-reseaux-sociaux-image-3.png)
 
-Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs.ices, le degré d’engagement et de créativité en sont sensiblement impactés.
+Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs.ices, le degré d’engagement et de créativité en sont sensiblement impactés. 
 
 Mesurer le niveau d’engagement de vos collaborateurs.ices vous permettra :
 
