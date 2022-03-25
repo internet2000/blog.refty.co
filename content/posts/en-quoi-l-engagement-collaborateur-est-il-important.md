@@ -28,9 +28,9 @@ Buchanan dénombre 3 effets de l'engagement sur le.a salarié.e :
 * **l'identification** aux valeurs et aux objectifs de l’entreprise : La culture d'entreprise a-t-elle déteint sur son comportement ? (et inversement) Quel est le degré d'adhésion et d’appropriation du/de la collaborateur.ice aux objectifs et valeurs de l'organisation ? La valeur de ses attentes (prétentions salariales, promotion…) s’alignent-t-elles avec celles de l 'organisation ?
 * **son niveau de loyauté** : Quelle est la nature et le niveau d'affection qu’il.elle éprouve à l’égard de l'organisation ? A-t-il.elle déjà recommandé l’organisation ? Y-a-t-il des signes avant-coureurs d’un départ éventuel ?
 
-Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moyen, fort) que de **nature** (engagement positif ou négatif). Tout comme la définition de l'implication, de l'identification ou de la loyauté qui **varie** d’un talent à un autre. Manon - Talent Acquisition Manager n’aura pas la même définition de “l’implication dans son travail” que Bertrand du département comptable. Autant vous dire que parvenir à mesurer correctement l’engagement relève de la prouesse**.**
+Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moyen, fort) que de **nature** (engagement positif ou négatif). Tout comme la définition de l'implication, de l'identification ou de la loyauté qui **varie** d’un talent à un autre. Manon - Talent Acquisition Manager n’aura pas la même définition de “l’implication dans son travail” que Bertrand du département comptable. Autant vous dire que parvenir à mesurer correctement l’engagement relève de la prouesse. 
 
-### **Pourquoi le mesurer ?** 
+### **Pourquoi le mesurer ?**
 
 **L’engagement des collaborateurs semble être un** **levier de croissance** et **d’innovation** incontestable.
 
@@ -38,17 +38,17 @@ Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moye
 
 **L’engagement à un impact positif sur la performance**. Gallup a mené une [étude ](https://news.gallup.com/businessjournal/27145/innovation-equation.aspx)mondiale de l'engagement collaborateur sur 2.7 millions d’employé.e.s dans 96 pays. Il en ressort que les organisations engageantes, qui sont dans le quartile supérieur en matière d'engagement ont dépassé celles qui se situent dans le quartile inférieur dans les domaines suivants (la liste n’est pas exhaustive) :
 
-![](https://lh3.googleusercontent.com/_q1NR0cTvhFMh_AJqLra4QF_dAgwMwh0UM0ifz8NSK1YoGAa2b3_jbu6yH5Tu6VTlQtqkOyWlcpweWHPmS9LBoy35KQTjtkJwND02ZUV18eGiSxiB6--0om8p0U5HiL4xpJ_LLbf =544x313)
+![](/uploads/image-1.png)
 
-* **Engagement et innovation** 
+* **Engagement et innovation**
 
 Gallup indique également qu’**il existe une forte corrélation entre niveau d’engagement et innovation**. Afin d’avoir une meilleure compréhension des effets des entreprises engagées sur la créativité et l’engagement de ses salariés, Gallup a conduit une autre [étude](https://news.gallup.com/businessjournal/27145/innovation-equation.aspx) dont voici les principaux résultats (ils sont non exhaustifs) :
 
-![](https://lh5.googleusercontent.com/DfS1-0sZkgOj0d4iH00I2oSicLCX5cHenFnvzP1UhGceevRT689zW-RAkvYaTr59OCowszQSMmq3eVXKykYHGCLH8koeHi1MSwXKqFeInq4_ZXhOVI_NmpiE18rCkj5auAhVcy8c =603x345)
+![](/uploads/image-2.png)
 
 Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs.ices, le degré d’engagement et de créativité en sont sensiblement impactés.
 
-Mesurer le niveau d’engagement de vos collaborateurs.ices vous permettra : 
+Mesurer le niveau d’engagement de vos collaborateurs.ices vous permettra :
 
 * de promouvoir les bonnes pratiques et détecter les points de vigilance,
 * de comparer vos résultats par métiers, départements voire aux données de votre secteur d'activité pour vous améliorer en continu,
