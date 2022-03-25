@@ -14,7 +14,7 @@ categories:
 permalink: "/en-quoi-l-engagement-collaborateur-est-il-important/"
 
 ---
-D’après [Gallup](https://www.gallup.com/home.aspx), près de [85%](https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx) des employé.e.s au niveau mondial ne sont pas engagé.e.s ou activement désengagé.e.s. Selon le rapport [MacLeod](https://engageforsuccess.org/engaging-for-success/), le coût du désengagement des employé.e.s britanniques était de plus de 60 milliards de livres en 2009...Pourquoi la notion d’engagement est-elle si importante aujourd’hui ? Quelles sont ses conséquences sur la rétention des talents ? [Refty](https://refty.co/) vous donne quelques éléments de réponse.
+D’après [Gallup](https://www.gallup.com/home.aspx), près de [85%](https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx) des employés au niveau mondial ne sont pas engagés ou activement désengagés. Selon le rapport [MacLeod](https://engageforsuccess.org/engaging-for-success/), le coût du désengagement des employés britanniques était de plus de 60 milliards de livres en 2009...Pourquoi la notion d’engagement est-elle si importante aujourd’hui ? Quelles sont ses conséquences sur la rétention des talents ? [Refty](https://refty.co/) vous donne quelques éléments de réponse.
 
 ## **C’est quoi l’engagement des collaborateurs ?**
 
@@ -24,7 +24,7 @@ Selon [Buchanan](https://www.researchgate.net/publication/239640787_Building_Org
 
 Buchanan dénombre 3 effets de l'engagement sur le.a salarié.e :
 
-* **l'implication** du/de la salarié.e dans son travail : Quel est son niveau d'investissement dans son travail ? Est-il.elle prêt.e à fournir des efforts supplémentaires de lui/d’elle-même ? Est-il.elle satisfait.e et motivé.e à l’idée d’assurer les responsabilités qui délimitent son poste ?
+* **l'implication** du salarié dans son travail : Quel est son niveau d'investissement dans son travail ? Est-il.elle prêt.e à fournir des efforts supplémentaires de lui/d’elle-même ? Est-il.elle satisfait.e et motivé.e à l’idée d’assurer les responsabilités qui délimitent son poste ?
 * **l'identification** aux valeurs et aux objectifs de l’entreprise : La culture d'entreprise a-t-elle déteint sur son comportement ? (et inversement) Quel est le degré d'adhésion et d’appropriation du/de la collaborateur.ice aux objectifs et valeurs de l'organisation ? La valeur de ses attentes (prétentions salariales, promotion…) s’alignent-t-elles avec celles de l 'organisation ?
 * **son niveau de loyauté** : Quelle est la nature et le niveau d'affection qu’il.elle éprouve à l’égard de l'organisation ? A-t-il.elle déjà recommandé l’organisation ? Y-a-t-il des signes avant-coureurs d’un départ éventuel ?
 
@@ -44,11 +44,11 @@ Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moye
 
 Gallup indique également qu’**il existe une forte corrélation entre niveau d’engagement et innovation**. Afin d’avoir une meilleure compréhension des effets des entreprises engagées sur la créativité et l’engagement de ses salariés, Gallup a conduit une autre [étude](https://news.gallup.com/businessjournal/27145/innovation-equation.aspx) dont voici les principaux résultats (ils sont non exhaustifs) :
 
-![](/uploads/mari-anniversaire-message-idees-reseaux-sociaux-image-3.png)
+![](/uploads/engagement-collaborateur.png)
 
-Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs.ices, le degré d’engagement et de créativité en sont sensiblement impactés. 
+Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs, le degré d’engagement et de créativité en sont sensiblement impactés. 
 
-Mesurer le niveau d’engagement de vos collaborateurs.ices vous permettra :
+Mesurer le niveau d’engagement de vos collaborateurs vous permettra :
 
 * de promouvoir les bonnes pratiques et détecter les points de vigilance,
 * de comparer vos résultats par métiers, départements voire aux données de votre secteur d'activité pour vous améliorer en continu,
