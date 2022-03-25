@@ -44,7 +44,7 @@ Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moye
 
 Gallup indique également qu’**il existe une forte corrélation entre niveau d’engagement et innovation**. Afin d’avoir une meilleure compréhension des effets des entreprises engagées sur la créativité et l’engagement de ses salariés, Gallup a conduit une autre [étude](https://news.gallup.com/businessjournal/27145/innovation-equation.aspx) dont voici les principaux résultats (ils sont non exhaustifs) :
 
-![](/uploads/image-2.png)
+![](/uploads/mari-anniversaire-message-idees-reseaux-sociaux-image-3.png)
 
 Ainsi, lorsque les objectifs et les valeurs de l’entreprise **s’alignent** avec ceux des ses collaborateurs.ices, le degré d’engagement et de créativité en sont sensiblement impactés.
 
