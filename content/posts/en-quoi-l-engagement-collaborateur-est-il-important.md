@@ -38,7 +38,7 @@ Ainsi, **l'engagement est plus une histoire de degré** (engagement faible, moye
 
 **L’engagement à un impact positif sur la performance**. Gallup a mené une [étude ](https://news.gallup.com/businessjournal/27145/innovation-equation.aspx)mondiale de l'engagement collaborateur sur 2.7 millions d’employé.e.s dans 96 pays. Il en ressort que les organisations engageantes, qui sont dans le quartile supérieur en matière d'engagement ont dépassé celles qui se situent dans le quartile inférieur dans les domaines suivants (la liste n’est pas exhaustive) :
 
-![](/uploads/image-1.png)
+![](/uploads/mari-anniversaire-message-idees-reseaux-sociaux-image-1.png)
 
 * **Engagement et innovation**
 
