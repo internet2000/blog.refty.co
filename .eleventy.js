@@ -65,6 +65,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css/*.ico') // favicon
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
+  eleventyConfig.addPassthroughCopy('robots.txt')
 
   // other config
   return {
